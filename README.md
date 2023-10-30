@@ -2460,6 +2460,8 @@
 
 *   [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 
+*   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
+
 *   [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 
 *   [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
@@ -4507,8 +4509,6 @@
 *   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 
 *   [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
-
-*   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 
 *   [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 
