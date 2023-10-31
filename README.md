@@ -2282,7 +2282,7 @@
 
 *   [AcademySoftwareFoundation/OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) - Open Source API and interchange format for editorial timeline information.
 
-*   [dongyuwei/PIME](https://github.com/dongyuwei/PIME) - Develop input methods for Windows easily with Python and node.js
+*   [dongyuwei/PIME](https://github.com/dongyuwei/PIME) - 基於PIME移植原 Mac 系統上 哈利路亚英文输入法 到 Windows 平台
 
 *   [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 
@@ -4896,7 +4896,7 @@
 
 ## Elixir
 
-*   [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
+*   [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform
 
 *   [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 
