@@ -647,7 +647,7 @@
 
 *   [midgetspy/Sick-Beard](https://github.com/midgetspy/Sick-Beard) - PVR & episode guide that downloads and manages all your TV shows
 
-*   [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - All in 1 Web Scraping Framework
+*   [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - All in 1 Anti Detection Web Scraping Framework
 
 *   [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 
