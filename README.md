@@ -565,7 +565,7 @@
 
 *   [AcademySoftwareFoundation/OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) - Open Source API and interchange format for editorial timeline information.
 
-*   [dongyuwei/PIME](https://github.com/dongyuwei/PIME) - 基於PIME移植原 Mac 系統上 哈利路亚英文输入法 到 Windows 平台
+*   [dongyuwei/PIME](https://github.com/dongyuwei/PIME) - 基于PIME移植原 Mac 系统上 哈利路亚英文输入法 到 Windows 平台
 
 *   [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 
