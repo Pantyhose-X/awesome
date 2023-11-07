@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Roff](#roff)
 *   [C](#c)
 *   [C++](#c-1)
 *   [HTML](#html)
@@ -43,7 +44,6 @@
 *   [YARA](#yara)
 *   [Markdown](#markdown)
 *   [TeX](#tex)
-*   [Roff](#roff)
 *   [CSS](#css)
 *   [Erlang](#erlang)
 *   [OCaml](#ocaml)
@@ -94,7 +94,15 @@
 *   [Objective-C++](#objective-c-1)
 *   [AutoHotkey](#autohotkey)
 
+## Roff
+
+*   [linuxboot/linuxboot](https://github.com/linuxboot/linuxboot) - The LinuxBoot project is working to enable Linux to replace your firmware on all platforms.
+
+*   [matiasinsaurralde/facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) - Tunneling Internet traffic over Facebook chat.
+
 ## C
+
+*   [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
 
 *   [facebookresearch/darkforestGo](https://github.com/facebookresearch/darkforestGo) - DarkForest, the Facebook Go engine.
 
@@ -2876,8 +2884,6 @@
 
 *   [minetest-mapserver/mapserver](https://github.com/minetest-mapserver/mapserver) - Minetest realtime mapserver, written in go
 
-*   [minetest-tools/mtmediasrv](https://github.com/minetest-tools/mtmediasrv) - Minetest Media Server done correctly.
-
 ## PHP
 
 *   [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial\_tramway: A modern, powerful, and robust URL shortener
@@ -4848,10 +4854,6 @@
 
 *   [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 
-## Roff
-
-*   [matiasinsaurralde/facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) - Tunneling Internet traffic over Facebook chat.
-
 ## CSS
 
 *   [OshekharO/Torrent-Search](https://github.com/OshekharO/Torrent-Search) - This is a simple, yet effective, web application for searching torrents and easily grabbing magnet URLs from multiple sources.
@@ -5263,8 +5265,6 @@
 *   [SmallJoker/simple\_protection](https://github.com/SmallJoker/simple_protection) - Minetest fixed-grid quadratic area protection mod with graphical area "minimap"
 
 *   [minetest-mapserver/mapserver\_mod](https://github.com/minetest-mapserver/mapserver_mod) - Complementary mod for the minetest mapserver
-
-*   [MysticTempest/Simple-Texture-Pack-Test-Map](https://github.com/MysticTempest/Simple-Texture-Pack-Test-Map) - Simple Texture-Pack Test Map for Minetest Game
 
 ## Emacs Lisp
 
