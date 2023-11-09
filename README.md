@@ -570,7 +570,7 @@
 
 *   [assimp/assimp](https://github.com/assimp/assimp) - The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.
 
-*   [IntelLabs/gma](https://github.com/IntelLabs/gma) - Linux Client Software to support Generic Multi-Access Network Virtualization
+*   [IntelLabs/gma](https://github.com/IntelLabs/gma) - Linux Client & Server Software to support Generic Multi-Access Network Virtualization
 
 *   [ethereum/evmone](https://github.com/ethereum/evmone) - Fast Ethereum Virtual Machine implementation
 
