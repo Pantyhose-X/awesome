@@ -3568,8 +3568,6 @@
 
 *   [P2PVPS/p2pvps-client](https://github.com/P2PVPS/p2pvps-client) - Client code targeted at Ubuntu VM and Raspberry-Pi in order to turn them into a P2PVPS Client.
 
-*   [livingtongues/living-dictionaries](https://github.com/livingtongues/living-dictionaries) - Speeding the availability of language resources for endangered languages. Tools such as this have the power to shift how we think about endangered languages. Rather than perceiving them as being antiquated, difficult to learn and on the brink of vanishing, we see them as modern, easily accessible for learning online in text and audio formats.
-
 *   [whamtet/chunkmapper-ui](https://github.com/whamtet/chunkmapper-ui) - UI Wrapper for Chunkmapper
 
 *   [sentinel-official/sentinel](https://github.com/sentinel-official/sentinel) - Sentinel is an interoperable secure network layer offering the Sentinel Service Chain exclusively for distributed & decentralized native services like - dVPN, Sentrix (dChat and dVoIP) and more.
@@ -5279,6 +5277,8 @@
 *   [radicle-dev/radicle-interface](https://github.com/radicle-dev/radicle-interface) - Radicle web interface
 
 *   [radicle-dev/radicle-upstream](https://github.com/radicle-dev/radicle-upstream) - Desktop client for Radicle.
+
+*   [livingtongues/living-dictionaries](https://github.com/livingtongues/living-dictionaries) - Speeding the availability of language resources for endangered languages. Tools such as this have the power to shift how we think about endangered languages. Rather than perceiving them as being antiquated, difficult to learn and on the brink of vanishing, we see them as modern, easily accessible for learning online in text and audio formats.
 
 ## ANTLR
 
