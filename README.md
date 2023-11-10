@@ -1912,6 +1912,8 @@
 
 *   [nextdns/piracy-blocklists](https://github.com/nextdns/piracy-blocklists) -
 
+*   [interchainio/ibcprotocol.dev](https://github.com/interchainio/ibcprotocol.dev) - Inter-Blockchain Communication
+
 *   [proxylist-to/proxy-list](https://github.com/proxylist-to/proxy-list) - Automatically updated list of free proxies
 
 *   [aubrel/materia-medica](https://github.com/aubrel/materia-medica) - Autonomous mutual self-education about the wonderful world of medicinal plant technologies.
@@ -4433,8 +4435,6 @@
 ## Vue
 
 *   [nioc/xmpp-web](https://github.com/nioc/xmpp-web) - Lightweight web chat client for XMPP server
-
-*   [interchainio/ibcprotocol.dev](https://github.com/interchainio/ibcprotocol.dev) - Inter-Blockchain Communication
 
 *   [torrust/torrust-index-gui](https://github.com/torrust/torrust-index-gui) - This repository serves as the frontend for the Torrust Index project.
 
