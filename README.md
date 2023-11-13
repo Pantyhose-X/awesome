@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
 *   [JavaScript](#javascript)
 *   [Zig](#zig)
 *   [Rust](#rust)
@@ -27,7 +28,6 @@
 *   [Vue](#vue)
 *   [SCSS](#scss)
 *   [Arduino](#arduino)
-*   [Dart](#dart)
 *   [C#](#c-2)
 *   [PowerShell](#powershell)
 *   [Assembly](#assembly)
@@ -94,7 +94,71 @@
 *   [Objective-C++](#objective-c-1)
 *   [AutoHotkey](#autohotkey)
 
+## Dart
+
+*   [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform app made for e-hentai & exhentai by Flutter
+
+*   [cdnbye/flutter-p2p-engine](https://github.com/cdnbye/flutter-p2p-engine) - Let your viewers become your unlimitedly scalable CDN.
+
+*   [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the \[matrix]
+
+*   [iakmds/librecamera](https://github.com/iakmds/librecamera) - A free and open source camera app for Android written in Flutter and Dart
+
+*   [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
+
+*   [aldrinzigmundv/digilogtv](https://github.com/aldrinzigmundv/digilogtv) - A free and open-source TV news app, inspired by Linux Mint's Hypnotix.
+
+*   [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app
+
+*   [s5-dev/S5](https://github.com/s5-dev/S5) - Decentralized content-addressed storage network
+
+*   [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
+
+*   [ManeraKai/simplytranslate\_mobile](https://github.com/ManeraKai/simplytranslate_mobile) - Privacy friendly frontend to Google Translate
+
+*   [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
+
+*   [siongui/dart-online-input-method-pali](https://github.com/siongui/dart-online-input-method-pali) - Pali (Pāli, Pāḷi) online input method using Dart programming language
+
+*   [meetrevision/revision-tool](https://github.com/meetrevision/revision-tool) -
+
+*   [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。
+
+*   [niuhuan/jenny](https://github.com/niuhuan/jenny) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+
+*   [LeastAuthority/destiny](https://github.com/LeastAuthority/destiny) - Destiny – Cross-platform Magic Wormhole graphical client
+
+*   [redsolver/skyfeed](https://github.com/redsolver/skyfeed) - Decentralized SkyDB-based alternative to Twitter, YouTube and Instagram with a native iOS, Android and web app.
+
+*   [vup-app/vup](https://github.com/vup-app/vup) -
+
+*   [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
+
+*   [tsukumijima/Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI) - Lovely Real-ESRGAN / Real-CUGAN GUI Wrapper
+
+*   [dtube/DTubeGo](https://github.com/dtube/DTubeGo) - DTube mobile client created in dart and flutter!
+
+*   [nknorg/nMobile](https://github.com/nknorg/nMobile) - The world's most secure private and group messenger
+
+*   [prateekmedia/pstube](https://github.com/prateekmedia/pstube) - Watch and download videos without ads
+
+*   [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App
+
+*   [sentrionic/ValkyrieApp](https://github.com/sentrionic/ValkyrieApp) - The Flutter app for https://valkyrieapp.xyz
+
+*   [OrchidTechnologies/orchid](https://github.com/OrchidTechnologies/orchid) - Orchid: VPN, Personal Firewall
+
+*   [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
+
+*   [SongTube/SongTube-App](https://github.com/SongTube/SongTube-App) - Simple & Beautiful App (Tool) made in Flutter to Download Media from YouTube
+
+*   [nullxception/boorusphere](https://github.com/nullxception/boorusphere) - Simple, content-focused booru viewer for Android
+
+*   [waifu-project/movie](https://github.com/waifu-project/movie) - 🦄 开箱即用的一款支持扩展播放源的播放器 🥳
+
 ## JavaScript
+
+*   [OpenUserJS/OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org) - The home of FOSS user scripts.
 
 *   [dangkyokhoang/man-in-the-middle](https://github.com/dangkyokhoang/man-in-the-middle) - Modify requests, inject JavaScript and CSS into pages
 
@@ -3060,10 +3124,6 @@
 
 *   [daviddoesminetest/mt\_equippable\_accessories](https://github.com/daviddoesminetest/mt_equippable_accessories) - adds equippable accessories to minetests, that you can wear for looks and stat bonuses
 
-*   [kiwibrowser/android](https://github.com/kiwibrowser/android) - This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
-
-*   [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
-
 ## Prolog
 
 *   [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
@@ -4485,66 +4545,6 @@
 ## Arduino
 
 *   [samyk/proxygambit](https://github.com/samyk/proxygambit) - Anonymize and fracture network traffic/Internet access over a point-to-point wireless link or through TCP->GSM->wifi tunnel (advanced resurrection of ProxyHam)
-
-## Dart
-
-*   [cdnbye/flutter-p2p-engine](https://github.com/cdnbye/flutter-p2p-engine) - Let your viewers become your unlimitedly scalable CDN.
-
-*   [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the \[matrix]
-
-*   [iakmds/librecamera](https://github.com/iakmds/librecamera) - A free and open source camera app for Android written in Flutter and Dart
-
-*   [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
-
-*   [aldrinzigmundv/digilogtv](https://github.com/aldrinzigmundv/digilogtv) - A free and open-source TV news app, inspired by Linux Mint's Hypnotix.
-
-*   [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app
-
-*   [s5-dev/S5](https://github.com/s5-dev/S5) - Decentralized content-addressed storage network
-
-*   [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
-
-*   [ManeraKai/simplytranslate\_mobile](https://github.com/ManeraKai/simplytranslate_mobile) - Privacy friendly frontend to Google Translate
-
-*   [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
-
-*   [siongui/dart-online-input-method-pali](https://github.com/siongui/dart-online-input-method-pali) - Pali (Pāli, Pāḷi) online input method using Dart programming language
-
-*   [meetrevision/revision-tool](https://github.com/meetrevision/revision-tool) -
-
-*   [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。
-
-*   [niuhuan/jenny](https://github.com/niuhuan/jenny) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
-
-*   [LeastAuthority/destiny](https://github.com/LeastAuthority/destiny) - Destiny – Cross-platform Magic Wormhole graphical client
-
-*   [redsolver/skyfeed](https://github.com/redsolver/skyfeed) - Decentralized SkyDB-based alternative to Twitter, YouTube and Instagram with a native iOS, Android and web app.
-
-*   [vup-app/vup](https://github.com/vup-app/vup) -
-
-*   [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
-
-*   [tsukumijima/Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI) - Lovely Real-ESRGAN / Real-CUGAN GUI Wrapper
-
-*   [dtube/DTubeGo](https://github.com/dtube/DTubeGo) - DTube mobile client created in dart and flutter!
-
-*   [nknorg/nMobile](https://github.com/nknorg/nMobile) - The world's most secure private and group messenger
-
-*   [prateekmedia/pstube](https://github.com/prateekmedia/pstube) - Watch and download videos without ads
-
-*   [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App
-
-*   [sentrionic/ValkyrieApp](https://github.com/sentrionic/ValkyrieApp) - The Flutter app for https://valkyrieapp.xyz
-
-*   [OrchidTechnologies/orchid](https://github.com/OrchidTechnologies/orchid) - Orchid: VPN, Personal Firewall
-
-*   [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
-
-*   [SongTube/SongTube-App](https://github.com/SongTube/SongTube-App) - Simple & Beautiful App (Tool) made in Flutter to Download Media from YouTube
-
-*   [nullxception/boorusphere](https://github.com/nullxception/boorusphere) - Simple, content-focused booru viewer for Android
-
-*   [waifu-project/movie](https://github.com/waifu-project/movie) - 🦄 开箱即用的一款支持扩展播放源的播放器 🥳
 
 ## C\#
 
