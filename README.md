@@ -4561,7 +4561,7 @@
 
 *   [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
 
-*   [mgerhardy/vengi](https://github.com/mgerhardy/vengi) - voxel art tools - editor, thumbnailer and format converter
+*   [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) - voxel art tools - editor, thumbnailer and format converter
 
 *   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 
