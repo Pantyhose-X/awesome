@@ -261,8 +261,6 @@
 
 *   [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket) - Connect like there is no firewall. Securely.
 
-*   [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
-
 *   [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
 
 *   [JoshParnell/libphx](https://github.com/JoshParnell/libphx) - Phoenix Game Engine
@@ -3148,6 +3146,8 @@
 *   [flotwig/zone-walks](https://github.com/flotwig/zone-walks) - A collection of domain lists obtained from zone-walking TLDs. Updated daily.
 
 *   [tomeshnet/ipfs-live-streaming](https://github.com/tomeshnet/ipfs-live-streaming) - Like HTTP live streaming, but with IPFS which is maybe better?
+
+*   [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 
 *   [danielmiessler/RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A curated list of the most common and most interesting robots.txt disallowed directories.
 
