@@ -3135,7 +3135,7 @@
 
 *   [bit4mind/anon-service](https://github.com/bit4mind/anon-service) - Transparent proxy through Tor with optionally DNSCrypt and Anonymized-DNS feature enabled.
 
-*   [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
+*   [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
 
 *   [gourcetools/spamster](https://github.com/gourcetools/spamster) - 🤖 Spam tools for NOSTR protocol  🤖 Spamster is a bash toolbox made for nostr spamming. Spamster is for testing relays and spam filters.
 
