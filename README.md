@@ -977,7 +977,7 @@
 
 *   [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
 
-*   [Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists](https://github.com/Summer-CMS-Vendor-Packages/sc-block-bad-crypto-filter-lists) - 🎁 This is a filter list to block browser-based crypto mining, cryptojacking, injected crypto malware websites and phishing websites.
+*   [chartingshow/crypto-firewall](https://github.com/chartingshow/crypto-firewall) - 🎁 This is a filter list to block browser-based crypto mining, cryptojacking, injected crypto malware websites and phishing websites.
 
 *   [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 
@@ -5551,7 +5551,7 @@
 
 ## QML
 
-*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 开源、免费、实用的离线OCR软件。截屏/粘贴/批量导入图片，支持段落排版/排除水印，扫描/生成二维码。全程无需联网，内置多国语言识别库。
+*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/粘贴/批量导入图片，段落排版/排除水印，扫描/生成二维码。内置多国语言库。
 
 *   [status-im/status-desktop](https://github.com/status-im/status-desktop) - Status Desktop client made in Nim & QML
 
