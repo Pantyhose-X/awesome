@@ -743,7 +743,7 @@
 
 *   [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
 
-*   [chartingshow/crypto-firewall](https://github.com/chartingshow/crypto-firewall) - 🎁 This is a filter list to block browser-based crypto mining, cryptojacking, injected crypto malware websites and phishing websites.
+*   [chartingshow/crypto-firewall](https://github.com/chartingshow/crypto-firewall) - 🎁 Blocks browser-based crypto mining, cryptojacking, banking and crypto malware and phishing websites, apps and hackers command-and-control (C2) servers.
 
 *   [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) - InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 
