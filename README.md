@@ -2245,7 +2245,7 @@
 
 *   [torproject/torspec](https://github.com/torproject/torspec) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ -- discuss proposals on tor-dev@lists.torproject
 
-*   [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
+*   [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) -  A Complete Osint Tool :mag:
 
 *   [setnicka/ulozto-downloader](https://github.com/setnicka/ulozto-downloader) - Uloz.to quick multiple sessions downloader
 
