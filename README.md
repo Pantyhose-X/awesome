@@ -5247,7 +5247,7 @@
 
 *   [ac-minetest/basic\_machines](https://github.com/ac-minetest/basic_machines) - Simple automation mod for minetest
 
-*   [AtlanteFr/BeterFarming](https://github.com/AtlanteFr/BeterFarming) -
+*   [TanKer0z/BeterFarming](https://github.com/TanKer0z/BeterFarming) -
 
 *   [sfence/super\_computer](https://github.com/sfence/super_computer) - Add super computer like computing power source based on appliances mod to Minetest.
 
