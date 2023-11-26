@@ -4955,7 +4955,7 @@
 
 ## Odin
 
-*   [jakubtomsu/dungeon-of-quake](https://github.com/jakubtomsu/dungeon-of-quake) - Quake-like retro shooter, using Odin and Raylib (WIP)
+*   [jakubtomsu/dungeon-of-quake](https://github.com/jakubtomsu/dungeon-of-quake) - Retro FPS game inspired by Quake, using Odin and Raylib \[ALPHA]
 
 *   [oskarnp/odin-tracy](https://github.com/oskarnp/odin-tracy) - Tracy profiler bindings/wrapper for the Odin programming language
 
