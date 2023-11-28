@@ -3831,7 +3831,7 @@
 
 *   [limboemu/limbo](https://github.com/limboemu/limbo) - Limbo is a QEMU-based emulator for Android. It currently supports x86, ARM, PowerPC, and Sparc emulation  for Intel x86 and ARM android devices. See wiki https://virtualmachinery.weebly.com for APK download and Instructions.
 
-*   [Yuanuo/appxi-cbeta-explorer](https://github.com/Yuanuo/appxi-cbeta-explorer) - 这是一款基于CBETA经藏数据进行本地阅读、记录、搜索的应用程序！
+*   [Yuanuo/cbeta-explorer](https://github.com/Yuanuo/cbeta-explorer) - 这是一款基于CBETA经藏数据进行本地阅读、记录、搜索的应用程序！
 
 *   [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create) - \[Forge Mod] Building Tools and Aesthetic Technology
 
