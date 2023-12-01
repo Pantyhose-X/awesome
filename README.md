@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Jinja](#jinja)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [C](#c)
@@ -36,7 +37,6 @@
 *   [Assembly](#assembly)
 *   [Wikitext](#wikitext)
 *   [Perl](#perl)
-*   [Jinja](#jinja)
 *   [Odin](#odin)
 *   [Ruby](#ruby)
 *   [Batchfile](#batchfile)
@@ -94,6 +94,20 @@
 *   [CoffeeScript](#coffeescript)
 *   [Objective-C++](#objective-c-1)
 *   [AutoHotkey](#autohotkey)
+
+## Jinja
+
+*   [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
+
+*   [AnarchoTechNYC/ansible-role-tor](https://github.com/AnarchoTechNYC/ansible-role-tor) - :eight\_spoked\_asterisk::shield: Securely build a system Tor and optionally configure numerous high-security Onion services.
+
+*   [wikicensorship/tracevis](https://github.com/wikicensorship/tracevis) - Traceroute with any packet. Visualize the routes. Discover Middleboxes and Firewalls
+
+*   [StreisandVPN/streisand](https://github.com/StreisandVPN/streisand) - An updated for of the SteisandEffect VPN
+
+*   [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+
+*   [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 
 ## Java
 
@@ -3895,8 +3909,6 @@
 
 *   [LucxMangaJet/minetest\_presentations](https://github.com/LucxMangaJet/minetest_presentations) - A mod for minetest that allows displaying images downloadable at runtime
 
-*   [IIIullaIII/jukebox](https://github.com/IIIullaIII/jukebox) - jukebox
-
 ## Shell
 
 *   [txthinking/google-hosts](https://github.com/txthinking/google-hosts) - Google hosts generator
@@ -5236,18 +5248,6 @@
 *   [eldy/AWStats](https://github.com/eldy/AWStats) - AWStats Log Analyzer project (official sources)
 
 *   [Difegue/LANraragi](https://github.com/Difegue/LANraragi) - Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.
-
-## Jinja
-
-*   [AnarchoTechNYC/ansible-role-tor](https://github.com/AnarchoTechNYC/ansible-role-tor) - :eight\_spoked\_asterisk::shield: Securely build a system Tor and optionally configure numerous high-security Onion services.
-
-*   [wikicensorship/tracevis](https://github.com/wikicensorship/tracevis) - Traceroute with any packet. Visualize the routes. Discover Middleboxes and Firewalls
-
-*   [StreisandVPN/streisand](https://github.com/StreisandVPN/streisand) - An updated for of the SteisandEffect VPN
-
-*   [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-
-*   [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 
 ## Odin
 
