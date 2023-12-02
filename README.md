@@ -55,9 +55,9 @@
 *   [Elixir](#elixir)
 *   [Vala](#vala)
 *   [Objective-C](#objective-c)
-*   [Makefile](#makefile)
 *   [Crystal](#crystal)
 *   [Smali](#smali)
+*   [Makefile](#makefile)
 *   [Terra](#terra)
 *   [XSLT](#xslt)
 *   [Emacs Lisp](#emacs-lisp)
@@ -1048,6 +1048,8 @@
 *   [proxy4parsing/proxy-list](https://github.com/proxy4parsing/proxy-list) - free proxies from public sites & telegram.
 
 *   [vfdecl/zy-player-kankan-resource](https://github.com/vfdecl/zy-player-kankan-resource) - zyplayer，看看APP，视频资源站
+
+*   [Correia-jpv/fucking-awesome-sysadmin](https://github.com/Correia-jpv/fucking-awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources. With up-to-date repository stars⭐ and forks🍴
 
 *   [Jirehlov/cfranking](https://github.com/Jirehlov/cfranking) - Cloudflare Domain Ranking history
 
@@ -5431,9 +5433,17 @@
 
 *   [g0v/moedict-webkit](https://github.com/g0v/moedict-webkit) - 萌典網站
 
-## Makefile
+## Crystal
 
-*   [Correia-jpv/fucking-awesome-sysadmin](https://github.com/Correia-jpv/fucking-awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources. With up-to-date repository stars⭐ and forks🍴
+*   [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+
+*   [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
+
+## Smali
+
+*   [phhusson/treble\_experimentations](https://github.com/phhusson/treble_experimentations) - Notes about tinkering with Android Project Treble
+
+## Makefile
 
 *   [linuxboot/heads](https://github.com/linuxboot/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
 
@@ -5446,16 +5456,6 @@
 *   [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
 
 *   [seedboxes/pibox](https://github.com/seedboxes/pibox) - docker container with rtorrent client, rutorrent ui, cakebox streaming, password protected, over ssl, with persistent data
-
-## Crystal
-
-*   [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
-
-*   [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
-
-## Smali
-
-*   [phhusson/treble\_experimentations](https://github.com/phhusson/treble_experimentations) - Notes about tinkering with Android Project Treble
 
 ## Terra
 
