@@ -3143,7 +3143,7 @@
 
 *   [pixop/video-compare](https://github.com/pixop/video-compare) - Split screen video comparison tool using FFmpeg and SDL2
 
-*   [tx00100xt/SeriousSamClassic](https://github.com/tx00100xt/SeriousSamClassic) - Open source game engine version developed by Croteam for Serious Sam Classic (Windows, Linux, FreeBSD, OpenBSD, macOS, Raspberry Pi OS). Based on https://github.com/Croteam-official/Serious-Engine and linux port https://github.com/icculus/Serious-Engine
+*   [tx00100xt/SeriousSamClassic](https://github.com/tx00100xt/SeriousSamClassic) - Open source game engine version developed by Croteam for Serious Sam Classic (Windows, Linux, FreeBSD, OpenBSD, NetBSD, macOS, Raspberry Pi OS). Based on https://github.com/Croteam-official/Serious-Engine and linux port https://github.com/icculus/Serious-Engine
 
 *   [icculus/Serious-Engine](https://github.com/icculus/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 
