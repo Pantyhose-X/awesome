@@ -1551,7 +1551,7 @@
 
 *   [Arrin-KN1E/SDR-Band-Plans](https://github.com/Arrin-KN1E/SDR-Band-Plans) - Detailed band plans for SDR Software
 
-*   [nrkno/Sofie-TV-automation](https://github.com/nrkno/Sofie-TV-automation) - This is a landingpoint for the state-based TV automation system "Sofie", used in live TV news production by the Norwegian public service broadcaster NRK since September 2018.
+*   [nrkno/Sofie-TV-automation](https://github.com/nrkno/Sofie-TV-automation) - The Sofie TV Studio Automation System, used in live TV news production by the Norwegian public service broadcaster NRK since September 2018
 
 *   [lunardao/dao](https://github.com/lunardao/dao) - LunarDAO Architecture
 
