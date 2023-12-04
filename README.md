@@ -4077,7 +4077,7 @@
 
 *   [vsergeev/zigradio](https://github.com/vsergeev/zigradio) - A lightweight software-defined radio framework built with Zig
 
-*   [keep-starknet-strange/cairo-zig](https://github.com/keep-starknet-strange/cairo-zig) - ⚡ Cairo VM in Zig ⚡
+*   [keep-starknet-strange/ziggy-starkdust](https://github.com/keep-starknet-strange/ziggy-starkdust) - ⚡ Cairo VM in Zig ⚡
 
 *   [CascadeOS/CascadeOS](https://github.com/CascadeOS/CascadeOS) - General purpose operating system targeting standard desktops and laptops.
 
