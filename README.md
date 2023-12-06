@@ -97,6 +97,8 @@
 
 ## Python
 
+*   [mahdibland/V2RayAggregator](https://github.com/mahdibland/V2RayAggregator) - Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed
+
 *   [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
 
 *   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
@@ -3592,8 +3594,6 @@
 *   [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 
 *   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
-
-*   [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
 
 ## TypeScript
 
