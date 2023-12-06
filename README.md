@@ -2237,7 +2237,7 @@
 
 *   [anode-co/AnodeVPN-android](https://github.com/anode-co/AnodeVPN-android) -
 
-*   [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - 数据备份 DataBackup for Android
+*   [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - \[Gap month 2023.12.1 - 2023.12.31] 数据备份 DataBackup for Android
 
 *   [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 
@@ -4097,7 +4097,7 @@
 
 *   [dswd/zvault](https://github.com/dswd/zvault) - Deduplicating backup solution
 
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 
 *   [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 
