@@ -1097,6 +1097,8 @@
 
 *   [MultiCraft/MultiCraft-legacy](https://github.com/MultiCraft/MultiCraft-legacy) - 🌍 MultiCraft Engine \[Legacy] | Open Source
 
+*   [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
+
 ## miscellaneous
 
 *   [UjuiUjuMandan/gscan\_quic](https://github.com/UjuiUjuMandan/gscan_quic) - Google Quic 扫描工具
@@ -5664,8 +5666,6 @@
 ## XSLT
 
 *   [siongui/tipitaka-romn](https://github.com/siongui/tipitaka-romn) - https://www.tipitaka.org/romn/
-
-*   [unicode-org/udhr](https://github.com/unicode-org/udhr) - Universal Declaration of Human Rights
 
 ## Emacs Lisp
 
