@@ -2659,7 +2659,7 @@
 
 *   [AntonioNoack/RemsEngine](https://github.com/AntonioNoack/RemsEngine) - OpenSource Kotlin/OpenGL/ECS based game engine
 
-*   [AntonioNoack/RemsStudio](https://github.com/AntonioNoack/RemsStudio) - Open Source Graphical Video Editor, in beta stage, built with Kotlin & OpenGL
+*   [AntonioNoack/RemsStudio](https://github.com/AntonioNoack/RemsStudio) - Open Source Graphical Video Editor for 2D and 3D, built with Kotlin & OpenGL
 
 *   [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 
