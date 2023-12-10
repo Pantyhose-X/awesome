@@ -1521,7 +1521,7 @@
 
 *   [brunodeangelis/learnopengl](https://github.com/brunodeangelis/learnopengl) - LearnOpenGL in Odin
 
-*   [jakubtomsu/odin\_fractal](https://github.com/jakubtomsu/odin_fractal) - tiny fractal renderer with Odin
+*   [jakubtomsu/odin\_fractal](https://github.com/jakubtomsu/odin_fractal) - tiny fractal renderer in Odin
 
 *   [viyic/msc](https://github.com/viyic/msc) - My music player made in Odin
 
