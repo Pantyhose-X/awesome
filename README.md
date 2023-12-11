@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
+*   [CSS](#css)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -12,7 +14,6 @@
 *   [Zig](#zig)
 *   [C++](#c-1)
 *   [JavaScript](#javascript)
-*   [CSS](#css)
 *   [Kotlin](#kotlin)
 *   [HTML](#html)
 *   [Rust](#rust)
@@ -30,7 +31,6 @@
 *   [AppleScript](#applescript)
 *   [Roff](#roff)
 *   [Prolog](#prolog)
-*   [PHP](#php)
 *   [Dockerfile](#dockerfile)
 *   [Pascal](#pascal)
 *   [Common Lisp](#common-lisp)
@@ -94,6 +94,88 @@
 *   [CoffeeScript](#coffeescript)
 *   [Objective-C++](#objective-c-1)
 *   [AutoHotkey](#autohotkey)
+
+## PHP
+
+*   [foocorp/gnu-social](https://github.com/foocorp/gnu-social) - GNU social is social communication software for both public and private communications.
+
+*   [foocorp/gnu-fm](https://github.com/foocorp/gnu-fm) - GNU FM is a music community platform
+
+*   [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial\_tramway: A modern, powerful, and robust URL shortener
+
+*   [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
+
+*   [backdrop/backdrop](https://github.com/backdrop/backdrop) - Backdrop core code repository.
+
+*   [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
+
+*   [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
+
+*   [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler) - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.
+
+*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+
+*   [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+
+*   [principia-game/principia-web](https://github.com/principia-game/principia-web) - The source code powering the new Principia community site, including forum and wiki.
+
+*   [Automattic/wordpress-activitypub](https://github.com/Automattic/wordpress-activitypub) - ActivityPub for WordPress
+
+*   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+
+*   [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
+
+*   [SnaKKo/Fossdroid-Core](https://github.com/SnaKKo/Fossdroid-Core) - Fossdroid Core is a web frontend of F-Droid: an alternative software repository comprising only free, open source software for Android. This repo is the open source version of fossdroid.com.
+
+*   [sbrl/Pepperminty-Wiki](https://github.com/sbrl/Pepperminty-Wiki) - A wiki in a box
+
+*   [necro-nemesis/LabyrinthAP](https://github.com/necro-nemesis/LabyrinthAP) - Gain access to Lokinet and the internet connecting via an SBC based access point.
+
+*   [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
+
+*   [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
+
+*   [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
+
+*   [flxn/tor-relay-configurator](https://github.com/flxn/tor-relay-configurator) - The tor-relay.co configurator
+
+*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+
+*   [pfsense/pfsense](https://github.com/pfsense/pfsense) - Main repository for pfSense
+
+*   [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) - Official repository for main codebase for Tatoeba, a multilingual sentence/translation database.
+
+*   [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+
+## CSS
+
+*   [hyphanet/website](https://github.com/hyphanet/website) - Hyphanet static website generator
+
+*   [hyphacoop/distributed.press](https://github.com/hyphacoop/distributed.press) - Website for Distributed Press
+
+*   [OshekharO/Torrent-Search](https://github.com/OshekharO/Torrent-Search) - This is a simple, yet effective, web application for searching torrents and easily grabbing magnet URLs from multiple sources.
+
+*   [OshekharO/awesome-entertainment](https://github.com/OshekharO/awesome-entertainment) - List of awesome apps and website for entertainment.
+
+*   [HDVinnie/Private-Trackers-Spreadsheet](https://github.com/HDVinnie/Private-Trackers-Spreadsheet) - A spreadsheet providing detailed information about private trackers
+
+*   [siongui/ajahn-suchart](https://github.com/siongui/ajahn-suchart) - Ajahn Suchart Abhijāto
+
+*   [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
+
+*   [WaLLy3K/wally3k.github.io](https://github.com/WaLLy3K/wally3k.github.io) - Repo for Firebog hosting
+
+*   [scidsg/relaylove](https://github.com/scidsg/relaylove) - ❄️ Temporarily Share Your Bandwidth
+
+*   [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
+
+*   [p2panda/handbook](https://github.com/p2panda/handbook) - Website with tutorials, specification, info and learn sections of p2:panda\_face:
+
+*   [freegate-release/website](https://github.com/freegate-release/website) -
+
+*   [ithkuil/ithkuil](https://github.com/ithkuil/ithkuil) - libre documentation for Ithkuil philosophical language
+
+*   [readmlll/dht-website](https://github.com/readmlll/dht-website) - 一个简易的dht磁力搜索站
 
 ## Python
 
@@ -1515,8 +1597,6 @@
 
 *   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 
-*   [azekillDIABLO/omicron](https://github.com/azekillDIABLO/omicron) - A 3D voxel game... Procedurally generated!
-
 ## Odin
 
 *   [brunodeangelis/learnopengl](https://github.com/brunodeangelis/learnopengl) - LearnOpenGL in Odin
@@ -2538,34 +2618,6 @@
 *   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 *   [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
-
-## CSS
-
-*   [hyphacoop/distributed.press](https://github.com/hyphacoop/distributed.press) - Website for Distributed Press
-
-*   [OshekharO/Torrent-Search](https://github.com/OshekharO/Torrent-Search) - This is a simple, yet effective, web application for searching torrents and easily grabbing magnet URLs from multiple sources.
-
-*   [OshekharO/awesome-entertainment](https://github.com/OshekharO/awesome-entertainment) - List of awesome apps and website for entertainment.
-
-*   [HDVinnie/Private-Trackers-Spreadsheet](https://github.com/HDVinnie/Private-Trackers-Spreadsheet) - A spreadsheet providing detailed information about private trackers
-
-*   [siongui/ajahn-suchart](https://github.com/siongui/ajahn-suchart) - Ajahn Suchart Abhijāto
-
-*   [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
-
-*   [WaLLy3K/wally3k.github.io](https://github.com/WaLLy3K/wally3k.github.io) - Repo for Firebog hosting
-
-*   [scidsg/relaylove](https://github.com/scidsg/relaylove) - ❄️ Temporarily Share Your Bandwidth
-
-*   [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
-
-*   [p2panda/handbook](https://github.com/p2panda/handbook) - Website with tutorials, specification, info and learn sections of p2:panda\_face:
-
-*   [freegate-release/website](https://github.com/freegate-release/website) -
-
-*   [ithkuil/ithkuil](https://github.com/ithkuil/ithkuil) - libre documentation for Ithkuil philosophical language
-
-*   [readmlll/dht-website](https://github.com/readmlll/dht-website) - 一个简易的dht磁力搜索站
 
 ## Kotlin
 
@@ -5225,10 +5277,6 @@
 
 *   [mbruchert/mod-poketest](https://github.com/mbruchert/mod-poketest) - pokemon mod for minetest
 
-*   [matortheeternal/fractal-miner](https://github.com/matortheeternal/fractal-miner) - A set of mods for Minetest for generating fractal worlds.
-
-*   [groverburger/g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
-
 ## C\#
 
 *   [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
@@ -5356,54 +5404,6 @@
 ## Prolog
 
 *   [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
-
-## PHP
-
-*   [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial\_tramway: A modern, powerful, and robust URL shortener
-
-*   [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
-
-*   [backdrop/backdrop](https://github.com/backdrop/backdrop) - Backdrop core code repository.
-
-*   [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
-
-*   [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
-
-*   [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler) - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.
-
-*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
-
-*   [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-
-*   [principia-game/principia-web](https://github.com/principia-game/principia-web) - The source code powering the new Principia community site, including forum and wiki.
-
-*   [Automattic/wordpress-activitypub](https://github.com/Automattic/wordpress-activitypub) - ActivityPub for WordPress
-
-*   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
-
-*   [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
-
-*   [SnaKKo/Fossdroid-Core](https://github.com/SnaKKo/Fossdroid-Core) - Fossdroid Core is a web frontend of F-Droid: an alternative software repository comprising only free, open source software for Android. This repo is the open source version of fossdroid.com.
-
-*   [sbrl/Pepperminty-Wiki](https://github.com/sbrl/Pepperminty-Wiki) - A wiki in a box
-
-*   [necro-nemesis/LabyrinthAP](https://github.com/necro-nemesis/LabyrinthAP) - Gain access to Lokinet and the internet connecting via an SBC based access point.
-
-*   [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
-
-*   [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
-
-*   [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
-
-*   [flxn/tor-relay-configurator](https://github.com/flxn/tor-relay-configurator) - The tor-relay.co configurator
-
-*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-
-*   [pfsense/pfsense](https://github.com/pfsense/pfsense) - Main repository for pfSense
-
-*   [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) - Official repository for main codebase for Tatoeba, a multilingual sentence/translation database.
-
-*   [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
 ## Dockerfile
 
