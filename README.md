@@ -3591,7 +3591,7 @@
 
 *   [VerseEngine/verse-three](https://github.com/VerseEngine/verse-three) - VerseEngine implementation for three.js. VerseEngine is a web-based metaverse engine on a P2P overlay network.
 
-*   [Millera0/private](https://github.com/Millera0/private) -
+*   [Millera0/private](https://github.com/Millera0/private) - This project has been deleted to avoid legal risks.
 
 *   [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 
