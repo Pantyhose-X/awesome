@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [C](#c)
 *   [Shell](#shell)
 *   [Rust](#rust)
@@ -19,7 +20,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Odin](#odin)
 *   [Zig](#zig)
-*   [Kotlin](#kotlin)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
 *   [Batchfile](#batchfile)
@@ -95,7 +95,265 @@
 *   [Objective-C++](#objective-c-1)
 *   [AutoHotkey](#autohotkey)
 
+## Kotlin
+
+*   [shosetsuorg/shosetsu](https://github.com/shosetsuorg/shosetsu) - An android application for reading light novels. Moved to https://gitlab.com/shosetsuorg/shosetsu
+
+*   [K1rakishou/Kuroba-Experimental](https://github.com/K1rakishou/Kuroba-Experimental) - Free and open source image board browser
+
+*   [relaycorp/relaynet-gateway-android](https://github.com/relaycorp/relaynet-gateway-android) - Awala Gateway for Android
+
+*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image toolbox is the app which based on modern tech stack using Clean Architecture. It has features like filters applying, cropping, EXIF editing, quality and output image type picking and tons of another options
+
+*   [goastian/midori-android](https://github.com/goastian/midori-android) - Midori Browser for Android
+
+*   [master88wi/CatBoxForAndroid](https://github.com/master88wi/CatBoxForAndroid) - CatBox is a universal proxy program for Android using sing-box. It was adapted from NekoBoxForAndroid, removing some unappealing content and improving the experience in some cases.
+
+*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+
+*   [MatsuriDayo/Matsuri](https://github.com/MatsuriDayo/Matsuri) - Matsuri (茉莉) / V2Ray / universal proxy toolchain for Android / Fork of SagerNet
+
+*   [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
+
+*   [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
+
+*   [UjuiUjuMandan/EhViewer](https://github.com/UjuiUjuMandan/EhViewer) - EhViewer overhauled with Material Design 3 and more
+
+*   [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
+
+*   [UstadMobile/Meshrabiya](https://github.com/UstadMobile/Meshrabiya) - Virtual mesh network for Android that operates over WiFi
+
+*   [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
+
+*   [willbsp/habits](https://github.com/willbsp/habits) - A habit tracking app for Android
+
+*   [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
+
+*   [CarlosEsco/Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader  for Android
+
+*   [ezechuka/EnglishWhiz](https://github.com/ezechuka/EnglishWhiz) - Yet Another English Dictionary App. EnglishWhiz is an offline dictionary app that features fast word look-up. It features modern Android technologies including Jetpack compose.
+
+*   [Criptext/Android-Email-Client](https://github.com/Criptext/Android-Email-Client) - Criptext for Android
+
+*   [stantanasi/streamflix](https://github.com/stantanasi/streamflix) - An Android TV app to stream movies and TV shows for free
+
+*   [geph-official/geph-android](https://github.com/geph-official/geph-android) - Geph Android 迷霧通Android界面
+
+*   [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
+
+*   [Infomaniak/android-kMail](https://github.com/Infomaniak/android-kMail) -
+
+*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
+
+*   [you-apps/RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
+
+*   [vpnry/mTTS](https://github.com/vpnry/mTTS) - Massively Multilingual Speech (MMS) - Text To Speech Webview app - 1000+ languages
+
+*   [ICTrust/PObY-A](https://github.com/ICTrust/PObY-A) - Privacy Owned by You - Android
+
+*   [censorship-no/ceno-browser](https://github.com/censorship-no/ceno-browser) - A full-featured CENO browser reference implementation using Mozilla Android Components + Ouinet
+
+*   [nomoresat/DPITunnel-android](https://github.com/nomoresat/DPITunnel-android) -
+
+*   [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
+
+*   [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
+
+*   [elizagamedev/android-textbender](https://github.com/elizagamedev/android-textbender) - Bend Android text to your whim.
+
+*   [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
+
+*   [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
+
+*   [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
+
+*   [SimpleMobileTools/Simple-Launcher](https://github.com/SimpleMobileTools/Simple-Launcher) - A practical and customizable launcher for launching your favorite apps easily.
+
+*   [Chooloo/koler](https://github.com/Chooloo/koler) - Just a phone app.
+
+*   [proninyaroslav/OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) - FOSS Comic Vine client for Android. comicvine.gamespot.com
+
+*   [jamal2362/URL-Radio](https://github.com/jamal2362/URL-Radio) -  Simply URL Radio Application for Android
+
+*   [Tribler/kotlin-ipv8](https://github.com/Tribler/kotlin-ipv8) - P2P communication library for Android
+
+*   [hiddify/HiddifyClashAndroid](https://github.com/hiddify/HiddifyClashAndroid) - A rule-based tunnel for Android.
+
+*   [Secure-File-Manager/Secure-File-Manager](https://github.com/Secure-File-Manager/Secure-File-Manager) - Secure File Manager is open source file manager for keeping your files in safe.
+
+*   [syt0r/Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo) - Android application for practicing writing Japanese characters
+
+*   [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
+
+*   [kirmanak/Mealient](https://github.com/kirmanak/Mealient) - An Android client for a self-hosted recipe manager Mealie.
+
+*   [AntonioNoack/RemsEngine](https://github.com/AntonioNoack/RemsEngine) - OpenSource Kotlin/OpenGL/ECS based game engine
+
+*   [AntonioNoack/RemsStudio](https://github.com/AntonioNoack/RemsStudio) - Open Source Graphical Video Editor for 2D and 3D, built with Kotlin & OpenGL
+
+*   [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
+
+*   [Pool-Of-Tears/Myne](https://github.com/Pool-Of-Tears/Myne) - An android app to download ebooks from Project Gutenberg, built with  Jetpack Compose.
+
+*   [ligi/SurvivalManual](https://github.com/ligi/SurvivalManual) - Libre Survival Manual for Android with offline in mind
+
+*   [ligi/gobandroid](https://github.com/ligi/gobandroid) - A Goban for Android
+
+*   [nanihadesuka/NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) - Android web novel reader
+
+*   [FunkyMuse/Aurora](https://github.com/FunkyMuse/Aurora) -  Non-official Library Genesis (Libgen) Android mobile client.
+
+*   [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Adds themed icons to Lawnchair.
+
+*   [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist client, which lets you stream & download Anime & Manga.
+
+*   [LagradOst/QuickNovel](https://github.com/LagradOst/QuickNovel) - Android app for downloading novels
+
+*   [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager for both rooted and non-rooted devices with a built-in terminal, analytics panel and an independent custom theme engine, developed with purely custom APIs created for this app.
+
+*   [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
+
+*   [kenvix/NATPoked](https://github.com/kenvix/NATPoked) - 🗡 NATPoked - A Cross-platform Peer-To-Peer Secure NAT Traversal Toolkit |  跨平台P2P内网穿透安全传输工具
+
+*   [WhiredPlanck/trime-new](https://github.com/WhiredPlanck/trime-new) - 新·同文安卓輸入法平臺 3.x / Rime Input Method Engine for Android
+
+*   [meshenger-app/meshenger-android](https://github.com/meshenger-app/meshenger-android) - P2P Voice/Video phone App for local networks.
+
+*   [johanw666/Gab](https://github.com/johanw666/Gab) - An Android client for the microblogging server Mastodon
+
+*   [anode-co/AnodeVPN-android](https://github.com/anode-co/AnodeVPN-android) -
+
+*   [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - \[Gap month 2023.12.1 - 2023.12.31] 数据备份 DataBackup for Android
+
+*   [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
+
+*   [Raival-e/File-Explorer](https://github.com/Raival-e/File-Explorer) - An Android file explorer
+
+*   [Tribler/trustchain-superapp](https://github.com/Tribler/trustchain-superapp) - Kotlin implementation of Trustchain and IPv8 with rich networking: multihoming of local Bluetooth+4G, decentral social networking, UDP hole punching, etc.
+
+*   [SimpleMobileTools/Simple-Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers.
+
+*   [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
+
+*   [sbrl/Pepperminty-Wiki-Client-Android](https://github.com/sbrl/Pepperminty-Wiki-Client-Android) - :wrench: WIP :wrench: An experimental Pepperminty Wiki client, written in Kotlin for Android.
+
+*   [Ehviewer-Overhauled/Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) - EhViewer overhauled with Material Design 3, Jetpack Compose and more
+
+*   [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
+
+*   [DatL4g/Burning-Series](https://github.com/DatL4g/Burning-Series) - Watch any series from Burning Series using this app. This is an unofficial Burning Series App
+
+*   [yggdrasil-network/crispa-android](https://github.com/yggdrasil-network/crispa-android) - Community-contributed application for connecting to the Yggdrasil Network on Android devices
+
+*   [eprendre/tingshu](https://github.com/eprendre/tingshu) - 一款可在线播放多个免费听书站点的安卓app
+
+*   [drmfinlay/tts-util-app](https://github.com/drmfinlay/tts-util-app) - TTS Util — Text-to-speech utility Android app for synthesising text into audible speech
+
+*   [Lennoard/DDGUI](https://github.com/Lennoard/DDGUI) - A graphical interface for the good old dd command in a rooted Android environment
+
+*   [Lennoard/hebf-android](https://github.com/Lennoard/hebf-android) - An Android application that aims to improve how the device performs and focuses on battery saving by adjusting Android system and/or kernel parameters using superuser privileges.
+
+*   [Lennoard/SysctlGUI](https://github.com/Lennoard/SysctlGUI) - A GUI application to edit Android kernel variables at runtime in a rooted environment
+
+*   [rohitjakhar/Quizzon](https://github.com/rohitjakhar/Quizzon) - Quizzon: Create and play quizzes free
+
+*   [YouROK/TorrServe](https://github.com/YouROK/TorrServe) -
+
+*   [hiroshiyui/GuilelessBopomofo](https://github.com/hiroshiyui/GuilelessBopomofo) - Guileless Bopomofo（樸實注音鍵盤）- A Bopomofo（注音符號）software keyboard (aka input method editor) on Android, which is utilizing libchewing for intelligent phonetic processing.
+
+*   [babydots/babyphone](https://github.com/babydots/babyphone) - A pretend phone app for little people who want to practice talking to others.
+
+*   [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
+
+*   [cryptomator/android](https://github.com/cryptomator/android) - Cryptomator for Android
+
+*   [zom/zom-android](https://github.com/zom/zom-android) - Zom3 update based on Keanu Trinity release
+
+*   [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
+
+*   [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
+
+*   [hazuki0x0/YuzuBrowser](https://github.com/hazuki0x0/YuzuBrowser) - Customizable browser for android
+
+*   [acristescu/OnlineGo](https://github.com/acristescu/OnlineGo) - Repo for the OnlineGo Android app.
+
+*   [Gedsh/dictionary](https://github.com/Gedsh/dictionary) - Only for "geekbrains" teachers. Nothing interesting for others.
+
+*   [pacien/tincapp](https://github.com/pacien/tincapp) - Android binding and user interface for the tinc mesh VPN daemon.
+
+*   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
+
+*   [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - Check updates for Android apps, Magisk modules and more!
+
+*   [SimformSolutionsPvtLtd/SSffmpegVideoOperation](https://github.com/SimformSolutionsPvtLtd/SSffmpegVideoOperation) - This is a library of FFmpeg for android... 📸  🎞  🚑
+
+*   [kittoku/Minimum-VPN-Client-for-SoftEther-VPN](https://github.com/kittoku/Minimum-VPN-Client-for-SoftEther-VPN) - An open-source SoftEther-VPN-protocol-based VPN client for Android
+
+*   [kittoku/Open-SSTP-Client](https://github.com/kittoku/Open-SSTP-Client) - Open SSTP Client for Android
+
+*   [SimpleMobileTools/Simple-App-Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management
+
+*   [SimpleMobileTools/Simple-Clock](https://github.com/SimpleMobileTools/Simple-Clock) - Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads
+
+*   [SimpleMobileTools/Simple-SMS-Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) - An easy and quick way of managing SMS and MMS messages without ads.
+
+*   [SimpleMobileTools/Simple-Flashlight](https://github.com/SimpleMobileTools/Simple-Flashlight) - A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
+
+*   [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A premium app for managing and editing your photos, videos, GIFs without ads
+
+*   [SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
+
+*   [SimpleMobileTools/Simple-Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) - A handy phone call manager with phonebook, number blocking and multi-SIM support
+
+*   [SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, tasks, customizable colors, widgets and no ads.
+
+*   [SimpleMobileTools/Simple-Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) - Easy and quick contact management with no ads, handles groups and favorites too.
+
+*   [SimpleMobileTools/Simple-Music-Player](https://github.com/SimpleMobileTools/Simple-Music-Player) - A clean music player with a customizable widget, stylish interface and no ads.
+
+*   [SimpleMobileTools/Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - Quick photo and video camera with a flash, customizable aspect ratio.
+
+*   [SimpleMobileTools/Simple-Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) - A calculator for quick simple calculations with a nice user interface and no ads
+
+*   [SimpleMobileTools/Simple-Voice-Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access
+
+*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
+
+*   [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
+
+*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
+
+*   [kitsunyan/foxy-droid](https://github.com/kitsunyan/foxy-droid) - Yet another F-Droid client
+
+*   [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) -
+
+*   [Seeneva/seeneva-reader-android](https://github.com/Seeneva/seeneva-reader-android) - A libre smart powered comic book reader for Android.
+
+*   [Sav22999/word-of-the-day](https://github.com/Sav22999/word-of-the-day) - Every day a new word to learn, copy and share!
+
+*   [KaustubhPatange/Moviesy](https://github.com/KaustubhPatange/Moviesy) - A beautiful client for YTS website which also provides built-in torrent & subtitles downloader with Chromecast support.
+
+*   [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
+
+*   [KaustubhPatange/XClipper](https://github.com/KaustubhPatange/XClipper) - XClipper is a clipboard manager for Windows & Android which helps to track clipboard activities and makes it easier to interact with them.
+
+*   [cdnbye/android-p2p-engine](https://github.com/cdnbye/android-p2p-engine) - Let your viewers become your unlimitedly scalable CDN.
+
+*   [allgood/OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Android application for scanning and manipulating handwritten notes and documents.
+
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
+
+*   [afollestad/mnml](https://github.com/afollestad/mnml) - 📹 A minimal, beautiful screen recorder for Android.
+
+*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+
 ## C
+
+*   [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
+
+*   [Audacium/audacium](https://github.com/Audacium/audacium) - Free and open-source audio editor
 
 *   [lsof-org/lsof](https://github.com/lsof-org/lsof) - LiSt Open Files
 
@@ -2022,8 +2280,6 @@
 *   [caseymcc/voxelquest](https://github.com/caseymcc/voxelquest) - Restructured code for Voxel Quest
 
 *   [RegrowthStudios/SoACode-Public](https://github.com/RegrowthStudios/SoACode-Public) - Public repository for all the game code for Seed of Andromeda.
-
-*   [0xLiso/minetest-shadowmap](https://github.com/0xLiso/minetest-shadowmap) - Minetest is an open source voxel game engine with easy modding and game creation
 
 ## TeX
 
@@ -4061,258 +4317,6 @@
 
 *   [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
-## Kotlin
-
-*   [K1rakishou/Kuroba-Experimental](https://github.com/K1rakishou/Kuroba-Experimental) - Free and open source image board browser
-
-*   [relaycorp/relaynet-gateway-android](https://github.com/relaycorp/relaynet-gateway-android) - Awala Gateway for Android
-
-*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image toolbox is the app which based on modern tech stack using Clean Architecture. It has features like filters applying, cropping, EXIF editing, quality and output image type picking and tons of another options
-
-*   [goastian/midori-android](https://github.com/goastian/midori-android) - Midori Browser for Android
-
-*   [master88wi/CatBoxForAndroid](https://github.com/master88wi/CatBoxForAndroid) - CatBox is a universal proxy program for Android using sing-box. It was adapted from NekoBoxForAndroid, removing some unappealing content and improving the experience in some cases.
-
-*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-
-*   [MatsuriDayo/Matsuri](https://github.com/MatsuriDayo/Matsuri) - Matsuri (茉莉) / V2Ray / universal proxy toolchain for Android / Fork of SagerNet
-
-*   [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
-
-*   [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
-
-*   [UjuiUjuMandan/EhViewer](https://github.com/UjuiUjuMandan/EhViewer) - EhViewer overhauled with Material Design 3 and more
-
-*   [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
-
-*   [UstadMobile/Meshrabiya](https://github.com/UstadMobile/Meshrabiya) - Virtual mesh network for Android that operates over WiFi
-
-*   [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
-
-*   [willbsp/habits](https://github.com/willbsp/habits) - A habit tracking app for Android
-
-*   [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
-
-*   [CarlosEsco/Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader  for Android
-
-*   [ezechuka/EnglishWhiz](https://github.com/ezechuka/EnglishWhiz) - Yet Another English Dictionary App. EnglishWhiz is an offline dictionary app that features fast word look-up. It features modern Android technologies including Jetpack compose.
-
-*   [Criptext/Android-Email-Client](https://github.com/Criptext/Android-Email-Client) - Criptext for Android
-
-*   [stantanasi/streamflix](https://github.com/stantanasi/streamflix) - An Android TV app to stream movies and TV shows for free
-
-*   [geph-official/geph-android](https://github.com/geph-official/geph-android) - Geph Android 迷霧通Android界面
-
-*   [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
-
-*   [Infomaniak/android-kMail](https://github.com/Infomaniak/android-kMail) -
-
-*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
-
-*   [you-apps/RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
-
-*   [vpnry/mTTS](https://github.com/vpnry/mTTS) - Massively Multilingual Speech (MMS) - Text To Speech Webview app - 1000+ languages
-
-*   [ICTrust/PObY-A](https://github.com/ICTrust/PObY-A) - Privacy Owned by You - Android
-
-*   [censorship-no/ceno-browser](https://github.com/censorship-no/ceno-browser) - A full-featured CENO browser reference implementation using Mozilla Android Components + Ouinet
-
-*   [nomoresat/DPITunnel-android](https://github.com/nomoresat/DPITunnel-android) -
-
-*   [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
-
-*   [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
-
-*   [elizagamedev/android-textbender](https://github.com/elizagamedev/android-textbender) - Bend Android text to your whim.
-
-*   [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
-
-*   [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
-
-*   [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
-
-*   [SimpleMobileTools/Simple-Launcher](https://github.com/SimpleMobileTools/Simple-Launcher) - A practical and customizable launcher for launching your favorite apps easily.
-
-*   [Chooloo/koler](https://github.com/Chooloo/koler) - Just a phone app.
-
-*   [proninyaroslav/OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) - FOSS Comic Vine client for Android. comicvine.gamespot.com
-
-*   [jamal2362/URL-Radio](https://github.com/jamal2362/URL-Radio) -  Simply URL Radio Application for Android
-
-*   [Tribler/kotlin-ipv8](https://github.com/Tribler/kotlin-ipv8) - P2P communication library for Android
-
-*   [hiddify/HiddifyClashAndroid](https://github.com/hiddify/HiddifyClashAndroid) - A rule-based tunnel for Android.
-
-*   [Secure-File-Manager/Secure-File-Manager](https://github.com/Secure-File-Manager/Secure-File-Manager) - Secure File Manager is open source file manager for keeping your files in safe.
-
-*   [syt0r/Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo) - Android application for practicing writing Japanese characters
-
-*   [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
-
-*   [kirmanak/Mealient](https://github.com/kirmanak/Mealient) - An Android client for a self-hosted recipe manager Mealie.
-
-*   [AntonioNoack/RemsEngine](https://github.com/AntonioNoack/RemsEngine) - OpenSource Kotlin/OpenGL/ECS based game engine
-
-*   [AntonioNoack/RemsStudio](https://github.com/AntonioNoack/RemsStudio) - Open Source Graphical Video Editor for 2D and 3D, built with Kotlin & OpenGL
-
-*   [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
-
-*   [Pool-Of-Tears/Myne](https://github.com/Pool-Of-Tears/Myne) - An android app to download ebooks from Project Gutenberg, built with  Jetpack Compose.
-
-*   [ligi/SurvivalManual](https://github.com/ligi/SurvivalManual) - Libre Survival Manual for Android with offline in mind
-
-*   [ligi/gobandroid](https://github.com/ligi/gobandroid) - A Goban for Android
-
-*   [nanihadesuka/NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) - Android web novel reader
-
-*   [FunkyMuse/Aurora](https://github.com/FunkyMuse/Aurora) -  Non-official Library Genesis (Libgen) Android mobile client.
-
-*   [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Adds themed icons to Lawnchair.
-
-*   [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist client, which lets you stream & download Anime & Manga.
-
-*   [LagradOst/QuickNovel](https://github.com/LagradOst/QuickNovel) - Android app for downloading novels
-
-*   [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager for both rooted and non-rooted devices with a built-in terminal, analytics panel and an independent custom theme engine, developed with purely custom APIs created for this app.
-
-*   [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
-
-*   [kenvix/NATPoked](https://github.com/kenvix/NATPoked) - 🗡 NATPoked - A Cross-platform Peer-To-Peer Secure NAT Traversal Toolkit |  跨平台P2P内网穿透安全传输工具
-
-*   [WhiredPlanck/trime-new](https://github.com/WhiredPlanck/trime-new) - 新·同文安卓輸入法平臺 3.x / Rime Input Method Engine for Android
-
-*   [meshenger-app/meshenger-android](https://github.com/meshenger-app/meshenger-android) - P2P Voice/Video phone App for local networks.
-
-*   [johanw666/Gab](https://github.com/johanw666/Gab) - An Android client for the microblogging server Mastodon
-
-*   [anode-co/AnodeVPN-android](https://github.com/anode-co/AnodeVPN-android) -
-
-*   [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - \[Gap month 2023.12.1 - 2023.12.31] 数据备份 DataBackup for Android
-
-*   [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
-
-*   [Raival-e/File-Explorer](https://github.com/Raival-e/File-Explorer) - An Android file explorer
-
-*   [Tribler/trustchain-superapp](https://github.com/Tribler/trustchain-superapp) - Kotlin implementation of Trustchain and IPv8 with rich networking: multihoming of local Bluetooth+4G, decentral social networking, UDP hole punching, etc.
-
-*   [SimpleMobileTools/Simple-Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers.
-
-*   [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
-
-*   [sbrl/Pepperminty-Wiki-Client-Android](https://github.com/sbrl/Pepperminty-Wiki-Client-Android) - :wrench: WIP :wrench: An experimental Pepperminty Wiki client, written in Kotlin for Android.
-
-*   [Ehviewer-Overhauled/Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) - EhViewer overhauled with Material Design 3, Jetpack Compose and more
-
-*   [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
-
-*   [DatL4g/Burning-Series](https://github.com/DatL4g/Burning-Series) - Watch any series from Burning Series using this app. This is an unofficial Burning Series App
-
-*   [yggdrasil-network/crispa-android](https://github.com/yggdrasil-network/crispa-android) - Community-contributed application for connecting to the Yggdrasil Network on Android devices
-
-*   [eprendre/tingshu](https://github.com/eprendre/tingshu) - 一款可在线播放多个免费听书站点的安卓app
-
-*   [drmfinlay/tts-util-app](https://github.com/drmfinlay/tts-util-app) - TTS Util — Text-to-speech utility Android app for synthesising text into audible speech
-
-*   [Lennoard/DDGUI](https://github.com/Lennoard/DDGUI) - A graphical interface for the good old dd command in a rooted Android environment
-
-*   [Lennoard/hebf-android](https://github.com/Lennoard/hebf-android) - An Android application that aims to improve how the device performs and focuses on battery saving by adjusting Android system and/or kernel parameters using superuser privileges.
-
-*   [Lennoard/SysctlGUI](https://github.com/Lennoard/SysctlGUI) - A GUI application to edit Android kernel variables at runtime in a rooted environment
-
-*   [rohitjakhar/Quizzon](https://github.com/rohitjakhar/Quizzon) - Quizzon: Create and play quizzes free
-
-*   [YouROK/TorrServe](https://github.com/YouROK/TorrServe) -
-
-*   [hiroshiyui/GuilelessBopomofo](https://github.com/hiroshiyui/GuilelessBopomofo) - Guileless Bopomofo（樸實注音鍵盤）- A Bopomofo（注音符號）software keyboard (aka input method editor) on Android, which is utilizing libchewing for intelligent phonetic processing.
-
-*   [babydots/babyphone](https://github.com/babydots/babyphone) - A pretend phone app for little people who want to practice talking to others.
-
-*   [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
-
-*   [cryptomator/android](https://github.com/cryptomator/android) - Cryptomator for Android
-
-*   [zom/zom-android](https://github.com/zom/zom-android) - Zom3 update based on Keanu Trinity release
-
-*   [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
-
-*   [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
-
-*   [hazuki0x0/YuzuBrowser](https://github.com/hazuki0x0/YuzuBrowser) - Customizable browser for android
-
-*   [acristescu/OnlineGo](https://github.com/acristescu/OnlineGo) - Repo for the OnlineGo Android app.
-
-*   [Gedsh/dictionary](https://github.com/Gedsh/dictionary) - Only for "geekbrains" teachers. Nothing interesting for others.
-
-*   [pacien/tincapp](https://github.com/pacien/tincapp) - Android binding and user interface for the tinc mesh VPN daemon.
-
-*   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
-
-*   [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - Check updates for Android apps, Magisk modules and more!
-
-*   [SimformSolutionsPvtLtd/SSffmpegVideoOperation](https://github.com/SimformSolutionsPvtLtd/SSffmpegVideoOperation) - This is a library of FFmpeg for android... 📸  🎞  🚑
-
-*   [kittoku/Minimum-VPN-Client-for-SoftEther-VPN](https://github.com/kittoku/Minimum-VPN-Client-for-SoftEther-VPN) - An open-source SoftEther-VPN-protocol-based VPN client for Android
-
-*   [kittoku/Open-SSTP-Client](https://github.com/kittoku/Open-SSTP-Client) - Open SSTP Client for Android
-
-*   [SimpleMobileTools/Simple-App-Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management
-
-*   [SimpleMobileTools/Simple-Clock](https://github.com/SimpleMobileTools/Simple-Clock) - Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads
-
-*   [SimpleMobileTools/Simple-SMS-Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) - An easy and quick way of managing SMS and MMS messages without ads.
-
-*   [SimpleMobileTools/Simple-Flashlight](https://github.com/SimpleMobileTools/Simple-Flashlight) - A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
-
-*   [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A premium app for managing and editing your photos, videos, GIFs without ads
-
-*   [SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
-
-*   [SimpleMobileTools/Simple-Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) - A handy phone call manager with phonebook, number blocking and multi-SIM support
-
-*   [SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, tasks, customizable colors, widgets and no ads.
-
-*   [SimpleMobileTools/Simple-Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) - Easy and quick contact management with no ads, handles groups and favorites too.
-
-*   [SimpleMobileTools/Simple-Music-Player](https://github.com/SimpleMobileTools/Simple-Music-Player) - A clean music player with a customizable widget, stylish interface and no ads.
-
-*   [SimpleMobileTools/Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - Quick photo and video camera with a flash, customizable aspect ratio.
-
-*   [SimpleMobileTools/Simple-Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) - A calculator for quick simple calculations with a nice user interface and no ads
-
-*   [SimpleMobileTools/Simple-Voice-Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access
-
-*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
-
-*   [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
-
-*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
-
-*   [kitsunyan/foxy-droid](https://github.com/kitsunyan/foxy-droid) - Yet another F-Droid client
-
-*   [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) -
-
-*   [Seeneva/seeneva-reader-android](https://github.com/Seeneva/seeneva-reader-android) - A libre smart powered comic book reader for Android.
-
-*   [Sav22999/word-of-the-day](https://github.com/Sav22999/word-of-the-day) - Every day a new word to learn, copy and share!
-
-*   [KaustubhPatange/Moviesy](https://github.com/KaustubhPatange/Moviesy) - A beautiful client for YTS website which also provides built-in torrent & subtitles downloader with Chromecast support.
-
-*   [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
-
-*   [KaustubhPatange/XClipper](https://github.com/KaustubhPatange/XClipper) - XClipper is a clipboard manager for Windows & Android which helps to track clipboard activities and makes it easier to interact with them.
-
-*   [cdnbye/android-p2p-engine](https://github.com/cdnbye/android-p2p-engine) - Let your viewers become your unlimitedly scalable CDN.
-
-*   [allgood/OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Android application for scanning and manipulating handwritten notes and documents.
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
-
-*   [afollestad/mnml](https://github.com/afollestad/mnml) - 📹 A minimal, beautiful screen recorder for Android.
-
-*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
-
 ## HTML
 
 *   [censorship-no/ceno.github.io](https://github.com/censorship-no/ceno.github.io) - The website for Ceno Browser, a censorship circumvention web browser.
@@ -5282,10 +5286,6 @@
 *   [random-geek/meshport](https://github.com/random-geek/meshport) - Easily export areas in Minetest to meshes for 3D rendering.
 
 *   [random-geek/auroras](https://github.com/random-geek/auroras) - Minetest mod adding auroras (northern/southern lights) at night in cold places.
-
-*   [x2048/terraform](https://github.com/x2048/terraform) - Landscape editor for Minetest, similar to WorldEdit.
-
-*   [x2048/cinematic](https://github.com/x2048/cinematic) - Add cinematic camera motion to Minetest
 
 ## C\#
 
