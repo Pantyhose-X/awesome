@@ -2053,7 +2053,7 @@
 
 *   [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 
-*   [BoltzmannEntropy/xtts2-ui](https://github.com/BoltzmannEntropy/xtts2-ui) - A User Interface for XTTS-2 Text-Based Voice Cloning with 10 seconds
+*   [BoltzmannEntropy/xtts2-ui](https://github.com/BoltzmannEntropy/xtts2-ui) - A User Interface for XTTS-2 Text-Based Voice Cloning using only 10 seconds of speech
 
 *   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 
