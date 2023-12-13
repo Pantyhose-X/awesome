@@ -4,6 +4,9 @@
 
 ## Table of Contents
 
+*   [Groovy](#groovy)
+*   [Zig](#zig)
+*   [Ruby](#ruby)
 *   [miscellaneous](#miscellaneous)
 *   [Dart](#dart)
 *   [C++](#c)
@@ -20,7 +23,6 @@
 *   [TypeScript](#typescript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Odin](#odin)
-*   [Zig](#zig)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
 *   [Batchfile](#batchfile)
@@ -42,7 +44,6 @@
 *   [Assembly](#assembly)
 *   [Wikitext](#wikitext)
 *   [Perl](#perl)
-*   [Ruby](#ruby)
 *   [YAML](#yaml)
 *   [Swift](#swift)
 *   [Nunjucks](#nunjucks)
@@ -94,6 +95,68 @@
 *   [CoffeeScript](#coffeescript)
 *   [Objective-C++](#objective-c-1)
 *   [AutoHotkey](#autohotkey)
+
+## Groovy
+
+*   [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
+
+## Zig
+
+*   [MasterQ32/ZigAndroidTemplate](https://github.com/MasterQ32/ZigAndroidTemplate) - This repository contains a example on how to create a minimal Android app in Zig.
+
+*   [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
+
+*   [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
+
+*   [zigtools/zls](https://github.com/zigtools/zls) - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def!
+
+*   [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
+
+*   [vsergeev/zigradio](https://github.com/vsergeev/zigradio) - A lightweight software-defined radio framework built with Zig
+
+*   [keep-starknet-strange/ziggy-starkdust](https://github.com/keep-starknet-strange/ziggy-starkdust) - ⚡ Cairo VM in Zig ⚡
+
+*   [CascadeOS/CascadeOS](https://github.com/CascadeOS/CascadeOS) - General purpose operating system targeting standard desktops and laptops.
+
+*   [OAguinagalde/tinyrenderer](https://github.com/OAguinagalde/tinyrenderer) - A software renderer exploration written in zig
+
+*   [zenith391/didot](https://github.com/zenith391/didot) - Zig 3D game engine.
+
+*   [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
+
+*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+*   [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## Ruby
+
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+*   [Arachni/arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
+
+*   [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
+
+*   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+
+*   [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
+
+*   [ianrenton/NaNoGenMo](https://github.com/ianrenton/NaNoGenMo) - National Novel Generation Month. A script to automatically generate a 50,000-word "novel" during November, as an alternative to writing it.
+
+*   [johnpray/sciencegamecenter](https://github.com/johnpray/sciencegamecenter) - A web app for listing and reviewing learning games
+
+*   [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
+
+*   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+
+*   [bcoles/ssrf\_proxy](https://github.com/bcoles/ssrf_proxy) - SSRF Proxy facilitates tunneling HTTP communications through servers vulnerable to Server-Side Request Forgery.
+
+*   [pannous/english-script](https://github.com/pannous/english-script) - 🖊 Ｅｎｇｌｉｓｈ  as a programming language
+
+*   [ctdk/chef\_lang](https://github.com/ctdk/chef_lang) - A Chef recipe for the Chef programming language.
+
+*   [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
+
+*   [mariusbutuc/sicp-videos](https://github.com/mariusbutuc/sicp-videos) - Get the Structure and Interpretation of Computer Programs videos from 1985.
 
 ## miscellaneous
 
@@ -1298,10 +1361,6 @@
 *   [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 
 *   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
-
-*   [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
-
-*   [soui3-demo/sinstar3](https://github.com/soui3-demo/sinstar3) -
 
 ## Kotlin
 
@@ -4223,8 +4282,6 @@
 
 *   [XIU2/PeerflixServerZH](https://github.com/XIU2/PeerflixServerZH) - 🚀 Peerflix Server(BT) 汉化、美化
 
-*   [gautamkrishnar/github-pages-gallery](https://github.com/gautamkrishnar/github-pages-gallery) - A zero dollar solution to host your photo/video gallery online using Github pages and GitHub Actions. No coding necessary.
-
 ## TypeScript
 
 *   [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -4492,32 +4549,6 @@
 *   [oskarnp/odin-tracy](https://github.com/oskarnp/odin-tracy) - Tracy profiler bindings/wrapper for the Odin programming language
 
 *   [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
-
-## Zig
-
-*   [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
-
-*   [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
-
-*   [zigtools/zls](https://github.com/zigtools/zls) - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def!
-
-*   [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
-
-*   [vsergeev/zigradio](https://github.com/vsergeev/zigradio) - A lightweight software-defined radio framework built with Zig
-
-*   [keep-starknet-strange/ziggy-starkdust](https://github.com/keep-starknet-strange/ziggy-starkdust) - ⚡ Cairo VM in Zig ⚡
-
-*   [CascadeOS/CascadeOS](https://github.com/CascadeOS/CascadeOS) - General purpose operating system targeting standard desktops and laptops.
-
-*   [OAguinagalde/tinyrenderer](https://github.com/OAguinagalde/tinyrenderer) - A software renderer exploration written in zig
-
-*   [zenith391/didot](https://github.com/zenith391/didot) - Zig 3D game engine.
-
-*   [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
-
-*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-*   [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## HTML
 
@@ -5722,34 +5753,6 @@
 *   [eldy/AWStats](https://github.com/eldy/AWStats) - AWStats Log Analyzer project (official sources)
 
 *   [Difegue/LANraragi](https://github.com/Difegue/LANraragi) - Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.
-
-## Ruby
-
-*   [Arachni/arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
-
-*   [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
-
-*   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-
-*   [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
-
-*   [ianrenton/NaNoGenMo](https://github.com/ianrenton/NaNoGenMo) - National Novel Generation Month. A script to automatically generate a 50,000-word "novel" during November, as an alternative to writing it.
-
-*   [johnpray/sciencegamecenter](https://github.com/johnpray/sciencegamecenter) - A web app for listing and reviewing learning games
-
-*   [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
-
-*   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
-
-*   [bcoles/ssrf\_proxy](https://github.com/bcoles/ssrf_proxy) - SSRF Proxy facilitates tunneling HTTP communications through servers vulnerable to Server-Side Request Forgery.
-
-*   [pannous/english-script](https://github.com/pannous/english-script) - 🖊 Ｅｎｇｌｉｓｈ  as a programming language
-
-*   [ctdk/chef\_lang](https://github.com/ctdk/chef_lang) - A Chef recipe for the Chef programming language.
-
-*   [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
-
-*   [mariusbutuc/sicp-videos](https://github.com/mariusbutuc/sicp-videos) - Get the Structure and Interpretation of Computer Programs videos from 1985.
 
 ## YAML
 
