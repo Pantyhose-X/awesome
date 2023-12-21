@@ -3190,7 +3190,7 @@
 
 *   [SiaFoundation/renterd](https://github.com/SiaFoundation/renterd) - A renter for Sia
 
-*   [SiaFoundation/hostd](https://github.com/SiaFoundation/hostd) - A Sia host
+*   [SiaFoundation/hostd](https://github.com/SiaFoundation/hostd) - The next-generation of Sia storage providing software. More performant. More stable. Support for larger nodes.
 
 *   [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 
