@@ -98,6 +98,8 @@
 
 ## Shell
 
+*   [mevdschee/bitlocker-luks-tools](https://github.com/mevdschee/bitlocker-luks-tools) -
+
 *   [XargonWan/RetroDECK](https://github.com/XargonWan/RetroDECK) - RetroDECK brings you an all-in-one sandboxed application to play your retro games (and even not-so-retro games) on Linux/SteamOS.
 
 *   [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
@@ -3127,8 +3129,6 @@
 *   [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 
 *   [warren-bank/Android-Locale-Changer](https://github.com/warren-bank/Android-Locale-Changer) - Android app to change the default system-wide locale.
-
-*   [warren-bank/Android-WebMonkey](https://github.com/warren-bank/Android-WebMonkey) - No-frills light-weight Android web browser with support for Greasemonkey userscripts.
 
 ## Jupyter Notebook
 
