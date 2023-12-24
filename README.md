@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Fluent](#fluent)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [C](#c)
@@ -96,7 +97,13 @@
 *   [Objective-C++](#objective-c-1)
 *   [AutoHotkey](#autohotkey)
 
+## Fluent
+
+*   [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with telemetry disabling
+
 ## Shell
+
+*   [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
 
 *   [mevdschee/bitlocker-luks-tools](https://github.com/mevdschee/bitlocker-luks-tools) -
 
@@ -3125,10 +3132,6 @@
 *   [Simsilica/SimArboreal-Editor](https://github.com/Simsilica/SimArboreal-Editor) - Editor using the SimArboreal library to generate exportable tree models.
 
 *   [SmartPack/PackageManager](https://github.com/SmartPack/PackageManager) - Source code of Package Manager, an Application to Manage your Apps.
-
-*   [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
-
-*   [warren-bank/Android-Locale-Changer](https://github.com/warren-bank/Android-Locale-Changer) - Android app to change the default system-wide locale.
 
 ## Jupyter Notebook
 
