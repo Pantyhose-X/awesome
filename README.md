@@ -5,13 +5,16 @@
 ## Table of Contents
 
 *   [HTML](#html)
+*   [SCSS](#scss)
+*   [Rust](#rust)
+*   [AutoHotkey](#autohotkey)
+*   [Lua](#lua)
 *   [miscellaneous](#miscellaneous)
 *   [C](#c)
 *   [Makefile](#makefile)
 *   [C++](#c-1)
 *   [Zig](#zig)
 *   [Python](#python)
-*   [Rust](#rust)
 *   [Go](#go)
 *   [Shell](#shell)
 *   [Lex](#lex)
@@ -32,7 +35,6 @@
 *   [Batchfile](#batchfile)
 *   [PowerShell](#powershell)
 *   [Jinja](#jinja)
-*   [Lua](#lua)
 *   [C#](#c-2)
 *   [AppleScript](#applescript)
 *   [Roff](#roff)
@@ -42,7 +44,6 @@
 *   [Common Lisp](#common-lisp)
 *   [Common Workflow Language](#common-workflow-language)
 *   [Vue](#vue)
-*   [SCSS](#scss)
 *   [Arduino](#arduino)
 *   [Assembly](#assembly)
 *   [Wikitext](#wikitext)
@@ -96,9 +97,10 @@
 *   [HolyC](#holyc)
 *   [CoffeeScript](#coffeescript)
 *   [Objective-C++](#objective-c-1)
-*   [AutoHotkey](#autohotkey)
 
 ## HTML
+
+*   [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 
 *   [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) -
 
@@ -248,7 +250,691 @@
 
 *   [godly/minetest-skin-converter](https://github.com/godly/minetest-skin-converter) -
 
-*   [2439905184/minetest\_dev\_wiki\_zh\_cn\_mirrow](https://github.com/2439905184/minetest_dev_wiki_zh_cn_mirrow) - a mirrow web site!
+## SCSS
+
+*   [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet) - The repository for https://arewegameyet.rs
+
+*   [brainfucksec/brainfucksec.github.io](https://github.com/brainfucksec/brainfucksec.github.io) - Cyber Security | Privacy
+
+*   [siongui/ajahn-jayasaaro](https://github.com/siongui/ajahn-jayasaaro) - Ajahn Jayasāro
+
+*   [siongui/master-wangxing](https://github.com/siongui/master-wangxing) - 萬行法師
+
+*   [siongui/pali-chanting](https://github.com/siongui/pali-chanting) - Pāli Chanting (巴利唸誦, บาลีสวดมนต์)
+
+*   [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
+
+*   [ZorrillosDev/watchit-app](https://github.com/ZorrillosDev/watchit-app) - Open movies everywhere
+
+## Rust
+
+*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+
+*   [jordan4ibanez/minetest-rust](https://github.com/jordan4ibanez/minetest-rust) - Unofficial minetest rebuild in rust from the ground up.
+
+*   [mel-project/melnode](https://github.com/mel-project/melnode) - Reference implementation of Mel
+
+*   [checkpoint-restore/rust-criu](https://github.com/checkpoint-restore/rust-criu) - Rust Bindings for CRIU
+
+*   [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+
+*   [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform
+
+*   [upvpn/upvpn-app](https://github.com/upvpn/upvpn-app) - Serverless VPN app for macOS, Linux, Windows, and Android
+
+*   [scrtlabs/SecretNetwork](https://github.com/scrtlabs/SecretNetwork) - 𝕊 The Secret Network
+
+*   [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
+
+*   [darkrenaissance/darkfi](https://github.com/darkrenaissance/darkfi) - Anonymous. Uncensored. Sovereign.
+
+*   [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+
+*   [filecoin-project/ref-fvm](https://github.com/filecoin-project/ref-fvm) - Reference implementation of the Filecoin Virtual Machine
+
+*   [filecoin-project/rust-fil-proofs](https://github.com/filecoin-project/rust-fil-proofs) - Proofs for Filecoin in Rust
+
+*   [ferrumgate/secure.server.quic](https://github.com/ferrumgate/secure.server.quic) - vpn server and client over quic  with rust (tokio,quinn)
+
+*   [anderspitman/fibridge-proxy-rs](https://github.com/anderspitman/fibridge-proxy-rs) - Proxy for turning web browsers into web servers. Load a 100GB file in your browser and stream it over the public web with HTTP byte range requests.
+
+*   [Satellite-im/Uplink](https://github.com/Satellite-im/Uplink) -  (Pre-Release Software) Secure, Encrypted, P2P chat written atop Warp, IPFS, LibP2P, Dioxus and many more awesome projects and protocols.
+
+*   [mel-project/earendil](https://github.com/mel-project/earendil) - A decentralized, censorship-resistant, and incentive-compatible packet-routing overlay network
+
+*   [geph-official/geph4-bridge](https://github.com/geph-official/geph4-bridge) - Bridge node for Geph, spun off from geph4
+
+*   [geph-official/sosistab2](https://github.com/geph-official/sosistab2) - A pluggable, obfuscated datagram transport for horrible networks
+
+*   [geph-official/sosistab2-obfsudp](https://github.com/geph-official/sosistab2-obfsudp) - Obfuscated UDP transport for sosistab2
+
+*   [geph-official/sosistab](https://github.com/geph-official/sosistab) - An obfuscated datagram transport for horrible networks
+
+*   [compute-toys/wgpu-compute-toy](https://github.com/compute-toys/wgpu-compute-toy) - Cross-platform compute shader engine
+
+*   [egorolegovichyakovlev/TorBridgesUpdater](https://github.com/egorolegovichyakovlev/TorBridgesUpdater) - An utility to fetch new Tor bridges on daily basis
+
+*   [refraction-networking/conjure](https://github.com/refraction-networking/conjure) - Conjure Refraction Networking station code
+
+*   [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
+
+*   [cyphernet-dao/rust-cyphernet](https://github.com/cyphernet-dao/rust-cyphernet) - Cyphernet is a set of libraries for privacy-preserving networking apps
+
+*   [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. Work in progress!
+
+*   [emilengler/arti](https://github.com/emilengler/arti) - \[MIRROR] Arti: An implementation of Tor, in Rust
+
+*   [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum secure VPN that uses WireGuard to transport the actual data.
+
+*   [maidsafe/safe\_network](https://github.com/maidsafe/safe_network) -
+
+*   [unblockable/proteus](https://github.com/unblockable/proteus) - Proteus: Programmable Protocols for Censorship Circumvention
+
+*   [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
+
+*   [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
+
+*   [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
+
+*   [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
+
+*   [zevtyardt/proxy.rs](https://github.com/zevtyardt/proxy.rs) -
+
+*   [romanz/electrs](https://github.com/romanz/electrs) - An efficient re-implementation of Electrum Server in Rust
+
+*   [manuels/wireguard-p2p](https://github.com/manuels/wireguard-p2p) - A tool for setting up WireGuard connections from peer to peer.
+
+*   [manuels/bulletinboard-dht](https://github.com/manuels/bulletinboard-dht) - Your internet-wide general-purpose DHT to store key/value pairs
+
+*   [manuels/tuntap.rs](https://github.com/manuels/tuntap.rs) - Linux TunTap bindings for Rust
+
+*   [torrust/torrust-index](https://github.com/torrust/torrust-index) - This repository serves as the backend for the Torrust Index project.
+
+*   [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised\_face:, secure :lock: meta search engine
+
+*   [smol-dot/smoldot](https://github.com/smol-dot/smoldot) - Lightweight client for Substrate-based chains, such as Polkadot and Kusama.
+
+*   [torrust/bittorrent-infrastructure-project](https://github.com/torrust/bittorrent-infrastructure-project) - BitTorrent Infrastructure Project
+
+*   [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) - Trojan server and proxy programs written in Rust
+
+*   [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
+
+*   [buttplugio/buttplug](https://github.com/buttplugio/buttplug) - Rust Implementation of the Buttplug Sex Toy Control Protocol
+
+*   [matrix-org/matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust
+
+*   [Barre/privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
+
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
+
+*   [toblux/rust-clamav-client](https://github.com/toblux/rust-clamav-client) - Rust ClamAV Client
+
+*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
+
+*   [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
+
+*   [equalitie/btdht](https://github.com/equalitie/btdht) - Standalone bittorrent DHT library for rust
+
+*   [n0-computer/iroh](https://github.com/n0-computer/iroh) - Sync anywhere
+
+*   [tenondvpn/leaf\_new](https://github.com/tenondvpn/leaf_new) - leaf\_new
+
+*   [planetoryd/netns-proxy](https://github.com/planetoryd/netns-proxy) - Containerized Proxying. Clone from the link below.
+
+*   [Freifunk-Dresden/wg\_accept\_cgi](https://github.com/Freifunk-Dresden/wg_accept_cgi) - CGI rust programm for accepting wireguard connections
+
+*   [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
+
+*   [move-language/move](https://github.com/move-language/move) -
+
+*   [huff-language/huff-rs](https://github.com/huff-language/huff-rs) - A low-level assembly language for the Ethereum Virtual Machine built in blazing-fast pure rust.
+
+*   [mrDIMAS/StationIapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase
+
+*   [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
+
+*   [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
+
+*   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+
+*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+
+*   [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+
+*   [StasiumDev/ReviOS-Verifier](https://github.com/StasiumDev/ReviOS-Verifier) - Small tool to verify ReviOS ISOs
+
+*   [littlebenlittle/p2p-tun](https://github.com/littlebenlittle/p2p-tun) - VPN using libp2p
+
+*   [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
+
+*   [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
+
+*   [ChristopherBilg/ri2p](https://github.com/ChristopherBilg/ri2p) - Rust implementation of the i2p client/server/router protocols
+
+*   [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
+
+*   [ExodusVPN/exodus](https://github.com/ExodusVPN/exodus) - network proxy and tunnel (VPN)
+
+*   [meh/rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
+
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+
+*   [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
+
+*   [minetest-rust/mt\_rudp](https://github.com/minetest-rust/mt_rudp) -
+
+*   [minetest-rust/mt\_net](https://github.com/minetest-rust/mt_net) -
+
+*   [minetest-rust/mt\_ser](https://github.com/minetest-rust/mt_ser) -
+
+*   [radicle-dev/heartwood](https://github.com/radicle-dev/heartwood) - ❤️🪵 Radicle Heartwood Protocol & Stack
+
+*   [radicle-dev/radicle-client-services](https://github.com/radicle-dev/radicle-client-services) - Services backing the Radicle client interfaces.
+
+*   [radicle-dev/radicle-cli](https://github.com/radicle-dev/radicle-cli) - Radicle CLI
+
+*   [Manta-Network/Manta](https://github.com/Manta-Network/Manta) - The main repo for manta blockchain nodes.
+
+*   [MASQ-Project/Node](https://github.com/MASQ-Project/Node) - MASQ combines the benefits of VPN and Tor technology to create a superior next-generation privacy software, where users are rewarded for supporting an uncensored global web. Users gain privacy and anonymity online, while helping promote Internet Freedom.
+
+*   [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+
+*   [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available
+
+*   [minetest-rust/mt\_client](https://github.com/minetest-rust/mt_client) -
+
+*   [paritytech/cumulus](https://github.com/paritytech/cumulus) - Write Parachains on Substrate
+
+*   [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
+
+*   [AP-Atul/ranobe](https://github.com/AP-Atul/ranobe) - light novel scraper in rust
+
+*   [Nhlest/shikataganai](https://github.com/Nhlest/shikataganai) - 仕方がない...
+
+*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+
+*   [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Data Science Spreadsheet with Python & SQL
+
+*   [Game4all/vx\_bevy](https://github.com/Game4all/vx_bevy) - 🧊 Voxel engine prototype made with the bevy game engine. Serves as a playground for experimenting with voxels, terrain generation, and bevy.
+
+*   [mwbryant/logic\_voxels](https://github.com/mwbryant/logic_voxels) - A personal multiplayer voxel game created with the Bevy game engine
+
+*   [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum endpoint-to-endpoint encryption for messaging and file-sharing SDK
+
+*   [pen-lang/pen](https://github.com/pen-lang/pen) - The parallel, concurrent, and functional programming language for scalable software development
+
+*   [fluencelabs/nox](https://github.com/fluencelabs/nox) - Rust implementation of the Fluence network peer
+
+*   [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
+
+*   [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
+
+*   [toastxc/cf-ddns](https://github.com/toastxc/cf-ddns) - dynamic IP DNS client for cloudflare
+
+*   [das-labor/panopticon](https://github.com/das-labor/panopticon) - A libre cross-platform disassembler.
+
+*   [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox\_with\_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
+
+*   [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+
+*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
+
+*   [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) - Rust implementation of Magic Wormhole, with new features and enhancements
+
+*   [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
+
+*   [datrs/hypercore](https://github.com/datrs/hypercore) - Secure, distributed, append-only log
+
+*   [kpcyrd/narnia](https://github.com/kpcyrd/narnia) - :construction: EXPERIMENTAL :construction: Secure hidden service webserver
+
+*   [Pyxxilated-Studios/Blackhole](https://github.com/Pyxxilated-Studios/Blackhole) - A DNS filtering and blocking server and client
+
+*   [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - Browser-based, graphical operating system for a personal server.
+
+*   [rust-blockchain/blockchain](https://github.com/rust-blockchain/blockchain) - Unopinioned blockchain framework written in Rust
+
+*   [rust-ethereum/ethereum](https://github.com/rust-ethereum/ethereum) - Common Ethereum structs for Rust.
+
+*   [rust-ethereum/evm](https://github.com/rust-ethereum/evm) - Pure Rust implementation of Ethereum Virtual Machine
+
+*   [baskerville/plato](https://github.com/baskerville/plato) - Document reader
+
+*   [cabal-club/cable.rs](https://github.com/cabal-club/cable.rs) - rust implementation of the cable protocol
+
+*   [ipfs-rust/ipfs-embed](https://github.com/ipfs-rust/ipfs-embed) - A small embeddable ipfs implementation
+
+*   [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+
+*   [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+
+*   [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
+
+*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+
+*   [jaredly/veoluz](https://github.com/jaredly/veoluz) - "I see light" - visualize the paths of millions of light rays through reflection, refraction and diffusion
+
+*   [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+
+*   [sdbondi/p2p-chess](https://github.com/sdbondi/p2p-chess) -
+
+*   [adam-mcdaniel/chess-engine](https://github.com/adam-mcdaniel/chess-engine) - A dependency-free chess engine♟️ library built to run anywhere.
+
+*   [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org
+
+*   [dswd/zvault](https://github.com/dswd/zvault) - Deduplicating backup solution
+
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+
+*   [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
+
+*   [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+
+*   [dothq/blocking-lists](https://github.com/dothq/blocking-lists) - 🛡️ Blocking lists used in Dot Browser
+
+*   [hoprnet/hoprnet](https://github.com/hoprnet/hoprnet) - HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange. HOPR is similar to Tor but actually private, decentralized and economically sustainable.
+
+*   [yinheli/kungfu](https://github.com/yinheli/kungfu) - Flexible DNS hijacking and proxy tool.
+
+*   [VOICEVOX/voicevox\_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
+
+*   [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
+
+*   [cabal-club/cabin](https://github.com/cabal-club/cabin) - a rustic command-line cabal client using the cable protocol
+
+*   [openaudiosearch/openaudiosearch](https://github.com/openaudiosearch/openaudiosearch) - Open Audio Search
+
+*   [open-quantum-safe/liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust) - Rust bindings for liboqs
+
+*   [p2panda/p2panda](https://github.com/p2panda/p2panda) - All the things a panda needs
+
+*   [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
+
+*   [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
+
+*   [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
+
+*   [thrzl/crust](https://github.com/thrzl/crust) - ⛏️ a real fast minecraft api (wip)
+
+*   [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
+
+*   [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
+
+*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
+
+*   [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
+
+*   [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
+
+*   [BVE-Reborn/rend3](https://github.com/BVE-Reborn/rend3) - Easy to use, customizable, efficient 3D renderer library built on wgpu.
+
+*   [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+
+*   [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language.
+
+*   [revoltchat/vortex](https://github.com/revoltchat/vortex) - (in development) Pluggable WebRTC Voice Server
+
+*   [revoltchat/january](https://github.com/revoltchat/january) - Image proxy and embed generator.
+
+*   [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
+
+*   [random-geek/MapEditr](https://github.com/random-geek/MapEditr) - A fast, command-line world editor for Minetest.
+
+*   [str4d/ire](https://github.com/str4d/ire) - I2P router implementation in Rust
+
+*   [dswd/vpncloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN
+
+*   [geph-official/geph4-client](https://github.com/geph-official/geph4-client) - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
+
+*   [Elkien3/minetest-mumble-wrapper](https://github.com/Elkien3/minetest-mumble-wrapper) - A small wrapper program and client mod to enable Mumble positional audio in Minetest without having to make a custom build of Minetest.
+
+*   [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
+
+*   [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
+
+*   [iceiix/stevenarella](https://github.com/iceiix/stevenarella) - Multi-protocol Minecraft-compatible client written in Rust
+
+*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+*   [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
+
+*   [Revertron/Alfis](https://github.com/Revertron/Alfis) - Alternative Free Identity System
+
+*   [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
+
+*   [jordan4ibanez/Crafter-Rust](https://github.com/jordan4ibanez/Crafter-Rust) -
+
+*   [IPSE-TEAM/ipse-core](https://github.com/IPSE-TEAM/ipse-core) - Ipse-core is the underlying consensus layer of IPSE project, which is the basic version of the whole application chain. The function modules to be added in the future are all extended based on this core version.
+
+*   [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
+
+*   [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.
+
+*   [shadow/shadow](https://github.com/shadow/shadow) - Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.
+
+*   [tenondvpn/leaf](https://github.com/tenondvpn/leaf) -
+
+*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
+
+*   [Terkwood/BUGOUT](https://github.com/Terkwood/BUGOUT) - AI-driven, Multiplayer Go/Weiqi/Baduk for the web 🐛🤖🦀♟
+
+*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
+
+*   [googleforgames/quilkin](https://github.com/googleforgames/quilkin) - Quilkin is a non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and more.
+
+*   [veloren/Airshipper](https://github.com/veloren/Airshipper) - The official Veloren launcher! This repository is a mirror. Please submit all PRs and issues on our GitLab page: https://gitlab.com/veloren/airshipper
+
+## AutoHotkey
+
+*   [Uberi/Autocomplete](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type! Write faster and more efficiently.
+
+*   [ltguillaume/redshift-tray](https://github.com/ltguillaume/redshift-tray) - A no-frills GUI for the excellent Redshift, with some optional OS hotkeys
+
+## Lua
+
+*   [appgurueu/voxelizer](https://github.com/appgurueu/voxelizer) - Turns 3D models into astonishing voxel builds.
+
+*   [Uberi/Minetest-WorldEdit](https://github.com/Uberi/Minetest-WorldEdit) - The ultimate in-game world editing tool for Minetest! Tons of functionality to help with building, fixing, and more.
+
+*   [vsergeev/luaradio](https://github.com/vsergeev/luaradio) - A lightweight, embeddable software-defined radio framework built on LuaJIT
+
+*   [mt-machines/tree-farm](https://github.com/mt-machines/tree-farm) - Code and schematic for a tree farm.
+
+*   [fluxionary/minetest-mobs\_balrog](https://github.com/fluxionary/minetest-mobs_balrog) - fork of https://codeberg.org/Hamlet/mobs\_balrog
+
+*   [fluxionary/minetest-digicolor](https://github.com/fluxionary/minetest-digicolor) - minetest mod which adds a node w/ programable color
+
+*   [LandonAConway/luablock](https://github.com/LandonAConway/luablock) - Adds more lua blocks to Minetest.
+
+*   [JoshParnell/ltheory](https://github.com/JoshParnell/ltheory) - Limit Theory
+
+*   [JasonTable/hexcol](https://github.com/JasonTable/hexcol) - 4096 Solid Colour blocks for Minetest
+
+*   [RisingLeaf/guilds](https://github.com/RisingLeaf/guilds) -
+
+*   [mt-mods/pipeworks](https://github.com/mt-mods/pipeworks) - Pipeworks is a mod for Minetest allowing the crafting and usage of pipes and tubes
+
+*   [inters/vita](https://github.com/inters/vita) - Vita: simple and fast VPN gateway
+
+*   [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
+
+*   [minetest-mods/3d\_armor](https://github.com/minetest-mods/3d_armor) - Visible player armor & wielded items for minetest
+
+*   [sirrobzeroone/worm\_farm](https://github.com/sirrobzeroone/worm_farm) - Adds a worm farm to grow worms in, primarily for fishing in ethereal
+
+*   [sirrobzeroone/3d\_armor\_flyswim](https://github.com/sirrobzeroone/3d_armor_flyswim) - adds flying and swimming animations for the player character in minetest
+
+*   [BuckarooBanzay/mtscad](https://github.com/BuckarooBanzay/mtscad) - OpenSCAD inspired minetest mod
+
+*   [BuckarooBanzay/eco](https://github.com/BuckarooBanzay/eco) -
+
+*   [veprogames/mt-100mts](https://github.com/veprogames/mt-100mts) - Minetest - 100 Minerals to success
+
+*   [mt-mods/missions](https://github.com/mt-mods/missions) - Minetest missions mod
+
+*   [t-affeldt/handholds\_redo](https://github.com/t-affeldt/handholds_redo) - A climbing overhaul for Minetest
+
+*   [sleepycrow/sorcery](https://github.com/sleepycrow/sorcery) - A dead-simple magic mod for minetest.
+
+*   [Skandarella/nativevillages](https://github.com/Skandarella/nativevillages) - An Addon for People Mod for Minetest
+
+*   [minetest-mods/mydoors](https://github.com/minetest-mods/mydoors) - Over 50 doors for Minetest
+
+*   [TumeniNodes/angledwalls](https://github.com/TumeniNodes/angledwalls) - angled walls, glass, and doors for Minetest
+
+*   [mt-mods/plantlife\_modpack](https://github.com/mt-mods/plantlife_modpack) -
+
+*   [runsy/petz](https://github.com/runsy/petz) - A Minetest Mod
+
+*   [Skandarella/animalworld](https://github.com/Skandarella/animalworld) - A Wildlife Mod for Minetest Game for Mobs Redo by TenPlus1
+
+*   [minetest-mods/crops](https://github.com/minetest-mods/crops) - Various farm vegetables for Minetest.
+
+*   [Gerold55/ma\_pops\_furniture](https://github.com/Gerold55/ma_pops_furniture) - A revamp of Ma & Pop's Furniture Mod
+
+*   [mt-historical/magic\_materials](https://github.com/mt-historical/magic_materials) -
+
+*   [Ezhh/caverealms\_lite](https://github.com/Ezhh/caverealms_lite) -
+
+*   [sirrobzeroone/elepower](https://github.com/sirrobzeroone/elepower) -
+
+*   [Skandarella/livingdesert](https://github.com/Skandarella/livingdesert) - A mod that adds plants to the deserts of Minetest Game
+
+*   [Skandarella/livingfloatlands](https://github.com/Skandarella/livingfloatlands) - A Minetest Mod for Mobs Redo by TenPlus1 which adds various prehistoric animals to the Floatlands
+
+*   [acmgit/cucina\_vegana](https://github.com/acmgit/cucina_vegana) - A Minetest Mod for the vegan Kitchen.
+
+*   [Skandarella/people](https://github.com/Skandarella/people) - A villager mod for Minetest based on Mobs Redo by Tenplus1
+
+*   [cermak-petr/uraniumstuff](https://github.com/cermak-petr/uraniumstuff) - Mod for Minetest, adds Uranium tools and armor, compatible with technic.
+
+*   [berengma/water\_life](https://github.com/berengma/water_life) - water mobs for mobkit/minetest
+
+*   [ac-minetest/basic\_machines](https://github.com/ac-minetest/basic_machines) - Simple automation mod for minetest
+
+*   [TanKer0z/BeterFarming](https://github.com/TanKer0z/BeterFarming) -
+
+*   [sfence/super\_computer](https://github.com/sfence/super_computer) - Add super computer like computing power source based on appliances mod to Minetest.
+
+*   [sfence/more\_appliances](https://github.com/sfence/more_appliances) - This Minetest mod add more appliances to Minetest game.
+
+*   [sfence/composting](https://github.com/sfence/composting) - Minetest mod composting inspired by existing compost mods.
+
+*   [Rotfuchs-von-Vulpes/what\_is\_this\_uwu-minetest](https://github.com/Rotfuchs-von-Vulpes/what_is_this_uwu-minetest) - A HUD mod for minetest
+
+*   [joe7575/signs\_bot](https://github.com/joe7575/signs_bot) - A Minetest robot controlled by signs
+
+*   [maikerumine/es](https://github.com/maikerumine/es) - Extreme Survival main mod \[needs to be in game directory]
+
+*   [mt-historical/gadgets\_modpack](https://github.com/mt-historical/gadgets_modpack) -
+
+*   [TeufloV/classic-monsters](https://github.com/TeufloV/classic-monsters) - This is a mod for Minetest Game
+
+*   [activivan/mt-pubinv](https://github.com/activivan/mt-pubinv) - Public Inventory Plus Mod for Minetest
+
+*   [TheUpliftWorld/uplift-mt](https://github.com/TheUpliftWorld/uplift-mt) -
+
+*   [MrRar/cannon73](https://github.com/MrRar/cannon73) - A shootable and aimable cannon mod for Minetest
+
+*   [Lemente/mt\_equippable\_accessories](https://github.com/Lemente/mt_equippable_accessories) - adds equippable accessories to minetests, that you can wear for looks and stat bonuses
+
+*   [x2048/dynamic\_exposure](https://github.com/x2048/dynamic_exposure) -
+
+*   [TeufloV/too\_many\_ores](https://github.com/TeufloV/too_many_ores) - This is a mod for Minetest Game. It adds in total 53 new ores in your world. But only five of them have there own tools.
+
+*   [CapsAdmin/goluwa](https://github.com/CapsAdmin/goluwa) - game engine and framework written in luajit
+
+*   [jordan4ibanez/tech](https://github.com/jordan4ibanez/tech) - I don't know
+
+*   [DokimiCU/aotearoa](https://github.com/DokimiCU/aotearoa) - Minetest mod that creates New Zealand biomes
+
+*   [edu-minetest/quiz](https://github.com/edu-minetest/quiz) -
+
+*   [mt-mods/beerchat](https://github.com/mt-mods/beerchat) - beerchat mod for minetest
+
+*   [Treer/cloudlands](https://github.com/Treer/cloudlands) - Hallelujah Mountains for Minetest (runs with or without a normal terrain mapgen)
+
+*   [BuckarooBanzay/holoemitter](https://github.com/BuckarooBanzay/holoemitter) -
+
+*   [rlars/railbuilder](https://github.com/rlars/railbuilder) - A Minetest mod to build rails with tunnels and bridges with a simple click.
+
+*   [Illarion-eV/Illarion-Content](https://github.com/Illarion-eV/Illarion-Content) - Illarion game content, including NPCs, quests, fighting system, etc.
+
+*   [joe7575/techage](https://github.com/joe7575/techage) - Techage, go through 5 tech ages in search of wealth and power!
+
+*   [joe7575/minecart](https://github.com/joe7575/minecart) - Minecart, the lean railway transportation automation system
+
+*   [Lemente/tidesandfloods](https://github.com/Lemente/tidesandfloods) -
+
+*   [minetest-mods/townchest](https://github.com/minetest-mods/townchest) - A chest and builder -NPC's in minetest
+
+*   [Andrey2470T/multidecor](https://github.com/Andrey2470T/multidecor) - Adds a huge amount of detailed furniture components, decorations and exterior stuff with various designs and styles of each epoch.
+
+*   [IIIullaIII/jukebox\_new](https://github.com/IIIullaIII/jukebox_new) -
+
+*   [TMcSquared/exoticores](https://github.com/TMcSquared/exoticores) - ExoticOresMod for Minetest
+
+*   [freeminer/default](https://github.com/freeminer/default) - default game for freeminer
+
+*   [C-C-Minetest-Server/protect\_block\_area](https://github.com/C-C-Minetest-Server/protect_block_area) -
+
+*   [Beanzilla/renewPack](https://github.com/Beanzilla/renewPack) - A minetest modpack that provides self-repairing tools and armor.
+
+*   [Emojigit/technic\_cnc\_improve](https://github.com/Emojigit/technic_cnc_improve) -
+
+*   [mt-mods/unified\_inventory\_plus](https://github.com/mt-mods/unified_inventory_plus) - Minetest Mod Extending Unified Inventory
+
+*   [Droog71/minegistics](https://github.com/Droog71/minegistics) - A building game with logistics networks, power grids, towns and trains.
+
+*   [panqkart/panqkart](https://github.com/panqkart/panqkart) - A 12 multiplayer racing game built with Minetest 🏎 with multiple/upgradable cars, coin system, and more.
+
+*   [minetest-mods/magma\_conduits](https://github.com/minetest-mods/magma_conduits) - A minetest mod that adds vertical magma conduits to mapgen
+
+*   [mt-mods/mail](https://github.com/mt-mods/mail) - Mail mod for Minetest
+
+*   [Qwertymine/crafting](https://github.com/Qwertymine/crafting) - An alternative crafting system for minetest
+
+*   [AFCMS/global\_market](https://github.com/AFCMS/global_market) - Add a chat command /market to Minetest
+
+*   [zeuner/structured\_communication](https://github.com/zeuner/structured_communication) -
+
+*   [AurailusMinetest/AuroraTech](https://github.com/AurailusMinetest/AuroraTech) - Unique and powerful gadgets and utilities. Made in 4 days for the UMTD Combat Modding Event.
+
+*   [AndrejIT/lighting\_rocket](https://github.com/AndrejIT/lighting_rocket) - Mod for Minetest game Lighting rocket (flare)
+
+*   [minetest-mods/unified\_inventory](https://github.com/minetest-mods/unified_inventory) - An extensible inventory mod which allows searching crafting and browsing for recipes in the same dialogue.
+
+*   [MT-Goops/scraps](https://github.com/MT-Goops/scraps) - Very simple Minetest mod that allows to recycle metal tools
+
+*   [MT-Goops/rings](https://github.com/MT-Goops/rings) - Minetest mod that adds rings with temporary player effects
+
+*   [MichaelDawe/simple\_xray](https://github.com/MichaelDawe/simple_xray) - X-ray mod for Minetest
+
+*   [berengma/farming\_nextgen](https://github.com/berengma/farming_nextgen) - NextGen farming for minetest
+
+*   [TurkeyMcMac/area\_containers](https://github.com/TurkeyMcMac/area_containers) - A mod for Minetest that adds nodes which contain areas.
+
+*   [Beanzilla/oreveins](https://github.com/Beanzilla/oreveins) - A node which produces ores for Minetest
+
+*   [BuckarooBanzay/mapblock\_lib](https://github.com/BuckarooBanzay/mapblock_lib) - Mapblock-granular world operations and utilities
+
+*   [mt-mods/catcommands](https://github.com/mt-mods/catcommands) - Extra commands for Minetest
+
+*   [mt-mods/jumpdrive](https://github.com/mt-mods/jumpdrive) -  Minetest jumpdrive mod
+
+*   [SwissalpS/replacer](https://github.com/SwissalpS/replacer) - tool that replaces nodes by clicking on them and another that inspects nodes and entities (Mod for Minetest)
+
+*   [mt-mods/moretrees](https://github.com/mt-mods/moretrees) -
+
+*   [BlockCityCreative/nitro\_digger](https://github.com/BlockCityCreative/nitro_digger) -
+
+*   [BlockCityCreative/remove\_falling](https://github.com/BlockCityCreative/remove_falling) - removes falling nodes from minetest
+
+*   [Lemente/remove\_lava](https://github.com/Lemente/remove_lava) - Minetest Mod : once loaded, will remove all lava nodes in loaded mapblocks every seconds above sea level
+
+*   [libremesh/lime-packages](https://github.com/libremesh/lime-packages) - OpenWrt packages composing LibreMesh meta-firmware for wireless mesh networking
+
+*   [HybridDog/treecapitator](https://github.com/HybridDog/treecapitator) - the TreeCapitator mod for minetest
+
+*   [FreeLikeGNU/goblins](https://github.com/FreeLikeGNU/goblins) - goblins for minetest, Mobs Redo required
+
+*   [SmallJoker/boost\_cart](https://github.com/SmallJoker/boost_cart) - The original version of minetest\_game's carts (since 2018).
+
+*   [gigaturbo/codeblock](https://github.com/gigaturbo/codeblock) - Use lua code in Minetest to build anything you want
+
+*   [MT-CTF/capturetheflag](https://github.com/MT-CTF/capturetheflag) - Capture the Flag game using the Minetest Voxel Engine
+
+*   [APercy/minekart](https://github.com/APercy/minekart) -
+
+*   [sbrl/minetest-floating\_anchor](https://github.com/sbrl/minetest-floating_anchor) - A floating anchor mod for minetest. Adds an item that, when used, places a floating anchor block at the player's position.
+
+*   [sbrl/Minetest-WorldEditAdditions](https://github.com/sbrl/Minetest-WorldEditAdditions) - Extra tools and commands to extend WorldEdit for Minetest
+
+*   [masakhane-io/masakhane-mt](https://github.com/masakhane-io/masakhane-mt) - Machine Translation for Africa
+
+*   [2439905184/tic-button-example](https://github.com/2439905184/tic-button-example) - just keep it simple.
+
+*   [liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet) - Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award).
+
+*   [runsy/juanchi](https://github.com/runsy/juanchi) - A Minetest Game
+
+*   [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) - Rime / Easy English 英文输入法
+
+*   [runsy/eraz](https://github.com/runsy/eraz) - Merchants for Minetest
+
+*   [MultiCraft/cleaner](https://github.com/MultiCraft/cleaner) - 🧹 \[MOD] Lightweight remove unknown items and entities from inventory and world
+
+*   [minetest/minetest\_game](https://github.com/minetest/minetest_game) - Minetest Game -  A lightweight and well-maintained base for modding \[https://github.com/minetest/minetest/]
+
+*   [appgurueu/cellestial](https://github.com/appgurueu/cellestial) - Cellular Automata for Minetest
+
+*   [RichardTry/among\_us](https://github.com/RichardTry/among_us) - Among Us for Minetest (Game)
+
+*   [RichardTry/living\_trees](https://github.com/RichardTry/living_trees) - Adds Living trees to Minetest
+
+*   [D00Med/vehicles](https://github.com/D00Med/vehicles) - minetest mod that adds vehicles. Written for minetest 0.4.??
+
+*   [D00Med/LegendofMinetest](https://github.com/D00Med/LegendofMinetest) - Minetest game based on Legend of Zelda
+
+*   [gubbu/ehltype](https://github.com/gubbu/ehltype) - a minetest mod that places text nodes into your world when used with the ehlphabet mod.
+
+*   [ExeVirus/Compress-Obj](https://github.com/ExeVirus/Compress-Obj) - Lossless and lossy Obj Compression Utility in Lua
+
+*   [ExeVirus/boxgen](https://github.com/ExeVirus/boxgen) - Boxgen V1.0 - An automatic obj to minetest collision box generator utility
+
+*   [appgurueu/character\_anim](https://github.com/appgurueu/character_anim) - Minetest mod implementing character animations
+
+*   [APercy/helicopter](https://github.com/APercy/helicopter) - Mod that adds helicopter to the Minetest
+
+*   [sirrobzeroone/falling\_tree\_capitator](https://github.com/sirrobzeroone/falling_tree_capitator) -
+
+*   [runsy/cool\_trees](https://github.com/runsy/cool_trees) - Cool Trees Mod For Minetest
+
+*   [random-geek/meshport](https://github.com/random-geek/meshport) - Easily export areas in Minetest to meshes for 3D rendering.
+
+*   [random-geek/auroras](https://github.com/random-geek/auroras) - Minetest mod adding auroras (northern/southern lights) at night in cold places.
+
+*   [x2048/terraform](https://github.com/x2048/terraform) - Landscape editor for Minetest, similar to WorldEdit.
+
+*   [x2048/cinematic](https://github.com/x2048/cinematic) - Add cinematic camera motion to Minetest
+
+*   [x2048/shadows](https://github.com/x2048/shadows) - Add sunlight shadows to your Minetest game
+
+*   [IIIullaIII/CANNABIS\_MOD](https://github.com/IIIullaIII/CANNABIS_MOD) - THE HEMP MOD
+
+*   [prestidigitator/minetest-mod-prestibags](https://github.com/prestidigitator/minetest-mod-prestibags) - Prestibags are simple bags that act like chests you can pick up.
+
+*   [AiTechEye/was](https://github.com/AiTechEye/was) -
+
+*   [ExeVirus/autobox](https://github.com/ExeVirus/autobox) - Minetest Utility Mod For autobox mesh loading
+
+*   [LucxMangaJet/minetest\_presentations](https://github.com/LucxMangaJet/minetest_presentations) - A mod for minetest that allows displaying images downloadable at runtime
+
+*   [IIIullaIII/jukebox](https://github.com/IIIullaIII/jukebox) - jukebox
+
+*   [mbruchert/mod-poketest](https://github.com/mbruchert/mod-poketest) - pokemon mod for minetest
+
+*   [matortheeternal/fractal-miner](https://github.com/matortheeternal/fractal-miner) - A set of mods for Minetest for generating fractal worlds.
+
+*   [groverburger/g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
+
+*   [Minefix/MineFix](https://github.com/Minefix/MineFix) - Recreating Minecraft in Minetest, as close as possible
+
+*   [SmallJoker/simple\_protection](https://github.com/SmallJoker/simple_protection) - Minetest fixed-grid quadratic area protection mod with graphical area "minimap"
+
+*   [minetest-mapserver/mapserver\_mod](https://github.com/minetest-mapserver/mapserver_mod) - Complementary mod for the minetest mapserver
+
+*   [MysticTempest/Simple-Texture-Pack-Test-Map](https://github.com/MysticTempest/Simple-Texture-Pack-Test-Map) - Simple Texture-Pack Test Map for Minetest Game
+
+*   [cuberite/Core](https://github.com/cuberite/Core) - Plugin for Cuberite that implements default commands and some additional functionality
+
+*   [minetest-mods/commoditymarket](https://github.com/minetest-mods/commoditymarket) - Adds one or more global commodity markets to Minetest
+
+*   [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
 ## miscellaneous
 
@@ -2756,364 +3442,6 @@
 
 *   [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol) - Fully featured and community-driven hacking environment
 
-## Rust
-
-*   [mel-project/melnode](https://github.com/mel-project/melnode) - Reference implementation of Mel
-
-*   [checkpoint-restore/rust-criu](https://github.com/checkpoint-restore/rust-criu) - Rust Bindings for CRIU
-
-*   [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-
-*   [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform
-
-*   [upvpn/upvpn-app](https://github.com/upvpn/upvpn-app) - Serverless VPN app for macOS, Linux, Windows, and Android
-
-*   [scrtlabs/SecretNetwork](https://github.com/scrtlabs/SecretNetwork) - 𝕊 The Secret Network
-
-*   [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
-
-*   [darkrenaissance/darkfi](https://github.com/darkrenaissance/darkfi) - Anonymous. Uncensored. Sovereign.
-
-*   [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
-
-*   [filecoin-project/ref-fvm](https://github.com/filecoin-project/ref-fvm) - Reference implementation of the Filecoin Virtual Machine
-
-*   [filecoin-project/rust-fil-proofs](https://github.com/filecoin-project/rust-fil-proofs) - Proofs for Filecoin in Rust
-
-*   [ferrumgate/secure.server.quic](https://github.com/ferrumgate/secure.server.quic) - vpn server and client over quic  with rust (tokio,quinn)
-
-*   [anderspitman/fibridge-proxy-rs](https://github.com/anderspitman/fibridge-proxy-rs) - Proxy for turning web browsers into web servers. Load a 100GB file in your browser and stream it over the public web with HTTP byte range requests.
-
-*   [Satellite-im/Uplink](https://github.com/Satellite-im/Uplink) -  (Pre-Release Software) Secure, Encrypted, P2P chat written atop Warp, IPFS, LibP2P, Dioxus and many more awesome projects and protocols.
-
-*   [mel-project/earendil](https://github.com/mel-project/earendil) - A decentralized, censorship-resistant, and incentive-compatible packet-routing overlay network
-
-*   [geph-official/geph4-bridge](https://github.com/geph-official/geph4-bridge) - Bridge node for Geph, spun off from geph4
-
-*   [geph-official/sosistab2](https://github.com/geph-official/sosistab2) - A pluggable, obfuscated datagram transport for horrible networks
-
-*   [geph-official/sosistab2-obfsudp](https://github.com/geph-official/sosistab2-obfsudp) - Obfuscated UDP transport for sosistab2
-
-*   [geph-official/sosistab](https://github.com/geph-official/sosistab) - An obfuscated datagram transport for horrible networks
-
-*   [compute-toys/wgpu-compute-toy](https://github.com/compute-toys/wgpu-compute-toy) - Cross-platform compute shader engine
-
-*   [egorolegovichyakovlev/TorBridgesUpdater](https://github.com/egorolegovichyakovlev/TorBridgesUpdater) - An utility to fetch new Tor bridges on daily basis
-
-*   [refraction-networking/conjure](https://github.com/refraction-networking/conjure) - Conjure Refraction Networking station code
-
-*   [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
-
-*   [cyphernet-dao/rust-cyphernet](https://github.com/cyphernet-dao/rust-cyphernet) - Cyphernet is a set of libraries for privacy-preserving networking apps
-
-*   [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. Work in progress!
-
-*   [emilengler/arti](https://github.com/emilengler/arti) - \[MIRROR] Arti: An implementation of Tor, in Rust
-
-*   [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum secure VPN that uses WireGuard to transport the actual data.
-
-*   [maidsafe/safe\_network](https://github.com/maidsafe/safe_network) -
-
-*   [unblockable/proteus](https://github.com/unblockable/proteus) - Proteus: Programmable Protocols for Censorship Circumvention
-
-*   [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
-
-*   [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
-
-*   [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
-
-*   [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
-
-*   [zevtyardt/proxy.rs](https://github.com/zevtyardt/proxy.rs) -
-
-*   [romanz/electrs](https://github.com/romanz/electrs) - An efficient re-implementation of Electrum Server in Rust
-
-*   [manuels/wireguard-p2p](https://github.com/manuels/wireguard-p2p) - A tool for setting up WireGuard connections from peer to peer.
-
-*   [manuels/bulletinboard-dht](https://github.com/manuels/bulletinboard-dht) - Your internet-wide general-purpose DHT to store key/value pairs
-
-*   [manuels/tuntap.rs](https://github.com/manuels/tuntap.rs) - Linux TunTap bindings for Rust
-
-*   [torrust/torrust-index](https://github.com/torrust/torrust-index) - This repository serves as the backend for the Torrust Index project.
-
-*   [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised\_face:, secure :lock: meta search engine
-
-*   [smol-dot/smoldot](https://github.com/smol-dot/smoldot) - Lightweight client for Substrate-based chains, such as Polkadot and Kusama.
-
-*   [torrust/bittorrent-infrastructure-project](https://github.com/torrust/bittorrent-infrastructure-project) - BitTorrent Infrastructure Project
-
-*   [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) - Trojan server and proxy programs written in Rust
-
-*   [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
-
-*   [buttplugio/buttplug](https://github.com/buttplugio/buttplug) - Rust Implementation of the Buttplug Sex Toy Control Protocol
-
-*   [matrix-org/matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust
-
-*   [Barre/privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
-
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
-
-*   [toblux/rust-clamav-client](https://github.com/toblux/rust-clamav-client) - Rust ClamAV Client
-
-*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-
-*   [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
-
-*   [equalitie/btdht](https://github.com/equalitie/btdht) - Standalone bittorrent DHT library for rust
-
-*   [n0-computer/iroh](https://github.com/n0-computer/iroh) - Sync anywhere
-
-*   [tenondvpn/leaf\_new](https://github.com/tenondvpn/leaf_new) - leaf\_new
-
-*   [planetoryd/netns-proxy](https://github.com/planetoryd/netns-proxy) - Containerized Proxying. Clone from the link below.
-
-*   [Freifunk-Dresden/wg\_accept\_cgi](https://github.com/Freifunk-Dresden/wg_accept_cgi) - CGI rust programm for accepting wireguard connections
-
-*   [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
-
-*   [move-language/move](https://github.com/move-language/move) -
-
-*   [huff-language/huff-rs](https://github.com/huff-language/huff-rs) - A low-level assembly language for the Ethereum Virtual Machine built in blazing-fast pure rust.
-
-*   [mrDIMAS/StationIapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase
-
-*   [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
-
-*   [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
-
-*   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-
-*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-
-*   [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
-
-*   [StasiumDev/ReviOS-Verifier](https://github.com/StasiumDev/ReviOS-Verifier) - Small tool to verify ReviOS ISOs
-
-*   [littlebenlittle/p2p-tun](https://github.com/littlebenlittle/p2p-tun) - VPN using libp2p
-
-*   [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
-
-*   [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
-
-*   [ChristopherBilg/ri2p](https://github.com/ChristopherBilg/ri2p) - Rust implementation of the i2p client/server/router protocols
-
-*   [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
-
-*   [ExodusVPN/exodus](https://github.com/ExodusVPN/exodus) - network proxy and tunnel (VPN)
-
-*   [meh/rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
-
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-
-*   [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
-
-*   [minetest-rust/mt\_rudp](https://github.com/minetest-rust/mt_rudp) -
-
-*   [minetest-rust/mt\_net](https://github.com/minetest-rust/mt_net) -
-
-*   [minetest-rust/mt\_ser](https://github.com/minetest-rust/mt_ser) -
-
-*   [radicle-dev/heartwood](https://github.com/radicle-dev/heartwood) - ❤️🪵 Radicle Heartwood Protocol & Stack
-
-*   [radicle-dev/radicle-client-services](https://github.com/radicle-dev/radicle-client-services) - Services backing the Radicle client interfaces.
-
-*   [radicle-dev/radicle-cli](https://github.com/radicle-dev/radicle-cli) - Radicle CLI
-
-*   [Manta-Network/Manta](https://github.com/Manta-Network/Manta) - The main repo for manta blockchain nodes.
-
-*   [MASQ-Project/Node](https://github.com/MASQ-Project/Node) - MASQ combines the benefits of VPN and Tor technology to create a superior next-generation privacy software, where users are rewarded for supporting an uncensored global web. Users gain privacy and anonymity online, while helping promote Internet Freedom.
-
-*   [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-
-*   [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available
-
-*   [minetest-rust/mt\_client](https://github.com/minetest-rust/mt_client) -
-
-*   [paritytech/cumulus](https://github.com/paritytech/cumulus) - Write Parachains on Substrate
-
-*   [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
-
-*   [AP-Atul/ranobe](https://github.com/AP-Atul/ranobe) - light novel scraper in rust
-
-*   [Nhlest/shikataganai](https://github.com/Nhlest/shikataganai) - 仕方がない...
-
-*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-
-*   [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Data Science Spreadsheet with Python & SQL
-
-*   [Game4all/vx\_bevy](https://github.com/Game4all/vx_bevy) - 🧊 Voxel engine prototype made with the bevy game engine. Serves as a playground for experimenting with voxels, terrain generation, and bevy.
-
-*   [mwbryant/logic\_voxels](https://github.com/mwbryant/logic_voxels) - A personal multiplayer voxel game created with the Bevy game engine
-
-*   [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum endpoint-to-endpoint encryption for messaging and file-sharing SDK
-
-*   [pen-lang/pen](https://github.com/pen-lang/pen) - The parallel, concurrent, and functional programming language for scalable software development
-
-*   [fluencelabs/nox](https://github.com/fluencelabs/nox) - Rust implementation of the Fluence network peer
-
-*   [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
-
-*   [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
-
-*   [toastxc/cf-ddns](https://github.com/toastxc/cf-ddns) - dynamic IP DNS client for cloudflare
-
-*   [das-labor/panopticon](https://github.com/das-labor/panopticon) - A libre cross-platform disassembler.
-
-*   [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox\_with\_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
-
-*   [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-
-*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
-
-*   [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) - Rust implementation of Magic Wormhole, with new features and enhancements
-
-*   [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
-
-*   [datrs/hypercore](https://github.com/datrs/hypercore) - Secure, distributed, append-only log
-
-*   [kpcyrd/narnia](https://github.com/kpcyrd/narnia) - :construction: EXPERIMENTAL :construction: Secure hidden service webserver
-
-*   [Pyxxilated-Studios/Blackhole](https://github.com/Pyxxilated-Studios/Blackhole) - A DNS filtering and blocking server and client
-
-*   [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - Browser-based, graphical operating system for a personal server.
-
-*   [rust-blockchain/blockchain](https://github.com/rust-blockchain/blockchain) - Unopinioned blockchain framework written in Rust
-
-*   [rust-ethereum/ethereum](https://github.com/rust-ethereum/ethereum) - Common Ethereum structs for Rust.
-
-*   [rust-ethereum/evm](https://github.com/rust-ethereum/evm) - Pure Rust implementation of Ethereum Virtual Machine
-
-*   [baskerville/plato](https://github.com/baskerville/plato) - Document reader
-
-*   [cabal-club/cable.rs](https://github.com/cabal-club/cable.rs) - rust implementation of the cable protocol
-
-*   [ipfs-rust/ipfs-embed](https://github.com/ipfs-rust/ipfs-embed) - A small embeddable ipfs implementation
-
-*   [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-
-*   [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-
-*   [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-
-*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-
-*   [jaredly/veoluz](https://github.com/jaredly/veoluz) - "I see light" - visualize the paths of millions of light rays through reflection, refraction and diffusion
-
-*   [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-
-*   [sdbondi/p2p-chess](https://github.com/sdbondi/p2p-chess) -
-
-*   [adam-mcdaniel/chess-engine](https://github.com/adam-mcdaniel/chess-engine) - A dependency-free chess engine♟️ library built to run anywhere.
-
-*   [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org
-
-*   [dswd/zvault](https://github.com/dswd/zvault) - Deduplicating backup solution
-
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
-
-*   [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
-
-*   [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
-
-*   [dothq/blocking-lists](https://github.com/dothq/blocking-lists) - 🛡️ Blocking lists used in Dot Browser
-
-*   [hoprnet/hoprnet](https://github.com/hoprnet/hoprnet) - HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange. HOPR is similar to Tor but actually private, decentralized and economically sustainable.
-
-*   [yinheli/kungfu](https://github.com/yinheli/kungfu) - Flexible DNS hijacking and proxy tool.
-
-*   [VOICEVOX/voicevox\_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
-
-*   [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-
-*   [cabal-club/cabin](https://github.com/cabal-club/cabin) - a rustic command-line cabal client using the cable protocol
-
-*   [openaudiosearch/openaudiosearch](https://github.com/openaudiosearch/openaudiosearch) - Open Audio Search
-
-*   [open-quantum-safe/liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust) - Rust bindings for liboqs
-
-*   [p2panda/p2panda](https://github.com/p2panda/p2panda) - All the things a panda needs
-
-*   [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
-
-*   [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
-
-*   [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
-
-*   [thrzl/crust](https://github.com/thrzl/crust) - ⛏️ a real fast minecraft api (wip)
-
-*   [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
-
-*   [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
-
-*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
-
-*   [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
-
-*   [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
-
-*   [BVE-Reborn/rend3](https://github.com/BVE-Reborn/rend3) - Easy to use, customizable, efficient 3D renderer library built on wgpu.
-
-*   [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
-
-*   [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language.
-
-*   [revoltchat/vortex](https://github.com/revoltchat/vortex) - (in development) Pluggable WebRTC Voice Server
-
-*   [revoltchat/january](https://github.com/revoltchat/january) - Image proxy and embed generator.
-
-*   [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
-
-*   [random-geek/MapEditr](https://github.com/random-geek/MapEditr) - A fast, command-line world editor for Minetest.
-
-*   [str4d/ire](https://github.com/str4d/ire) - I2P router implementation in Rust
-
-*   [dswd/vpncloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN
-
-*   [geph-official/geph4-client](https://github.com/geph-official/geph4-client) - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
-
-*   [Elkien3/minetest-mumble-wrapper](https://github.com/Elkien3/minetest-mumble-wrapper) - A small wrapper program and client mod to enable Mumble positional audio in Minetest without having to make a custom build of Minetest.
-
-*   [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
-
-*   [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
-
-*   [iceiix/stevenarella](https://github.com/iceiix/stevenarella) - Multi-protocol Minecraft-compatible client written in Rust
-
-*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-
-*   [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
-
-*   [Revertron/Alfis](https://github.com/Revertron/Alfis) - Alternative Free Identity System
-
-*   [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
-
-*   [jordan4ibanez/Crafter-Rust](https://github.com/jordan4ibanez/Crafter-Rust) -
-
-*   [IPSE-TEAM/ipse-core](https://github.com/IPSE-TEAM/ipse-core) - Ipse-core is the underlying consensus layer of IPSE project, which is the basic version of the whole application chain. The function modules to be added in the future are all extended based on this core version.
-
-*   [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
-
-*   [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.
-
-*   [shadow/shadow](https://github.com/shadow/shadow) - Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.
-
-*   [tenondvpn/leaf](https://github.com/tenondvpn/leaf) -
-
-*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-
-*   [Terkwood/BUGOUT](https://github.com/Terkwood/BUGOUT) - AI-driven, Multiplayer Go/Weiqi/Baduk for the web 🐛🤖🦀♟
-
-*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
-
-*   [googleforgames/quilkin](https://github.com/googleforgames/quilkin) - Quilkin is a non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and more.
-
-*   [veloren/Airshipper](https://github.com/veloren/Airshipper) - The official Veloren launcher! This repository is a mirror. Please submit all PRs and issues on our GitLab page: https://gitlab.com/veloren/airshipper
-
 ## Go
 
 *   [tanc7/EXOCET-AV-Evasion](https://github.com/tanc7/EXOCET-AV-Evasion) - EXOCET - AV-evading, undetectable, payload delivery tool
@@ -4312,8 +4640,6 @@
 
 *   [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 
-*   [little-game-and-simple-software/EasyAvg.js](https://github.com/little-game-and-simple-software/EasyAvg.js) - EasyAvg.js简易视觉小说游戏框架.js ，使用免费，技术支持服务付费，当然欢迎大家贡献代码
-
 ## Fluent
 
 *   [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with telemetry disabling
@@ -4521,8 +4847,6 @@
 *   [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
 
 *   [joelpurra/talkie](https://github.com/joelpurra/talkie) - Text-to-speech browser extension button. Select text on any web page, and have the computer read it out loud for you by simply clicking the Talkie button.
-
-*   [ResetPower/Epherome](https://github.com/ResetPower/Epherome) - Powerful Minecraft Launcher
 
 ## Ruby
 
@@ -4897,8 +5221,6 @@
 *   [Captain-Chaos/WorldPainter](https://github.com/Captain-Chaos/WorldPainter) - WorldPainter is an interactive graphical map generator for the indie game Minecraft.
 
 *   [KunoSayo/FunctionInMC](https://github.com/KunoSayo/FunctionInMC) - just a boring plugin to show function inc mc
-
-*   [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 
 ## Jupyter Notebook
 
@@ -5426,304 +5748,6 @@
 
 *   [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 
-## Lua
-
-*   [vsergeev/luaradio](https://github.com/vsergeev/luaradio) - A lightweight, embeddable software-defined radio framework built on LuaJIT
-
-*   [mt-machines/tree-farm](https://github.com/mt-machines/tree-farm) - Code and schematic for a tree farm.
-
-*   [fluxionary/minetest-mobs\_balrog](https://github.com/fluxionary/minetest-mobs_balrog) - fork of https://codeberg.org/Hamlet/mobs\_balrog
-
-*   [fluxionary/minetest-digicolor](https://github.com/fluxionary/minetest-digicolor) - minetest mod which adds a node w/ programable color
-
-*   [LandonAConway/luablock](https://github.com/LandonAConway/luablock) - Adds more lua blocks to Minetest.
-
-*   [JoshParnell/ltheory](https://github.com/JoshParnell/ltheory) - Limit Theory
-
-*   [JasonTable/hexcol](https://github.com/JasonTable/hexcol) - 4096 Solid Colour blocks for Minetest
-
-*   [RisingLeaf/guilds](https://github.com/RisingLeaf/guilds) -
-
-*   [mt-mods/pipeworks](https://github.com/mt-mods/pipeworks) - Pipeworks is a mod for Minetest allowing the crafting and usage of pipes and tubes
-
-*   [inters/vita](https://github.com/inters/vita) - Vita: simple and fast VPN gateway
-
-*   [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
-
-*   [minetest-mods/3d\_armor](https://github.com/minetest-mods/3d_armor) - Visible player armor & wielded items for minetest
-
-*   [sirrobzeroone/worm\_farm](https://github.com/sirrobzeroone/worm_farm) - Adds a worm farm to grow worms in, primarily for fishing in ethereal
-
-*   [sirrobzeroone/3d\_armor\_flyswim](https://github.com/sirrobzeroone/3d_armor_flyswim) - adds flying and swimming animations for the player character in minetest
-
-*   [BuckarooBanzay/mtscad](https://github.com/BuckarooBanzay/mtscad) - OpenSCAD inspired minetest mod
-
-*   [BuckarooBanzay/eco](https://github.com/BuckarooBanzay/eco) -
-
-*   [veprogames/mt-100mts](https://github.com/veprogames/mt-100mts) - Minetest - 100 Minerals to success
-
-*   [mt-mods/missions](https://github.com/mt-mods/missions) - Minetest missions mod
-
-*   [t-affeldt/handholds\_redo](https://github.com/t-affeldt/handholds_redo) - A climbing overhaul for Minetest
-
-*   [sleepycrow/sorcery](https://github.com/sleepycrow/sorcery) - A dead-simple magic mod for minetest.
-
-*   [Skandarella/nativevillages](https://github.com/Skandarella/nativevillages) - An Addon for People Mod for Minetest
-
-*   [minetest-mods/mydoors](https://github.com/minetest-mods/mydoors) - Over 50 doors for Minetest
-
-*   [TumeniNodes/angledwalls](https://github.com/TumeniNodes/angledwalls) - angled walls, glass, and doors for Minetest
-
-*   [mt-mods/plantlife\_modpack](https://github.com/mt-mods/plantlife_modpack) -
-
-*   [runsy/petz](https://github.com/runsy/petz) - A Minetest Mod
-
-*   [Skandarella/animalworld](https://github.com/Skandarella/animalworld) - A Wildlife Mod for Minetest Game for Mobs Redo by TenPlus1
-
-*   [minetest-mods/crops](https://github.com/minetest-mods/crops) - Various farm vegetables for Minetest.
-
-*   [Gerold55/ma\_pops\_furniture](https://github.com/Gerold55/ma_pops_furniture) - A revamp of Ma & Pop's Furniture Mod
-
-*   [mt-historical/magic\_materials](https://github.com/mt-historical/magic_materials) -
-
-*   [Ezhh/caverealms\_lite](https://github.com/Ezhh/caverealms_lite) -
-
-*   [sirrobzeroone/elepower](https://github.com/sirrobzeroone/elepower) -
-
-*   [Skandarella/livingdesert](https://github.com/Skandarella/livingdesert) - A mod that adds plants to the deserts of Minetest Game
-
-*   [Skandarella/livingfloatlands](https://github.com/Skandarella/livingfloatlands) - A Minetest Mod for Mobs Redo by TenPlus1 which adds various prehistoric animals to the Floatlands
-
-*   [acmgit/cucina\_vegana](https://github.com/acmgit/cucina_vegana) - A Minetest Mod for the vegan Kitchen.
-
-*   [Skandarella/people](https://github.com/Skandarella/people) - A villager mod for Minetest based on Mobs Redo by Tenplus1
-
-*   [cermak-petr/uraniumstuff](https://github.com/cermak-petr/uraniumstuff) - Mod for Minetest, adds Uranium tools and armor, compatible with technic.
-
-*   [berengma/water\_life](https://github.com/berengma/water_life) - water mobs for mobkit/minetest
-
-*   [ac-minetest/basic\_machines](https://github.com/ac-minetest/basic_machines) - Simple automation mod for minetest
-
-*   [TanKer0z/BeterFarming](https://github.com/TanKer0z/BeterFarming) -
-
-*   [sfence/super\_computer](https://github.com/sfence/super_computer) - Add super computer like computing power source based on appliances mod to Minetest.
-
-*   [sfence/more\_appliances](https://github.com/sfence/more_appliances) - This Minetest mod add more appliances to Minetest game.
-
-*   [sfence/composting](https://github.com/sfence/composting) - Minetest mod composting inspired by existing compost mods.
-
-*   [Rotfuchs-von-Vulpes/what\_is\_this\_uwu-minetest](https://github.com/Rotfuchs-von-Vulpes/what_is_this_uwu-minetest) - A HUD mod for minetest
-
-*   [joe7575/signs\_bot](https://github.com/joe7575/signs_bot) - A Minetest robot controlled by signs
-
-*   [maikerumine/es](https://github.com/maikerumine/es) - Extreme Survival main mod \[needs to be in game directory]
-
-*   [mt-historical/gadgets\_modpack](https://github.com/mt-historical/gadgets_modpack) -
-
-*   [TeufloV/classic-monsters](https://github.com/TeufloV/classic-monsters) - This is a mod for Minetest Game
-
-*   [activivan/mt-pubinv](https://github.com/activivan/mt-pubinv) - Public Inventory Plus Mod for Minetest
-
-*   [TheUpliftWorld/uplift-mt](https://github.com/TheUpliftWorld/uplift-mt) -
-
-*   [MrRar/cannon73](https://github.com/MrRar/cannon73) - A shootable and aimable cannon mod for Minetest
-
-*   [Lemente/mt\_equippable\_accessories](https://github.com/Lemente/mt_equippable_accessories) - adds equippable accessories to minetests, that you can wear for looks and stat bonuses
-
-*   [x2048/dynamic\_exposure](https://github.com/x2048/dynamic_exposure) -
-
-*   [TeufloV/too\_many\_ores](https://github.com/TeufloV/too_many_ores) - This is a mod for Minetest Game. It adds in total 53 new ores in your world. But only five of them have there own tools.
-
-*   [CapsAdmin/goluwa](https://github.com/CapsAdmin/goluwa) - game engine and framework written in luajit
-
-*   [jordan4ibanez/tech](https://github.com/jordan4ibanez/tech) - I don't know
-
-*   [DokimiCU/aotearoa](https://github.com/DokimiCU/aotearoa) - Minetest mod that creates New Zealand biomes
-
-*   [edu-minetest/quiz](https://github.com/edu-minetest/quiz) -
-
-*   [mt-mods/beerchat](https://github.com/mt-mods/beerchat) - beerchat mod for minetest
-
-*   [Treer/cloudlands](https://github.com/Treer/cloudlands) - Hallelujah Mountains for Minetest (runs with or without a normal terrain mapgen)
-
-*   [BuckarooBanzay/holoemitter](https://github.com/BuckarooBanzay/holoemitter) -
-
-*   [rlars/railbuilder](https://github.com/rlars/railbuilder) - A Minetest mod to build rails with tunnels and bridges with a simple click.
-
-*   [Illarion-eV/Illarion-Content](https://github.com/Illarion-eV/Illarion-Content) - Illarion game content, including NPCs, quests, fighting system, etc.
-
-*   [joe7575/techage](https://github.com/joe7575/techage) - Techage, go through 5 tech ages in search of wealth and power!
-
-*   [joe7575/minecart](https://github.com/joe7575/minecart) - Minecart, the lean railway transportation automation system
-
-*   [Lemente/tidesandfloods](https://github.com/Lemente/tidesandfloods) -
-
-*   [minetest-mods/townchest](https://github.com/minetest-mods/townchest) - A chest and builder -NPC's in minetest
-
-*   [Andrey2470T/multidecor](https://github.com/Andrey2470T/multidecor) - Adds a huge amount of detailed furniture components, decorations and exterior stuff with various designs and styles of each epoch.
-
-*   [IIIullaIII/jukebox\_new](https://github.com/IIIullaIII/jukebox_new) -
-
-*   [TMcSquared/exoticores](https://github.com/TMcSquared/exoticores) - ExoticOresMod for Minetest
-
-*   [freeminer/default](https://github.com/freeminer/default) - default game for freeminer
-
-*   [C-C-Minetest-Server/protect\_block\_area](https://github.com/C-C-Minetest-Server/protect_block_area) -
-
-*   [Beanzilla/renewPack](https://github.com/Beanzilla/renewPack) - A minetest modpack that provides self-repairing tools and armor.
-
-*   [Emojigit/technic\_cnc\_improve](https://github.com/Emojigit/technic_cnc_improve) -
-
-*   [mt-mods/unified\_inventory\_plus](https://github.com/mt-mods/unified_inventory_plus) - Minetest Mod Extending Unified Inventory
-
-*   [Droog71/minegistics](https://github.com/Droog71/minegistics) - A building game with logistics networks, power grids, towns and trains.
-
-*   [panqkart/panqkart](https://github.com/panqkart/panqkart) - A 12 multiplayer racing game built with Minetest 🏎 with multiple/upgradable cars, coin system, and more.
-
-*   [minetest-mods/magma\_conduits](https://github.com/minetest-mods/magma_conduits) - A minetest mod that adds vertical magma conduits to mapgen
-
-*   [mt-mods/mail](https://github.com/mt-mods/mail) - Mail mod for Minetest
-
-*   [Qwertymine/crafting](https://github.com/Qwertymine/crafting) - An alternative crafting system for minetest
-
-*   [AFCMS/global\_market](https://github.com/AFCMS/global_market) - Add a chat command /market to Minetest
-
-*   [zeuner/structured\_communication](https://github.com/zeuner/structured_communication) -
-
-*   [AurailusMinetest/AuroraTech](https://github.com/AurailusMinetest/AuroraTech) - Unique and powerful gadgets and utilities. Made in 4 days for the UMTD Combat Modding Event.
-
-*   [AndrejIT/lighting\_rocket](https://github.com/AndrejIT/lighting_rocket) - Mod for Minetest game Lighting rocket (flare)
-
-*   [minetest-mods/unified\_inventory](https://github.com/minetest-mods/unified_inventory) - An extensible inventory mod which allows searching crafting and browsing for recipes in the same dialogue.
-
-*   [MT-Goops/scraps](https://github.com/MT-Goops/scraps) - Very simple Minetest mod that allows to recycle metal tools
-
-*   [MT-Goops/rings](https://github.com/MT-Goops/rings) - Minetest mod that adds rings with temporary player effects
-
-*   [MichaelDawe/simple\_xray](https://github.com/MichaelDawe/simple_xray) - X-ray mod for Minetest
-
-*   [berengma/farming\_nextgen](https://github.com/berengma/farming_nextgen) - NextGen farming for minetest
-
-*   [TurkeyMcMac/area\_containers](https://github.com/TurkeyMcMac/area_containers) - A mod for Minetest that adds nodes which contain areas.
-
-*   [Beanzilla/oreveins](https://github.com/Beanzilla/oreveins) - A node which produces ores for Minetest
-
-*   [BuckarooBanzay/mapblock\_lib](https://github.com/BuckarooBanzay/mapblock_lib) - Mapblock-granular world operations and utilities
-
-*   [mt-mods/catcommands](https://github.com/mt-mods/catcommands) - Extra commands for Minetest
-
-*   [mt-mods/jumpdrive](https://github.com/mt-mods/jumpdrive) -  Minetest jumpdrive mod
-
-*   [SwissalpS/replacer](https://github.com/SwissalpS/replacer) - tool that replaces nodes by clicking on them and another that inspects nodes and entities (Mod for Minetest)
-
-*   [mt-mods/moretrees](https://github.com/mt-mods/moretrees) -
-
-*   [BlockCityCreative/nitro\_digger](https://github.com/BlockCityCreative/nitro_digger) -
-
-*   [BlockCityCreative/remove\_falling](https://github.com/BlockCityCreative/remove_falling) - removes falling nodes from minetest
-
-*   [Lemente/remove\_lava](https://github.com/Lemente/remove_lava) - Minetest Mod : once loaded, will remove all lava nodes in loaded mapblocks every seconds above sea level
-
-*   [libremesh/lime-packages](https://github.com/libremesh/lime-packages) - OpenWrt packages composing LibreMesh meta-firmware for wireless mesh networking
-
-*   [HybridDog/treecapitator](https://github.com/HybridDog/treecapitator) - the TreeCapitator mod for minetest
-
-*   [FreeLikeGNU/goblins](https://github.com/FreeLikeGNU/goblins) - goblins for minetest, Mobs Redo required
-
-*   [SmallJoker/boost\_cart](https://github.com/SmallJoker/boost_cart) - The original version of minetest\_game's carts (since 2018).
-
-*   [gigaturbo/codeblock](https://github.com/gigaturbo/codeblock) - Use lua code in Minetest to build anything you want
-
-*   [MT-CTF/capturetheflag](https://github.com/MT-CTF/capturetheflag) - Capture the Flag game using the Minetest Voxel Engine
-
-*   [APercy/minekart](https://github.com/APercy/minekart) -
-
-*   [sbrl/minetest-floating\_anchor](https://github.com/sbrl/minetest-floating_anchor) - A floating anchor mod for minetest. Adds an item that, when used, places a floating anchor block at the player's position.
-
-*   [sbrl/Minetest-WorldEditAdditions](https://github.com/sbrl/Minetest-WorldEditAdditions) - Extra tools and commands to extend WorldEdit for Minetest
-
-*   [masakhane-io/masakhane-mt](https://github.com/masakhane-io/masakhane-mt) - Machine Translation for Africa
-
-*   [2439905184/tic-button-example](https://github.com/2439905184/tic-button-example) - just keep it simple.
-
-*   [liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet) - Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award).
-
-*   [runsy/juanchi](https://github.com/runsy/juanchi) - A Minetest Game
-
-*   [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) - Rime / Easy English 英文输入法
-
-*   [runsy/eraz](https://github.com/runsy/eraz) - Merchants for Minetest
-
-*   [MultiCraft/cleaner](https://github.com/MultiCraft/cleaner) - 🧹 \[MOD] Lightweight remove unknown items and entities from inventory and world
-
-*   [minetest/minetest\_game](https://github.com/minetest/minetest_game) - Minetest Game -  A lightweight and well-maintained base for modding \[https://github.com/minetest/minetest/]
-
-*   [appgurueu/cellestial](https://github.com/appgurueu/cellestial) - Cellular Automata for Minetest
-
-*   [RichardTry/among\_us](https://github.com/RichardTry/among_us) - Among Us for Minetest (Game)
-
-*   [RichardTry/living\_trees](https://github.com/RichardTry/living_trees) - Adds Living trees to Minetest
-
-*   [D00Med/vehicles](https://github.com/D00Med/vehicles) - minetest mod that adds vehicles. Written for minetest 0.4.??
-
-*   [D00Med/LegendofMinetest](https://github.com/D00Med/LegendofMinetest) - Minetest game based on Legend of Zelda
-
-*   [gubbu/ehltype](https://github.com/gubbu/ehltype) - a minetest mod that places text nodes into your world when used with the ehlphabet mod.
-
-*   [ExeVirus/Compress-Obj](https://github.com/ExeVirus/Compress-Obj) - Lossless and lossy Obj Compression Utility in Lua
-
-*   [ExeVirus/boxgen](https://github.com/ExeVirus/boxgen) - Boxgen V1.0 - An automatic obj to minetest collision box generator utility
-
-*   [appgurueu/character\_anim](https://github.com/appgurueu/character_anim) - Minetest mod implementing character animations
-
-*   [APercy/helicopter](https://github.com/APercy/helicopter) - Mod that adds helicopter to the Minetest
-
-*   [sirrobzeroone/falling\_tree\_capitator](https://github.com/sirrobzeroone/falling_tree_capitator) -
-
-*   [runsy/cool\_trees](https://github.com/runsy/cool_trees) - Cool Trees Mod For Minetest
-
-*   [random-geek/meshport](https://github.com/random-geek/meshport) - Easily export areas in Minetest to meshes for 3D rendering.
-
-*   [random-geek/auroras](https://github.com/random-geek/auroras) - Minetest mod adding auroras (northern/southern lights) at night in cold places.
-
-*   [x2048/terraform](https://github.com/x2048/terraform) - Landscape editor for Minetest, similar to WorldEdit.
-
-*   [x2048/cinematic](https://github.com/x2048/cinematic) - Add cinematic camera motion to Minetest
-
-*   [x2048/shadows](https://github.com/x2048/shadows) - Add sunlight shadows to your Minetest game
-
-*   [IIIullaIII/CANNABIS\_MOD](https://github.com/IIIullaIII/CANNABIS_MOD) - THE HEMP MOD
-
-*   [prestidigitator/minetest-mod-prestibags](https://github.com/prestidigitator/minetest-mod-prestibags) - Prestibags are simple bags that act like chests you can pick up.
-
-*   [AiTechEye/was](https://github.com/AiTechEye/was) -
-
-*   [ExeVirus/autobox](https://github.com/ExeVirus/autobox) - Minetest Utility Mod For autobox mesh loading
-
-*   [LucxMangaJet/minetest\_presentations](https://github.com/LucxMangaJet/minetest_presentations) - A mod for minetest that allows displaying images downloadable at runtime
-
-*   [IIIullaIII/jukebox](https://github.com/IIIullaIII/jukebox) - jukebox
-
-*   [mbruchert/mod-poketest](https://github.com/mbruchert/mod-poketest) - pokemon mod for minetest
-
-*   [matortheeternal/fractal-miner](https://github.com/matortheeternal/fractal-miner) - A set of mods for Minetest for generating fractal worlds.
-
-*   [groverburger/g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
-
-*   [Minefix/MineFix](https://github.com/Minefix/MineFix) - Recreating Minecraft in Minetest, as close as possible
-
-*   [SmallJoker/simple\_protection](https://github.com/SmallJoker/simple_protection) - Minetest fixed-grid quadratic area protection mod with graphical area "minimap"
-
-*   [minetest-mapserver/mapserver\_mod](https://github.com/minetest-mapserver/mapserver_mod) - Complementary mod for the minetest mapserver
-
-*   [MysticTempest/Simple-Texture-Pack-Test-Map](https://github.com/MysticTempest/Simple-Texture-Pack-Test-Map) - Simple Texture-Pack Test Map for Minetest Game
-
-*   [cuberite/Core](https://github.com/cuberite/Core) - Plugin for Cuberite that implements default commands and some additional functionality
-
-*   [minetest-mods/commoditymarket](https://github.com/minetest-mods/commoditymarket) - Adds one or more global commodity markets to Minetest
-
-*   [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
-
 ## C\#
 
 *   [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
@@ -5844,12 +5868,6 @@
 
 *   [ModuleArt/quick-screen-recorder](https://github.com/ModuleArt/quick-screen-recorder) - Lightweight desktop screen recorder for Windows.
 
-*   [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft) - Minecraft for hipsters
-
-*   [rebexnet/RebexTinySftpServer](https://github.com/rebexnet/RebexTinySftpServer) - A minimalist SFTP server for testing purposes.
-
-*   [Idered/snatch](https://github.com/Idered/snatch) - 📋 Beautiful clipboard manager for Windows
-
 ## AppleScript
 
 *   [pengelana/blocklist](https://github.com/pengelana/blocklist) - Privacy DNS
@@ -5919,20 +5937,6 @@
 *   [YunYouJun/sese-engine-ui](https://github.com/YunYouJun/sese-engine-ui) - 🔍 Sese engine ui. 色色搜索引擎 UI
 
 *   [Nertivia/legacy-nertivia-client](https://github.com/Nertivia/legacy-nertivia-client) - Nertivia is a chat client
-
-## SCSS
-
-*   [brainfucksec/brainfucksec.github.io](https://github.com/brainfucksec/brainfucksec.github.io) - Cyber Security | Privacy
-
-*   [siongui/ajahn-jayasaaro](https://github.com/siongui/ajahn-jayasaaro) - Ajahn Jayasāro
-
-*   [siongui/master-wangxing](https://github.com/siongui/master-wangxing) - 萬行法師
-
-*   [siongui/pali-chanting](https://github.com/siongui/pali-chanting) - Pāli Chanting (巴利唸誦, บาลีสวดมนต์)
-
-*   [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
-
-*   [ZorrillosDev/watchit-app](https://github.com/ZorrillosDev/watchit-app) - Open movies everywhere
 
 ## Arduino
 
@@ -6279,7 +6283,3 @@
 ## Objective-C++
 
 *   [dongyuwei/hallelujahIM](https://github.com/dongyuwei/hallelujahIM) - hallelujahIM(哈利路亚 英文输入法) is  an intelligent English input method with auto-suggestions and spell check features.
-
-## AutoHotkey
-
-*   [ltguillaume/redshift-tray](https://github.com/ltguillaume/redshift-tray) - A no-frills GUI for the excellent Redshift, with some optional OS hotkeys
