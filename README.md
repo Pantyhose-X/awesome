@@ -6042,7 +6042,7 @@
 
 ## Elixir
 
-*   [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports
+*   [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports.
 
 *   [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 
