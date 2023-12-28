@@ -183,7 +183,7 @@
 
 *   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
-*   [ao-space/gt](https://github.com/ao-space/gt) - GT is an open source reverse proxy project that supports peer-to-peer direct connection (P2P) and Internet relay.
+*   [ao-space/gt](https://github.com/ao-space/gt) - Fast WebSocket(s)/HTTP(s)/TCP relay proxy with WebRTC P2P supports. Many times faster than frp.
 
 *   [kanocz/lcvpn](https://github.com/kanocz/lcvpn) - Decentralized VPN in golang
 
@@ -369,7 +369,7 @@
 
 *   [apernet/mwgp](https://github.com/apernet/mwgp) - Multiple WireGuard Proxy
 
-*   [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+*   [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 
 *   [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 
