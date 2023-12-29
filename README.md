@@ -1451,7 +1451,7 @@
 
 *   [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform
 
-*   [upvpn/upvpn-app](https://github.com/upvpn/upvpn-app) - Serverless VPN app for macOS, Linux, Windows, and Android
+*   [upvpn/upvpn-app](https://github.com/upvpn/upvpn-app) - UpVPN is world's first Serverless VPN.  With VPN app available for macOS, Linux, Windows, and Android. UpVPN service can also be used with any WireGuard compatible client using Web Device feature.
 
 *   [scrtlabs/SecretNetwork](https://github.com/scrtlabs/SecretNetwork) - 𝕊 The Secret Network
 
