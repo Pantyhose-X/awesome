@@ -2641,7 +2641,7 @@
 
 ## Java
 
-*   [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 
 *   [bisq-network/bisq2](https://github.com/bisq-network/bisq2) -
 
