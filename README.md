@@ -4,17 +4,17 @@
 
 ## Table of Contents
 
-*   [C#](#c)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
-*   [TeX](#tex)
 *   [Python](#python)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Go](#go)
+*   [C#](#c)
+*   [TeX](#tex)
 *   [C++](#c-1)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Dart](#dart)
 *   [PHP](#php)
 *   [Rust](#rust)
@@ -97,127 +97,11 @@
 *   [CoffeeScript](#coffeescript)
 *   [Objective-C++](#objective-c-1)
 
-## C\#
-
-*   [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
-
-*   [Titlehhhh/Minecraft-Holy-Client](https://github.com/Titlehhhh/Minecraft-Holy-Client) - A high-performance platform for running Minecraft stress-test bots written in C#.
-
-*   [mili-tan/ArashiDNS.Aoi](https://github.com/mili-tan/ArashiDNS.Aoi) - Simple DNS over HTTPS Server
-
-*   [TurnerSoftware/DinoDNS](https://github.com/TurnerSoftware/DinoDNS) - A fast and efficient DNS server and client supporting DNS over UDP, TCP, TLS and HTTPS.
-
-*   [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
-
-*   [Texnomic/SecureDNS](https://github.com/Texnomic/SecureDNS) - Secure, Modern, Fully-Featured, All-In-One Cross-Architecture & Cross-Platform DNS Server Using .NET 7.0
-
-*   [prodeveloper0/FuckDPI\_V2](https://github.com/prodeveloper0/FuckDPI_V2) - FuckDPIv2 can fuck the Korean Government's internet censorship by fragmenting SSL ClientHello.
-
-*   [Elepover/tcpingsharp](https://github.com/Elepover/tcpingsharp) - TcpingSharp is a simple, lightweight TCP ping tool written completely in C#.
-
-*   [alvin-tosh/Sneaky-Mansion-PC](https://github.com/alvin-tosh/Sneaky-Mansion-PC) - This is a 3D PC game made with UNITY 2020.3 about escaping 🏃‍♂️ a haunted mansion you have to escape from ghosts 👻 and gargoyles 👹. Single level but fun as HELL! 😀💪
-
-*   [proxylist-to/ProxyChecker](https://github.com/proxylist-to/ProxyChecker) - C# Proxy Checker by ProxyList.to
-
-*   [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
-
-*   [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
-
-*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
-
-*   [crut0i/CleanerPRO](https://github.com/crut0i/CleanerPRO) - Simple Windows cleanup utility
-
-*   [msasanmh/SecureDNSClient](https://github.com/msasanmh/SecureDNSClient) - A GUI for DNSLookup, DNSProxy, DNSCrypt and GoodbyeDPI.
-
-*   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
-
-*   [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
-
-*   [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
-
-*   [CadeEvs/FrostyToolsuite](https://github.com/CadeEvs/FrostyToolsuite) -
-
-*   [dragonfruitnetwork/kaplan](https://github.com/dragonfruitnetwork/kaplan) - Portable MSIX/APPX uninstall utility
-
-*   [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
-
-*   [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library.
-
-*   [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
-
-*   [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
-
-*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
-
-*   [ONLYOFFICE/CommunityServer](https://github.com/ONLYOFFICE/CommunityServer) - Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
-
-*   [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
-
-*   [0install/0install-win](https://github.com/0install/0install-win) - Windows version of Zero Install
-
-*   [stride3d/stride](https://github.com/stride3d/stride) - Stride Game Engine (formerly Xenko)
-
-*   [ProjectIxian/Spixi](https://github.com/ProjectIxian/Spixi) - Spixi chat client/instant messenger and wallet for the Ixian platform.
-
-*   [delmarle/RPG-Core](https://github.com/delmarle/RPG-Core) - UNITY engine RPG framework
-
-*   [Viralmaniar/DDWPasteRecon](https://github.com/Viralmaniar/DDWPasteRecon) - DDWPasteRecon tool will help you identify code leak, sensitive files, plaintext passwords, password hashes. It also allow member of SOC & Blue Team to gain situational awareness of the organisation's web exposure on the pastesites. It Utilises Google's indexing of pastesites to gain targeted intelligence of the organisation. Blue & SOC teams can collect and analyse data from these indexed pastesites to better protect against unknown threats.
-
-*   [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法过墙)
-
-*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
-
-*   [Bit-Nation/Desktop-client-new](https://github.com/Bit-Nation/Desktop-client-new) - Pangea Jurisdiction Desktop app v.02
-
-*   [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
-
-*   [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
-
-*   [Okami0xff666/MksWebTools\_Arcturuts](https://github.com/Okami0xff666/MksWebTools_Arcturuts) - MksWebTools - Arcturus v0.0.1 (beta)
-
-*   [HeicoDev/FBOneTools](https://github.com/HeicoDev/FBOneTools) - A collection of tools for the Frostbite 1 Engine. Includes a modding tool, a mod manager and more!
-
-*   [michielpost/SkyDocs](https://github.com/michielpost/SkyDocs) - Sia Skynet Google Docs alternative
-
-*   [sunengine/SunEngine](https://github.com/sunengine/SunEngine) - SunEngine – site engine with blog, forum and articles sections features support.
-
-*   [yaneurao/MyShogi](https://github.com/yaneurao/MyShogi) - マイナビさんから発売した『将棋神やねうら王』(2018年発売)の将棋用GUIです。
-
-*   [proxysu/ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
-
-*   [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
-
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-*   [DavidXanatos/priv10](https://github.com/DavidXanatos/priv10) - Privacy tool for windows with a built in firewall
-
-*   [KaustubhPatange/Iso2Usb](https://github.com/KaustubhPatange/Iso2Usb) - A cross platform utility to create bootable USB devices
-
-*   [AnyRPG/AnyRPGCore](https://github.com/AnyRPG/AnyRPGCore) - Open source Role Playing Game engine for Unity 3D written in C#.
-
-*   [cuiliang/Caps2CtrlSpace](https://github.com/cuiliang/Caps2CtrlSpace) - CapsLock 切换输入法中英文
-
-*   [bitbeans/CleanBrowsingClient](https://github.com/bitbeans/CleanBrowsingClient) - Windows Desktop Client for cleanbrowsing.org (DNSCrypt)
-
-*   [bitbeans/DnsCrypt.Toolbox](https://github.com/bitbeans/DnsCrypt.Toolbox) - Some useful tools to work with dnscrypt-proxy
-
-*   [bitbeans/StreamCryptor](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
-
-*   [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
-
-*   [KaustubhPatange/Kling](https://github.com/KaustubhPatange/Kling) - A utility to show keyboard keys visually on the Windows screen.
-
-*   [Wohlstand/Destroy-Windows-10-Spying](https://github.com/Wohlstand/Destroy-Windows-10-Spying) - !!!UNMAINTAINED!!! Destroy Windows Spying tool
-
-*   [JosefNemec/LiteDbExplorer](https://github.com/JosefNemec/LiteDbExplorer) - Viewer and editor for https://github.com/mbdavid/LiteDB databases.
-
-*   [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
-
-*   [hitchao/Jvedio](https://github.com/hitchao/Jvedio) - Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件
-
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
-
 ## Shell
+
+*   [PixelExtended/OTA](https://github.com/PixelExtended/OTA) - Device Release Automation
+
+*   [blackhatethicalhacking/SecretOpt1c](https://github.com/blackhatethicalhacking/SecretOpt1c) - SecretOpt1c is a Red Team tool that helps uncover sensitive information in websites using ACTIVE and PASSIVE Techniques for Superior Accuracy!
 
 *   [emeraldonion/DNS](https://github.com/emeraldonion/DNS) - Emerald Onion's Encrypted DNS Resolver
 
@@ -450,6 +334,10 @@
 *   [Antynea/grub-btrfs](https://github.com/Antynea/grub-btrfs) - Include btrfs snapshots at boot options. (Grub menu)
 
 ## miscellaneous
+
+*   [ImKKingshuk/Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM) - Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer community. Elevate your Android experience beyond the ordinary! 🌐🚀 #CustomROMs #AndroidDev #OpenSource #XiaomiEU #HyperOS #OriginOS
+
+*   [toolswatch/blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 
 *   [weihaox/awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering) - Resources of Neural Rendering
 
@@ -1059,23 +947,17 @@
 
 *   [daviddoesminetest/mt\_equippable\_accessories](https://github.com/daviddoesminetest/mt_equippable_accessories) - adds equippable accessories to minetests, that you can wear for looks and stat bonuses
 
-## TeX
-
-*   [yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D) - A growing curation of Text-to-3D, Diffusion-to-3D works.
-
-*   [alobbs/macchanger](https://github.com/alobbs/macchanger) - GNU MAC Changer
-
-*   [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
-
-*   [NullHypothesis/tor-dns](https://github.com/NullHypothesis/tor-dns) - Repository for Tor's DNS-related issues.
-
-*   [NullHypothesis/censorbib](https://github.com/NullHypothesis/censorbib) - The Internet censorship bibliography.
-
-*   [ewust/DDoSCoin](https://github.com/ewust/DDoSCoin) - A malicious cryptocurrency
-
-*   [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
-
 ## Python
+
+*   [Himangshu30/BlackHat-Python](https://github.com/Himangshu30/BlackHat-Python) - Hacking with python scripts
+
+*   [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
+
+*   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
+
+*   [edoardottt/black-hat-python3-code](https://github.com/edoardottt/black-hat-python3-code) - 🏴‍☠️ tools (py3 version) of Black Hat Python book 🏴‍☠️
+
+*   [blackhatethicalhacking/DDoSlayer](https://github.com/blackhatethicalhacking/DDoSlayer) - An Advanced Layer 7 DDoS tool
 
 *   [THU-LYJ-Lab/T3Bench](https://github.com/THU-LYJ-Lab/T3Bench) - T3Bench: Benchmarking Current Progress in Text-to-3D Generation
 
@@ -2025,9 +1907,71 @@
 
 *   [gramps-project/gramps](https://github.com/gramps-project/gramps) - Source code for Gramps Genealogical program
 
-*   [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) - automated censorship evasion for the client-side and server-side
+## Jupyter Notebook
+
+*   [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with articles, videos, and code
+
+*   [juvian/Manga-Text-Segmentation](https://github.com/juvian/Manga-Text-Segmentation) - Segmentation of text in manga images
+
+*   [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
+
+*   [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+
+*   [klaudia-nazarko/nlg-text-generation](https://github.com/klaudia-nazarko/nlg-text-generation) - This repository contains Natural Language Generation (NLG) models aimed on generating text of fairy tales (Markov Chain, LSTM neural network, GPT-2 Transformers).
+
+*   [dockiem/Deep-Learning-Generative-Models-for-Text](https://github.com/dockiem/Deep-Learning-Generative-Models-for-Text) - The following books from Project Gutenberg http://www.gutenberg. org/ebooks/author/355 in text format: i. The Problems of Philosophy ii. The Analysis of Mind iii. Mysticism and Logic and Other Essays iv. Our Knowledge of the External World as a Field for Scientific Method in Philosophy.
+
+*   [anusha66/TextGen-Deep-Learning](https://github.com/anusha66/TextGen-Deep-Learning) - Generation of Text from Structured Data using Generative Models
+
+*   [aryashah2k/Quantum-Computing-Collection-Of-Resources](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources) - A Well Maintained Repository On Quantum Computing Resources \[Code+Theory] Updated Regularly During My Time At IBM, Qubit x Qubit And The Coding School's Introduction To Quantum Computing Course '21
+
+*   [PAIR-code/facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
+
+*   [openUC2/UC2-GIT](https://github.com/openUC2/UC2-GIT) - Respository for Open-Science modular microscope system.
+
+*   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
+
+*   [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech\_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
+
+*   [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a module that extends Python with the ability to design electronic circuits.
+
+*   [helium/HIP](https://github.com/helium/HIP) - Helium Improvement Proposals
+
+*   [RicardoRibeiroRodrigues/MusicLyricsGenerator](https://github.com/RicardoRibeiroRodrigues/MusicLyricsGenerator) - AI for generating music lyrics
+
+*   [IntelLabs/IntelNeuromorphicDNSChallenge](https://github.com/IntelLabs/IntelNeuromorphicDNSChallenge) - Intel Neuromorphic DNS Challenge
+
+*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+
+*   [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
+
+*   [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
+
+*   [microsoft/QuantumKatas](https://github.com/microsoft/QuantumKatas) - Tutorials and programming exercises for learning Q# and quantum computing
+
+*   [pauldpickell/gis2minetest](https://github.com/pauldpickell/gis2minetest) - A python notebook for converting classified LiDAR las/laz files and Open Street Maps data into Minetest worlds
+
+*   [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
+
+*   [kwea123/nerf\_pl](https://github.com/kwea123/nerf_pl) - NeRF (Neural Radiance Fields) and NeRF in the Wild using pytorch-lightning
+
+*   [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
+
+*   [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+
+*   [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
+
+*   [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more.
+
+*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+
+*   [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 
 ## Go
+
+*   [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+
+*   [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
 
 *   [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 
@@ -2527,7 +2471,141 @@
 
 *   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 
-*   [BuckarooBanzay/mtworldview](https://github.com/BuckarooBanzay/mtworldview) -
+## C\#
+
+*   [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
+
+*   [Titlehhhh/Minecraft-Holy-Client](https://github.com/Titlehhhh/Minecraft-Holy-Client) - A high-performance platform for running Minecraft stress-test bots written in C#.
+
+*   [mili-tan/ArashiDNS.Aoi](https://github.com/mili-tan/ArashiDNS.Aoi) - Simple DNS over HTTPS Server
+
+*   [TurnerSoftware/DinoDNS](https://github.com/TurnerSoftware/DinoDNS) - A fast and efficient DNS server and client supporting DNS over UDP, TCP, TLS and HTTPS.
+
+*   [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
+
+*   [Texnomic/SecureDNS](https://github.com/Texnomic/SecureDNS) - Secure, Modern, Fully-Featured, All-In-One Cross-Architecture & Cross-Platform DNS Server Using .NET 7.0
+
+*   [prodeveloper0/FuckDPI\_V2](https://github.com/prodeveloper0/FuckDPI_V2) - FuckDPIv2 can fuck the Korean Government's internet censorship by fragmenting SSL ClientHello.
+
+*   [Elepover/tcpingsharp](https://github.com/Elepover/tcpingsharp) - TcpingSharp is a simple, lightweight TCP ping tool written completely in C#.
+
+*   [alvin-tosh/Sneaky-Mansion-PC](https://github.com/alvin-tosh/Sneaky-Mansion-PC) - This is a 3D PC game made with UNITY 2020.3 about escaping 🏃‍♂️ a haunted mansion you have to escape from ghosts 👻 and gargoyles 👹. Single level but fun as HELL! 😀💪
+
+*   [proxylist-to/ProxyChecker](https://github.com/proxylist-to/ProxyChecker) - C# Proxy Checker by ProxyList.to
+
+*   [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
+
+*   [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
+
+*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+
+*   [crut0i/CleanerPRO](https://github.com/crut0i/CleanerPRO) - Simple Windows cleanup utility
+
+*   [msasanmh/SecureDNSClient](https://github.com/msasanmh/SecureDNSClient) - A GUI for DNSLookup, DNSProxy, DNSCrypt and GoodbyeDPI.
+
+*   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
+
+*   [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
+
+*   [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
+
+*   [CadeEvs/FrostyToolsuite](https://github.com/CadeEvs/FrostyToolsuite) -
+
+*   [dragonfruitnetwork/kaplan](https://github.com/dragonfruitnetwork/kaplan) - Portable MSIX/APPX uninstall utility
+
+*   [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
+
+*   [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library.
+
+*   [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
+
+*   [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
+
+*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+
+*   [ONLYOFFICE/CommunityServer](https://github.com/ONLYOFFICE/CommunityServer) - Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
+
+*   [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
+
+*   [0install/0install-win](https://github.com/0install/0install-win) - Windows version of Zero Install
+
+*   [stride3d/stride](https://github.com/stride3d/stride) - Stride Game Engine (formerly Xenko)
+
+*   [ProjectIxian/Spixi](https://github.com/ProjectIxian/Spixi) - Spixi chat client/instant messenger and wallet for the Ixian platform.
+
+*   [delmarle/RPG-Core](https://github.com/delmarle/RPG-Core) - UNITY engine RPG framework
+
+*   [Viralmaniar/DDWPasteRecon](https://github.com/Viralmaniar/DDWPasteRecon) - DDWPasteRecon tool will help you identify code leak, sensitive files, plaintext passwords, password hashes. It also allow member of SOC & Blue Team to gain situational awareness of the organisation's web exposure on the pastesites. It Utilises Google's indexing of pastesites to gain targeted intelligence of the organisation. Blue & SOC teams can collect and analyse data from these indexed pastesites to better protect against unknown threats.
+
+*   [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法过墙)
+
+*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+
+*   [Bit-Nation/Desktop-client-new](https://github.com/Bit-Nation/Desktop-client-new) - Pangea Jurisdiction Desktop app v.02
+
+*   [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
+
+*   [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
+
+*   [Okami0xff666/MksWebTools\_Arcturuts](https://github.com/Okami0xff666/MksWebTools_Arcturuts) - MksWebTools - Arcturus v0.0.1 (beta)
+
+*   [HeicoDev/FBOneTools](https://github.com/HeicoDev/FBOneTools) - A collection of tools for the Frostbite 1 Engine. Includes a modding tool, a mod manager and more!
+
+*   [michielpost/SkyDocs](https://github.com/michielpost/SkyDocs) - Sia Skynet Google Docs alternative
+
+*   [sunengine/SunEngine](https://github.com/sunengine/SunEngine) - SunEngine – site engine with blog, forum and articles sections features support.
+
+*   [yaneurao/MyShogi](https://github.com/yaneurao/MyShogi) - マイナビさんから発売した『将棋神やねうら王』(2018年発売)の将棋用GUIです。
+
+*   [proxysu/ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
+
+*   [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
+
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [DavidXanatos/priv10](https://github.com/DavidXanatos/priv10) - Privacy tool for windows with a built in firewall
+
+*   [KaustubhPatange/Iso2Usb](https://github.com/KaustubhPatange/Iso2Usb) - A cross platform utility to create bootable USB devices
+
+*   [AnyRPG/AnyRPGCore](https://github.com/AnyRPG/AnyRPGCore) - Open source Role Playing Game engine for Unity 3D written in C#.
+
+*   [cuiliang/Caps2CtrlSpace](https://github.com/cuiliang/Caps2CtrlSpace) - CapsLock 切换输入法中英文
+
+*   [bitbeans/CleanBrowsingClient](https://github.com/bitbeans/CleanBrowsingClient) - Windows Desktop Client for cleanbrowsing.org (DNSCrypt)
+
+*   [bitbeans/DnsCrypt.Toolbox](https://github.com/bitbeans/DnsCrypt.Toolbox) - Some useful tools to work with dnscrypt-proxy
+
+*   [bitbeans/StreamCryptor](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
+
+*   [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
+
+*   [KaustubhPatange/Kling](https://github.com/KaustubhPatange/Kling) - A utility to show keyboard keys visually on the Windows screen.
+
+*   [Wohlstand/Destroy-Windows-10-Spying](https://github.com/Wohlstand/Destroy-Windows-10-Spying) - !!!UNMAINTAINED!!! Destroy Windows Spying tool
+
+*   [JosefNemec/LiteDbExplorer](https://github.com/JosefNemec/LiteDbExplorer) - Viewer and editor for https://github.com/mbdavid/LiteDB databases.
+
+*   [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+
+*   [hitchao/Jvedio](https://github.com/hitchao/Jvedio) - Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
+
+## TeX
+
+*   [yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D) - A growing curation of Text-to-3D, Diffusion-to-3D works.
+
+*   [alobbs/macchanger](https://github.com/alobbs/macchanger) - GNU MAC Changer
+
+*   [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
+
+*   [NullHypothesis/tor-dns](https://github.com/NullHypothesis/tor-dns) - Repository for Tor's DNS-related issues.
+
+*   [NullHypothesis/censorbib](https://github.com/NullHypothesis/censorbib) - The Internet censorship bibliography.
+
+*   [ewust/DDoSCoin](https://github.com/ewust/DDoSCoin) - A malicious cryptocurrency
+
+*   [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 
 ## C++
 
@@ -3132,8 +3210,6 @@
 *   [RegrowthStudios/SoACode-Public](https://github.com/RegrowthStudios/SoACode-Public) - Public repository for all the game code for Seed of Andromeda.
 
 *   [0xLiso/minetest-shadowmap](https://github.com/0xLiso/minetest-shadowmap) - Minetest is an open source voxel game engine with easy modding and game creation
-
-*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 
 ## JavaScript
 
@@ -3954,64 +4030,6 @@
 *   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 
 *   [sglfree/freesky](https://github.com/sglfree/freesky) - 自由门最新7.99版 无界21.32正式版 自由门VPN 自由门 自由门使用教程 无界 无界浏览 无界VPN 翻墙软件 翻墙软件下载 翻墙软件教程 Mac翻墙软件 --自由天空
-
-## Jupyter Notebook
-
-*   [juvian/Manga-Text-Segmentation](https://github.com/juvian/Manga-Text-Segmentation) - Segmentation of text in manga images
-
-*   [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-
-*   [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-
-*   [klaudia-nazarko/nlg-text-generation](https://github.com/klaudia-nazarko/nlg-text-generation) - This repository contains Natural Language Generation (NLG) models aimed on generating text of fairy tales (Markov Chain, LSTM neural network, GPT-2 Transformers).
-
-*   [dockiem/Deep-Learning-Generative-Models-for-Text](https://github.com/dockiem/Deep-Learning-Generative-Models-for-Text) - The following books from Project Gutenberg http://www.gutenberg. org/ebooks/author/355 in text format: i. The Problems of Philosophy ii. The Analysis of Mind iii. Mysticism and Logic and Other Essays iv. Our Knowledge of the External World as a Field for Scientific Method in Philosophy.
-
-*   [anusha66/TextGen-Deep-Learning](https://github.com/anusha66/TextGen-Deep-Learning) - Generation of Text from Structured Data using Generative Models
-
-*   [aryashah2k/Quantum-Computing-Collection-Of-Resources](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources) - A Well Maintained Repository On Quantum Computing Resources \[Code+Theory] Updated Regularly During My Time At IBM, Qubit x Qubit And The Coding School's Introduction To Quantum Computing Course '21
-
-*   [PAIR-code/facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
-
-*   [openUC2/UC2-GIT](https://github.com/openUC2/UC2-GIT) - Respository for Open-Science modular microscope system.
-
-*   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
-
-*   [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech\_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
-
-*   [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a module that extends Python with the ability to design electronic circuits.
-
-*   [helium/HIP](https://github.com/helium/HIP) - Helium Improvement Proposals
-
-*   [RicardoRibeiroRodrigues/MusicLyricsGenerator](https://github.com/RicardoRibeiroRodrigues/MusicLyricsGenerator) - AI for generating music lyrics
-
-*   [IntelLabs/IntelNeuromorphicDNSChallenge](https://github.com/IntelLabs/IntelNeuromorphicDNSChallenge) - Intel Neuromorphic DNS Challenge
-
-*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
-
-*   [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
-
-*   [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
-
-*   [microsoft/QuantumKatas](https://github.com/microsoft/QuantumKatas) - Tutorials and programming exercises for learning Q# and quantum computing
-
-*   [pauldpickell/gis2minetest](https://github.com/pauldpickell/gis2minetest) - A python notebook for converting classified LiDAR las/laz files and Open Street Maps data into Minetest worlds
-
-*   [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
-
-*   [kwea123/nerf\_pl](https://github.com/kwea123/nerf_pl) - NeRF (Neural Radiance Fields) and NeRF in the Wild using pytorch-lightning
-
-*   [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
-
-*   [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
-
-*   [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
-
-*   [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more.
-
-*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
-
-*   [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 
 ## Dart
 
@@ -5603,14 +5621,6 @@
 
 *   [Simsilica/SimArboreal-Editor](https://github.com/Simsilica/SimArboreal-Editor) - Editor using the SimArboreal library to generate exportable tree models.
 
-*   [SmartPack/PackageManager](https://github.com/SmartPack/PackageManager) - Source code of Package Manager, an Application to Manage your Apps.
-
-*   [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
-
-*   [warren-bank/Android-Locale-Changer](https://github.com/warren-bank/Android-Locale-Changer) - Android app to change the default system-wide locale.
-
-*   [warren-bank/Android-WebMonkey](https://github.com/warren-bank/Android-WebMonkey) - No-frills light-weight Android web browser with support for Greasemonkey userscripts.
-
 ## Nix
 
 *   [fort-nix/nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - A collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security.
@@ -5960,16 +5970,6 @@
 *   [random-geek/auroras](https://github.com/random-geek/auroras) - Minetest mod adding auroras (northern/southern lights) at night in cold places.
 
 *   [x2048/terraform](https://github.com/x2048/terraform) - Landscape editor for Minetest, similar to WorldEdit.
-
-*   [x2048/cinematic](https://github.com/x2048/cinematic) - Add cinematic camera motion to Minetest
-
-*   [x2048/shadows](https://github.com/x2048/shadows) - Add sunlight shadows to your Minetest game
-
-*   [IIIullaIII/CANNABIS\_MOD](https://github.com/IIIullaIII/CANNABIS_MOD) - THE HEMP MOD
-
-*   [prestidigitator/minetest-mod-prestibags](https://github.com/prestidigitator/minetest-mod-prestibags) - Prestibags are simple bags that act like chests you can pick up.
-
-*   [AiTechEye/was](https://github.com/AiTechEye/was) -
 
 ## Makefile
 
