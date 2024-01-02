@@ -3719,7 +3719,7 @@
 
 *   [crypt0cane/quilt-chat-e2e](https://github.com/crypt0cane/quilt-chat-e2e) - Quilt Chat is a End to End, blockchain based, IM service.
 
-*   [corpus-io/dm3](https://github.com/corpus-io/dm3) - The dm3 protocol | New standard of web3 messaging | Decentralized ENS-based registry | Secure end-to-end encryption | Easy dApp integration
+*   [dm3-org/dm3](https://github.com/dm3-org/dm3) - The dm3 protocol | New standard of web3 messaging | Decentralized ENS-based registry | Secure end-to-end encryption | Easy dApp integration
 
 *   [sixem/ivfi-php](https://github.com/sixem/ivfi-php) - IVFi is a directory indexer that aims to make it easy to browse and explore web-accessible directories.
 
