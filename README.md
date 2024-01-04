@@ -2987,6 +2987,8 @@
 
 *   [ProjectIxian/Spixi](https://github.com/ProjectIxian/Spixi) - Spixi chat client/instant messenger and wallet for the Ixian platform.
 
+*   [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
+
 *   [delmarle/RPG-Core](https://github.com/delmarle/RPG-Core) - UNITY engine RPG framework
 
 *   [Viralmaniar/DDWPasteRecon](https://github.com/Viralmaniar/DDWPasteRecon) - DDWPasteRecon tool will help you identify code leak, sensitive files, plaintext passwords, password hashes. It also allow member of SOC & Blue Team to gain situational awareness of the organisation's web exposure on the pastesites. It Utilises Google's indexing of pastesites to gain targeted intelligence of the organisation. Blue & SOC teams can collect and analyse data from these indexed pastesites to better protect against unknown threats.
@@ -3458,8 +3460,6 @@
 *   [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 
 *   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52649, 3.3.5 = 3.3.5a.12340)
-
-*   [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
 
 *   [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
 
