@@ -1535,7 +1535,7 @@
 
 *   [Leeon123/Aoyama](https://github.com/Leeon123/Aoyama) - A New version of Python3 botnet, old version: http://github.com/Leeon123/Python3-botnet
 
-*   [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Easy to use GUI to enhance videos on Linux using RIFE, RealESRGAN, Waifu2x and IFRNET.
+*   [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Easy to use GUI to enhance videos on Linux using RIFE, RealESRGAN, RealSR, RealCUGAN, Waifu2x, and IFRNET.
 
 *   [bytedance/ImageDream](https://github.com/bytedance/ImageDream) - The code releasing for https://image-dream.github.io/
 
