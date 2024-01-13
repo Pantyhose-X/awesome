@@ -2629,6 +2629,8 @@
 
 *   [renjunxiang/Text\_Generate](https://github.com/renjunxiang/Text_Generate) - 文本生成，可用于作诗、写小说
 
+*   [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) - 支持更多游戏规则，让SSTap成为真正的“网游加速器”
+
 *   [tahoe-lafs/tahoe-lafs](https://github.com/tahoe-lafs/tahoe-lafs) - The Tahoe-LAFS decentralized secure filesystem.
 
 *   [DNSCrypt/dnscrypt-resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers) - Lists of public DNSCrypt / DoH DNS servers and DNS relays
@@ -6190,8 +6192,6 @@
 *   [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 
 *   [FQrabbit/VPN-skip-China-route-Window](https://github.com/FQrabbit/VPN-skip-China-route-Window) - 普通全局VPN国内外分流小脚本For Win
-
-*   [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) - 支持更多游戏规则，让SSTap成为真正的“网游加速器”
 
 ## Blade
 
