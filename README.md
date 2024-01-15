@@ -6385,7 +6385,7 @@
 
 ## Odin
 
-*   [btatarov/lakshimi](https://github.com/btatarov/lakshimi) - Lakshimi is a 2D/3D game engine written in Odin. WIP
+*   [btatarov/lakshimi](https://github.com/btatarov/lakshimi) - Lakshimi is an OpenGL 2D game engine written in Odin. WIP
 
 *   [Bazzagibbs/callisto](https://github.com/Bazzagibbs/callisto) - Game engine written in Odin
 
