@@ -4277,8 +4277,6 @@
 
 *   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 
-*   [freifunk/meshviewer](https://github.com/freifunk/meshviewer) - Visualization for Freifunk open mesh network nodes
-
 *   [lukechilds/onionite](https://github.com/lukechilds/onionite) - Explore the Tor network
 
 *   [the-rarbg/yaps](https://github.com/the-rarbg/yaps) - Y.A.P.S \[Yet Another Piracy Site]
@@ -4800,6 +4798,8 @@
 *   [irislib/iris-messenger](https://github.com/irislib/iris-messenger) - Decentralized messenger
 
 *   [VerseEngine/verse-three](https://github.com/VerseEngine/verse-three) - VerseEngine implementation for three.js. VerseEngine is a web-based metaverse engine on a P2P overlay network.
+
+*   [freifunk/meshviewer](https://github.com/freifunk/meshviewer) - Visualization for Freifunk open mesh network nodes
 
 *   [zu1k/bs-core](https://github.com/zu1k/bs-core) -
 
