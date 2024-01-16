@@ -1615,6 +1615,8 @@
 
 *   [GrangerHub/tremulous](https://github.com/GrangerHub/tremulous) -
 
+*   [missdeer/getnovel](https://github.com/missdeer/getnovel) -
+
 *   [proninyaroslav/nesoid](https://github.com/proninyaroslav/nesoid) - Nintendo NES emulator for Android. Fork of the original project: https://sourceforge.net/projects/nesoid
 
 *   [Mesa3D/mesa](https://github.com/Mesa3D/mesa) - Mesa 3D graphics library (read-only mirror of https://gitlab.freedesktop.org/mesa/mesa/)
@@ -3206,8 +3208,6 @@
 *   [sentrionic/Valkyrie](https://github.com/sentrionic/Valkyrie) - A Fullstack Discord Clone using React and Go.
 
 *   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-
-*   [missdeer/getnovel](https://github.com/missdeer/getnovel) -
 
 *   [missdeer/blocklist](https://github.com/missdeer/blocklist) - A big domain block list - 350000+ lines
 
