@@ -115,6 +115,8 @@
 
 *   [zxr111/DHT\_Search](https://github.com/zxr111/DHT_Search) - 一个磁力链接搜索引擎
 
+*   [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
+
 *   [CarperAI/trlx](https://github.com/CarperAI/trlx) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
 
 *   [EleutherAI/the-pile](https://github.com/EleutherAI/the-pile) -
@@ -2761,8 +2763,6 @@
 
 *   [Olament/gDHT](https://github.com/Olament/gDHT) - A distributed self-host DHT torrent search suite
 
-*   [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
-
 *   [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 
 *   [bepass-org/bepass](https://github.com/bepass-org/bepass) - A simple DPI bypass tool written in go
@@ -4897,6 +4897,8 @@
 
 *   [revoltchat/revite](https://github.com/revoltchat/revite) - Revolt client built with Preact.
 
+*   [armory3d/armortools](https://github.com/armory3d/armortools) - 3D Content Creation Tools
+
 *   [revoltchat/desktop](https://github.com/revoltchat/desktop) - Revolt Desktop App
 
 *   [ensdomains/thorin](https://github.com/ensdomains/thorin) - A web3 native design system.
@@ -6593,7 +6595,7 @@
 
 *   [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
 
-*   [p2panda/handbook](https://github.com/p2panda/handbook) - Website with tutorials, specification, info and learn sections of p2:panda\_face:
+*   [p2panda/handbook](https://github.com/p2panda/handbook) - Website with tutorials, specification, info and learn sections of p2panda
 
 *   [freegate-release/website](https://github.com/freegate-release/website) -
 
@@ -7288,8 +7290,6 @@
 *   [infidel-/cult](https://github.com/infidel-/cult) - Evil Cult is a turn-based strategy about world domination.
 
 *   [Dvergar/awesome-haxe-gamedev](https://github.com/Dvergar/awesome-haxe-gamedev) - Resources for game development on haxe
-
-*   [armory3d/armortools](https://github.com/armory3d/armortools) - 3D Content Creation Tools
 
 *   [armory3d/armorlab](https://github.com/armory3d/armorlab) - Moved to https://github.com/armory3d/armortools/tree/main/armorlab
 
