@@ -3583,7 +3583,7 @@
 
 *   [ephtracy/voxel-model](https://github.com/ephtracy/voxel-model) -
 
-*   [tensorush/Awesome-Langs-Learning](https://github.com/tensorush/Awesome-Langs-Learning) - 😎 💬 Collection of the most awesome learning resources on modern programming languages in the form of videos, courses and blog posts.
+*   [tensorush/Awesome-Languages-Learning](https://github.com/tensorush/Awesome-Languages-Learning) - 😎 💬 Collection of the most awesome learning resources on modern programming languages in the form of videos, courses and blog posts.
 
 *   [ustayready/CredMaster](https://github.com/ustayready/CredMaster) - Refactored & improved CredKing password spraying tool, uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling
 
