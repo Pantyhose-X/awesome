@@ -6613,7 +6613,7 @@
 
 ## Odin
 
-*   [btatarov/lakshimi](https://github.com/btatarov/lakshimi) - Lakshimi is an OpenGL 2D game engine written in Odin. WIP
+*   [btatarov/lakshmi](https://github.com/btatarov/lakshmi) - Lakshmi is an OpenGL 2D game engine written in Odin. WIP
 
 *   [Bazzagibbs/callisto](https://github.com/Bazzagibbs/callisto) - Game engine written in Odin
 
