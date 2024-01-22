@@ -1861,8 +1861,6 @@
 
 *   [zxr111/DHT\_Search](https://github.com/zxr111/DHT_Search) - 一个磁力链接搜索引擎
 
-*   [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
-
 *   [CarperAI/trlx](https://github.com/CarperAI/trlx) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
 
 *   [EleutherAI/the-pile](https://github.com/EleutherAI/the-pile) -
@@ -5482,6 +5480,8 @@
 *   [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 
 *   [Olament/gDHT](https://github.com/Olament/gDHT) - A distributed self-host DHT torrent search suite
+
+*   [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 
 *   [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 
