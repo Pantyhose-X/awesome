@@ -635,7 +635,7 @@
 
 ## Rust
 
-*   [willothy/bruh\_os](https://github.com/willothy/bruh_os) - 64-bit Hobby OS project in Rust. Probably bad. I have no idea what I'm doing, but the goal is to have some idea when I'm done.
+*   [willothy/toss](https://github.com/willothy/toss) - Tiny, open-source 64-bit Hobby OS project in Rust. Probably bad. I have no idea what I'm doing, but the goal is to have some idea when I'm done.
 
 *   [Kostassoid/lethe](https://github.com/Kostassoid/lethe) - Secure drive wipe
 
