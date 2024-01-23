@@ -859,7 +859,7 @@
 
 *   [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 
-*   [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available
+*   [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
 
 *   [minetest-rust/mt\_client](https://github.com/minetest-rust/mt_client) -
 
@@ -6621,7 +6621,7 @@
 
 ## Odin
 
-*   [btatarov/lakshmi](https://github.com/btatarov/lakshmi) - Lakshmi is an OpenGL 2D game engine written in Odin. WIP
+*   [btatarov/lakshmi](https://github.com/btatarov/lakshmi) - Lakshmi is an OpenGL 2D game engine with Lua scripting. Written in Odin. WIP.
 
 *   [Bazzagibbs/callisto](https://github.com/Bazzagibbs/callisto) - Game engine written in Odin
 
