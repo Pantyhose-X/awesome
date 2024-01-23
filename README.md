@@ -55,8 +55,8 @@
 *   [Groovy](#groovy)
 *   [Objective-C](#objective-c)
 *   [Jinja](#jinja)
-*   [AppleScript](#applescript)
 *   [Roff](#roff)
+*   [AppleScript](#applescript)
 *   [Prolog](#prolog)
 *   [Dockerfile](#dockerfile)
 *   [Common Workflow Language](#common-workflow-language)
@@ -4615,8 +4615,6 @@
 
 *   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 
-*   [DustinWin/clash\_singbox-tools](https://github.com/DustinWin/clash_singbox-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、sing-box 内核、Clash dashboard 面板和 AdGuardHome 最新版
-
 *   [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
 
 *   [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
@@ -6853,8 +6851,6 @@
 
 *   [ac-minetest/basic\_machines](https://github.com/ac-minetest/basic_machines) - Simple automation mod for minetest
 
-*   [Atlante1952/BeterFarming](https://github.com/Atlante1952/BeterFarming) -
-
 *   [sfence/super\_computer](https://github.com/sfence/super_computer) - Add super computer like computing power source based on appliances mod to Minetest.
 
 *   [sfence/more\_appliances](https://github.com/sfence/more_appliances) - This Minetest mod add more appliances to Minetest game.
@@ -7040,6 +7036,8 @@
 *   [x2048/cinematic](https://github.com/x2048/cinematic) - Add cinematic camera motion to Minetest
 
 *   [x2048/shadows](https://github.com/x2048/shadows) - Add sunlight shadows to your Minetest game
+
+*   [IIIullaIII/CANNABIS\_MOD](https://github.com/IIIullaIII/CANNABIS_MOD) - THE HEMP MOD
 
 ## Vala
 
@@ -7235,15 +7233,17 @@
 
 *   [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 
-## AppleScript
-
-*   [pengelana/blocklist](https://github.com/pengelana/blocklist) - Privacy DNS
-
 ## Roff
+
+*   [DustinWin/clash\_singbox-tools](https://github.com/DustinWin/clash_singbox-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、sing-box 内核、Clash dashboard 面板和 AdGuardHome 最新版
 
 *   [linuxboot/linuxboot](https://github.com/linuxboot/linuxboot) - The LinuxBoot project is working to enable Linux to replace your firmware on all platforms.
 
 *   [matiasinsaurralde/facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) - Tunneling Internet traffic over Facebook chat.
+
+## AppleScript
+
+*   [pengelana/blocklist](https://github.com/pengelana/blocklist) - Privacy DNS
 
 ## Prolog
 
