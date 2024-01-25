@@ -4655,7 +4655,7 @@
 
 *   [GNU-Linux-libre/Catalogue](https://github.com/GNU-Linux-libre/Catalogue) - Catalogues by category
 
-*   [webRTCv1/Best-of-webRTC](https://github.com/webRTCv1/Best-of-webRTC) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Best of WebRTC projects in one place
+*   [webRTCv1/Best-of-webRTC](https://github.com/webRTCv1/Best-of-webRTC) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Best of WebRTC: Elevate with Top Projects!
 
 *   [bltavares/p2p-links](https://github.com/bltavares/p2p-links) - A set of links for projects that I keep track of on the peer-to-peer space.
 
