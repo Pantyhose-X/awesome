@@ -1411,7 +1411,7 @@
 
 *   [AndBible/and-bible](https://github.com/AndBible/and-bible) - AndBible: Bible Study
 
-*   [FossifyOrg/Thank-You](https://github.com/FossifyOrg/Thank-You) - A warm Thank You for supporting our modern & easy Simple Mobile Tools apps!
+*   [FossifyOrg/Thank-You](https://github.com/FossifyOrg/Thank-You) - A warm Thank You for supporting our modern & easy Fossify apps!
 
 *   [FossifyOrg/Calculator](https://github.com/FossifyOrg/Calculator) - A calculator for quick simple calculations with a nice user interface and no ads
 
