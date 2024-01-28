@@ -4,31 +4,32 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
-*   [Python](#python)
+*   [miscellaneous](#miscellaneous)
 *   [Go](#go)
+*   [PHP](#php)
+*   [HTML](#html)
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [SCSS](#scss)
+*   [Python](#python)
+*   [Makefile](#makefile)
+*   [Ruby](#ruby)
+*   [Rust](#rust)
 *   [C](#c)
 *   [Scilab](#scilab)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Dart](#dart)
-*   [HTML](#html)
 *   [Perl](#perl)
 *   [Java](#java)
-*   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [C++](#c-1)
-*   [Makefile](#makefile)
-*   [Jupyter Notebook](#jupyter-notebook)
-*   [Ruby](#ruby)
 *   [C#](#c-2)
 *   [Elixir](#elixir)
 *   [TeX](#tex)
 *   [Svelte](#svelte)
 *   [Common Lisp](#common-lisp)
 *   [XSLT](#xslt)
-*   [PHP](#php)
 *   [Starlark](#starlark)
 *   [Julia](#julia)
 *   [Crystal](#crystal)
@@ -45,7 +46,6 @@
 *   [Swift](#swift)
 *   [Pascal](#pascal)
 *   [MATLAB](#matlab)
-*   [SCSS](#scss)
 *   [Assembly](#assembly)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Solidity](#solidity)
@@ -102,445 +102,1813 @@
 *   [CoffeeScript](#coffeescript)
 *   [Objective-C++](#objective-c-1)
 
-## Rust
+## miscellaneous
 
-*   [AbelChe/rabbithole](https://github.com/AbelChe/rabbithole) - 🦀️ 一个完全使用Rust编写的代理池工具，从网络搜索socks5代理，检测可用性之后开启socks5代理服务。A proxy pool tool completely written in Rust, which searches for SOCKS5 proxies from the network, and after checking their availability, starts a SOCKS5 proxy service.
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
-*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
+*   [cipher387/awesome-ip-search-engines](https://github.com/cipher387/awesome-ip-search-engines) - This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).
 
-*   [nulldotblack/wintun](https://github.com/nulldotblack/wintun) - Rust bindings to the wintun c library: https://www.wintun.net/
+*   [HelloVolla/volla-os-beta-test](https://github.com/HelloVolla/volla-os-beta-test) - Manual, status overview and issus for beta tests of Volla OS
 
-*   [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
+*   [helloSystem/hello](https://github.com/helloSystem/hello) - Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
 
-*   [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
+*   [flosse/text-editors-written-in-rust](https://github.com/flosse/text-editors-written-in-rust) -
 
-*   [jetli/rust-yew-realworld-example-app](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly, by Function Components + Hooks, also supports desktop by Tauri.
+*   [flosse/rust-os-comparison](https://github.com/flosse/rust-os-comparison) - A comparison of operating systems written in Rust
 
-*   [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
+*   [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) - Automatic Speech Recognition (ASR), Speaker Verification, Speech Synthesis, Text-to-Speech (TTS), Language Modelling, Singing Voice Synthesis (SVS), Voice Conversion (VC)
 
-*   [eycorsican/leafvpn-desktop](https://github.com/eycorsican/leafvpn-desktop) - Leaf VPN for desktop.
+*   [mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations) - 😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍
 
-*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+*   [en3r0/awesome-distributed-computing-projects](https://github.com/en3r0/awesome-distributed-computing-projects) - This is a list of Free Software which contribute resources to a distributed network.
 
-*   [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like resource management into the compiler.
+*   [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains) - A curated list of privacy on blockchains resources
 
-*   [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
+*   [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 
-*   [willothy/bruh\_os](https://github.com/willothy/bruh_os) - 64-bit Hobby OS project in Rust. Probably bad. I have no idea what I'm doing, but the goal is to have some idea when I'm done.
+*   [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 
-*   [Kostassoid/lethe](https://github.com/Kostassoid/lethe) - Secure drive wipe
+*   [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar\_board: Path to a free self-taught education in Computer Science!
 
-*   [novel-rs/cli](https://github.com/novel-rs/cli) - A set of tools for downloading novels from the web, manipulating text, and generating EPUB
+*   [ydyjya/Awesome-LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety) - A curated list of security-related papers, articles, and resources focused on Large Language Models (LLMs). This repository aims to provide researchers, practitioners, and enthusiasts with insights into the security implications, challenges, and advancements surrounding these powerful models.
 
-*   [blechschmidt/tun2proxy](https://github.com/blechschmidt/tun2proxy) - Tunnel (TUN) interface for SOCKS and HTTP proxies
+*   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 
-*   [datrs/hypercore-protocol-rs](https://github.com/datrs/hypercore-protocol-rs) - Rust implementation of Hypercore protocol
+*   [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 
-*   [EleutherAI/tokengrams](https://github.com/EleutherAI/tokengrams) - Efficiently computing & storing token n-grams from large corpora
+*   [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision
 
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+*   [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 
-*   [tlepoint/fhe.rs](https://github.com/tlepoint/fhe.rs) - Fully Homomorphic Encryption library in Rust
+*   [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 
-*   [Nuhvi/mainline](https://github.com/Nuhvi/mainline) - Simple, robust, BitTorrent's Mainline DHT implementation
+*   [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 
-*   [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
+*   [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 
-*   [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) - A proxy to expose real tls handshake to the firewall
+*   [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - :metal: awesome-semantic-segmentation
 
-*   [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+*   [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 
-*   [moparisthebest/xmpp-proxy](https://github.com/moparisthebest/xmpp-proxy) - XMPP reverse proxy and outgoing proxy
+*   [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 
-*   [SomeProgInThere/voxgl-rs](https://github.com/SomeProgInThere/voxgl-rs) - A voxel based game engine in rust and wgpu
+*   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 
-*   [greatest-ape/aquatic](https://github.com/greatest-ape/aquatic) - High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent)
+*   [wesharebytes/Kickass-Proxy-List](https://github.com/wesharebytes/Kickass-Proxy-List) - Looking for a good proxy? Since KickassTorrents closed in 2016, it has carved out a niche for peer-to-peer sharing around the world. Read on for a list of the best alternatives ready to use today.
 
-*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+*   [wesharebytes/Extratorrent-Proxy-LIst](https://github.com/wesharebytes/Extratorrent-Proxy-LIst) - Extratorrent proxies that are provided below are 100% working and are tested in order to make sure that it is completely working fine. In case if, it’s not then please report it.
 
-*   [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
+*   [wesharebytes/EZTV-Proxy-List](https://github.com/wesharebytes/EZTV-Proxy-List) - The EZTV proxies that are provided below are 100% working and are tested in order to make sure that it is completely working fine. In case if, it’s not then please report it.
 
-*   [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+*   [wesharebytes/RARBG-Proxy-List](https://github.com/wesharebytes/RARBG-Proxy-List) -  RARBG Proxy List for 2024 - RARBG Unblocked \[List Updated]
 
-*   [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
+*   [wesharebytes/1337x](https://github.com/wesharebytes/1337x) - 1337x | 1337x.to Torrent Tracker Search Engine 2024
 
-*   [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
+*   [scriptzteam/TorrentCORE-Torrent-community](https://github.com/scriptzteam/TorrentCORE-Torrent-community) - Torrent\[CORE] - Torrent community.
 
-*   [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
+*   [oc9x97/SwearList](https://github.com/oc9x97/SwearList) - just a better version of this other one i found
 
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+*   [DatMoose/Word\_List](https://github.com/DatMoose/Word_List) - Google Word List No Swear Words 4 Letters or More
 
-*   [Qv2ray/v2ray-rust](https://github.com/Qv2ray/v2ray-rust) - An Opinionated Lightweight Implementation of V2Ray, in Rust Programming Language
+*   [nickname76/russian-swears](https://github.com/nickname76/russian-swears) - Dictionary of russian swear words. Словарь мата русского языка.
 
-*   [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
+*   [ad-freiburg/large-qa-datasets](https://github.com/ad-freiburg/large-qa-datasets) - A collection of large question answering datasets
 
-*   [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
+*   [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering) - A curated list of awesome social engineering resources.
 
-*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+*   [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
 
-*   [jordan4ibanez/minetest-rust](https://github.com/jordan4ibanez/minetest-rust) - Unofficial minetest rebuild in rust from the ground up.
+*   [draftdev/startup-marketing-checklist](https://github.com/draftdev/startup-marketing-checklist) - A checklist of tactics for marketing your startup.
 
-*   [mel-project/melnode](https://github.com/mel-project/melnode) - Reference implementation of Mel
+*   [leonar15/startup-checklist](https://github.com/leonar15/startup-checklist) - A checklist for incorporation so you can get back to building your product, fundraising, etc.
 
-*   [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with telemetry disabling
+*   [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
-*   [checkpoint-restore/rust-criu](https://github.com/checkpoint-restore/rust-criu) - Rust Bindings for CRIU
+*   [kuchin/awesome-ceo](https://github.com/kuchin/awesome-ceo) - A curated and opinionated list of resources for startup founders and leaders of high-growth companies
 
-*   [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+*   [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 
-*   [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform
+*   [go-outside-labs/entrepreneur-toolkit](https://github.com/go-outside-labs/entrepreneur-toolkit) - 👾 𝗰𝘂𝗿𝗮𝘁𝗲𝗱 𝗹𝗶𝘀𝘁 𝗼𝗳 𝗲𝗻𝘁𝗿𝗲𝗽𝗿𝗲𝗻𝗲𝘂𝗿𝗶𝘀𝗺 𝗿𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀
 
-*   [upvpn/upvpn-app](https://github.com/upvpn/upvpn-app) - UpVPN is the world's first Serverless VPN. The VPN app is available for macOS, Linux, Windows, and Android. The UpVPN service can also be used with any WireGuard compatible client using the Web Device feature.
+*   [prahladyeri/listoffreelancingvideos](https://github.com/prahladyeri/listoffreelancingvideos) - Curated List of Videos about Freelancing
 
-*   [scrtlabs/SecretNetwork](https://github.com/scrtlabs/SecretNetwork) - 𝕊 The Secret Network
+*   [yourincomehome/awesome-passive-income](https://github.com/yourincomehome/awesome-passive-income) - A curated list of ways to make money online
 
-*   [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
+*   [codingforentrepreneurs/Guides](https://github.com/codingforentrepreneurs/Guides) - Guides for learning + doing better web and app development. Created by Coding for Entrepreneurs.
 
-*   [darkrenaissance/darkfi](https://github.com/darkrenaissance/darkfi) - Anonymous. Uncensored. Sovereign.
+*   [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 
-*   [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+*   [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 
-*   [filecoin-project/ref-fvm](https://github.com/filecoin-project/ref-fvm) - Reference implementation of the Filecoin Virtual Machine
+*   [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup) - :sunglasses: All the required resources to build your own startup
 
-*   [filecoin-project/rust-fil-proofs](https://github.com/filecoin-project/rust-fil-proofs) - Proofs for Filecoin in Rust
+*   [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 
-*   [ferrumgate/secure.server.quic](https://github.com/ferrumgate/secure.server.quic) - vpn server and client over quic  with rust (tokio,quinn)
+*   [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 
-*   [anderspitman/fibridge-proxy-rs](https://github.com/anderspitman/fibridge-proxy-rs) - Proxy for turning web browsers into web servers. Load a 100GB file in your browser and stream it over the public web with HTTP byte range requests.
+*   [freeman42x/awesome-artificial-general-intelligence](https://github.com/freeman42x/awesome-artificial-general-intelligence) - Resources about Artificial General Intelligence
 
-*   [Satellite-im/Uplink](https://github.com/Satellite-im/Uplink) -  (Pre-Release Software) Secure, Encrypted, P2P chat written atop Warp, IPFS, LibP2P, Dioxus and many more awesome projects and protocols.
+*   [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 
-*   [mel-project/earendil](https://github.com/mel-project/earendil) - A decentralized, censorship-resistant, and incentive-compatible packet-routing overlay network
+*   [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 
-*   [geph-official/geph4-bridge](https://github.com/geph-official/geph4-bridge) - Bridge node for Geph, spun off from geph4
+*   [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
 
-*   [geph-official/sosistab2](https://github.com/geph-official/sosistab2) - A pluggable, obfuscated datagram transport for horrible networks
+*   [GNU-Linux-libre/Awesome-Session-Group-List](https://github.com/GNU-Linux-libre/Awesome-Session-Group-List) - awesome session group list
 
-*   [geph-official/sosistab2-obfsudp](https://github.com/geph-official/sosistab2-obfsudp) - Obfuscated UDP transport for sosistab2
+*   [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar\_board:
 
-*   [geph-official/sosistab](https://github.com/geph-official/sosistab) - An obfuscated datagram transport for horrible networks
+*   [VoltageOS/manifest](https://github.com/VoltageOS/manifest) -
 
-*   [compute-toys/wgpu-compute-toy](https://github.com/compute-toys/wgpu-compute-toy) - Cross-platform compute shader engine
+*   [Pantyhose-X/awesome](https://github.com/Pantyhose-X/awesome) - awesome
 
-*   [egorolegovichyakovlev/TorBridgesUpdater](https://github.com/egorolegovichyakovlev/TorBridgesUpdater) - An utility to fetch new Tor bridges on daily basis
+*   [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 
-*   [refraction-networking/conjure](https://github.com/refraction-networking/conjure) - Conjure Refraction Networking station code
+*   [Scrut1ny/GSM-Sniffing-Guide](https://github.com/Scrut1ny/GSM-Sniffing-Guide) - All the info you need.
 
-*   [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
+*   [Scrut1ny/EZ-Linux](https://github.com/Scrut1ny/EZ-Linux) - References for convenience when using linux.
 
-*   [cyphernet-dao/rust-cyphernet](https://github.com/cyphernet-dao/rust-cyphernet) - Cyphernet is a set of libraries for privacy-preserving networking apps
+*   [Scrut1ny/Armament](https://github.com/Scrut1ny/Armament) -
 
-*   [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. Work in progress!
+*   [Scrut1ny/Scrutiny-Intelligence](https://github.com/Scrut1ny/Scrutiny-Intelligence) - This contains many important documents that expose the truth about programs, websites, etc.
 
-*   [emilengler/arti](https://github.com/emilengler/arti) - \[MIRROR] Arti: An implementation of Tor, in Rust
+*   [Scrut1ny/V3\_ONION\_LINKS](https://github.com/Scrut1ny/V3_ONION_LINKS) - Actual good v3 onion links
 
-*   [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
+*   [Scrut1ny/Video-Game-Modding](https://github.com/Scrut1ny/Video-Game-Modding) -
 
-*   [maidsafe/safe\_network](https://github.com/maidsafe/safe_network) -
+*   [Scrut1ny/Hardware-Guide](https://github.com/Scrut1ny/Hardware-Guide) - This is a hardware guide explaining numbers and letters of components.
 
-*   [unblockable/proteus](https://github.com/unblockable/proteus) - Proteus: Programmable Protocols for Censorship Circumvention
+*   [Scrut1ny/Law-Enforcement-Guide](https://github.com/Scrut1ny/Law-Enforcement-Guide) - This informative guide offers essential tips to avoid legal trouble with law enforcement by educating readers on their rights and ways to circumvent unnecessary prosecution.
 
-*   [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
+*   [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
 
-*   [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
+*   [Scrut1ny/OpSec-Guide](https://github.com/Scrut1ny/OpSec-Guide) - The Life Operational Security (OpSec) Guide provides invaluable insights and actionable recommendations for individuals seeking to enhance their privacy, anonymity, and security in their personal and professional lives. By implementing robust measures to mitigate the risk of tracking and mass surveillance, individuals can safeguard their sensitive.
 
-*   [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
+*   [vysecurity/DomainFrontingLists](https://github.com/vysecurity/DomainFrontingLists) - A list of Domain Frontable Domains by CDN
 
-*   [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
+*   [anticensority/about-pac-scripts](https://github.com/anticensority/about-pac-scripts) - What we know about PAC scripts
 
-*   [zevtyardt/proxy.rs](https://github.com/zevtyardt/proxy.rs) -
+*   [MrMarble/proxy-list](https://github.com/MrMarble/proxy-list) - Free https proxy list
 
-*   [romanz/electrs](https://github.com/romanz/electrs) - An efficient re-implementation of Electrum Server in Rust
+*   [hookzof/socks5\_list](https://github.com/hookzof/socks5_list) - Auto-updated SOCKS5 proxy list + proxies for Telegram
 
-*   [manuels/wireguard-p2p](https://github.com/manuels/wireguard-p2p) - A tool for setting up WireGuard connections from peer to peer.
+*   [vaginessa/DPITunnel](https://github.com/vaginessa/DPITunnel) - This repository contains android app to bypass DPI
 
-*   [manuels/bulletinboard-dht](https://github.com/manuels/bulletinboard-dht) - Your internet-wide general-purpose DHT to store key/value pairs
+*   [zapret-info/z-i](https://github.com/zapret-info/z-i) - Register of Internet Addresses filtered in Russian Federation
 
-*   [manuels/tuntap.rs](https://github.com/manuels/tuntap.rs) - Linux TunTap bindings for Rust
+*   [elliottophellia/yakumo](https://github.com/elliottophellia/yakumo) - FREE CHECKED PROXY LIST UPDATED EVERY 10 MINUTES - HTTP(S), SOCKS4, SOCKS5 (WITH GLOBAL/COUNTRY SPECIFIC RESULT)
 
-*   [torrust/torrust-index](https://github.com/torrust/torrust-index) - This repository serves as the backend for the Torrust Index project.
+*   [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
 
-*   [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised\_face:, secure :lock: meta search engine
+*   [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
 
-*   [smol-dot/smoldot](https://github.com/smol-dot/smoldot) - Lightweight client for Substrate-based chains, such as Polkadot and Kusama.
+*   [tor-links2024/darkweblinks](https://github.com/tor-links2024/darkweblinks) - A verified list of darknet markets and services with links for educational reference. verified onion links updated 2024
 
-*   [torrust/bittorrent-infrastructure-project](https://github.com/torrust/bittorrent-infrastructure-project) - BitTorrent Infrastructure Project
+*   [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) - 2024!!Onion Links V3!!(Forum\&Chat\&Markets)TR-EN
 
-*   [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) - Trojan server and proxy programs written in Rust
+*   [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 
-*   [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
+*   [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
 
-*   [buttplugio/buttplug](https://github.com/buttplugio/buttplug) - Rust Implementation of the Buttplug Sex Toy Control Protocol
+*   [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 
-*   [matrix-org/matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust
+*   [BrandgrandRealMe/awesome-AI](https://github.com/BrandgrandRealMe/awesome-AI) - An awesome list of Cool AI tools and toys!
 
-*   [Barre/privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
+*   [anu0012/awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - An awesome list of events and fellowship opportunities for Computer Science students
 
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
+*   [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 
-*   [toblux/rust-clamav-client](https://github.com/toblux/rust-clamav-client) - Rust ClamAV client
+*   [bluscreenofjeff/Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - Wiki to collect Red Team infrastructure hardening resources
 
-*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
+*   [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
 
-*   [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
+*   [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
 
-*   [equalitie/btdht](https://github.com/equalitie/btdht) - Standalone bittorrent DHT library for rust
+*   [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 
-*   [n0-computer/iroh](https://github.com/n0-computer/iroh) - Sync anywhere
+*   [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
 
-*   [tenondvpn/leaf\_new](https://github.com/tenondvpn/leaf_new) - leaf\_new
+*   [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
 
-*   [planetoryd/netns-proxy](https://github.com/planetoryd/netns-proxy) - Containerized Proxying. Clone from the link below.
+*   [olilarkin/awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of my favourite music DSP and audio programming resources
 
-*   [Freifunk-Dresden/wg\_accept\_cgi](https://github.com/Freifunk-Dresden/wg_accept_cgi) - CGI rust programm for accepting wireguard connections
+*   [sambokai/ShortURL-Services-List](https://github.com/sambokai/ShortURL-Services-List) - A list of 600+ URL shorteners (i.e goo.gl, bit.ly)
 
-*   [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
+*   [emacs-tw/emacs-101-beginner-survival-guide](https://github.com/emacs-tw/emacs-101-beginner-survival-guide) - Emacs 101 新手求生指南 - 一本讓你學 Emacs 不再學得靠北靠母的美好的新手求生指南
 
-*   [move-language/move](https://github.com/move-language/move) -
+*   [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 
-*   [huff-language/huff-rs](https://github.com/huff-language/huff-rs) - A low-level assembly language for the Ethereum Virtual Machine built in blazing-fast pure rust.
+*   [leticiadasilva/por-onde-comecar](https://github.com/leticiadasilva/por-onde-comecar) - União de materiais totalmente gratuitos para ajudar quem desejar entrar em alguma área, aprender uma nova tecnologia ou aprimorar suas skills.
 
-*   [mrDIMAS/StationIapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase
+*   [elie222/learn-from-open-source](https://github.com/elie222/learn-from-open-source) - A list of open source projects to learn from
 
-*   [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
+*   [blockthreat/blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) - A curated list of blockchain security Capture the Flag (CTF) competitions
 
-*   [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
+*   [DarrenPan/DarrenPan](https://github.com/DarrenPan/DarrenPan) -
 
-*   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+*   [wenyuange/fo](https://github.com/wenyuange/fo) - 佛藏
 
-*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+*   [wenyuange/ru](https://github.com/wenyuange/ru) - 儒藏
 
-*   [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+*   [wenyuange/medicine](https://github.com/wenyuange/medicine) - 医藏
 
-*   [StasiumDev/ReviOS-Verifier](https://github.com/StasiumDev/ReviOS-Verifier) - Small tool to verify ReviOS ISOs
+*   [wenyuange/zi](https://github.com/wenyuange/zi) - 子藏
 
-*   [littlebenlittle/p2p-tun](https://github.com/littlebenlittle/p2p-tun) - VPN using libp2p
+*   [wenyuange/yi](https://github.com/wenyuange/yi) - 易藏
 
-*   [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
+*   [wenyuange/history](https://github.com/wenyuange/history) - 史藏
 
-*   [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
+*   [wenyuange/art](https://github.com/wenyuange/art) - 艺藏
 
-*   [ChristopherBilg/ri2p](https://github.com/ChristopherBilg/ri2p) - Rust implementation of the i2p client/server/router protocols
+*   [wenyuange/poem](https://github.com/wenyuange/poem) - 诗藏
 
-*   [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
+*   [wenyuange/dao](https://github.com/wenyuange/dao) - 道藏
 
-*   [ExodusVPN/exodus](https://github.com/ExodusVPN/exodus) - network proxy and tunnel (VPN)
+*   [wenyuange/ji](https://github.com/wenyuange/ji) - 集藏
 
-*   [meh/rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
+*   [alexwang1116/Kindle](https://github.com/alexwang1116/Kindle) - Kindle e-book
 
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+*   [alexston/talebook-library-master](https://github.com/alexston/talebook-library-master) -
 
-*   [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
+*   [ImKKingshuk/Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM) - Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer community. Elevate your Android experience beyond the ordinary! 🌐🚀 #CustomROMs #AndroidDev #OpenSource #XiaomiEU #HyperOS #OriginOS
 
-*   [minetest-rust/mt\_rudp](https://github.com/minetest-rust/mt_rudp) -
+*   [toolswatch/blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 
-*   [minetest-rust/mt\_net](https://github.com/minetest-rust/mt_net) -
+*   [weihaox/awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering) - Resources of Neural Rendering
 
-*   [minetest-rust/mt\_ser](https://github.com/minetest-rust/mt_ser) -
+*   [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
 
-*   [radicle-dev/heartwood](https://github.com/radicle-dev/heartwood) - ❤️🪵 Radicle Heartwood Protocol & Stack
+*   [aliesbelik/load-testing-toolkit](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 
-*   [radicle-dev/radicle-client-services](https://github.com/radicle-dev/radicle-client-services) - Services backing the Radicle client interfaces.
+*   [nextdns/dns-bypass-methods](https://github.com/nextdns/dns-bypass-methods) -
 
-*   [radicle-dev/radicle-cli](https://github.com/radicle-dev/radicle-cli) - Radicle CLI
+*   [tkowpt/metadata](https://github.com/tkowpt/metadata) - This repository contains the data behind our Security, Privacy and Parental Control features.
 
-*   [Manta-Network/Manta](https://github.com/Manta-Network/Manta) - The main repo for manta blockchain nodes.
+*   [nextdns/metadata](https://github.com/nextdns/metadata) - This repository contains the data behind our Security, Privacy and Parental Control features.
 
-*   [MASQ-Project/Node](https://github.com/MASQ-Project/Node) - MASQ combines the benefits of VPN and Tor technology to create a superior next-generation privacy software, where users are rewarded for supporting an uncensored global web. Users gain privacy and anonymity online, while helping promote Internet Freedom.
+*   [nextdns/ddns-domains](https://github.com/nextdns/ddns-domains) -
 
-*   [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+*   [nextdns/blocklists](https://github.com/nextdns/blocklists) -
 
-*   [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
+*   [BusKill/awesome-buskill-triggers](https://github.com/BusKill/awesome-buskill-triggers) - Antiforensic actions to secure your device if it's physically stolen from you
 
-*   [minetest-rust/mt\_client](https://github.com/minetest-rust/mt_client) -
+*   [BasixKOR/awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) - Awesome list of ActivityPub based projects
 
-*   [paritytech/cumulus](https://github.com/paritytech/cumulus) - Write Parachains on Substrate
+*   [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
 
-*   [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
+*   [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
 
-*   [AP-Atul/ranobe](https://github.com/AP-Atul/ranobe) - light novel scraper in rust
+*   [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
 
-*   [Nhlest/shikataganai](https://github.com/Nhlest/shikataganai) - 仕方がない...
+*   [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 
-*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+*   [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
 
-*   [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Data Science Spreadsheet with Python & SQL
+*   [bisq-network/proposals](https://github.com/bisq-network/proposals) - @bisq-network improvement proposals
 
-*   [Game4all/vx\_bevy](https://github.com/Game4all/vx_bevy) - 🧊 Voxel engine prototype made with the bevy game engine. Serves as a playground for experimenting with voxels, terrain generation, and bevy.
+*   [Pik-sec/Phoenix](https://github.com/Pik-sec/Phoenix) - 目录扫描神器,注意说明
 
-*   [mwbryant/logic\_voxels](https://github.com/mwbryant/logic_voxels) - A personal multiplayer voxel game created with the Bevy game engine
+*   [Pik-sec/tools](https://github.com/Pik-sec/tools) - 脚本小子天堂~
 
-*   [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum endpoint-to-endpoint encryption for messaging and file-sharing SDK
+*   [Pik-sec/Payer](https://github.com/Pik-sec/Payer) - 子域名爆破神器
 
-*   [pen-lang/pen](https://github.com/pen-lang/pen) - The parallel, concurrent, and functional programming language for scalable software development
+*   [joaocarvalhoopen/How\_to\_learn\_modern\_electronics](https://github.com/joaocarvalhoopen/How_to_learn_modern_electronics) - A guide to the adventurer
 
-*   [fluencelabs/nox](https://github.com/fluencelabs/nox) - Rust implementation of the Fluence network peer
+*   [joaocarvalhoopen/Most\_common\_components\_in\_electronics](https://github.com/joaocarvalhoopen/Most_common_components_in_electronics) - A guide to the electronics adventurer!
 
-*   [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
+*   [joaocarvalhoopen/How\_to\_learn\_modern\_Embedded\_Systems](https://github.com/joaocarvalhoopen/How_to_learn_modern_Embedded_Systems) - A guide to the adventurer
 
-*   [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
+*   [joaocarvalhoopen/Guides\_Linux-Programming-Electronics-Aeronautics](https://github.com/joaocarvalhoopen/Guides_Linux-Programming-Electronics-Aeronautics) - All my little guides in one place. Linux, Programming, Embedded, Electronics, Aeronautics and Guitar.
 
-*   [toastxc/cf-ddns](https://github.com/toastxc/cf-ddns) - dynamic IP DNS client for cloudflare
+*   [ephtracy/voxel-model](https://github.com/ephtracy/voxel-model) -
 
-*   [das-labor/panopticon](https://github.com/das-labor/panopticon) - A libre cross-platform disassembler.
+*   [tensorush/Awesome-Languages-Programming](https://github.com/tensorush/Awesome-Languages-Programming) - 😎 💬 Collection of the most awesome learning resources on modern programming languages in the form of videos, courses and blog posts.
 
-*   [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox\_with\_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
+*   [ustayready/CredMaster](https://github.com/ustayready/CredMaster) - Refactored & improved CredKing password spraying tool, uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling
 
-*   [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+*   [tanc7/hacking-books](https://github.com/tanc7/hacking-books) -
 
-*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
+*   [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.
 
-*   [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) - Rust implementation of Magic Wormhole, with new features and enhancements
+*   [PKU-YuanGroup/repaint123](https://github.com/PKU-YuanGroup/repaint123) - Official implementation of Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting
 
-*   [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
+*   [nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
 
-*   [datrs/hypercore](https://github.com/datrs/hypercore) - Secure, distributed, append-only log
+*   [ajaymnk/open-electronics](https://github.com/ajaymnk/open-electronics) - 📚 💻 Great Resources for Electronics Enthusiasts
 
-*   [kpcyrd/narnia](https://github.com/kpcyrd/narnia) - :construction: EXPERIMENTAL :construction: Secure hidden service webserver
+*   [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
-*   [Pyxxilated-Studios/Blackhole](https://github.com/Pyxxilated-Studios/Blackhole) - A DNS filtering and blocking server and client
+*   [opencax/opencax.github.io](https://github.com/opencax/opencax.github.io) - Website for OpenCAx
 
-*   [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - Browser-based, graphical operating system for a personal server.
+*   [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
 
-*   [rust-blockchain/blockchain](https://github.com/rust-blockchain/blockchain) - Unopinioned blockchain framework written in Rust
+*   [Brad331/DynamiQ](https://github.com/Brad331/DynamiQ) -
 
-*   [rust-ethereum/ethereum](https://github.com/rust-ethereum/ethereum) - Common Ethereum structs for Rust.
+*   [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
 
-*   [rust-ethereum/evm](https://github.com/rust-ethereum/evm) - Pure Rust implementation of Ethereum Virtual Machine
+*   [jankais3r/Synology-Safe-Access-domain-list](https://github.com/jankais3r/Synology-Safe-Access-domain-list) - Per-category domain lists extracted from category\_database.db shipped in Synology's Safe Access package.
 
-*   [baskerville/plato](https://github.com/baskerville/plato) - Document reader
+*   [Sinfonietta/hostfiles](https://github.com/Sinfonietta/hostfiles) - A collection of category-specific host files
 
-*   [cabal-club/cable.rs](https://github.com/cabal-club/cable.rs) - rust implementation of the cable protocol
+*   [moose84/list](https://github.com/moose84/list) - listOfPiHole
 
-*   [ipfs-rust/ipfs-embed](https://github.com/ipfs-rust/ipfs-embed) - A small embeddable ipfs implementation
+*   [pq6p41fgt6k/potential-octo-parakeet](https://github.com/pq6p41fgt6k/potential-octo-parakeet) -
 
-*   [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+*   [alexsannikov/adguardhome-filters](https://github.com/alexsannikov/adguardhome-filters) - AdGuard Home filter lists converted from hosts files
 
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+*   [CyanideBrother/anti-pr0n](https://github.com/CyanideBrother/anti-pr0n) -
 
-*   [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+*   [brijrajparmar27/host-sources](https://github.com/brijrajparmar27/host-sources) - host records for DNS based content blocking
 
-*   [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
+*   [edmond-nader/MyPiHoleLists](https://github.com/edmond-nader/MyPiHoleLists) -
 
-*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+*   [justdomains/blocklists](https://github.com/justdomains/blocklists) - Domain-ONLY Filter Lists (for use with DNS / Domain blocking tools)
 
-*   [jaredly/veoluz](https://github.com/jaredly/veoluz) - "I see light" - visualize the paths of millions of light rays through reflection, refraction and diffusion
+*   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 
-*   [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+*   [austinheap/sophos-xg-block-lists](https://github.com/austinheap/sophos-xg-block-lists) - Extending & consolidating hosts files from a variety of sources, specifically for Sophos XG.
 
-*   [sdbondi/p2p-chess](https://github.com/sdbondi/p2p-chess) -
+*   [mhhakim/pihole-blocklist](https://github.com/mhhakim/pihole-blocklist) - Pi-Hole blocklist.
 
-*   [adam-mcdaniel/chess-engine](https://github.com/adam-mcdaniel/chess-engine) - A dependency-free chess engine♟️ library built to run anywhere.
+*   [go2engineering/pihole-blocklists](https://github.com/go2engineering/pihole-blocklists) - A custom list of blocked sites to be applied to pihole, to be used in addition to standard block lists
 
-*   [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org
+*   [nizekun/adguardhome-blocklist](https://github.com/nizekun/adguardhome-blocklist) -
 
-*   [dswd/zvault](https://github.com/dswd/zvault) - Deduplicating backup solution
+*   [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+*   [wutong16/HyperDreamer](https://github.com/wutong16/HyperDreamer) - (Siggraph Asia 2023) Official code of "HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image"
 
-*   [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
+*   [magic-research/magic-edit](https://github.com/magic-research/magic-edit) - MagicEdit: High-Fidelity Temporally Coherent Video Editing
 
-*   [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+*   [monosans/proxy-list](https://github.com/monosans/proxy-list) - Lists of HTTP, SOCKS4, SOCKS5 proxies with geolocation info. Updated every 30 minutes.
 
-*   [dothq/blocking-lists](https://github.com/dothq/blocking-lists) - 🛡️ Blocking lists used in Dot Browser
+*   [roosterkid/openproxylist](https://github.com/roosterkid/openproxylist) - List of Free HTTPS, SOCKS4, SOCKS5 Proxy (Daily Updates!)
 
-*   [hoprnet/hoprnet](https://github.com/hoprnet/hoprnet) - HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange. HOPR is similar to Tor but actually private, decentralized and economically sustainable.
+*   [mmpx12/proxy-list](https://github.com/mmpx12/proxy-list) - Free proxies (few vpn and tor exit nodes) from various sources update hourly.
 
-*   [yinheli/kungfu](https://github.com/yinheli/kungfu) - Flexible DNS hijacking and proxy tool.
+*   [ErcinDedeoglu/proxies](https://github.com/ErcinDedeoglu/proxies) - 🔍💻🔒🌀🔄🌟🚀📂📈 Need a daily updated proxy list? Look no further! Our PROXY list offers the freshest and most reliable proxy servers available. Say goodbye to outdated and unreliable lists and hello to a seamless, secure browsing experience. Get started with our PROXY list today!
 
-*   [VOICEVOX/voicevox\_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
+*   [ALIILAPRO/Proxy](https://github.com/ALIILAPRO/Proxy) - Get new and fast proxy list every hour.
 
-*   [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
+*   [prxchk/proxy-list](https://github.com/prxchk/proxy-list) - 🚀 High anonymous free proxy list. CONTINUOUSLY UPDATING!!!
 
-*   [cabal-club/cabin](https://github.com/cabal-club/cabin) - a rustic command-line cabal client using the cable protocol
+*   [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) -   proxy list that updates every 10 minutes
 
-*   [openaudiosearch/openaudiosearch](https://github.com/openaudiosearch/openaudiosearch) - Open Audio Search
+*   [casals-ar/proxy-list](https://github.com/casals-ar/proxy-list) - 🚀 Free HTTP / HTTPS / SOCKS4 / SOCKS5 proxy list. UPDATED EVERY 5 MINUTES.
 
-*   [open-quantum-safe/liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust) - Rust bindings for liboqs
+*   [goastian/midori-desktop](https://github.com/goastian/midori-desktop) - Official repository code Midori Browser
 
-*   [p2panda/p2panda](https://github.com/p2panda/p2panda) - All the things a panda needs
+*   [Klaus-Thaler/hosts-for-Androids](https://github.com/Klaus-Thaler/hosts-for-Androids) - The /system/etc/hosts can also block addresses. By redirecting the names to localhost. This slows down the connection. But Trackercontrol over VPN is much slower.
 
-*   [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
+*   [Arrin-KN1E/SDR-Band-Plans](https://github.com/Arrin-KN1E/SDR-Band-Plans) - Detailed band plans for SDR Software
 
-*   [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
+*   [nrkno/Sofie-TV-automation](https://github.com/nrkno/Sofie-TV-automation) - The Sofie TV Studio Automation System, used in live TV news production by the Norwegian public service broadcaster NRK since September 2018
 
-*   [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
+*   [lunardao/dao](https://github.com/lunardao/dao) - LunarDAO Architecture
 
-*   [thrzl/crust](https://github.com/thrzl/crust) - ⛏️ a real fast minecraft api (wip)
+*   [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 
-*   [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
+*   [suttacentral/sc-data](https://github.com/suttacentral/sc-data) - Content for SuttaCentral, including texts both legacy and bilara, parallels, structure, and other metadata.
 
-*   [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
+*   [sjr7/KillADHosts](https://github.com/sjr7/KillADHosts) - 屏蔽常见广告的Hosts数据
 
-*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
+*   [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 
-*   [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
+*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 
-*   [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
+*   [DustinWin/clash\_singbox-tools](https://github.com/DustinWin/clash_singbox-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、sing-box 内核、Clash dashboard 面板和 AdGuardHome 最新版
 
-*   [BVE-Reborn/rend3](https://github.com/BVE-Reborn/rend3) - Easy to use, customizable, efficient 3D renderer library built on wgpu.
+*   [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
 
-*   [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+*   [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 
-*   [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language.
+*   [theepiccode/Awesome-CyberSec-Resources](https://github.com/theepiccode/Awesome-CyberSec-Resources) - An awesome collection of curated Cyber Security resources(Books, Tutorials, Blogs, Podcasts, ...)
 
-*   [revoltchat/vortex](https://github.com/revoltchat/vortex) - (in development) Pluggable WebRTC Voice Server
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
-*   [revoltchat/january](https://github.com/revoltchat/january) - Image proxy and embed generator.
+*   [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
 
-*   [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
+*   [obfuscation/documentation](https://github.com/obfuscation/documentation) -
 
-*   [random-geek/MapEditr](https://github.com/random-geek/MapEditr) - A fast, command-line world editor for Minetest.
+*   [SiaFoundation/docs](https://github.com/SiaFoundation/docs) - The Sia docs
 
-*   [str4d/ire](https://github.com/str4d/ire) - I2P router implementation in Rust
+*   [mbaniadam/MPLS-VPN-on-IS-IS](https://github.com/mbaniadam/MPLS-VPN-on-IS-IS) - MPLS VPN Implementation with IS-IS Routing Protocol
 
-*   [dswd/vpncloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN
+*   [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
 
-*   [geph-official/geph4-client](https://github.com/geph-official/geph4-client) - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 
-*   [Elkien3/minetest-mumble-wrapper](https://github.com/Elkien3/minetest-mumble-wrapper) - A small wrapper program and client mod to enable Mumble positional audio in Minetest without having to make a custom build of Minetest.
+*   [ircv3/ircv3-ideas](https://github.com/ircv3/ircv3-ideas) -
 
-*   [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
+*   [17mon/china\_ip\_list](https://github.com/17mon/china_ip_list) -
 
-*   [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
+*   [meanos/next.js-proxy-1](https://github.com/meanos/next.js-proxy-1) -  Next.js Proxy: Unlocking Serverless Mirroring on Vercel, Netlify, or GitHub Pages with Advanced Configurations - Enhanced with Advanced Features: .env Base Configuration, Dynamic Search and Replace, Article Spinner, and Beyond 🚀
 
-*   [iceiix/stevenarella](https://github.com/iceiix/stevenarella) - Multi-protocol Minecraft-compatible client written in Rust
+*   [meanos/stonexy](https://github.com/meanos/stonexy) - Stonexy combines the power of Next.js, Keystone.js, Node.js, Proxy-middleware, and GraphQL in one powerful SAAS-based CMS Proxy, flaunting both a stunning and user-friendly UI. Proxy, reverse-proxy, mirror, protect, or reflect, its all easy with Stonexy. Unleash limitless possibilities, pioneer future next-gen today, and always stay Stonexy!
 
-*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+*   [mikalv/awesome-i2p](https://github.com/mikalv/awesome-i2p) - A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
 
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+*   [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 
-*   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+*   [GNU-Linux-libre/Awesome-VPN-Network](https://github.com/GNU-Linux-libre/Awesome-VPN-Network) - The best vpn service 2022 Lifetime free anonymous Awesome dVPN foss Network decentralized Ethereum Blockchain DHT-VPN Peer-to-peer open-source
 
-*   [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
+*   [GNU-Linux-libre/Awesome-Browser-Search-Engine](https://github.com/GNU-Linux-libre/Awesome-Browser-Search-Engine) - Awesome Browser Search engine streaming live git Privacy Alternative Alternatives 搜索引擎大全 浏览器大全
 
-*   [Revertron/Alfis](https://github.com/Revertron/Alfis) - Alternative Free Identity System
+*   [GNU-Linux-libre/Catalogue](https://github.com/GNU-Linux-libre/Catalogue) - Catalogues by category
 
-*   [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
+*   [webRTCv1/Best-of-webRTC](https://github.com/webRTCv1/Best-of-webRTC) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Best of WebRTC: Elevate with Top Projects!
 
-*   [jordan4ibanez/Crafter-Rust](https://github.com/jordan4ibanez/Crafter-Rust) -
+*   [bltavares/p2p-links](https://github.com/bltavares/p2p-links) - A set of links for projects that I keep track of on the peer-to-peer space.
 
-*   [IPSE-TEAM/ipse-core](https://github.com/IPSE-TEAM/ipse-core) - Ipse-core is the underlying consensus layer of IPSE project, which is the basic version of the whole application chain. The function modules to be added in the future are all extended based on this core version.
+*   [vorburger/awesome-decentralized-internet-web3-blockchain-p2p-security-world-cloud](https://github.com/vorburger/awesome-decentralized-internet-web3-blockchain-p2p-security-world-cloud) - Directory of awesome projects related to the future buzzword compliant decentralized internet Web3 Blockchain P2P secure world cloud!
 
-*   [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
+*   [LibreCybernetics/awesome-radical-decentralization](https://github.com/LibreCybernetics/awesome-radical-decentralization) - Awesome projects for radical decentralization.
 
-*   [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.
+*   [mafintosh/awesome-p2p](https://github.com/mafintosh/awesome-p2p) - List of great p2p resources
 
-*   [shadow/shadow](https://github.com/shadow/shadow) - Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.
+*   [hackergrrl/p2p-handbook](https://github.com/hackergrrl/p2p-handbook) - :horse: Let's learn how to peer-to-peer!
 
-*   [tenondvpn/leaf](https://github.com/tenondvpn/leaf) -
+*   [kgryte/awesome-peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources.
 
-*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
+*   [moarpepes/awesome-mesh](https://github.com/moarpepes/awesome-mesh) - This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.
 
-*   [Terkwood/BUGOUT](https://github.com/Terkwood/BUGOUT) - AI-driven, Multiplayer Go/Weiqi/Baduk for the web 🐛🤖🦀♟
+*   [Pantyhose-X/README.md](https://github.com/Pantyhose-X/README.md) - 🌱 programming language and decentralised network
 
-*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
+*   [Pantyhose-X/asus-Realtek-Audio](https://github.com/Pantyhose-X/asus-Realtek-Audio) - \[DRIVERS] Realtek Audio asus
 
-*   [googleforgames/quilkin](https://github.com/googleforgames/quilkin) - Quilkin is a non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and more.
+*   [Pantyhose-X/vpn](https://github.com/Pantyhose-X/vpn) - Domain generation algorithm+Fast flux+DNS Tunneling+Tor+C2 server 最新翻墙方法,永远不被封
 
-*   [veloren/Airshipper](https://github.com/veloren/Airshipper) - The official Veloren launcher! This repository is a mirror. Please submit all PRs and issues on our GitLab page: https://gitlab.com/veloren/airshipper
+*   [Pantyhose-X/Logical](https://github.com/Pantyhose-X/Logical) - Artificial intelligence Constructed Logical Languages
+
+*   [cdnbye/dashjs-p2p-engine](https://github.com/cdnbye/dashjs-p2p-engine) - A dash.js plugin to offload bandwidth from expensive traditional CDNs，while also maximizing a user’s viewing experience.
+
+*   [funilrys/pornhosts](https://github.com/funilrys/pornhosts) - For time being, this is a temporary fork, for adding a few optimizations and get the lists back up to-date.
+
+*   [Bit451/Bit451](https://github.com/Bit451/Bit451) - decentralized / distributed anonymous p2p media network
+
+*   [Thiasap/SomeIPs](https://github.com/Thiasap/SomeIPs) - 记录一些阿里、腾讯等网络公司的ip段
+
+*   [nextdns/native-tracking-domains](https://github.com/nextdns/native-tracking-domains) -
+
+*   [bremich/Blocklists](https://github.com/bremich/Blocklists) - Annoyances blocklists for Pi-hole/AdGuard Home/uMatrix and Adblock Plus/AdGuard/uBlock
+
+*   [chromium/chromium-ads-detection](https://github.com/chromium/chromium-ads-detection) -
+
+*   [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
+
+*   [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd blocklist
+
+*   [nextdns/piracy-blocklists](https://github.com/nextdns/piracy-blocklists) -
+
+*   [proxylist-to/proxy-list](https://github.com/proxylist-to/proxy-list) - Automatically updated list of free proxies
+
+*   [aubrel/materia-medica](https://github.com/aubrel/materia-medica) - Autonomous mutual self-education about the wonderful world of medicinal plant technologies.
+
+*   [fabacab/awesome-malware](https://github.com/fabacab/awesome-malware) - :computer::warning: A curated collection of awesome malware, botnets, and other post-exploitation tools.
+
+*   [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+
+*   [SwapneelM/awesome-particle-physics-for-non-physicists](https://github.com/SwapneelM/awesome-particle-physics-for-non-physicists) - A curated list of introductory resources to Particle Physics (Quantum Field Theory, QED, QCD, Standard Model, Colliders) for people without a formal background in Physics
+
+*   [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) - 📜Zig Learning Guide & Project Lists
+
+*   [VipassanaTech/tipitaka-xml](https://github.com/VipassanaTech/tipitaka-xml) - tipitaka.org public xml files
+
+*   [namebasehq/awesome-handshake](https://github.com/namebasehq/awesome-handshake) - A collection of awesome things regarding the Handshake ecosystem.
+
+*   [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
+
+*   [zeerx7/reverse-ip](https://github.com/zeerx7/reverse-ip) - Discover Domains Associated with a Reverse IP Lookup
+
+*   [zevtyardt/proxy-list](https://github.com/zevtyardt/proxy-list) - 🔓 daily updated proxy list
+
+*   [bdvajstudio/javdb](https://github.com/bdvajstudio/javdb) - javdb official app
+
+*   [btcven/locha](https://github.com/btcven/locha) - Communicate with others and broadcast Bitcoin transactions off-grid without internet access or even power grid.
+
+*   [filteryab/ir-blocked-domain](https://github.com/filteryab/ir-blocked-domain) - List of blocked domains in Iran
+
+*   [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet
+
+*   [hzxie/city-dreamer](https://github.com/hzxie/city-dreamer) - The official implementation of "CityDreamer: Compositional Generative Model of Unbounded 3D Cities". (arXiv 2309.00610)
+
+*   [devbisme/kicad-3rd-party-tools](https://github.com/devbisme/kicad-3rd-party-tools) - Software tools/utilities made by others to augment the KiCad PCB EDA suite.
+
+*   [n0kovo/awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking) - A curated list of awesome tools, research, papers and other projects related to password cracking and password security.
+
+*   [scriptzteam/Tor-Bridges-Collector](https://github.com/scriptzteam/Tor-Bridges-Collector) - Collecting Tor Bridges.
+
+*   [strato-emu/compat-list](https://github.com/strato-emu/compat-list) - A repository for collection of compatibility data for Nintendo Switch titles with Strato
+
+*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+
+*   [u3c3/BT-btt](https://github.com/u3c3/BT-btt) - 磁力網站U3C3介紹以及域名更新
+
+*   [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List \* Updated every 5 minutes \*
+
+*   [gwang-kim/PODIA-3D](https://github.com/gwang-kim/PODIA-3D) - \[ICCV 2023] Official implementation of "PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion"
+
+*   [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
+
+*   [officialputuid/KangProxy](https://github.com/officialputuid/KangProxy) - Free proxy-list with auto checker (Check branches)
+
+*   [shime/creative-commons-media](https://github.com/shime/creative-commons-media) - A curated list of resources that provide media licensed under Creative Commons licenses.
+
+*   [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - Chess!
+
+*   [gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
+
+*   [faroit/awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) -  Curated list of python software and packages related to scientific research in audio
+
+*   [ebraminio/awesome-qsharp](https://github.com/ebraminio/awesome-qsharp) - A curated list of Q# code and resources.
+
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+*   [digitalpalidictionary/digitalpalidictionary](https://github.com/digitalpalidictionary/digitalpalidictionary) - Download the latest version of DPD for GoldenDict
+
+*   [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
+
+*   [gugu-hw/rarbg-db-dumps](https://github.com/gugu-hw/rarbg-db-dumps) - My personal RARBG database dumps - R.I.P. rbg and thank you for your service
+
+*   [Has-Needs-Ni-Aini/home](https://github.com/Has-Needs-Ni-Aini/home) -
+
+*   [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) - Bringing intranet on the internet with Zero-Config Mesh VPNs.
+
+*   [kadore520/tenonvpn-join](https://github.com/kadore520/tenonvpn-join) - linux node server join in the tenon decentralized network and suply vpn server and route services
+
+*   [hui477/tenonvpn-windows](https://github.com/hui477/tenonvpn-windows) - tenon vpn for windows
+
+*   [proxy4parsing/proxy-list](https://github.com/proxy4parsing/proxy-list) - free proxies from public sites & telegram.
+
+*   [vfdecl/zy-player-kankan-resource](https://github.com/vfdecl/zy-player-kankan-resource) - zyplayer，看看APP，视频资源站
+
+*   [Correia-jpv/fucking-awesome-sysadmin](https://github.com/Correia-jpv/fucking-awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources. With up-to-date repository stars⭐ and forks🍴
+
+*   [Jirehlov/cfranking](https://github.com/Jirehlov/cfranking) - Cloudflare Domain Ranking history
+
+*   [hezhijie0327/GFWList2AGH](https://github.com/hezhijie0327/GFWList2AGH) - Generate diversion list for AdGuard Home and other softwares
+
+*   [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
+
+*   [2004content/rarbg](https://github.com/2004content/rarbg) - Backup of magnets from RARBG
+
+*   [saisuiu/Lionkings-Http-Proxys-Proxies](https://github.com/saisuiu/Lionkings-Http-Proxys-Proxies) - A large number of free HTTP proxies updated every 10 minutes.Keep http/s proxies fresh at all times.
+
+*   [icoz69/StyleAvatar3D](https://github.com/icoz69/StyleAvatar3D) - Official repo for StyleAvatar3D
+
+*   [yuttadhammo/ask-pali-keyboard](https://github.com/yuttadhammo/ask-pali-keyboard) - Any Soft Keyboard - Pali Language Pack
+
+*   [siongui/dictionary.online-dhamma.net](https://github.com/siongui/dictionary.online-dhamma.net) - serve pali dictionary website
+
+*   [siongui/7rsk9vjkm4p8z5xrdtqc](https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc) - Pāli chanting resources and dhammatalk books
+
+*   [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
+
+*   [vpnry/patimokkha\_recitation](https://github.com/vpnry/patimokkha_recitation) - Bhikkhu pātimokkha pāḷi recitation audio and ebooks
+
+*   [vpnry/paauk](https://github.com/vpnry/paauk) - Pa-Auk Meditation Manual Course Book & Others
+
+*   [amd/UIF](https://github.com/amd/UIF) -
+
+*   [sajjadium/ctf-archives](https://github.com/sajjadium/ctf-archives) -  CTF Archives: Collection of CTF Challenges.
+
+*   [alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts\&videos)
+
+*   [alphaSeclab/sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 21K security related open source tools, sorted by star count. Both in markdown and json format.
+
+*   [alphaSeclab/awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
+
+*   [moshest/p2p-index](https://github.com/moshest/p2p-index) - 👯‍♂️ A collection of peer-to-peer decentralized projects.
+
+*   [PublicWebDB/PlayFunWeb](https://github.com/PublicWebDB/PlayFunWeb) - 玩趣网
+
+*   [n0kovo/n0kovo\_subdomains](https://github.com/n0kovo/n0kovo_subdomains) - An extremely effective subdomain enumeration wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
+
+*   [poretsky/SmartVoice-translations](https://github.com/poretsky/SmartVoice-translations) - SmartVoice app translatable resource
+
+*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+
+*   [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
+
+*   [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
+
+*   [realizelol/torblocklist](https://github.com/realizelol/torblocklist) - pulling actual exit + or addresses via torproject rest api
+
+*   [Enkidu-6/tor-relay-lists](https://github.com/Enkidu-6/tor-relay-lists) - Automatically updated Tor relay lists
+
+*   [Zaeem20/FREE\_PROXIES\_LIST](https://github.com/Zaeem20/FREE_PROXIES_LIST) - FREE PROXY LIST (Gets Updated Every 10 Minutes). included HTTP(S) Proxy.
+
+*   [web3privacy/web3privacy](https://github.com/web3privacy/web3privacy) - Web3Privacy Now is a research project aimed at building a culture of privacy industry in web3: the most extensive database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases database & many more. Feel free to collaborate.
+
+*   [hiddify/awesome-freedom](https://github.com/hiddify/awesome-freedom) - In this repository we have collected all awesome tools for iranian people
+
+*   [DarrenPan/Awesome-CVPR2023-Low-Level-Vision](https://github.com/DarrenPan/Awesome-CVPR2023-Low-Level-Vision) - A Collection of Papers and Codes in CVPR2023/2022 about low level vision
+
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+*   [mikesprague/udacity-nanodegrees](https://github.com/mikesprague/udacity-nanodegrees) - :mortar\_board: List of Udacity Nanodegree programs with links to the free courses in their curricula
+
+*   [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
+
+*   [v8blink/Chromium-based-XSS-Taint-Tracking](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking) - Cyclops 是一款具有 XSS 检测功能的浏览器
+
+*   [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
+
+*   [LuozhuZhang/awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) - A curated list of awesome zkEVM resources, libraries, tools and more
+
+*   [six2dez/pentest-book](https://github.com/six2dez/pentest-book) -
+
+*   [hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
+
+*   [mandatoryprogrammer/NorthKoreaDNSLeak](https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak) - Snapshot of North Korea's DNS data taken from zone transfers.
+
+*   [mandatoryprogrammer/RussiaDNSLeak](https://github.com/mandatoryprogrammer/RussiaDNSLeak) - Summary and archives of leaked Russian TLD DNS data
+
+*   [PlatypusSec/Platypus](https://github.com/PlatypusSec/Platypus) - Platypus Smart VPN for Safe passage through filtering
+
+*   [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - curated list of open-source anti-censorship tools
+
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+*   [x0uid/SpotifyAdBlock](https://github.com/x0uid/SpotifyAdBlock) - Protect your privacy by blocking all annoying Spotify ads & analytics in Linux, OSX and Windows with hosts file.
+
+*   [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
+
+*   [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+
+*   [uBlockOrigin/uBlock-issues](https://github.com/uBlockOrigin/uBlock-issues) - This is the community-maintained issue tracker for uBlock Origin
+
+*   [darknet11/onionlink](https://github.com/darknet11/onionlink) - URL LInk
+
+*   [unity3d-jp/AnimeToolbox](https://github.com/unity3d-jp/AnimeToolbox) -
+
+*   [Safe3/fahi](https://github.com/Safe3/fahi) - 一款社区驱动的免费、高速、稳定、安全的内网穿透、P2P传输、零信任网络ZTNA、堡垒机、异地组网SD-WAN，打破传统网络边界的Mesh网格网络安全产品。
+
+*   [chenjia404/emule\_helper](https://github.com/chenjia404/emule_helper) - 一个一键使用新手免设置安装emule包，基于emule0.50a-Xtreme8.1-upnppackzh配置
+
+*   [TheTorProject/gettorbrowser](https://github.com/TheTorProject/gettorbrowser) -
+
+*   [Btdigg-Org/dhtcrawler2](https://github.com/Btdigg-Org/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent by a keyword
+
+*   [BlinkDL/Hua](https://github.com/BlinkDL/Hua) - Hua is an AI image editor with Stable Diffusion (and more).
+
+*   [torrust/torrust-index-archive](https://github.com/torrust/torrust-index-archive) - Moved: https://github.com/torrust/torrust-index
+
+*   [2439905184/CreationFreeTools](https://github.com/2439905184/CreationFreeTools) - 创意多媒体创作的开源工具列表
+
+*   [edu-minetest/minetest](https://github.com/edu-minetest/minetest) - Minetest Education Edition
+
+*   [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
+
+*   [EAimTY/tuic](https://github.com/EAimTY/tuic) -
+
+*   [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
+
+*   [joaocarvalhoopen/How\_to\_learn\_modern\_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
+
+*   [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+
+*   [dragonfruitnetwork/onionfruit](https://github.com/dragonfruitnetwork/onionfruit) - OnionFruit™ Connect - Tor access client with country selection, bridge configuration, pluggable transports and experimental DNS support
+
+*   [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
+
+*   [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
+
+*   [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
+
+*   [RimoChan/internet-dataset](https://github.com/RimoChan/internet-dataset) - 【数据集】好耶，是互联网数据集！
+
+*   [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
+
+*   [imperviousinc/badass-ens](https://github.com/imperviousinc/badass-ens) - Badass ENS
+
+*   [screetsec/Wordlist-Dracos](https://github.com/screetsec/Wordlist-Dracos) -  Collection My Wordlist
+
+*   [2439905184/great-men](https://github.com/2439905184/great-men) - 值得学习的伟人列表
+
+*   [funnychip796/bilibili\_appimage](https://github.com/funnychip796/bilibili_appimage) - bilibili官方客户端 使用appimage再次打包
+
+*   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
+
+*   [soruly/awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
+
+*   [SecOps-Institute/Tor-IP-Addresses](https://github.com/SecOps-Institute/Tor-IP-Addresses) - Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
+
+*   [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
+
+*   [macchrome/winchrome](https://github.com/macchrome/winchrome) - Chromium for 64-bit Windows - All Codecs: MS Visual Studio 2017
+
+*   [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
+
+*   [VeleSila/yhosts](https://github.com/VeleSila/yhosts) - 接手Vokins的项目无责任更新。AD hosts爱好群，群号:201973909
+
+*   [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
+
+*   [badmojr/stars](https://github.com/badmojr/stars) - A curated list of my GitHub stars!
+
+*   [spiri-leo/blocklist-collection](https://github.com/spiri-leo/blocklist-collection) - The blocklist collection for block ads and tracking and more.
+
+*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+
+*   [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
+
+*   [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
+
+*   [pantsufan/BlockAds](https://github.com/pantsufan/BlockAds) - Magisk module to block ads on android
+
+*   [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) - Magisk module to block ads on android
+
+*   [liamengland1/mischosts](https://github.com/liamengland1/mischosts) - hosts for pihole
+
+*   [yu-steven/openit](https://github.com/yu-steven/openit) - 致力于打造免费无感的翻墙环境
+
+*   [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
+
+*   [2439905184/free\_domain\_list](https://github.com/2439905184/free_domain_list) - 免费域名服务商列表
+
+*   [tiuxo/hosts](https://github.com/tiuxo/hosts) - Categorized hosts files for DNS based content blocking
+
+*   [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Bots, Hackers, Sniffers, etc..
+
+*   [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - DNS Block Lists
+
+*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+
+*   [kevindeasis/awesome-fullstack](https://github.com/kevindeasis/awesome-fullstack) - ¯\_(ツ)\_/¯ Learn to code: curated list to learn full stack. Includes learning materials and other resources~
+
+*   [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
+
+*   [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists) - Curated lists on various topics
+
+*   [Mhy278/Recommended-Software](https://github.com/Mhy278/Recommended-Software) - 常用软件推荐
+
+*   [conanhujinming/tips\_for\_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享
+
+*   [revoltchat/revolt](https://github.com/revoltchat/revolt) - Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions
+
+*   [huihoo/wiki](https://github.com/huihoo/wiki) - 开放百科资源索引
+
+*   [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies
+
+*   [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
+
+*   [axic/mango](https://github.com/axic/mango) - Mango: Git, completely decentralised.
+
+*   [programthink/sites](https://github.com/programthink/sites) - 【编程随想】收藏的各色网站
+
+*   [programthink/opensource](https://github.com/programthink/opensource) - 【编程随想】收藏的开源项目清单
+
+*   [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
+
+*   [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
+
+*   [Ayms/alternative-internet](https://github.com/Ayms/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
+
+*   [mhatta/awesome-secure-instant-messaging](https://github.com/mhatta/awesome-secure-instant-messaging) - A list of awesome secure instant messaging related projects, articles, papers, etc.
+
+*   [2439905184/Galgame-Engine-Collect](https://github.com/2439905184/Galgame-Engine-Collect) - 关于视觉小说的一切，争取打造全网最全的资料库
+
+*   [cryptostorm/cstorm\_deepDNS](https://github.com/cryptostorm/cstorm_deepDNS) - cryptostorm's DeepDNS, a decentralized, crypto-hardened, DNS framework
+
+*   [Psiphon-Inc/psiphon](https://github.com/Psiphon-Inc/psiphon) - Meta-repo with info about and links to Psiphon resources
+
+*   [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+
+*   [jeremy-jr-benthum/onion-browser-button](https://github.com/jeremy-jr-benthum/onion-browser-button) - Requisite files to run onion browser button add-on
+
+*   [tenondvpn/win10](https://github.com/tenondvpn/win10) - tenonvpn for windows
+
+*   [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
+
+*   [skynet-guide/docs](https://github.com/skynet-guide/docs) - Community maintained knowledge base for Skynet
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [pangafu/LeelaMasterWeight](https://github.com/pangafu/LeelaMasterWeight) - Leela Master weight is training from leela zero self-play sgf and human sgf file
+
+*   [wonsiks/BadukMegapack](https://github.com/wonsiks/BadukMegapack) - Installer for various AI Baduk softwares
+
+*   [Gedsh/Purple-I2P-Android-build-script](https://github.com/Gedsh/Purple-I2P-Android-build-script) - Script for building Purple-I2P for Android from source using Gitlab CI / CD
+
+*   [Gedsh/Tor-Android-build-script](https://github.com/Gedsh/Tor-Android-build-script) - Script for building Tor for Android from source using Gitlab CI / CD
+
+*   [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) - VPN/proxy WIKI .Find the best VPN/proxy 免费的VPN 代理  账号 翻墙 科学上网 梯子 机场
+
+*   [greatfire/wiki](https://github.com/greatfire/wiki) -
+
+*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+
+*   [universalbyte/superhostsfile](https://github.com/universalbyte/superhostsfile) - Protect your computer / rooted-smartphone !
+
+*   [leereilly/games](https://github.com/leereilly/games) - :video\_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+
+*   [sentinel-official/android-client-lite](https://github.com/sentinel-official/android-client-lite) - This is the official repository of the Sentinel Android client lite
+
+*   [sentinel-official/networks](https://github.com/sentinel-official/networks) - The official Sentinel blockchain networks
+
+*   [angristan/awesome-stars](https://github.com/angristan/awesome-stars) - A curated list of my GitHub stars!
+
+*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+
+*   [bebasid/bebasdns](https://github.com/bebasid/bebasdns) - bebasdns merupakan server DNS publik netral dan berselancar secara aman dan tidak terbatas.
+
+*   [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video\_game: :pencil: A list of Game Development resources to make magic happen.
+
+*   [garychowcmu/daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
+
+*   [gtsCollect/dandin-novel](https://github.com/gtsCollect/dandin-novel) - 但丁的小说
+
+*   [yuuwill/1024app-android](https://github.com/yuuwill/1024app-android) - 草榴官方客户端，小草客户端，Android
+
+*   [yuuwill/1024app-ios](https://github.com/yuuwill/1024app-ios) - 草榴官方客户端，小草客户端，iOS
+
+*   [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
+
+*   [RimoChan/rime-unvcode](https://github.com/RimoChan/rime-unvcode) - 幼⼥输⼊法！
+
+*   [cryptostorm/cryptostorm\_client\_configuration\_files](https://github.com/cryptostorm/cryptostorm_client_configuration_files) - cryptostorm client configs
+
+*   [android/ndk](https://github.com/android/ndk) - The Android Native Development Kit
+
+*   [cdnbye/hlsjs-p2p-engine](https://github.com/cdnbye/hlsjs-p2p-engine) - Let your viewers become your unlimitedly scalable CDN.
+
+*   [CubedCommunity/CubedTextures](https://github.com/CubedCommunity/CubedTextures) - Public github for Cubed Textures development.
+
+*   [daviddoesminetest/mt\_equippable\_accessories](https://github.com/daviddoesminetest/mt_equippable_accessories) - adds equippable accessories to minetests, that you can wear for looks and stat bonuses
+
+*   [kiwibrowser/android](https://github.com/kiwibrowser/android) - This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
+
+*   [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
+
+*   [mourner/projects](https://github.com/mourner/projects) - A list of awesome open source projects Volodymyr Agafonkin is involved in.
+
+*   [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray) - 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
+
+## Go
+
+*   [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
+
+*   [d3mondev/puredns](https://github.com/d3mondev/puredns) - Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
+
+*   [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
+
+*   [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
+
+*   [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
+
+*   [Olament/gDHT](https://github.com/Olament/gDHT) - A distributed self-host DHT torrent search suite
+
+*   [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
+
+*   [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+
+*   [bepass-org/bepass](https://github.com/bepass-org/bepass) - A simple DPI bypass tool written in go
+
+*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
+*   [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+
+*   [xssnick/Tonutils-Proxy](https://github.com/xssnick/Tonutils-Proxy) - TON Web3 Gateway
+
+*   [neilalexander/yggmail](https://github.com/neilalexander/yggmail) - End-to-end encrypted email for the mesh networking age
+
+*   [webtor-io/video-info](https://github.com/webtor-io/video-info) - Gathers additional info for torrent's video-content from public sources (OpenSubtitles, etc...)
+
+*   [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+
+*   [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
+
+*   [RedTeamPentesting/resocks](https://github.com/RedTeamPentesting/resocks) - mTLS-Encrypted Back-Connect SOCKS5 Proxy
+
+*   [RedTeamPentesting/monsoon](https://github.com/RedTeamPentesting/monsoon) - Fast HTTP enumerator
+
+*   [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) - Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
+
+*   [anticensority/pac-script-generator](https://github.com/anticensority/pac-script-generator) - Script to run on a server to generate Anticensority PAC-script
+
+*   [Kuucheen/KC-Checker](https://github.com/Kuucheen/KC-Checker) - Advanced open-source proxy checker written in go
+
+*   [hookzof/ipset\_mtproxy](https://github.com/hookzof/ipset_mtproxy) - Цель репозитория - заблокировать прокси-серверы, с которых могут сканироваться публичные MTProxy в России.
+
+*   [OmarAssadi/AntiZapret-V2Ray](https://github.com/OmarAssadi/AntiZapret-V2Ray) - V2Ray rule generator to circumvent censorship by the Russian government and evade DPI
+
+*   [nadoo/glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
+
+*   [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
+
+*   [macronut/ghostcp](https://github.com/macronut/ghostcp) - GhosTCP is a program for Windows that protects the TCP connections from being interfered.
+
+*   [kitabisa/mubeng](https://github.com/kitabisa/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
+
+*   [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
+
+*   [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
+
+*   [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
+
+*   [mytechnotalent/turbo-attack](https://github.com/mytechnotalent/turbo-attack) - A turbo traffic generator pentesting tool to generate random traffic with random mac and ip addresses in addition to random sequence numbers to a particular ip and port.
+
+*   [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
+
+*   [edoardottt/csprecon](https://github.com/edoardottt/csprecon) - Discover new target domains using Content Security Policy
+
+*   [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
+
+*   [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+
+*   [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
+
+*   [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
+
+*   [bengadbois/pewpew](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress tester for websites and web services
+
+*   [linkxzhou/http\_bench](https://github.com/linkxzhou/http_bench) - golang HTTP stress testing tool, support single and distributed, http/1, http/2 and http/3.
+
+*   [LSD00/HTTP-Flood](https://github.com/LSD00/HTTP-Flood) - Just simple httpflood
+
+*   [jcDzNPKN5t5kEn/http-flooder](https://github.com/jcDzNPKN5t5kEn/http-flooder) - simplest http flooder (ddos / cc website attack) in golang, TLS(https) support, keep-alive connection abuse, http proxy support, custom reslove, chrome TLS fingerprint, wip CDNFly bypass
+
+*   [MasonDye/CC-Attack-Rewrite](https://github.com/MasonDye/CC-Attack-Rewrite) - Next Generation CC Attack Tool ✨ Threads ✨ HTTP Proxy ✨ Asynchronous ✨ Multi-threaded ✨
+
+*   [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+
+*   [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
+
+*   [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
+
+*   [postfreely/postfreely](https://github.com/postfreely/postfreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
+
+*   [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+
+*   [KathanP19/Gxss](https://github.com/KathanP19/Gxss) - A tool to check a bunch of URLs that contain reflecting params.
+
+*   [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
+
+*   [BitsCompass/clash-core](https://github.com/BitsCompass/clash-core) - clash core backup
+
+*   [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
+
+*   [complexorganizations/content-blocker](https://github.com/complexorganizations/content-blocker) - ✔️ Content Blocker is a robust web filtering project aimed at enhancing online privacy and security.
+
+*   [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+
+*   [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
+
+*   [evilsocket/dnssearch](https://github.com/evilsocket/dnssearch) - A subdomain enumeration tool.
+
+*   [subgraph/macouflage](https://github.com/subgraph/macouflage) - macouflage is a MAC address anonymization tool, written in Golang, for Linux-based operating systems.
+
+*   [tanc7/EXOCET-AV-Evasion](https://github.com/tanc7/EXOCET-AV-Evasion) - EXOCET - AV-evading, undetectable, payload delivery tool
+
+*   [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
+
+*   [arriven/db1000n](https://github.com/arriven/db1000n) -
+
+*   [erkexzcx/stoppropaganda](https://github.com/erkexzcx/stoppropaganda) - A special DOS application to stop pro-Russian aggression websites. Support Ukraine!
+
+*   [XTLS/REALITY](https://github.com/XTLS/REALITY) - THE NEXT FUTURE
+
+*   [Leeon123/golang-httpflood](https://github.com/Leeon123/golang-httpflood) - Golang httpflood(socket) can down a normal website in 10s with 100 connections
+
+*   [lightningnetwork/lightning-onion](https://github.com/lightningnetwork/lightning-onion) - Onion Routed Micropayments for the Lightning Network
+
+*   [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
+
+*   [leapcode/bitmask-vpn](https://github.com/leapcode/bitmask-vpn) - A white-label, brandable VPN Desktop Application by LEAP
+
+*   [zer-far/spurt](https://github.com/zer-far/spurt) - HTTP stress testing tool that can overload web servers.
+
+*   [Zi0P4tch0/RadioGoGo](https://github.com/Zi0P4tch0/RadioGoGo) - 📻 Go-powered CLI to surf global radio waves via a sleek TUI. Tune in & let's Go 🚀!
+
+*   [daqnext/meson-terminal](https://github.com/daqnext/meson-terminal) - 🐢 meson network terminal
+
+*   [txthinking/zoro](https://github.com/txthinking/zoro) - zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. zoro 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP. 内网穿透.
+
+*   [hired-varied/stupid-proxy](https://github.com/hired-varied/stupid-proxy) - A simple yet stupid HTTPS proxy might help you bypass GFW. See Demo: https://xswl.pics
+
+*   [database64128/swgp-go](https://github.com/database64128/swgp-go) - 🐉 Simple WireGuard proxy with minimal overhead for WireGuard traffic.
+
+*   [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+
+*   [projectdiscovery/tlsx](https://github.com/projectdiscovery/tlsx) - Fast and configurable TLS grabber focused on TLS based data collection.
+
+*   [dsmatilla/just-tit-revel](https://github.com/dsmatilla/just-tit-revel) - Serverless adult video search engine https://just-tit.com (v2)
+
+*   [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) - Amnezia-WG VPN protocol
+
+*   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
+
+*   [daeuniverse/softwind](https://github.com/daeuniverse/softwind) - A proxy protocol implementation lib.
+
+*   [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+
+*   [xchacha20-poly1305/AnPing](https://github.com/xchacha20-poly1305/AnPing) - A network probing tool.
+
+*   [xchacha20-poly1305/TLS-scribe](https://github.com/xchacha20-poly1305/TLS-scribe) - Get the TLS cert of target server
+
+*   [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
+
+*   [juicity/juicity](https://github.com/juicity/juicity) - juicity is a quic-based proxy protocol implementation.
+
+*   [wranders/coredns-filter](https://github.com/wranders/coredns-filter) - Sinkholing in CoreDNS
+
+*   [edoardottt/boggart](https://github.com/edoardottt/boggart) - Highly customizable low-interaction experimental honeypot that mimics specific hosts.
+
+*   [SiaFoundation/renterd](https://github.com/SiaFoundation/renterd) - A renter for Sia
+
+*   [SiaFoundation/hostd](https://github.com/SiaFoundation/hostd) - The next-generation of Sia storage providing software. More performant. More stable. Support for larger nodes.
+
+*   [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
+
+*   [Kisesy/gscan\_quic](https://github.com/Kisesy/gscan_quic) - Google Quic 扫描工具
+
+*   [looterz/grimd](https://github.com/looterz/grimd) - :zap: fast dns proxy that can run anywhere, built to black-hole internet advertisements and malware servers
+
+*   [dedis/onet](https://github.com/dedis/onet) - Overlay Network for distributed protocols
+
+*   [nknorg/nnet](https://github.com/nknorg/nnet) - nnet: a fast, scalable, and developer-friendly p2p overlay network stack
+
+*   [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
+
+*   [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
+
+*   [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
+
+*   [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+*   [ao-space/gt](https://github.com/ao-space/gt) - Fast WebSocket(s)/HTTP(s)/TCP relay proxy with WebRTC P2P supports.
+
+*   [kanocz/lcvpn](https://github.com/kanocz/lcvpn) - Decentralized VPN in golang
+
+*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+
+*   [refraction-networking/uquic](https://github.com/refraction-networking/uquic) - Low-level access to the QUIC Initial Packet for mimicry purposes, hard fork of quic-go.
+
+*   [refraction-networking/Metis](https://github.com/refraction-networking/Metis) - Proxy for efficiently circumventing censorship using existing tools and gathering information about censorship around the world.
+
+*   [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
+
+*   [yks0000/starred-repo-toc](https://github.com/yks0000/starred-repo-toc) - Generates Markdown table for all Starred Repositories by a GitHub user.
+
+*   [nexodus-io/nexodus](https://github.com/nexodus-io/nexodus) - Network Connectivity as a Service
+
+*   [refraction-networking/utls](https://github.com/refraction-networking/utls) -  Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
+
+*   [VNCERT-CC/socks-http-proxy](https://github.com/VNCERT-CC/socks-http-proxy) - Convert socks proxy to http proxy
+
+*   [vinhjaxt/go-fasthttp-sniproxy](https://github.com/vinhjaxt/go-fasthttp-sniproxy) - SNI Proxy powered by fasthttp and golang to bypass DNS/SNI-based Internet filtering
+
+*   [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
+
+*   [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) - Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
+
+*   [cloverstd/tcping](https://github.com/cloverstd/tcping) - ping over a tcp connection
+
+*   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
+
+*   [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
+
+*   [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
+
+*   [alvin-tosh/Kenyatta-Ransomware](https://github.com/alvin-tosh/Kenyatta-Ransomware) - This will encrypt 🤐 your files using AES-256-CTR, then RSA-4096😵‍💫to secure the exchange with the server, or can use the Tor SOCKS5 Proxy😎 -- Functionality is based on Cryptolocker😈 ransomware. Be cool😉
+
+*   [cosmos/gaia](https://github.com/cosmos/gaia) - Cosmos Hub
+
+*   [kgretzky/dcrawl](https://github.com/kgretzky/dcrawl) - Simple, but smart, multi-threaded web crawler for randomly gathering huge lists of unique domain names.
+
+*   [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+
+*   [losfair/vmesh](https://github.com/losfair/vmesh) - VMesh is a decentralized Layer 3 mesh router and protocol designed for open network interconnection.
+
+*   [RiV-chain/RiV-mesh](https://github.com/RiV-chain/RiV-mesh) - IoT end-to-end encrypted IPv6 network. First self arranging mesh network running links aggregation and dDNS!
+
+*   [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser
+
+*   [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
+
+*   [sci-hub-p2p/sci-hub-p2p](https://github.com/sci-hub-p2p/sci-hub-p2p) - fetch and serve papers in p2p network
+
+*   [dsmatilla/just-tit](https://github.com/dsmatilla/just-tit) - Adult video search engine
+
+*   [filefilego/filefilego](https://github.com/filefilego/filefilego) - Decentralized Data Sharing Network - A Peer-to-peer, censorship-resistant, and a privacy-focused data sharing network
+
+*   [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
+
+*   [tgragnato/snowflake](https://github.com/tgragnato/snowflake) - WebRTC Pluggable Transport
+
+*   [cbeuw/Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries
+
+*   [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+
+*   [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+
+*   [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go
+
+*   [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
+
+*   [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
+
+*   [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
+
+*   [cdnbye/cbsignal\_redis](https://github.com/cdnbye/cbsignal_redis) -
+
+*   [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
+
+*   [Yawning/obfs4](https://github.com/Yawning/obfs4) - The obfourscator (Courtesy mirror)
+
+*   [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
+
+*   [refraction-networking/gotapdance](https://github.com/refraction-networking/gotapdance) - :twisted\_rightwards\_arrows: Cross-platform Golang implementation of TapDance censorship circumvention system client
+
+*   [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
+
+*   [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
+
+*   [FrenchGithubUser/Hatt](https://github.com/FrenchGithubUser/Hatt) - DDL/Streaming meta search engine
+
+*   [iyouport-org/relaybaton](https://github.com/iyouport-org/relaybaton) - A pluggable transport to circumvent Internet censorship
+
+*   [ANG13T/SatIntel](https://github.com/ANG13T/SatIntel) - SatIntel is an OSINT tool for Satellites 🛰. Extract satellite telemetry, receive orbital predictions, and parse TLEs 🔭
+
+*   [SixGenInc/Noctilucent](https://github.com/SixGenInc/Noctilucent) - Using TLS 1.3 to evade censors, bypass network defenses, and blend in with the noise
+
+*   [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
+
+*   [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP
+
+*   [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
+
+*   [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
+
+*   [pokt-network/pocket-core](https://github.com/pokt-network/pocket-core) - Official implementation of the Pocket Network Protocol
+
+*   [pokt-network/pocket](https://github.com/pokt-network/pocket) - Official implementation of the Pocket Network Protocol v1
+
+*   [etclabscore/core-geth](https://github.com/etclabscore/core-geth) - A highly configurable Go implementation of the Ethereum protocol.
+
+*   [matrix-org/pinecone](https://github.com/matrix-org/pinecone) - Peer-to-peer overlay routing for the Matrix ecosystem
+
+*   [xarantolus/filtrite](https://github.com/xarantolus/filtrite) - Custom AdBlock filterlist generator for Bromite and Cromite
+
+*   [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
+
+*   [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
+
+*   [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
+
+*   [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.
+
+*   [cunicu/cunicu](https://github.com/cunicu/cunicu) - A zeroconf peer-to-peer mesh VPN using Wireguard® and Interactive Connectivity Establishment (ICE)
+
+*   [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+
+*   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
+
+*   [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
+
+*   [XIU2/SNIProxy](https://github.com/XIU2/SNIProxy) - 🧷 自用的简单 SNI Proxy（支持全平台、全系统、前置代理、配置简单等~
+
+*   [boramalper/magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
+
+*   [siongui/gopalilib](https://github.com/siongui/gopalilib) - Pāli Library and Data Processing in Go
+
+*   [unixpickle/model3d](https://github.com/unixpickle/model3d) - Create & render beautiful 3D models
+
+*   [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool
+
+*   [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
+
+*   [hihebark/gds](https://github.com/hihebark/gds) - Gds - Search for hidden and unhidden path's on a website
+
+*   [social4git/social4git](https://github.com/social4git/social4git) - A decentralized social protocol based on git
+
+*   [pterodactyl/wings](https://github.com/pterodactyl/wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
+
+*   [balena/go-libp2p-vpn](https://github.com/balena/go-libp2p-vpn) - A VPN Built on top of libp2p
+
+*   [anywherelan/awl](https://github.com/anywherelan/awl) - Securely connect your devices into a private network
+
+*   [p2ptunnel/p2ptunnel](https://github.com/p2ptunnel/p2ptunnel) - peer to peer based tunnel
+
+*   [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks.
+
+*   [nknorg/nkn-tuna-session](https://github.com/nknorg/nkn-tuna-session) - An overlay peer to peer connection based on multiple concurrent tuna connections and ncp protocol.
+
+*   [nknorg/tuna](https://github.com/nknorg/tuna) - A free market to use service by paying NKN or host service to earn NKN
+
+*   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+
+*   [Rajas2323/Juggernaut](https://github.com/Rajas2323/Juggernaut) -
+
+*   [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+
+*   [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team) - :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
+
+*   [drk1wi/Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
+
+*   [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
+
+*   [pbnj/awesome-podcasts](https://github.com/pbnj/awesome-podcasts) - 🎙 A collection of awesome engineering podcasts! ARCHIVED in favor of https://github.com/rShetty/awesome-podcasts
+
+*   [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+
+*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+
+*   [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly.
+
+*   [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm\_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+
+*   [txthinking/tun2brook](https://github.com/txthinking/tun2brook) - Proxy all traffic just one line command. tun2socks, tun2brook. IPv4 and IPv6, TCP and UDP. 只需一行命令. 让系统所有流量全部走socks5, brook.
+
+*   [apernet/mwgp](https://github.com/apernet/mwgp) - Multiple WireGuard Proxy
+
+*   [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+
+*   [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+
+*   [dragonfireclient/hydra-dragonfire](https://github.com/dragonfireclient/hydra-dragonfire) -
+
+*   [getlantern/lantern](https://github.com/getlantern/lantern) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت
+
+*   [minetest-go/mtui](https://github.com/minetest-go/mtui) - management web ui for minetest
+
+*   [amo13/Anarchy-Droid](https://github.com/amo13/Anarchy-Droid) - One-Click Android Rom Installation Assistant
+
+*   [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+
+*   [joshuafc/ntVPN](https://github.com/joshuafc/ntVPN) - NAT traversal P2P VPN
+
+*   [fastcat/wirelink](https://github.com/fastcat/wirelink) - Experimental P2P configuration plane for Wireguard
+
+*   [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
+
+*   [chenjia404/hahajing](https://github.com/chenjia404/hahajing) - An eMule KAD ed2k link search engine for Movie/TV(eMule KAD ed2k下载链接搜索引擎(电影/电视剧))
+
+*   [chenjia404/p2ptunnel](https://github.com/chenjia404/p2ptunnel) - A p2p-based tcp, udp intranet penetration tunneling tool
+
+*   [majestrate/clicker-rick](https://github.com/majestrate/clicker-rick) - I turned myself into a fediverse server morty!
+
+*   [majestrate/fedproxy](https://github.com/majestrate/fedproxy) - tor/i2p/lokinet socks proxy router
+
+*   [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) - A very small, very simple, yet very secure encryption tool.
+
+*   [buffrr/letsdane](https://github.com/buffrr/letsdane) - 🔒 Let's DANE is an experimental way to enable the use of DANE/TLSA in browsers and other apps using a lightweight proxy.
+
+*   [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
+
+*   [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
+
+*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+
+*   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+
+*   [42wim/dt](https://github.com/42wim/dt) - DNS tool - display information about your domain
+
+*   [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
+
+*   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+
+*   [enfein/mieru](https://github.com/enfein/mieru) - mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。
+
+*   [Bmixo/btSearch](https://github.com/Bmixo/btSearch) - opensource torrent search engine write in golang
+
+*   [nknorg/nkn](https://github.com/nknorg/nkn) - Official Go implementation of NKN full node.
+
+*   [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
+
+*   [nknorg/nconnect](https://github.com/nknorg/nconnect) - Securely connect to remote machines without the need of any server, public IP address, or publicly exposed ports.
+
+*   [pairmesh/pairmesh](https://github.com/pairmesh/pairmesh) - The next-generation security Mesh VPN implementation based on Golang.
+
+*   [mau-network/mau](https://github.com/mau-network/mau) - Web2 Peer2Peer Library reference implementation
+
+*   [nknorg/nkn-tunnel](https://github.com/nknorg/nkn-tunnel) - Tunnel tcp through NKN client.
+
+*   [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+
+*   [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
+
+*   [cblgh/lieu](https://github.com/cblgh/lieu) - community search engine
+
+*   [rule110-io/surge](https://github.com/rule110-io/surge) - Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
+
+*   [cmars/onionpipe](https://github.com/cmars/onionpipe) - Onion addresses for anything.
+
+*   [coyim/coyim](https://github.com/coyim/coyim) - coyim - a safe and secure chat client
+
+*   [imperviousinc/fingertip](https://github.com/imperviousinc/fingertip) -
+
+*   [telehash/gogotelehash](https://github.com/telehash/gogotelehash) - The official Telehash package for Go
+
+*   [sentrionic/Valkyrie](https://github.com/sentrionic/Valkyrie) - A Fullstack Discord Clone using React and Go.
+
+*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+
+*   [missdeer/blocklist](https://github.com/missdeer/blocklist) - A big domain block list - 350000+ lines
+
+*   [missdeer/coredns\_custom\_build](https://github.com/missdeer/coredns_custom_build) - CoreDNS custom build
+
+*   [missdeer/ProxyClient](https://github.com/missdeer/ProxyClient) -
+
+*   [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
+
+*   [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
+
+*   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+
+*   [s0rg/fantasyname](https://github.com/s0rg/fantasyname) - RinkWorks fantasy name generator for golang
+
+*   [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows
+
+*   [TheDistributedBay/TheDistributedBay](https://github.com/TheDistributedBay/TheDistributedBay) - An open source distributed implementation of the open bay
+
+*   [quorumcontrol/dgit](https://github.com/quorumcontrol/dgit) - dgit adds decentralized ownership to git - powered by Tupelo DLT and Skynet
+
+*   [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) - 👻Stowaway -- Multi-hop Proxy Tool for pentesters
+
+*   [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
+
+*   [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+
+*   [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
+
+*   [ipfs-search/ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
+
+*   [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
+
+*   [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
+
+*   [cloudflare/circl](https://github.com/cloudflare/circl) - CIRCL: Cloudflare Interoperable Reusable Cryptographic Library
+
+*   [navinkeizer/Deece](https://github.com/navinkeizer/Deece) - Deece is an open, collaborative, and decentralised search mechanism for IPFS
+
+*   [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+
+*   [samvrlewis/meshboi](https://github.com/samvrlewis/meshboi) - meshboi is a mesh VPN tool created for the purposes of learning and fun
+
+*   [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
+*   [freignat91/cipher](https://github.com/freignat91/cipher) - RSA encryption usgin huge keys 8192, 16384, 32768 bits
+
+*   [alkasir/alkasir](https://github.com/alkasir/alkasir) -
+
+*   [OperatorFoundation/shapeshifter-dispatcher](https://github.com/OperatorFoundation/shapeshifter-dispatcher) - Shapeshifter Dispatcher converts Pluggable Transports that implement the Go API from the Pluggable Transports 2.1 specification into proxies usable by applications. Several proxy modes are provided, including proxying of both TCP and UDP traffic.
+
+*   [g3n/engine](https://github.com/g3n/engine) - Go 3D Game Engine (http://g3n.rocks)
+
+*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+
+*   [tachyon-protocol/TachyonVpn](https://github.com/tachyon-protocol/TachyonVpn) - A TachyonVpn project
+
+*   [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
+
+*   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
+
+*   [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
+
+*   [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
+
+*   [sentinel-official/hub](https://github.com/sentinel-official/hub) - The official Sentinel Hub blockchain
+
+*   [sentinel-official/dvpn-node](https://github.com/sentinel-official/dvpn-node) - The official Sentinel dVPN node
+
+*   [sentinel-official/cli-client](https://github.com/sentinel-official/cli-client) - The official Sentinel CLI client
+
+*   [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
+
+*   [caddyserver/forwardproxy](https://github.com/caddyserver/forwardproxy) - Forward proxy plugin for the Caddy web server
+
+*   [sower-proxy/sower](https://github.com/sower-proxy/sower) - Sower is a cross-platform intelligent transparent proxy solution.
+
+*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+
+*   [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
+
+*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+
+*   [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
+
+*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+
+*   [Spedoske/CloudflareScanner](https://github.com/Spedoske/CloudflareScanner) -
+
+*   [Loyalsoldier/cn-blocked-domain](https://github.com/Loyalsoldier/cn-blocked-domain) - ⛔️ 🚫 ⚠️ 从 Greatfire Analyzer 爬取的在中国大陆被屏蔽的域名列表。Domains blocked in China mainland crawled from Greatfire Analyzer.
+
+*   [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
+
+*   [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
+
+*   [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
+
+*   [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+
+*   [natesales/pathvector](https://github.com/natesales/pathvector) - Declarative routing platform that automates BGP route optimization and control plane configuration with secure and repeatable routing policy.
+
+*   [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
+
+*   [koalabearguo/php-proxy](https://github.com/koalabearguo/php-proxy) - php proxy based on GoAgent protocal,Implemented by golang
+
+*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+
+*   [BuckarooBanzay/mtworldview](https://github.com/BuckarooBanzay/mtworldview) -
+
+*   [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
+
+*   [minetest-mapserver/mapserver](https://github.com/minetest-mapserver/mapserver) - Minetest realtime mapserver, written in go
+
+*   [minetest-tools/mtmediasrv](https://github.com/minetest-tools/mtmediasrv) - Minetest Media Server done correctly.
+
+## PHP
+
+*   [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+
+*   [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+
+*   [ernestwisniewski/kbin](https://github.com/ernestwisniewski/kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse.
+
+*   [phpbb/phpbb](https://github.com/phpbb/phpbb) -  phpBB Development: phpBB is a popular open-source bulletin board written in PHP. This repository also contains the history of version 2.
+
+*   [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
+
+*   [adamfisk/LittleProxy](https://github.com/adamfisk/LittleProxy) - High performance HTTP proxy originally written by your friends at Lantern and now maintained by a stellar group of volunteer open source programmers.
+
+*   [torrentpier/torrentpier](https://github.com/torrentpier/torrentpier) - 🐂 TorrentPier. Main project repository
+
+*   [LaraCrafts/laravel-url-shortener](https://github.com/LaraCrafts/laravel-url-shortener) - Powerful URL shortening tools in Laravel
+
+*   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
+
+*   [Minds/minds](https://github.com/Minds/minds) - mirror of https://gitlab.com/minds/minds
+
+*   [MbinOrg/mbin](https://github.com/MbinOrg/mbin) - Mbin: a federated content aggregator, voting, discussion and microblogging platform (By the community, for the community)
+
+*   [teststudent311/LotusXSS](https://github.com/teststudent311/LotusXSS) - Lotus XSS
+
+*   [ssl/ezXSS](https://github.com/ssl/ezXSS) - ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.
+
+*   [vakhov/fresh-proxy-list](https://github.com/vakhov/fresh-proxy-list) - Get Fresh Proxy
+
+*   [bisq-network/wiki](https://github.com/bisq-network/wiki) - @bisq-network documentation at https://bisq.wiki
+
+*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
+
+*   [vichan-devel/vichan](https://github.com/vichan-devel/vichan) - Vichan is the most popular and widely used imageboard software in the world. It is a free, light-weight, fast, highly configurable and user-friendly imageboard software package.
+
+*   [foocorp/gnu-social](https://github.com/foocorp/gnu-social) - GNU social is social communication software for both public and private communications.
+
+*   [foocorp/gnu-fm](https://github.com/foocorp/gnu-fm) - GNU FM is a music community platform
+
+*   [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial\_tramway: A modern, powerful, and robust URL shortener
+
+*   [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
+
+*   [backdrop/backdrop](https://github.com/backdrop/backdrop) - Backdrop core code repository.
+
+*   [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
+
+*   [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
+
+*   [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler) - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.
+
+*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+
+*   [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+
+*   [principia-game/principia-web](https://github.com/principia-game/principia-web) - The source code powering the new Principia community site, including forum and wiki.
+
+*   [Automattic/wordpress-activitypub](https://github.com/Automattic/wordpress-activitypub) - ActivityPub for WordPress
+
+*   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+
+*   [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
+
+*   [SnaKKo/Fossdroid-Core](https://github.com/SnaKKo/Fossdroid-Core) - Fossdroid Core is a web frontend of F-Droid: an alternative software repository comprising only free, open source software for Android. This repo is the open source version of fossdroid.com.
+
+*   [sbrl/Pepperminty-Wiki](https://github.com/sbrl/Pepperminty-Wiki) - A wiki in a box
+
+*   [necro-nemesis/LabyrinthAP](https://github.com/necro-nemesis/LabyrinthAP) - Gain access to Lokinet and the internet connecting via an SBC based access point.
+
+*   [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
+
+*   [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
+
+*   [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
+
+*   [flxn/tor-relay-configurator](https://github.com/flxn/tor-relay-configurator) - The tor-relay.co configurator
+
+*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+
+*   [pfsense/pfsense](https://github.com/pfsense/pfsense) - Main repository for pfSense
+
+*   [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) - Tatoeba is a platform which purpose is to create a collaborative and open dataset of sentences and their translations.
+
+*   [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+
+## HTML
+
+*   [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) -  A collection of resources and papers on Diffusion Models
+
+*   [rust-lang/arewewebyet](https://github.com/rust-lang/arewewebyet) - Are we web yet? A simple reckoning of Rust's readiness for Web-related things.
+
+*   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
+
+*   [Kirilllive/ASCII\_Art\_Paint](https://github.com/Kirilllive/ASCII_Art_Paint) - The editor for ASCII-graphics, combining a graphical editor and an image to text converter. Decorate your text and surprise your readers with an original social media post or blog post using ASCII graphics. The tool does not require an internet connection and can work offline in a browser.
+
+*   [geeeeeeeek/web\_tool](https://github.com/geeeeeeeek/web_tool) - 静态响应式网址导航网站，全静态html页面，一键部署安装。在线预览：https://geeeeeeeek.github.io/web\_tool/
+
+*   [matronator/awesome-darknet](https://github.com/matronator/awesome-darknet) - PGP verified list of Onion Services (formerly tor hidden services) on the darknet.
+
+*   [uncensored-hidden-wiki/uncensored-hidden-wiki](https://github.com/uncensored-hidden-wiki/uncensored-hidden-wiki) - the hiddenwiki
+
+*   [tarpetra/welcome-to-darknet](https://github.com/tarpetra/welcome-to-darknet) - A verified list of darknet markets and services with links for educational reference.
+
+*   [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
+
+*   [ifeii/talebook-library](https://github.com/ifeii/talebook-library) - the calibre library of talebook.org
+
+*   [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
+
+*   [mynodebtc/mynode](https://github.com/mynodebtc/mynode) - The easiest way to run Bitcoin and Lightning!
+
+*   [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
+
+*   [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) -
+
+*   [ZGQ-inc/sitebox](https://github.com/ZGQ-inc/sitebox) - :globe\_with\_meridians:网站分享|SiteBox
+
+*   [ZGQ-inc/source](https://github.com/ZGQ-inc/source) - :package:个人搜集 | 书源、图源、订阅源、规则、直播源、各种源 大型整合
+
+*   [helpukr/helpukr.github.io](https://github.com/helpukr/helpukr.github.io) - This website is a collection of content that can be used to help Ukraine in the Cyber War from your browser, it also contains WebApps, News from many sources and lots of ways to donate directly to Ukraine from verified charity’s and lots more. We even have some pages on here we recovered from Google Web Cache’s after being destroyed by Russian attacks.
+
+*   [danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English) -
+
+*   [rmellis/dueltube.org](https://github.com/rmellis/dueltube.org) - All versions of "dueltube.org" will be archived here.
+
+*   [rmellis/HelpUKR-master](https://github.com/rmellis/HelpUKR-master) - This website is a collection of content that can be used to help Ukraine in the Cyber War from your browser, it also contains WebApps, News from many sources and lots of ways to donate directly to Ukraine from verified charity’s and lots more. We even have some pages on here we recovered from Google Web Cache’s after being destroyed by Russian attacks.
+
+*   [rmellis/Russian-propaganda-browser-flood-tool](https://github.com/rmellis/Russian-propaganda-browser-flood-tool) - This repo contains a set of standalone ".htm" pages which will allow you to help Ukraine by flooding Russian propaganda sites. -in website link below, replace day703 with the current day (if different)             Oh.. And you know.. For educational purposes only ;)
+
+*   [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
+
+*   [censorship-no/ceno.github.io](https://github.com/censorship-no/ceno.github.io) - The website for Ceno Browser, a censorship circumvention web browser.
+
+*   [ReactMVC/proxy-list](https://github.com/ReactMVC/proxy-list) - Display the proxy list from https://mtpro.xyz
+
+*   [mrmcsoftware/CPUsimulator](https://github.com/mrmcsoftware/CPUsimulator) - This is an HTML/Javascript CPU simulator and assembler for the CPU I designed. Originally, I created this CPU on paper many years ago for a homework assignment in college. More recently, I implemented my design in the Logisim logic simulator, and eventually it ran on an FPGA.
+
+*   [cryptoanarchywiki/cryptoanarchywiki.github.io](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io) - Encryption, digital money, anonymous networks, digital pseudonyms, zero knowledge, reputations, information markets, black markets, collapse of governments. - Timothy C. May
+
+*   [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
+
+*   [ssbc/scuttlebutt-protocol-guide](https://github.com/ssbc/scuttlebutt-protocol-guide) - Protocol documentation for Secure Scuttlebutt
+
+*   [gnu-octave/packages](https://github.com/gnu-octave/packages) - The GNU Octave package index.
+
+*   [Pluggable-Transports/Pluggable-Transports-software](https://github.com/Pluggable-Transports/Pluggable-Transports-software) - A list of available Pluggable Transports packages, libraries and implementations.
+
+*   [tatsumoto-ren/matrix](https://github.com/tatsumoto-ren/matrix) - Sort public Matrix servers.
+
+*   [SoaringGecko/8K-image-search](https://github.com/SoaringGecko/8K-image-search) - This is an image search engine, here you can search for images of any quality and dimension
+
+*   [siongui/pali-text-collection](https://github.com/siongui/pali-text-collection) - Pāli texts
+
+*   [sudomesh/disaster-radio](https://github.com/sudomesh/disaster-radio) - A (paused) work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.
+
+*   [SH20RAJ/createevminutes](https://github.com/SH20RAJ/createevminutes) - Creative Short Videos Less Than a Minute  👍
+
+*   [soyvillareal/Tubeak](https://github.com/soyvillareal/Tubeak) - Live Streaming & Video Sharing Platform
+
+*   [citizenlab/web-censorship](https://github.com/citizenlab/web-censorship) - Collection of data about URL filtering in various countries
+
+*   [legluondunet/MyLittleLutrisScripts](https://github.com/legluondunet/MyLittleLutrisScripts) - Lutris scripts for old games.
+
+*   [twnanda/twnanda](https://github.com/twnanda/twnanda) - Dhamma Page of Tainan(Hu Shiah) 府城佛教網
+
+*   [sage-code/maj](https://github.com/sage-code/maj) - Artificial language for AR
+
+*   [google-research/seanet](https://github.com/google-research/seanet) -
+
+*   [yuhuage/dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
+
+*   [sleaze/rarbg-db-dumps](https://github.com/sleaze/rarbg-db-dumps) - My personal RARBG database dumps - R.I.P. rbg and thank you for your service
+
+*   [sn0b4ll/aria2-onion-downloader](https://github.com/sn0b4ll/aria2-onion-downloader) - Download from .onion-domains faster.
+
+*   [siongui/theravadacn](https://github.com/siongui/theravadacn) - 轉錄 覺醒之翼——上座部佛教文獻選譯集
+
+*   [vpnry/fts](https://github.com/vpnry/fts) - Dhamma Full Text Search Tool
+
+*   [sutra-mobi/nikaya](https://github.com/sutra-mobi/nikaya) - 汉译巴利三藏
+
+*   [2439905184/MingJianXieHui](https://github.com/2439905184/MingJianXieHui) - 民间协会
+
+*   [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
+
+*   [Esperanto/kurso-zagreba-metodo](https://github.com/Esperanto/kurso-zagreba-metodo) - Reta Esperanto-kurso laŭ la Zagreba Metodo
+
+*   [voxel-wiki/voxel-wiki.github.io](https://github.com/voxel-wiki/voxel-wiki.github.io) - Voxel.Wiki is a website that is all about voxels: Values on regular grids in three-dimensional space!
+
+*   [HexxiumCreations/threat-list](https://github.com/HexxiumCreations/threat-list) - Filter for Adblock Plus, uBlock Origin, etc. for scam, phishing, deceptive content, exploit, and tech support scam sites. PLEASE SUBMIT PULL REQUESTS TO THE "hexxiumthreatlist.txt" FILE!
+
+*   [nusenu/ansible-relayor](https://github.com/nusenu/ansible-relayor) - An Ansible Role for Tor Relay Operators
+
+*   [tracking-exposed/trex](https://github.com/tracking-exposed/trex) - youtube & tiktok analysis + youchoose recommendation custmizer. backend, extensions, and tooling
+
+*   [tdurieux/anonymous\_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
+
+*   [sanskritbscs/memory](https://github.com/sanskritbscs/memory) -
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [DarkSpyCyber/toranger](https://github.com/DarkSpyCyber/toranger) - Automatically exported from code.google.com/p/toranger
+
+*   [kappa-db/workshop](https://github.com/kappa-db/workshop) - let's learn how to write peer-to-peer applications in javascript!
+
+*   [netkiller/netkiller.github.io](https://github.com/netkiller/netkiller.github.io) - Netkiller Free ebook - 免费电子书
+
+*   [2439905184/godot-aarch64](https://github.com/2439905184/godot-aarch64) - godot editor for arm devices
+
+*   [2439905184/2439905184.github.io](https://github.com/2439905184/2439905184.github.io) - 个人博客
+
+*   [privacytests/privacytests.org](https://github.com/privacytests/privacytests.org) - Source code for privacytests.org. Includes browser testing code and site rendering.
+
+*   [cipher387/osint\_stuff\_tool\_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
+
+*   [badmojr/addons\_1Hosts](https://github.com/badmojr/addons_1Hosts) - DNS filter-/blocklists for  protection against NSFW.
+
+*   [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
+
+*   [zoonderkins/blahdns](https://github.com/zoonderkins/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
+
+*   [bittorrent/go-btfs](https://github.com/bittorrent/go-btfs) - BTFS - The First Scalable Decentralized Storage System - A Foundational Platform for Decentralized Applications
+
+*   [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
+
+*   [Bit-Nation/Pangea-website](https://github.com/Bit-Nation/Pangea-website) - New Bitnation TSE website
+
+*   [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
+
+*   [nusenu/OrNetStats](https://github.com/nusenu/OrNetStats) - Stats about the Tor network (website)
+
+*   [DiegoRBaquero/BTorrent](https://github.com/DiegoRBaquero/BTorrent) - :globe\_with\_meridians: Fully-featured WebTorrent Client
+
+*   [ghost-go/ghost-go-legacy](https://github.com/ghost-go/ghost-go-legacy) - An interactive Go/Weiqi/Baduk resources website
+
+*   [simeononsecurity/Blue-Team-Tools](https://github.com/simeononsecurity/Blue-Team-Tools) - A collection of scripts, tools. and configs for various OS'es and applications, all free and or open-source, to assist in impromptu Blue-Team defense under an active threat.
+
+*   [Psiphon-Inc/psiphon-windows](https://github.com/Psiphon-Inc/psiphon-windows) - Psiphon for Windows client
+
+*   [cstrobbe/languagelearning](https://github.com/cstrobbe/languagelearning) - :globe\_with\_meridians: Online and offline resources for learning foreign languages
+
+*   [SethClydesdale/genki-study-resources](https://github.com/SethClydesdale/genki-study-resources) - A collection of exercises for practicing what is taught in Genki: An Integrated Course in Elementary Japanese.
+
+*   [keymanapp/keyboards](https://github.com/keymanapp/keyboards) - Open Source Keyman keyboards
+
+*   [roskomsvoboda/censortracker](https://github.com/roskomsvoboda/censortracker) - Censor Tracker is a censorship circumvention extension for Google Chrome and Mozilla Firefox.
+
+*   [universsky/universsky.github.io](https://github.com/universsky/universsky.github.io) - 之剑博客
+
+*   [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
+
+*   [warren-bank/crx-webcast-reloaded](https://github.com/warren-bank/crx-webcast-reloaded) - Cast web videos to Google Chromecast from any Chromium-based desktop browser.
+
+*   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
+
+*   [sglfree/freesky](https://github.com/sglfree/freesky) - 自由门最新7.99版 无界21.32正式版 自由门VPN 自由门 自由门使用教程 无界 无界浏览 无界VPN 翻墙软件 翻墙软件下载 翻墙软件教程 Mac翻墙软件 --自由天空
+
+*   [godly/minetest-skin-converter](https://github.com/godly/minetest-skin-converter) -
+
+## Jupyter Notebook
+
+*   [AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation
+
+*   [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple
+
+*   [CodeDruidX/GPTQCustomLora](https://github.com/CodeDruidX/GPTQCustomLora) - GPTQCustomLoRA: Efficient Finetuning of Quantized LLMs with GPTQ on your custom datasets
+
+*   [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney
+
+*   [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
+
+*   [datasciengine/KufurNet](https://github.com/datasciengine/KufurNet) - Küfür, hakaret, sövgü, saldırgan cümleleri tespit edebilmek için oldukça hafif ve kural tabanlı bir repodur.
+
+*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+
+*   [ChenghaoMou/text-dedup](https://github.com/ChenghaoMou/text-dedup) - All-in-one text de-duplication
+
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+
+*   [JoaoLages/diffusers-interpret](https://github.com/JoaoLages/diffusers-interpret) - Diffusers-Interpret 🤗🧨🕵️‍♀️: Model explainability for 🤗 Diffusers. Get explanations for your generated images.
+
+*   [vicgalle/stable-diffusion-aesthetic-gradients](https://github.com/vicgalle/stable-diffusion-aesthetic-gradients) - Personalization for Stable Diffusion via Aesthetic Gradients 🎨
+
+*   [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement, etc.
+
+*   [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
+
+*   [AhmedYousriSobhi/aCupOfTea](https://github.com/AhmedYousriSobhi/aCupOfTea) - Let's settle down, rest our minds, spill the tea of our experience in multiple ai fields \[Data Science, Machine Learning, Deep Learning], including many other aspects starting from prorgramming and clean code till design patterns & businness interference.  Enjoy the drink, and if you find something interesting here, offer us a cup of tea.
+
+*   [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
+
+*   [google-research/google-research](https://github.com/google-research/google-research) - Google Research
+
+*   [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with articles, videos, and code
+
+*   [juvian/Manga-Text-Segmentation](https://github.com/juvian/Manga-Text-Segmentation) - Segmentation of text in manga images
+
+*   [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
+
+*   [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+
+*   [klaudia-nazarko/nlg-text-generation](https://github.com/klaudia-nazarko/nlg-text-generation) - This repository contains Natural Language Generation (NLG) models aimed on generating text of fairy tales (Markov Chain, LSTM neural network, GPT-2 Transformers).
+
+*   [dockiem/Deep-Learning-Generative-Models-for-Text](https://github.com/dockiem/Deep-Learning-Generative-Models-for-Text) - The following books from Project Gutenberg http://www.gutenberg. org/ebooks/author/355 in text format: i. The Problems of Philosophy ii. The Analysis of Mind iii. Mysticism and Logic and Other Essays iv. Our Knowledge of the External World as a Field for Scientific Method in Philosophy.
+
+*   [anusha66/TextGen-Deep-Learning](https://github.com/anusha66/TextGen-Deep-Learning) - Generation of Text from Structured Data using Generative Models
+
+*   [aryashah2k/Quantum-Computing-Collection-Of-Resources](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources) - A Well Maintained Repository On Quantum Computing Resources \[Code+Theory] Updated Regularly During My Time At IBM, Qubit x Qubit And The Coding School's Introduction To Quantum Computing Course '21
+
+*   [PAIR-code/facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
+
+*   [openUC2/UC2-GIT](https://github.com/openUC2/UC2-GIT) - Respository for Open-Science modular microscope system.
+
+*   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
+
+*   [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech\_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
+
+*   [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a module that extends Python with the ability to design electronic circuits.
+
+*   [helium/HIP](https://github.com/helium/HIP) - Helium Improvement Proposals
+
+*   [RicardoRibeiroRodrigues/MusicLyricsGenerator](https://github.com/RicardoRibeiroRodrigues/MusicLyricsGenerator) - AI for generating music lyrics
+
+*   [IntelLabs/IntelNeuromorphicDNSChallenge](https://github.com/IntelLabs/IntelNeuromorphicDNSChallenge) - Intel Neuromorphic DNS Challenge
+
+*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+
+*   [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
+
+*   [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
+
+*   [microsoft/QuantumKatas](https://github.com/microsoft/QuantumKatas) - Tutorials and programming exercises for learning Q# and quantum computing
+
+*   [pauldpickell/gis2minetest](https://github.com/pauldpickell/gis2minetest) - A python notebook for converting classified LiDAR las/laz files and Open Street Maps data into Minetest worlds
+
+*   [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
+
+*   [kwea123/nerf\_pl](https://github.com/kwea123/nerf_pl) - NeRF (Neural Radiance Fields) and NeRF in the Wild using pytorch-lightning
+
+*   [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
+
+*   [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+
+*   [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
+
+*   [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more.
+
+*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+
+*   [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
+
+*   [Emekaborisama/textgen](https://github.com/Emekaborisama/textgen) - Almost state of art text generation library
+
+## SCSS
+
+*   [worlduniting/bookpub](https://github.com/worlduniting/bookpub) - BookPub is an advanced book publishing framework for creating manuscripts in Markdown, HTML, CSS, Javascript, and publishing them into any format (PDF, ePub, MOBI, HTML, Print).
+
+*   [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
+
+*   [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet) - The repository for https://arewegameyet.rs
+
+*   [brainfucksec/brainfucksec.github.io](https://github.com/brainfucksec/brainfucksec.github.io) - Cyber Security | Privacy
+
+*   [siongui/ajahn-jayasaaro](https://github.com/siongui/ajahn-jayasaaro) - Ajahn Jayasāro
+
+*   [siongui/master-wangxing](https://github.com/siongui/master-wangxing) - 萬行法師
+
+*   [siongui/pali-chanting](https://github.com/siongui/pali-chanting) - Pāli Chanting (巴利唸誦, บาลีสวดมนต์)
+
+*   [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
+
+*   [ZorrillosDev/watchit-app](https://github.com/ZorrillosDev/watchit-app) - Open movies everywhere
 
 ## Python
+
+*   [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
+
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
+
+*   [Threezh1/SiteCopy](https://github.com/Threezh1/SiteCopy) - sitecopy is a tool that facilitates personal website backup and network data collection
 
 *   [dummersoul/TunnelProxy](https://github.com/dummersoul/TunnelProxy) - 是一个本地隧道代理，可以从fofa爬取免费的socks代理，然后构建代理池，如果一个代理失效，会自动切换。
 
@@ -1748,581 +3116,511 @@
 
 *   [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol) - Fully featured and community-driven hacking environment
 
-## Go
+## Makefile
 
-*   [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
+*   [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 
-*   [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
+*   [PartialVolume/shredos.x86\_64](https://github.com/PartialVolume/shredos.x86_64) - Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe
 
-*   [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
+*   [nadenislamarre/shredos](https://github.com/nadenislamarre/shredos) - shredos, the os that tears your os
 
-*   [Olament/gDHT](https://github.com/Olament/gDHT) - A distributed self-host DHT torrent search suite
+*   [xyproto/sdl2-examples](https://github.com/xyproto/sdl2-examples) - SDL2 examples, for 25+ different programming languages
 
-*   [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
+*   [linuxboot/heads](https://github.com/linuxboot/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
 
-*   [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+*   [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL) - A fuzzer for full VM kernel/driver targets
 
-*   [bepass-org/bepass](https://github.com/bepass-org/bepass) - A simple DPI bypass tool written in go
+*   [IRTF-PEARG/rfc-censorship-tech](https://github.com/IRTF-PEARG/rfc-censorship-tech) - Internet Draft for survey of technical mechanisms for censorship
 
-*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+*   [majestrate/fediverse](https://github.com/majestrate/fediverse) - Set up your own fediverse server
 
-*   [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
+*   [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+*   [seedboxes/pibox](https://github.com/seedboxes/pibox) - docker container with rtorrent client, rutorrent ui, cakebox streaming, password protected, over ssl, with persistent data
 
-*   [xssnick/Tonutils-Proxy](https://github.com/xssnick/Tonutils-Proxy) - TON Web3 Gateway
+## Ruby
 
-*   [neilalexander/yggmail](https://github.com/neilalexander/yggmail) - End-to-end encrypted email for the mesh networking age
+*   [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
-*   [webtor-io/video-info](https://github.com/webtor-io/video-info) - Gathers additional info for torrent's video-content from public sources (OpenSubtitles, etc...)
+*   [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 
-*   [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+*   [oleander/Torrents](https://github.com/oleander/Torrents) - Search and download torrents from your favourite bittorrent tracker using Ruby 1.9
 
-*   [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
+*   [szorfein/spior](https://github.com/szorfein/spior) - (Spider|Tor) A tool to make TOR your default gateway.
 
-*   [RedTeamPentesting/resocks](https://github.com/RedTeamPentesting/resocks) - mTLS-Encrypted Back-Connect SOCKS5 Proxy
+*   [JasonBarnabe/greasyfork](https://github.com/JasonBarnabe/greasyfork) - An online repository of user scripts.
 
-*   [RedTeamPentesting/monsoon](https://github.com/RedTeamPentesting/monsoon) - Fast HTTP enumerator
+*   [im-in-space/mastodon](https://github.com/im-in-space/mastodon) - A glitchy but lovable and "in space" microblogging server
 
-*   [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) - Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
+*   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 
-*   [anticensority/pac-script-generator](https://github.com/anticensority/pac-script-generator) - Script to run on a server to generate Anticensority PAC-script
+*   [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 
-*   [Kuucheen/KC-Checker](https://github.com/Kuucheen/KC-Checker) - Advanced open-source proxy checker written in go
+*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 
-*   [hookzof/ipset\_mtproxy](https://github.com/hookzof/ipset_mtproxy) - Цель репозитория - заблокировать прокси-серверы, с которых могут сканироваться публичные MTProxy в России.
+*   [Arachni/arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
 
-*   [OmarAssadi/AntiZapret-V2Ray](https://github.com/OmarAssadi/AntiZapret-V2Ray) - V2Ray rule generator to circumvent censorship by the Russian government and evade DPI
+*   [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
 
-*   [nadoo/glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
+*   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
-*   [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
+*   [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 
-*   [macronut/ghostcp](https://github.com/macronut/ghostcp) - GhosTCP is a program for Windows that protects the TCP connections from being interfered.
+*   [ianrenton/NaNoGenMo](https://github.com/ianrenton/NaNoGenMo) - National Novel Generation Month. A script to automatically generate a 50,000-word "novel" during November, as an alternative to writing it.
 
-*   [kitabisa/mubeng](https://github.com/kitabisa/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
+*   [johnpray/sciencegamecenter](https://github.com/johnpray/sciencegamecenter) - A web app for listing and reviewing learning games
 
-*   [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
+*   [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
 
-*   [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
+*   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 
-*   [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
+*   [bcoles/ssrf\_proxy](https://github.com/bcoles/ssrf_proxy) - SSRF Proxy facilitates tunneling HTTP communications through servers vulnerable to Server-Side Request Forgery.
 
-*   [mytechnotalent/turbo-attack](https://github.com/mytechnotalent/turbo-attack) - A turbo traffic generator pentesting tool to generate random traffic with random mac and ip addresses in addition to random sequence numbers to a particular ip and port.
+*   [pannous/english-script](https://github.com/pannous/english-script) - 🖊 Ｅｎｇｌｉｓｈ  as a programming language
 
-*   [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
+*   [ctdk/chef\_lang](https://github.com/ctdk/chef_lang) - A Chef recipe for the Chef programming language.
 
-*   [edoardottt/csprecon](https://github.com/edoardottt/csprecon) - Discover new target domains using Content Security Policy
+*   [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
 
-*   [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
+*   [mariusbutuc/sicp-videos](https://github.com/mariusbutuc/sicp-videos) - Get the Structure and Interpretation of Computer Programs videos from 1985.
 
-*   [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+## Rust
 
-*   [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
+*   [AbelChe/rabbithole](https://github.com/AbelChe/rabbithole) - 🦀️ 一个完全使用Rust编写的代理池工具，从网络搜索socks5代理，检测可用性之后开启socks5代理服务。A proxy pool tool completely written in Rust, which searches for SOCKS5 proxies from the network, and after checking their availability, starts a SOCKS5 proxy service.
 
-*   [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
+*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 
-*   [bengadbois/pewpew](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress tester for websites and web services
+*   [nulldotblack/wintun](https://github.com/nulldotblack/wintun) - Rust bindings to the wintun c library: https://www.wintun.net/
 
-*   [linkxzhou/http\_bench](https://github.com/linkxzhou/http_bench) - golang HTTP stress testing tool, support single and distributed, http/1, http/2 and http/3.
+*   [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
 
-*   [LSD00/HTTP-Flood](https://github.com/LSD00/HTTP-Flood) - Just simple httpflood
+*   [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
 
-*   [jcDzNPKN5t5kEn/http-flooder](https://github.com/jcDzNPKN5t5kEn/http-flooder) - simplest http flooder (ddos / cc website attack) in golang, TLS(https) support, keep-alive connection abuse, http proxy support, custom reslove, chrome TLS fingerprint, wip CDNFly bypass
+*   [jetli/rust-yew-realworld-example-app](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly, by Function Components + Hooks, also supports desktop by Tauri.
 
-*   [MasonDye/CC-Attack-Rewrite](https://github.com/MasonDye/CC-Attack-Rewrite) - Next Generation CC Attack Tool ✨ Threads ✨ HTTP Proxy ✨ Asynchronous ✨ Multi-threaded ✨
+*   [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 
-*   [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+*   [eycorsican/leafvpn-desktop](https://github.com/eycorsican/leafvpn-desktop) - Leaf VPN for desktop.
 
-*   [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
+*   [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
-*   [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
+*   [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like resource management into the compiler.
 
-*   [postfreely/postfreely](https://github.com/postfreely/postfreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
+*   [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 
-*   [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+*   [willothy/bruh\_os](https://github.com/willothy/bruh_os) - 64-bit Hobby OS project in Rust. Probably bad. I have no idea what I'm doing, but the goal is to have some idea when I'm done.
 
-*   [KathanP19/Gxss](https://github.com/KathanP19/Gxss) - A tool to check a bunch of URLs that contain reflecting params.
+*   [Kostassoid/lethe](https://github.com/Kostassoid/lethe) - Secure drive wipe
 
-*   [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
+*   [novel-rs/cli](https://github.com/novel-rs/cli) - A set of tools for downloading novels from the web, manipulating text, and generating EPUB
 
-*   [BitsCompass/clash-core](https://github.com/BitsCompass/clash-core) - clash core backup
+*   [blechschmidt/tun2proxy](https://github.com/blechschmidt/tun2proxy) - Tunnel (TUN) interface for SOCKS and HTTP proxies
 
-*   [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
+*   [datrs/hypercore-protocol-rs](https://github.com/datrs/hypercore-protocol-rs) - Rust implementation of Hypercore protocol
 
-*   [complexorganizations/content-blocker](https://github.com/complexorganizations/content-blocker) - ✔️ Content Blocker is a robust web filtering project aimed at enhancing online privacy and security.
+*   [EleutherAI/tokengrams](https://github.com/EleutherAI/tokengrams) - Efficiently computing & storing token n-grams from large corpora
 
-*   [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
-*   [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
+*   [tlepoint/fhe.rs](https://github.com/tlepoint/fhe.rs) - Fully Homomorphic Encryption library in Rust
 
-*   [evilsocket/dnssearch](https://github.com/evilsocket/dnssearch) - A subdomain enumeration tool.
+*   [Nuhvi/mainline](https://github.com/Nuhvi/mainline) - Simple, robust, BitTorrent's Mainline DHT implementation
 
-*   [subgraph/macouflage](https://github.com/subgraph/macouflage) - macouflage is a MAC address anonymization tool, written in Golang, for Linux-based operating systems.
+*   [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
 
-*   [tanc7/EXOCET-AV-Evasion](https://github.com/tanc7/EXOCET-AV-Evasion) - EXOCET - AV-evading, undetectable, payload delivery tool
+*   [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls) - A proxy to expose real tls handshake to the firewall
 
-*   [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
+*   [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 
-*   [arriven/db1000n](https://github.com/arriven/db1000n) -
+*   [moparisthebest/xmpp-proxy](https://github.com/moparisthebest/xmpp-proxy) - XMPP reverse proxy and outgoing proxy
 
-*   [erkexzcx/stoppropaganda](https://github.com/erkexzcx/stoppropaganda) - A special DOS application to stop pro-Russian aggression websites. Support Ukraine!
+*   [SomeProgInThere/voxgl-rs](https://github.com/SomeProgInThere/voxgl-rs) - A voxel based game engine in rust and wgpu
 
-*   [XTLS/REALITY](https://github.com/XTLS/REALITY) - THE NEXT FUTURE
+*   [greatest-ape/aquatic](https://github.com/greatest-ape/aquatic) - High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent)
 
-*   [Leeon123/golang-httpflood](https://github.com/Leeon123/golang-httpflood) - Golang httpflood(socket) can down a normal website in 10s with 100 connections
+*   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 
-*   [lightningnetwork/lightning-onion](https://github.com/lightningnetwork/lightning-onion) - Onion Routed Micropayments for the Lightning Network
+*   [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 
-*   [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
+*   [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 
-*   [leapcode/bitmask-vpn](https://github.com/leapcode/bitmask-vpn) - A white-label, brandable VPN Desktop Application by LEAP
+*   [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
 
-*   [zer-far/spurt](https://github.com/zer-far/spurt) - HTTP stress testing tool that can overload web servers.
+*   [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)
 
-*   [Zi0P4tch0/RadioGoGo](https://github.com/Zi0P4tch0/RadioGoGo) - 📻 Go-powered CLI to surf global radio waves via a sleek TUI. Tune in & let's Go 🚀!
+*   [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 
-*   [daqnext/meson-terminal](https://github.com/daqnext/meson-terminal) - 🐢 meson network terminal
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 
-*   [txthinking/zoro](https://github.com/txthinking/zoro) - zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. zoro 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP. 内网穿透.
+*   [Qv2ray/v2ray-rust](https://github.com/Qv2ray/v2ray-rust) - An Opinionated Lightweight Implementation of V2Ray, in Rust Programming Language
 
-*   [hired-varied/stupid-proxy](https://github.com/hired-varied/stupid-proxy) - A simple yet stupid HTTPS proxy might help you bypass GFW. See Demo: https://xswl.pics
+*   [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
 
-*   [database64128/swgp-go](https://github.com/database64128/swgp-go) - 🐉 Simple WireGuard proxy with minimal overhead for WireGuard traffic.
+*   [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 
-*   [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 
-*   [projectdiscovery/tlsx](https://github.com/projectdiscovery/tlsx) - Fast and configurable TLS grabber focused on TLS based data collection.
+*   [jordan4ibanez/minetest-rust](https://github.com/jordan4ibanez/minetest-rust) - Unofficial minetest rebuild in rust from the ground up.
 
-*   [dsmatilla/just-tit-revel](https://github.com/dsmatilla/just-tit-revel) - Serverless adult video search engine https://just-tit.com (v2)
+*   [mel-project/melnode](https://github.com/mel-project/melnode) - Reference implementation of Mel
 
-*   [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) - Amnezia-WG VPN protocol
+*   [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with telemetry disabling
 
-*   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
+*   [checkpoint-restore/rust-criu](https://github.com/checkpoint-restore/rust-criu) - Rust Bindings for CRIU
 
-*   [daeuniverse/softwind](https://github.com/daeuniverse/softwind) - A proxy protocol implementation lib.
+*   [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 
-*   [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+*   [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform
 
-*   [xchacha20-poly1305/AnPing](https://github.com/xchacha20-poly1305/AnPing) - A network probing tool.
+*   [upvpn/upvpn-app](https://github.com/upvpn/upvpn-app) - UpVPN is the world's first Serverless VPN. The VPN app is available for macOS, Linux, Windows, and Android. The UpVPN service can also be used with any WireGuard compatible client using the Web Device feature.
 
-*   [xchacha20-poly1305/TLS-scribe](https://github.com/xchacha20-poly1305/TLS-scribe) - Get the TLS cert of target server
+*   [scrtlabs/SecretNetwork](https://github.com/scrtlabs/SecretNetwork) - 𝕊 The Secret Network
 
-*   [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
+*   [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 
-*   [juicity/juicity](https://github.com/juicity/juicity) - juicity is a quic-based proxy protocol implementation.
+*   [darkrenaissance/darkfi](https://github.com/darkrenaissance/darkfi) - Anonymous. Uncensored. Sovereign.
 
-*   [wranders/coredns-filter](https://github.com/wranders/coredns-filter) - Sinkholing in CoreDNS
+*   [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 
-*   [edoardottt/boggart](https://github.com/edoardottt/boggart) - Highly customizable low-interaction experimental honeypot that mimics specific hosts.
+*   [filecoin-project/ref-fvm](https://github.com/filecoin-project/ref-fvm) - Reference implementation of the Filecoin Virtual Machine
 
-*   [SiaFoundation/renterd](https://github.com/SiaFoundation/renterd) - A renter for Sia
+*   [filecoin-project/rust-fil-proofs](https://github.com/filecoin-project/rust-fil-proofs) - Proofs for Filecoin in Rust
 
-*   [SiaFoundation/hostd](https://github.com/SiaFoundation/hostd) - The next-generation of Sia storage providing software. More performant. More stable. Support for larger nodes.
+*   [ferrumgate/secure.server.quic](https://github.com/ferrumgate/secure.server.quic) - vpn server and client over quic  with rust (tokio,quinn)
 
-*   [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
+*   [anderspitman/fibridge-proxy-rs](https://github.com/anderspitman/fibridge-proxy-rs) - Proxy for turning web browsers into web servers. Load a 100GB file in your browser and stream it over the public web with HTTP byte range requests.
 
-*   [Kisesy/gscan\_quic](https://github.com/Kisesy/gscan_quic) - Google Quic 扫描工具
+*   [Satellite-im/Uplink](https://github.com/Satellite-im/Uplink) -  (Pre-Release Software) Secure, Encrypted, P2P chat written atop Warp, IPFS, LibP2P, Dioxus and many more awesome projects and protocols.
 
-*   [looterz/grimd](https://github.com/looterz/grimd) - :zap: fast dns proxy that can run anywhere, built to black-hole internet advertisements and malware servers
+*   [mel-project/earendil](https://github.com/mel-project/earendil) - A decentralized, censorship-resistant, and incentive-compatible packet-routing overlay network
 
-*   [dedis/onet](https://github.com/dedis/onet) - Overlay Network for distributed protocols
+*   [geph-official/geph4-bridge](https://github.com/geph-official/geph4-bridge) - Bridge node for Geph, spun off from geph4
 
-*   [nknorg/nnet](https://github.com/nknorg/nnet) - nnet: a fast, scalable, and developer-friendly p2p overlay network stack
+*   [geph-official/sosistab2](https://github.com/geph-official/sosistab2) - A pluggable, obfuscated datagram transport for horrible networks
 
-*   [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
+*   [geph-official/sosistab2-obfsudp](https://github.com/geph-official/sosistab2-obfsudp) - Obfuscated UDP transport for sosistab2
 
-*   [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
+*   [geph-official/sosistab](https://github.com/geph-official/sosistab) - An obfuscated datagram transport for horrible networks
 
-*   [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
+*   [compute-toys/wgpu-compute-toy](https://github.com/compute-toys/wgpu-compute-toy) - Cross-platform compute shader engine
 
-*   [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
+*   [egorolegovichyakovlev/TorBridgesUpdater](https://github.com/egorolegovichyakovlev/TorBridgesUpdater) - An utility to fetch new Tor bridges on daily basis
 
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+*   [refraction-networking/conjure](https://github.com/refraction-networking/conjure) - Conjure Refraction Networking station code
 
-*   [ao-space/gt](https://github.com/ao-space/gt) - Fast WebSocket(s)/HTTP(s)/TCP relay proxy with WebRTC P2P supports.
+*   [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
 
-*   [kanocz/lcvpn](https://github.com/kanocz/lcvpn) - Decentralized VPN in golang
+*   [cyphernet-dao/rust-cyphernet](https://github.com/cyphernet-dao/rust-cyphernet) - Cyphernet is a set of libraries for privacy-preserving networking apps
 
-*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+*   [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. Work in progress!
 
-*   [refraction-networking/uquic](https://github.com/refraction-networking/uquic) - Low-level access to the QUIC Initial Packet for mimicry purposes, hard fork of quic-go.
+*   [emilengler/arti](https://github.com/emilengler/arti) - \[MIRROR] Arti: An implementation of Tor, in Rust
 
-*   [refraction-networking/Metis](https://github.com/refraction-networking/Metis) - Proxy for efficiently circumventing censorship using existing tools and gathering information about censorship around the world.
+*   [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
 
-*   [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
+*   [maidsafe/safe\_network](https://github.com/maidsafe/safe_network) -
 
-*   [yks0000/starred-repo-toc](https://github.com/yks0000/starred-repo-toc) - Generates Markdown table for all Starred Repositories by a GitHub user.
+*   [unblockable/proteus](https://github.com/unblockable/proteus) - Proteus: Programmable Protocols for Censorship Circumvention
 
-*   [nexodus-io/nexodus](https://github.com/nexodus-io/nexodus) - Network Connectivity as a Service
+*   [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 
-*   [refraction-networking/utls](https://github.com/refraction-networking/utls) -  Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
+*   [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 
-*   [VNCERT-CC/socks-http-proxy](https://github.com/VNCERT-CC/socks-http-proxy) - Convert socks proxy to http proxy
+*   [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 
-*   [vinhjaxt/go-fasthttp-sniproxy](https://github.com/vinhjaxt/go-fasthttp-sniproxy) - SNI Proxy powered by fasthttp and golang to bypass DNS/SNI-based Internet filtering
+*   [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 
-*   [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
+*   [zevtyardt/proxy.rs](https://github.com/zevtyardt/proxy.rs) -
 
-*   [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) - Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
+*   [romanz/electrs](https://github.com/romanz/electrs) - An efficient re-implementation of Electrum Server in Rust
 
-*   [cloverstd/tcping](https://github.com/cloverstd/tcping) - ping over a tcp connection
+*   [manuels/wireguard-p2p](https://github.com/manuels/wireguard-p2p) - A tool for setting up WireGuard connections from peer to peer.
 
-*   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
+*   [manuels/bulletinboard-dht](https://github.com/manuels/bulletinboard-dht) - Your internet-wide general-purpose DHT to store key/value pairs
 
-*   [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
+*   [manuels/tuntap.rs](https://github.com/manuels/tuntap.rs) - Linux TunTap bindings for Rust
 
-*   [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
+*   [torrust/torrust-index](https://github.com/torrust/torrust-index) - This repository serves as the backend for the Torrust Index project.
 
-*   [alvin-tosh/Kenyatta-Ransomware](https://github.com/alvin-tosh/Kenyatta-Ransomware) - This will encrypt 🤐 your files using AES-256-CTR, then RSA-4096😵‍💫to secure the exchange with the server, or can use the Tor SOCKS5 Proxy😎 -- Functionality is based on Cryptolocker😈 ransomware. Be cool😉
+*   [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised\_face:, secure :lock: meta search engine
 
-*   [cosmos/gaia](https://github.com/cosmos/gaia) - Cosmos Hub
+*   [smol-dot/smoldot](https://github.com/smol-dot/smoldot) - Lightweight client for Substrate-based chains, such as Polkadot and Kusama.
 
-*   [kgretzky/dcrawl](https://github.com/kgretzky/dcrawl) - Simple, but smart, multi-threaded web crawler for randomly gathering huge lists of unique domain names.
+*   [torrust/bittorrent-infrastructure-project](https://github.com/torrust/bittorrent-infrastructure-project) - BitTorrent Infrastructure Project
 
-*   [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+*   [lazytiger/trojan-rs](https://github.com/lazytiger/trojan-rs) - Trojan server and proxy programs written in Rust
 
-*   [losfair/vmesh](https://github.com/losfair/vmesh) - VMesh is a decentralized Layer 3 mesh router and protocol designed for open network interconnection.
+*   [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 
-*   [RiV-chain/RiV-mesh](https://github.com/RiV-chain/RiV-mesh) - IoT end-to-end encrypted IPv6 network. First self arranging mesh network running links aggregation and dDNS!
+*   [buttplugio/buttplug](https://github.com/buttplugio/buttplug) - Rust Implementation of the Buttplug Sex Toy Control Protocol
 
-*   [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser
+*   [matrix-org/matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust
 
-*   [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
+*   [Barre/privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 
-*   [sci-hub-p2p/sci-hub-p2p](https://github.com/sci-hub-p2p/sci-hub-p2p) - fetch and serve papers in p2p network
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 
-*   [dsmatilla/just-tit](https://github.com/dsmatilla/just-tit) - Adult video search engine
+*   [toblux/rust-clamav-client](https://github.com/toblux/rust-clamav-client) - Rust ClamAV client
 
-*   [filefilego/filefilego](https://github.com/filefilego/filefilego) - Decentralized Data Sharing Network - A Peer-to-peer, censorship-resistant, and a privacy-focused data sharing network
+*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 
-*   [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
+*   [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) - An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
 
-*   [tgragnato/snowflake](https://github.com/tgragnato/snowflake) - WebRTC Pluggable Transport
+*   [equalitie/btdht](https://github.com/equalitie/btdht) - Standalone bittorrent DHT library for rust
 
-*   [cbeuw/Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries
+*   [n0-computer/iroh](https://github.com/n0-computer/iroh) - Sync anywhere
 
-*   [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+*   [tenondvpn/leaf\_new](https://github.com/tenondvpn/leaf_new) - leaf\_new
 
-*   [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+*   [planetoryd/netns-proxy](https://github.com/planetoryd/netns-proxy) - Containerized Proxying. Clone from the link below.
 
-*   [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go
+*   [Freifunk-Dresden/wg\_accept\_cgi](https://github.com/Freifunk-Dresden/wg_accept_cgi) - CGI rust programm for accepting wireguard connections
 
-*   [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
+*   [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
 
-*   [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
+*   [move-language/move](https://github.com/move-language/move) -
 
-*   [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
+*   [huff-language/huff-rs](https://github.com/huff-language/huff-rs) - A low-level assembly language for the Ethereum Virtual Machine built in blazing-fast pure rust.
 
-*   [cdnbye/cbsignal\_redis](https://github.com/cdnbye/cbsignal_redis) -
+*   [mrDIMAS/StationIapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase
 
-*   [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
+*   [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 
-*   [Yawning/obfs4](https://github.com/Yawning/obfs4) - The obfourscator (Courtesy mirror)
+*   [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 
-*   [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
+*   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 
-*   [refraction-networking/gotapdance](https://github.com/refraction-networking/gotapdance) - :twisted\_rightwards\_arrows: Cross-platform Golang implementation of TapDance censorship circumvention system client
+*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 
-*   [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
+*   [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 
-*   [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
+*   [StasiumDev/ReviOS-Verifier](https://github.com/StasiumDev/ReviOS-Verifier) - Small tool to verify ReviOS ISOs
 
-*   [FrenchGithubUser/Hatt](https://github.com/FrenchGithubUser/Hatt) - DDL/Streaming meta search engine
+*   [littlebenlittle/p2p-tun](https://github.com/littlebenlittle/p2p-tun) - VPN using libp2p
 
-*   [iyouport-org/relaybaton](https://github.com/iyouport-org/relaybaton) - A pluggable transport to circumvent Internet censorship
+*   [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 
-*   [ANG13T/SatIntel](https://github.com/ANG13T/SatIntel) - SatIntel is an OSINT tool for Satellites 🛰. Extract satellite telemetry, receive orbital predictions, and parse TLEs 🔭
+*   [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 
-*   [SixGenInc/Noctilucent](https://github.com/SixGenInc/Noctilucent) - Using TLS 1.3 to evade censors, bypass network defenses, and blend in with the noise
+*   [ChristopherBilg/ri2p](https://github.com/ChristopherBilg/ri2p) - Rust implementation of the i2p client/server/router protocols
 
-*   [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
+*   [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
 
-*   [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP
+*   [ExodusVPN/exodus](https://github.com/ExodusVPN/exodus) - network proxy and tunnel (VPN)
 
-*   [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
+*   [meh/rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
 
-*   [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 
-*   [pokt-network/pocket-core](https://github.com/pokt-network/pocket-core) - Official implementation of the Pocket Network Protocol
+*   [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 
-*   [pokt-network/pocket](https://github.com/pokt-network/pocket) - Official implementation of the Pocket Network Protocol v1
+*   [minetest-rust/mt\_rudp](https://github.com/minetest-rust/mt_rudp) -
 
-*   [etclabscore/core-geth](https://github.com/etclabscore/core-geth) - A highly configurable Go implementation of the Ethereum protocol.
+*   [minetest-rust/mt\_net](https://github.com/minetest-rust/mt_net) -
 
-*   [matrix-org/pinecone](https://github.com/matrix-org/pinecone) - Peer-to-peer overlay routing for the Matrix ecosystem
+*   [minetest-rust/mt\_ser](https://github.com/minetest-rust/mt_ser) -
 
-*   [xarantolus/filtrite](https://github.com/xarantolus/filtrite) - Custom AdBlock filterlist generator for Bromite and Cromite
+*   [radicle-dev/heartwood](https://github.com/radicle-dev/heartwood) - ❤️🪵 Radicle Heartwood Protocol & Stack
 
-*   [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
+*   [radicle-dev/radicle-client-services](https://github.com/radicle-dev/radicle-client-services) - Services backing the Radicle client interfaces.
 
-*   [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
+*   [radicle-dev/radicle-cli](https://github.com/radicle-dev/radicle-cli) - Radicle CLI
 
-*   [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
+*   [Manta-Network/Manta](https://github.com/Manta-Network/Manta) - The main repo for manta blockchain nodes.
 
-*   [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.
+*   [MASQ-Project/Node](https://github.com/MASQ-Project/Node) - MASQ combines the benefits of VPN and Tor technology to create a superior next-generation privacy software, where users are rewarded for supporting an uncensored global web. Users gain privacy and anonymity online, while helping promote Internet Freedom.
 
-*   [cunicu/cunicu](https://github.com/cunicu/cunicu) - A zeroconf peer-to-peer mesh VPN using Wireguard® and Interactive Connectivity Establishment (ICE)
+*   [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 
-*   [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+*   [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
 
-*   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
+*   [minetest-rust/mt\_client](https://github.com/minetest-rust/mt_client) -
 
-*   [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
+*   [paritytech/cumulus](https://github.com/paritytech/cumulus) - Write Parachains on Substrate
 
-*   [XIU2/SNIProxy](https://github.com/XIU2/SNIProxy) - 🧷 自用的简单 SNI Proxy（支持全平台、全系统、前置代理、配置简单等~
+*   [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 
-*   [boramalper/magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
+*   [AP-Atul/ranobe](https://github.com/AP-Atul/ranobe) - light novel scraper in rust
 
-*   [siongui/gopalilib](https://github.com/siongui/gopalilib) - Pāli Library and Data Processing in Go
+*   [Nhlest/shikataganai](https://github.com/Nhlest/shikataganai) - 仕方がない...
 
-*   [unixpickle/model3d](https://github.com/unixpickle/model3d) - Create & render beautiful 3D models
+*   [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 
-*   [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool
+*   [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Data Science Spreadsheet with Python & SQL
 
-*   [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
+*   [Game4all/vx\_bevy](https://github.com/Game4all/vx_bevy) - 🧊 Voxel engine prototype made with the bevy game engine. Serves as a playground for experimenting with voxels, terrain generation, and bevy.
 
-*   [hihebark/gds](https://github.com/hihebark/gds) - Gds - Search for hidden and unhidden path's on a website
+*   [mwbryant/logic\_voxels](https://github.com/mwbryant/logic_voxels) - A personal multiplayer voxel game created with the Bevy game engine
 
-*   [social4git/social4git](https://github.com/social4git/social4git) - A decentralized social protocol based on git
+*   [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum endpoint-to-endpoint encryption for messaging and file-sharing SDK
 
-*   [pterodactyl/wings](https://github.com/pterodactyl/wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
+*   [pen-lang/pen](https://github.com/pen-lang/pen) - The parallel, concurrent, and functional programming language for scalable software development
 
-*   [balena/go-libp2p-vpn](https://github.com/balena/go-libp2p-vpn) - A VPN Built on top of libp2p
+*   [fluencelabs/nox](https://github.com/fluencelabs/nox) - Rust implementation of the Fluence network peer
 
-*   [anywherelan/awl](https://github.com/anywherelan/awl) - Securely connect your devices into a private network
+*   [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 
-*   [p2ptunnel/p2ptunnel](https://github.com/p2ptunnel/p2ptunnel) - peer to peer based tunnel
+*   [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
 
-*   [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks.
+*   [toastxc/cf-ddns](https://github.com/toastxc/cf-ddns) - dynamic IP DNS client for cloudflare
 
-*   [nknorg/nkn-tuna-session](https://github.com/nknorg/nkn-tuna-session) - An overlay peer to peer connection based on multiple concurrent tuna connections and ncp protocol.
+*   [das-labor/panopticon](https://github.com/das-labor/panopticon) - A libre cross-platform disassembler.
 
-*   [nknorg/tuna](https://github.com/nknorg/tuna) - A free market to use service by paying NKN or host service to earn NKN
+*   [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox\_with\_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 
-*   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+*   [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 
-*   [Rajas2323/Juggernaut](https://github.com/Rajas2323/Juggernaut) -
+*   [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 
-*   [ddosify/ddosify](https://github.com/ddosify/ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+*   [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) - Rust implementation of Magic Wormhole, with new features and enhancements
 
-*   [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team) - :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
+*   [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 
-*   [drk1wi/Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
+*   [datrs/hypercore](https://github.com/datrs/hypercore) - Secure, distributed, append-only log
 
-*   [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
+*   [kpcyrd/narnia](https://github.com/kpcyrd/narnia) - :construction: EXPERIMENTAL :construction: Secure hidden service webserver
 
-*   [pbnj/awesome-podcasts](https://github.com/pbnj/awesome-podcasts) - 🎙 A collection of awesome engineering podcasts! ARCHIVED in favor of https://github.com/rShetty/awesome-podcasts
+*   [Pyxxilated-Studios/Blackhole](https://github.com/Pyxxilated-Studios/Blackhole) - A DNS filtering and blocking server and client
 
-*   [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+*   [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - Browser-based, graphical operating system for a personal server.
 
-*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+*   [rust-blockchain/blockchain](https://github.com/rust-blockchain/blockchain) - Unopinioned blockchain framework written in Rust
 
-*   [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly.
+*   [rust-ethereum/ethereum](https://github.com/rust-ethereum/ethereum) - Common Ethereum structs for Rust.
 
-*   [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm\_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+*   [rust-ethereum/evm](https://github.com/rust-ethereum/evm) - Pure Rust implementation of Ethereum Virtual Machine
 
-*   [txthinking/tun2brook](https://github.com/txthinking/tun2brook) - Proxy all traffic just one line command. tun2socks, tun2brook. IPv4 and IPv6, TCP and UDP. 只需一行命令. 让系统所有流量全部走socks5, brook.
+*   [baskerville/plato](https://github.com/baskerville/plato) - Document reader
 
-*   [apernet/mwgp](https://github.com/apernet/mwgp) - Multiple WireGuard Proxy
+*   [cabal-club/cable.rs](https://github.com/cabal-club/cable.rs) - rust implementation of the cable protocol
 
-*   [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+*   [ipfs-rust/ipfs-embed](https://github.com/ipfs-rust/ipfs-embed) - A small embeddable ipfs implementation
 
-*   [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+*   [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 
-*   [dragonfireclient/hydra-dragonfire](https://github.com/dragonfireclient/hydra-dragonfire) -
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 
-*   [getlantern/lantern](https://github.com/getlantern/lantern) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت
+*   [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 
-*   [minetest-go/mtui](https://github.com/minetest-go/mtui) - management web ui for minetest
+*   [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 
-*   [amo13/Anarchy-Droid](https://github.com/amo13/Anarchy-Droid) - One-Click Android Rom Installation Assistant
+*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
-*   [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+*   [jaredly/veoluz](https://github.com/jaredly/veoluz) - "I see light" - visualize the paths of millions of light rays through reflection, refraction and diffusion
 
-*   [joshuafc/ntVPN](https://github.com/joshuafc/ntVPN) - NAT traversal P2P VPN
+*   [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
-*   [fastcat/wirelink](https://github.com/fastcat/wirelink) - Experimental P2P configuration plane for Wireguard
+*   [sdbondi/p2p-chess](https://github.com/sdbondi/p2p-chess) -
 
-*   [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
+*   [adam-mcdaniel/chess-engine](https://github.com/adam-mcdaniel/chess-engine) - A dependency-free chess engine♟️ library built to run anywhere.
 
-*   [chenjia404/hahajing](https://github.com/chenjia404/hahajing) - An eMule KAD ed2k link search engine for Movie/TV(eMule KAD ed2k下载链接搜索引擎(电影/电视剧))
+*   [lichess-org/fishnet](https://github.com/lichess-org/fishnet) - Distributed Stockfish analysis for lichess.org
 
-*   [chenjia404/p2ptunnel](https://github.com/chenjia404/p2ptunnel) - A p2p-based tcp, udp intranet penetration tunneling tool
+*   [dswd/zvault](https://github.com/dswd/zvault) - Deduplicating backup solution
 
-*   [majestrate/clicker-rick](https://github.com/majestrate/clicker-rick) - I turned myself into a fediverse server morty!
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 
-*   [majestrate/fedproxy](https://github.com/majestrate/fedproxy) - tor/i2p/lokinet socks proxy router
+*   [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 
-*   [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt) - A very small, very simple, yet very secure encryption tool.
+*   [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 
-*   [buffrr/letsdane](https://github.com/buffrr/letsdane) - 🔒 Let's DANE is an experimental way to enable the use of DANE/TLSA in browsers and other apps using a lightweight proxy.
+*   [dothq/blocking-lists](https://github.com/dothq/blocking-lists) - 🛡️ Blocking lists used in Dot Browser
 
-*   [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
+*   [hoprnet/hoprnet](https://github.com/hoprnet/hoprnet) - HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange. HOPR is similar to Tor but actually private, decentralized and economically sustainable.
 
-*   [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
+*   [yinheli/kungfu](https://github.com/yinheli/kungfu) - Flexible DNS hijacking and proxy tool.
 
-*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+*   [VOICEVOX/voicevox\_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
 
-*   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+*   [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 
-*   [42wim/dt](https://github.com/42wim/dt) - DNS tool - display information about your domain
+*   [cabal-club/cabin](https://github.com/cabal-club/cabin) - a rustic command-line cabal client using the cable protocol
 
-*   [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
+*   [openaudiosearch/openaudiosearch](https://github.com/openaudiosearch/openaudiosearch) - Open Audio Search
 
-*   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+*   [open-quantum-safe/liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust) - Rust bindings for liboqs
 
-*   [enfein/mieru](https://github.com/enfein/mieru) - mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。
+*   [p2panda/p2panda](https://github.com/p2panda/p2panda) - All the things a panda needs
 
-*   [Bmixo/btSearch](https://github.com/Bmixo/btSearch) - opensource torrent search engine write in golang
+*   [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 
-*   [nknorg/nkn](https://github.com/nknorg/nkn) - Official Go implementation of NKN full node.
+*   [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
 
-*   [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
+*   [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 
-*   [nknorg/nconnect](https://github.com/nknorg/nconnect) - Securely connect to remote machines without the need of any server, public IP address, or publicly exposed ports.
+*   [thrzl/crust](https://github.com/thrzl/crust) - ⛏️ a real fast minecraft api (wip)
 
-*   [pairmesh/pairmesh](https://github.com/pairmesh/pairmesh) - The next-generation security Mesh VPN implementation based on Golang.
+*   [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
 
-*   [mau-network/mau](https://github.com/mau-network/mau) - Web2 Peer2Peer Library reference implementation
+*   [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 
-*   [nknorg/nkn-tunnel](https://github.com/nknorg/nkn-tunnel) - Tunnel tcp through NKN client.
+*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 
-*   [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+*   [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 
-*   [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
+*   [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
 
-*   [cblgh/lieu](https://github.com/cblgh/lieu) - community search engine
+*   [BVE-Reborn/rend3](https://github.com/BVE-Reborn/rend3) - Easy to use, customizable, efficient 3D renderer library built on wgpu.
 
-*   [rule110-io/surge](https://github.com/rule110-io/surge) - Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
+*   [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
 
-*   [cmars/onionpipe](https://github.com/cmars/onionpipe) - Onion addresses for anything.
+*   [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language.
 
-*   [coyim/coyim](https://github.com/coyim/coyim) - coyim - a safe and secure chat client
+*   [revoltchat/vortex](https://github.com/revoltchat/vortex) - (in development) Pluggable WebRTC Voice Server
 
-*   [imperviousinc/fingertip](https://github.com/imperviousinc/fingertip) -
+*   [revoltchat/january](https://github.com/revoltchat/january) - Image proxy and embed generator.
 
-*   [telehash/gogotelehash](https://github.com/telehash/gogotelehash) - The official Telehash package for Go
+*   [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
 
-*   [sentrionic/Valkyrie](https://github.com/sentrionic/Valkyrie) - A Fullstack Discord Clone using React and Go.
+*   [random-geek/MapEditr](https://github.com/random-geek/MapEditr) - A fast, command-line world editor for Minetest.
 
-*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+*   [str4d/ire](https://github.com/str4d/ire) - I2P router implementation in Rust
 
-*   [missdeer/blocklist](https://github.com/missdeer/blocklist) - A big domain block list - 350000+ lines
+*   [dswd/vpncloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN
 
-*   [missdeer/coredns\_custom\_build](https://github.com/missdeer/coredns_custom_build) - CoreDNS custom build
+*   [geph-official/geph4-client](https://github.com/geph-official/geph4-client) - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
 
-*   [missdeer/ProxyClient](https://github.com/missdeer/ProxyClient) -
+*   [Elkien3/minetest-mumble-wrapper](https://github.com/Elkien3/minetest-mumble-wrapper) - A small wrapper program and client mod to enable Mumble positional audio in Minetest without having to make a custom build of Minetest.
 
-*   [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
+*   [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs) - The InterPlanetary File System (IPFS), implemented in Rust.
 
-*   [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
+*   [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
 
-*   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+*   [iceiix/stevenarella](https://github.com/iceiix/stevenarella) - Multi-protocol Minecraft-compatible client written in Rust
 
-*   [s0rg/fantasyname](https://github.com/s0rg/fantasyname) - RinkWorks fantasy name generator for golang
+*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 
-*   [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
-*   [TheDistributedBay/TheDistributedBay](https://github.com/TheDistributedBay/TheDistributedBay) - An open source distributed implementation of the open bay
+*   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 
-*   [quorumcontrol/dgit](https://github.com/quorumcontrol/dgit) - dgit adds decentralized ownership to git - powered by Tupelo DLT and Skynet
+*   [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 
-*   [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) - 👻Stowaway -- Multi-hop Proxy Tool for pentesters
+*   [Revertron/Alfis](https://github.com/Revertron/Alfis) - Alternative Free Identity System
 
-*   [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
+*   [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 
-*   [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+*   [jordan4ibanez/Crafter-Rust](https://github.com/jordan4ibanez/Crafter-Rust) -
 
-*   [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
+*   [IPSE-TEAM/ipse-core](https://github.com/IPSE-TEAM/ipse-core) - Ipse-core is the underlying consensus layer of IPSE project, which is the basic version of the whole application chain. The function modules to be added in the future are all extended based on this core version.
 
-*   [ipfs-search/ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
+*   [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 
-*   [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
+*   [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.
 
-*   [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
+*   [shadow/shadow](https://github.com/shadow/shadow) - Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.
 
-*   [cloudflare/circl](https://github.com/cloudflare/circl) - CIRCL: Cloudflare Interoperable Reusable Cryptographic Library
+*   [tenondvpn/leaf](https://github.com/tenondvpn/leaf) -
 
-*   [navinkeizer/Deece](https://github.com/navinkeizer/Deece) - Deece is an open, collaborative, and decentralised search mechanism for IPFS
+*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 
-*   [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+*   [Terkwood/BUGOUT](https://github.com/Terkwood/BUGOUT) - AI-driven, Multiplayer Go/Weiqi/Baduk for the web 🐛🤖🦀♟
 
-*   [samvrlewis/meshboi](https://github.com/samvrlewis/meshboi) - meshboi is a mesh VPN tool created for the purposes of learning and fun
+*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
 
-*   [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+*   [googleforgames/quilkin](https://github.com/googleforgames/quilkin) - Quilkin is a non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and more.
 
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-
-*   [freignat91/cipher](https://github.com/freignat91/cipher) - RSA encryption usgin huge keys 8192, 16384, 32768 bits
-
-*   [alkasir/alkasir](https://github.com/alkasir/alkasir) -
-
-*   [OperatorFoundation/shapeshifter-dispatcher](https://github.com/OperatorFoundation/shapeshifter-dispatcher) - Shapeshifter Dispatcher converts Pluggable Transports that implement the Go API from the Pluggable Transports 2.1 specification into proxies usable by applications. Several proxy modes are provided, including proxying of both TCP and UDP traffic.
-
-*   [g3n/engine](https://github.com/g3n/engine) - Go 3D Game Engine (http://g3n.rocks)
-
-*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-
-*   [tachyon-protocol/TachyonVpn](https://github.com/tachyon-protocol/TachyonVpn) - A TachyonVpn project
-
-*   [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
-
-*   [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
-
-*   [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
-
-*   [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
-
-*   [sentinel-official/hub](https://github.com/sentinel-official/hub) - The official Sentinel Hub blockchain
-
-*   [sentinel-official/dvpn-node](https://github.com/sentinel-official/dvpn-node) - The official Sentinel dVPN node
-
-*   [sentinel-official/cli-client](https://github.com/sentinel-official/cli-client) - The official Sentinel CLI client
-
-*   [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
-
-*   [caddyserver/forwardproxy](https://github.com/caddyserver/forwardproxy) - Forward proxy plugin for the Caddy web server
-
-*   [sower-proxy/sower](https://github.com/sower-proxy/sower) - Sower is a cross-platform intelligent transparent proxy solution.
-
-*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-
-*   [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
-
-*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-
-*   [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
-
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-
-*   [Spedoske/CloudflareScanner](https://github.com/Spedoske/CloudflareScanner) -
-
-*   [Loyalsoldier/cn-blocked-domain](https://github.com/Loyalsoldier/cn-blocked-domain) - ⛔️ 🚫 ⚠️ 从 Greatfire Analyzer 爬取的在中国大陆被屏蔽的域名列表。Domains blocked in China mainland crawled from Greatfire Analyzer.
-
-*   [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
-
-*   [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
-
-*   [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
-
-*   [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-
-*   [natesales/pathvector](https://github.com/natesales/pathvector) - Declarative routing platform that automates BGP route optimization and control plane configuration with secure and repeatable routing policy.
-
-*   [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
-
-*   [koalabearguo/php-proxy](https://github.com/koalabearguo/php-proxy) - php proxy based on GoAgent protocal,Implemented by golang
-
-*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-
-*   [BuckarooBanzay/mtworldview](https://github.com/BuckarooBanzay/mtworldview) -
-
-*   [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
-
-*   [minetest-mapserver/mapserver](https://github.com/minetest-mapserver/mapserver) - Minetest realtime mapserver, written in go
-
-*   [minetest-tools/mtmediasrv](https://github.com/minetest-tools/mtmediasrv) - Minetest Media Server done correctly.
+*   [veloren/Airshipper](https://github.com/veloren/Airshipper) - The official Veloren launcher! This repository is a mirror. Please submit all PRs and issues on our GitLab page: https://gitlab.com/veloren/airshipper
 
 ## C
 
@@ -3334,8 +4632,6 @@
 
 *   [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 
-*   [little-game-and-simple-software/EasyAvg.js](https://github.com/little-game-and-simple-software/EasyAvg.js) - EasyAvg.js简易视觉小说游戏框架.js ，使用免费，技术支持服务付费，当然欢迎大家贡献代码
-
 ## TypeScript
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
@@ -3689,182 +4985,6 @@
 *   [nullxception/boorusphere](https://github.com/nullxception/boorusphere) - Simple, content-focused booru viewer for Android
 
 *   [waifu-project/movie](https://github.com/waifu-project/movie) - 🦄 开箱即用的一款支持扩展播放源的播放器 🥳
-
-## HTML
-
-*   [rust-lang/arewewebyet](https://github.com/rust-lang/arewewebyet) - Are we web yet? A simple reckoning of Rust's readiness for Web-related things.
-
-*   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-
-*   [Kirilllive/ASCII\_Art\_Paint](https://github.com/Kirilllive/ASCII_Art_Paint) - The editor for ASCII-graphics, combining a graphical editor and an image to text converter. Decorate your text and surprise your readers with an original social media post or blog post using ASCII graphics. The tool does not require an internet connection and can work offline in a browser.
-
-*   [geeeeeeeek/web\_tool](https://github.com/geeeeeeeek/web_tool) - 静态响应式网址导航网站，全静态html页面，一键部署安装。在线预览：https://geeeeeeeek.github.io/web\_tool/
-
-*   [matronator/awesome-darknet](https://github.com/matronator/awesome-darknet) - PGP verified list of Onion Services (formerly tor hidden services) on the darknet.
-
-*   [uncensored-hidden-wiki/uncensored-hidden-wiki](https://github.com/uncensored-hidden-wiki/uncensored-hidden-wiki) - the hiddenwiki
-
-*   [tarpetra/welcome-to-darknet](https://github.com/tarpetra/welcome-to-darknet) - A verified list of darknet markets and services with links for educational reference.
-
-*   [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
-
-*   [ifeii/talebook-library](https://github.com/ifeii/talebook-library) - the calibre library of talebook.org
-
-*   [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
-
-*   [mynodebtc/mynode](https://github.com/mynodebtc/mynode) - The easiest way to run Bitcoin and Lightning!
-
-*   [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
-
-*   [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) -
-
-*   [ZGQ-inc/sitebox](https://github.com/ZGQ-inc/sitebox) - :globe\_with\_meridians:网站分享|SiteBox
-
-*   [ZGQ-inc/source](https://github.com/ZGQ-inc/source) - :package:个人搜集 | 书源、图源、订阅源、规则、直播源、各种源 大型整合
-
-*   [helpukr/helpukr.github.io](https://github.com/helpukr/helpukr.github.io) - This website is a collection of content that can be used to help Ukraine in the Cyber War from your browser, it also contains WebApps, News from many sources and lots of ways to donate directly to Ukraine from verified charity’s and lots more. We even have some pages on here we recovered from Google Web Cache’s after being destroyed by Russian attacks.
-
-*   [danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English) -
-
-*   [rmellis/dueltube.org](https://github.com/rmellis/dueltube.org) - All versions of "dueltube.org" will be archived here.
-
-*   [rmellis/HelpUKR-master](https://github.com/rmellis/HelpUKR-master) - This website is a collection of content that can be used to help Ukraine in the Cyber War from your browser, it also contains WebApps, News from many sources and lots of ways to donate directly to Ukraine from verified charity’s and lots more. We even have some pages on here we recovered from Google Web Cache’s after being destroyed by Russian attacks.
-
-*   [rmellis/Russian-propaganda-browser-flood-tool](https://github.com/rmellis/Russian-propaganda-browser-flood-tool) - This repo contains a set of standalone ".htm" pages which will allow you to help Ukraine by flooding Russian propaganda sites. -in website link below, replace day703 with the current day (if different)             Oh.. And you know.. For educational purposes only ;)
-
-*   [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
-
-*   [censorship-no/ceno.github.io](https://github.com/censorship-no/ceno.github.io) - The website for Ceno Browser, a censorship circumvention web browser.
-
-*   [ReactMVC/proxy-list](https://github.com/ReactMVC/proxy-list) - Display the proxy list from https://mtpro.xyz
-
-*   [mrmcsoftware/CPUsimulator](https://github.com/mrmcsoftware/CPUsimulator) - This is an HTML/Javascript CPU simulator and assembler for the CPU I designed. Originally, I created this CPU on paper many years ago for a homework assignment in college. More recently, I implemented my design in the Logisim logic simulator, and eventually it ran on an FPGA.
-
-*   [cryptoanarchywiki/cryptoanarchywiki.github.io](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io) - Encryption, digital money, anonymous networks, digital pseudonyms, zero knowledge, reputations, information markets, black markets, collapse of governments. - Timothy C. May
-
-*   [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - The Identity Overlay Network (ION) is a DID Method implementation using the Sidetree protocol atop Bitcoin
-
-*   [ssbc/scuttlebutt-protocol-guide](https://github.com/ssbc/scuttlebutt-protocol-guide) - Protocol documentation for Secure Scuttlebutt
-
-*   [gnu-octave/packages](https://github.com/gnu-octave/packages) - The GNU Octave package index.
-
-*   [Pluggable-Transports/Pluggable-Transports-software](https://github.com/Pluggable-Transports/Pluggable-Transports-software) - A list of available Pluggable Transports packages, libraries and implementations.
-
-*   [tatsumoto-ren/matrix](https://github.com/tatsumoto-ren/matrix) - Sort public Matrix servers.
-
-*   [SoaringGecko/8K-image-search](https://github.com/SoaringGecko/8K-image-search) - This is an image search engine, here you can search for images of any quality and dimension
-
-*   [siongui/pali-text-collection](https://github.com/siongui/pali-text-collection) - Pāli texts
-
-*   [sudomesh/disaster-radio](https://github.com/sudomesh/disaster-radio) - A (paused) work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun.
-
-*   [SH20RAJ/createevminutes](https://github.com/SH20RAJ/createevminutes) - Creative Short Videos Less Than a Minute  👍
-
-*   [soyvillareal/Tubeak](https://github.com/soyvillareal/Tubeak) - Live Streaming & Video Sharing Platform
-
-*   [citizenlab/web-censorship](https://github.com/citizenlab/web-censorship) - Collection of data about URL filtering in various countries
-
-*   [legluondunet/MyLittleLutrisScripts](https://github.com/legluondunet/MyLittleLutrisScripts) - Lutris scripts for old games.
-
-*   [twnanda/twnanda](https://github.com/twnanda/twnanda) - Dhamma Page of Tainan(Hu Shiah) 府城佛教網
-
-*   [sage-code/maj](https://github.com/sage-code/maj) - Artificial language for AR
-
-*   [google-research/seanet](https://github.com/google-research/seanet) -
-
-*   [yuhuage/dizhi](https://github.com/yuhuage/dizhi) - 雨花阁
-
-*   [sleaze/rarbg-db-dumps](https://github.com/sleaze/rarbg-db-dumps) - My personal RARBG database dumps - R.I.P. rbg and thank you for your service
-
-*   [sn0b4ll/aria2-onion-downloader](https://github.com/sn0b4ll/aria2-onion-downloader) - Download from .onion-domains faster.
-
-*   [siongui/theravadacn](https://github.com/siongui/theravadacn) - 轉錄 覺醒之翼——上座部佛教文獻選譯集
-
-*   [vpnry/fts](https://github.com/vpnry/fts) - Dhamma Full Text Search Tool
-
-*   [sutra-mobi/nikaya](https://github.com/sutra-mobi/nikaya) - 汉译巴利三藏
-
-*   [2439905184/MingJianXieHui](https://github.com/2439905184/MingJianXieHui) - 民间协会
-
-*   [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
-
-*   [Esperanto/kurso-zagreba-metodo](https://github.com/Esperanto/kurso-zagreba-metodo) - Reta Esperanto-kurso laŭ la Zagreba Metodo
-
-*   [voxel-wiki/voxel-wiki.github.io](https://github.com/voxel-wiki/voxel-wiki.github.io) - Voxel.Wiki is a website that is all about voxels: Values on regular grids in three-dimensional space!
-
-*   [HexxiumCreations/threat-list](https://github.com/HexxiumCreations/threat-list) - Filter for Adblock Plus, uBlock Origin, etc. for scam, phishing, deceptive content, exploit, and tech support scam sites. PLEASE SUBMIT PULL REQUESTS TO THE "hexxiumthreatlist.txt" FILE!
-
-*   [nusenu/ansible-relayor](https://github.com/nusenu/ansible-relayor) - An Ansible Role for Tor Relay Operators
-
-*   [tracking-exposed/trex](https://github.com/tracking-exposed/trex) - youtube & tiktok analysis + youchoose recommendation custmizer. backend, extensions, and tooling
-
-*   [tdurieux/anonymous\_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
-
-*   [sanskritbscs/memory](https://github.com/sanskritbscs/memory) -
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [DarkSpyCyber/toranger](https://github.com/DarkSpyCyber/toranger) - Automatically exported from code.google.com/p/toranger
-
-*   [kappa-db/workshop](https://github.com/kappa-db/workshop) - let's learn how to write peer-to-peer applications in javascript!
-
-*   [netkiller/netkiller.github.io](https://github.com/netkiller/netkiller.github.io) - Netkiller Free ebook - 免费电子书
-
-*   [2439905184/godot-aarch64](https://github.com/2439905184/godot-aarch64) - godot editor for arm devices
-
-*   [2439905184/2439905184.github.io](https://github.com/2439905184/2439905184.github.io) - 个人博客
-
-*   [privacytests/privacytests.org](https://github.com/privacytests/privacytests.org) - Source code for privacytests.org. Includes browser testing code and site rendering.
-
-*   [cipher387/osint\_stuff\_tool\_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
-
-*   [badmojr/addons\_1Hosts](https://github.com/badmojr/addons_1Hosts) - DNS filter-/blocklists for  protection against NSFW.
-
-*   [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
-
-*   [zoonderkins/blahdns](https://github.com/zoonderkins/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
-
-*   [bittorrent/go-btfs](https://github.com/bittorrent/go-btfs) - BTFS - The First Scalable Decentralized Storage System - A Foundational Platform for Decentralized Applications
-
-*   [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
-
-*   [Bit-Nation/Pangea-website](https://github.com/Bit-Nation/Pangea-website) - New Bitnation TSE website
-
-*   [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
-
-*   [nusenu/OrNetStats](https://github.com/nusenu/OrNetStats) - Stats about the Tor network (website)
-
-*   [DiegoRBaquero/BTorrent](https://github.com/DiegoRBaquero/BTorrent) - :globe\_with\_meridians: Fully-featured WebTorrent Client
-
-*   [DiegoRBaquero/BTorrent](https://github.com/DiegoRBaquero/BTorrent) - :globe\_with\_meridians: Fully-featured WebTorrent Client
-
-*   [ghost-go/ghost-go-legacy](https://github.com/ghost-go/ghost-go-legacy) - An interactive Go/Weiqi/Baduk resources website
-
-*   [simeononsecurity/Blue-Team-Tools](https://github.com/simeononsecurity/Blue-Team-Tools) - A collection of scripts, tools. and configs for various OS'es and applications, all free and or open-source, to assist in impromptu Blue-Team defense under an active threat.
-
-*   [Psiphon-Inc/psiphon-windows](https://github.com/Psiphon-Inc/psiphon-windows) - Psiphon for Windows client
-
-*   [cstrobbe/languagelearning](https://github.com/cstrobbe/languagelearning) - :globe\_with\_meridians: Online and offline resources for learning foreign languages
-
-*   [SethClydesdale/genki-study-resources](https://github.com/SethClydesdale/genki-study-resources) - A collection of exercises for practicing what is taught in Genki: An Integrated Course in Elementary Japanese.
-
-*   [keymanapp/keyboards](https://github.com/keymanapp/keyboards) - Open Source Keyman keyboards
-
-*   [roskomsvoboda/censortracker](https://github.com/roskomsvoboda/censortracker) - Censor Tracker is a censorship circumvention extension for Google Chrome and Mozilla Firefox.
-
-*   [universsky/universsky.github.io](https://github.com/universsky/universsky.github.io) - 之剑博客
-
-*   [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
-
-*   [warren-bank/crx-webcast-reloaded](https://github.com/warren-bank/crx-webcast-reloaded) - Cast web videos to Google Chromecast from any Chromium-based desktop browser.
-
-*   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
-
-*   [sglfree/freesky](https://github.com/sglfree/freesky) - 自由门最新7.99版 无界21.32正式版 自由门VPN 自由门 自由门使用教程 无界 无界浏览 无界VPN 翻墙软件 翻墙软件下载 翻墙软件教程 Mac翻墙软件 --自由天空
-
-*   [godly/minetest-skin-converter](https://github.com/godly/minetest-skin-converter) -
-
-*   [2439905184/minetest\_dev\_wiki\_zh\_cn\_mirrow](https://github.com/2439905184/minetest_dev_wiki_zh_cn_mirrow) - a mirrow web site!
 
 ## Perl
 
@@ -4259,856 +5379,6 @@
 *   [KunoSayo/FunctionInMC](https://github.com/KunoSayo/FunctionInMC) - just a boring plugin to show function inc mc
 
 *   [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
-
-*   [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard)
-
-*   [rkkr/simple-keyboard](https://github.com/rkkr/simple-keyboard) -
-
-*   [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
-
-## miscellaneous
-
-*   [cipher387/awesome-ip-search-engines](https://github.com/cipher387/awesome-ip-search-engines) - This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).
-
-*   [HelloVolla/volla-os-beta-test](https://github.com/HelloVolla/volla-os-beta-test) - Manual, status overview and issus for beta tests of Volla OS
-
-*   [helloSystem/hello](https://github.com/helloSystem/hello) - Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
-
-*   [flosse/text-editors-written-in-rust](https://github.com/flosse/text-editors-written-in-rust) -
-
-*   [flosse/rust-os-comparison](https://github.com/flosse/rust-os-comparison) - A comparison of operating systems written in Rust
-
-*   [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) - Automatic Speech Recognition (ASR), Speaker Verification, Speech Synthesis, Text-to-Speech (TTS), Language Modelling, Singing Voice Synthesis (SVS), Voice Conversion (VC)
-
-*   [mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations) - 😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍
-
-*   [en3r0/awesome-distributed-computing-projects](https://github.com/en3r0/awesome-distributed-computing-projects) - This is a list of Free Software which contribute resources to a distributed network.
-
-*   [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains) - A curated list of privacy on blockchains resources
-
-*   [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-
-*   [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-
-*   [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar\_board: Path to a free self-taught education in Computer Science!
-
-*   [ydyjya/Awesome-LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety) - A curated list of security-related papers, articles, and resources focused on Large Language Models (LLMs). This repository aims to provide researchers, practitioners, and enthusiasts with insights into the security implications, challenges, and advancements surrounding these powerful models.
-
-*   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
-
-*   [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-
-*   [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision
-
-*   [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
-
-*   [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
-
-*   [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
-
-*   [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
-
-*   [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - :metal: awesome-semantic-segmentation
-
-*   [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
-
-*   [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
-
-*   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-
-*   [wesharebytes/Kickass-Proxy-List](https://github.com/wesharebytes/Kickass-Proxy-List) - Looking for a good proxy? Since KickassTorrents closed in 2016, it has carved out a niche for peer-to-peer sharing around the world. Read on for a list of the best alternatives ready to use today.
-
-*   [wesharebytes/Extratorrent-Proxy-LIst](https://github.com/wesharebytes/Extratorrent-Proxy-LIst) - Extratorrent proxies that are provided below are 100% working and are tested in order to make sure that it is completely working fine. In case if, it’s not then please report it.
-
-*   [wesharebytes/EZTV-Proxy-List](https://github.com/wesharebytes/EZTV-Proxy-List) - The EZTV proxies that are provided below are 100% working and are tested in order to make sure that it is completely working fine. In case if, it’s not then please report it.
-
-*   [wesharebytes/RARBG-Proxy-List](https://github.com/wesharebytes/RARBG-Proxy-List) -  RARBG Proxy List for 2024 - RARBG Unblocked \[List Updated]
-
-*   [wesharebytes/1337x](https://github.com/wesharebytes/1337x) - 1337x | 1337x.to Torrent Tracker Search Engine 2024
-
-*   [scriptzteam/TorrentCORE-Torrent-community](https://github.com/scriptzteam/TorrentCORE-Torrent-community) - Torrent\[CORE] - Torrent community.
-
-*   [oc9x97/SwearList](https://github.com/oc9x97/SwearList) - just a better version of this other one i found
-
-*   [DatMoose/Word\_List](https://github.com/DatMoose/Word_List) - Google Word List No Swear Words 4 Letters or More
-
-*   [nickname76/russian-swears](https://github.com/nickname76/russian-swears) - Dictionary of russian swear words. Словарь мата русского языка.
-
-*   [ad-freiburg/large-qa-datasets](https://github.com/ad-freiburg/large-qa-datasets) - A collection of large question answering datasets
-
-*   [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering) - A curated list of awesome social engineering resources.
-
-*   [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
-
-*   [draftdev/startup-marketing-checklist](https://github.com/draftdev/startup-marketing-checklist) - A checklist of tactics for marketing your startup.
-
-*   [leonar15/startup-checklist](https://github.com/leonar15/startup-checklist) - A checklist for incorporation so you can get back to building your product, fundraising, etc.
-
-*   [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-
-*   [kuchin/awesome-ceo](https://github.com/kuchin/awesome-ceo) - A curated and opinionated list of resources for startup founders and leaders of high-growth companies
-
-*   [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
-
-*   [go-outside-labs/entrepreneur-toolkit](https://github.com/go-outside-labs/entrepreneur-toolkit) - 👾 𝗰𝘂𝗿𝗮𝘁𝗲𝗱 𝗹𝗶𝘀𝘁 𝗼𝗳 𝗲𝗻𝘁𝗿𝗲𝗽𝗿𝗲𝗻𝗲𝘂𝗿𝗶𝘀𝗺 𝗿𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀
-
-*   [prahladyeri/listoffreelancingvideos](https://github.com/prahladyeri/listoffreelancingvideos) - Curated List of Videos about Freelancing
-
-*   [yourincomehome/awesome-passive-income](https://github.com/yourincomehome/awesome-passive-income) - A curated list of ways to make money online
-
-*   [codingforentrepreneurs/Guides](https://github.com/codingforentrepreneurs/Guides) - Guides for learning + doing better web and app development. Created by Coding for Entrepreneurs.
-
-*   [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
-
-*   [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
-
-*   [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup) - :sunglasses: All the required resources to build your own startup
-
-*   [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
-
-*   [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
-
-*   [freeman42x/awesome-artificial-general-intelligence](https://github.com/freeman42x/awesome-artificial-general-intelligence) - Resources about Artificial General Intelligence
-
-*   [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
-
-*   [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
-
-*   [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
-
-*   [GNU-Linux-libre/Awesome-Session-Group-List](https://github.com/GNU-Linux-libre/Awesome-Session-Group-List) - awesome session group list
-
-*   [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar\_board:
-
-*   [VoltageOS/manifest](https://github.com/VoltageOS/manifest) -
-
-*   [Pantyhose-X/awesome](https://github.com/Pantyhose-X/awesome) - awesome
-
-*   [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
-
-*   [Scrut1ny/GSM-Sniffing-Guide](https://github.com/Scrut1ny/GSM-Sniffing-Guide) - All the info you need.
-
-*   [Scrut1ny/EZ-Linux](https://github.com/Scrut1ny/EZ-Linux) - References for convenience when using linux.
-
-*   [Scrut1ny/Armament](https://github.com/Scrut1ny/Armament) -
-
-*   [Scrut1ny/Scrutiny-Intelligence](https://github.com/Scrut1ny/Scrutiny-Intelligence) - This contains many important documents that expose the truth about programs, websites, etc.
-
-*   [Scrut1ny/V3\_ONION\_LINKS](https://github.com/Scrut1ny/V3_ONION_LINKS) - Actual good v3 onion links
-
-*   [Scrut1ny/Video-Game-Modding](https://github.com/Scrut1ny/Video-Game-Modding) -
-
-*   [Scrut1ny/Hardware-Guide](https://github.com/Scrut1ny/Hardware-Guide) - This is a hardware guide explaining numbers and letters of components.
-
-*   [Scrut1ny/Law-Enforcement-Guide](https://github.com/Scrut1ny/Law-Enforcement-Guide) - This informative guide offers essential tips to avoid legal trouble with law enforcement by educating readers on their rights and ways to circumvent unnecessary prosecution.
-
-*   [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
-
-*   [Scrut1ny/OpSec-Guide](https://github.com/Scrut1ny/OpSec-Guide) - The Life Operational Security (OpSec) Guide provides invaluable insights and actionable recommendations for individuals seeking to enhance their privacy, anonymity, and security in their personal and professional lives. By implementing robust measures to mitigate the risk of tracking and mass surveillance, individuals can safeguard their sensitive.
-
-*   [vysecurity/DomainFrontingLists](https://github.com/vysecurity/DomainFrontingLists) - A list of Domain Frontable Domains by CDN
-
-*   [anticensority/about-pac-scripts](https://github.com/anticensority/about-pac-scripts) - What we know about PAC scripts
-
-*   [MrMarble/proxy-list](https://github.com/MrMarble/proxy-list) - Free https proxy list
-
-*   [hookzof/socks5\_list](https://github.com/hookzof/socks5_list) - Auto-updated SOCKS5 proxy list + proxies for Telegram
-
-*   [vaginessa/DPITunnel](https://github.com/vaginessa/DPITunnel) - This repository contains android app to bypass DPI
-
-*   [zapret-info/z-i](https://github.com/zapret-info/z-i) - Register of Internet Addresses filtered in Russian Federation
-
-*   [elliottophellia/yakumo](https://github.com/elliottophellia/yakumo) - FREE CHECKED PROXY LIST UPDATED EVERY 10 MINUTES - HTTP(S), SOCKS4, SOCKS5 (WITH GLOBAL/COUNTRY SPECIFIC RESULT)
-
-*   [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
-
-*   [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
-
-*   [tor-links2024/darkweblinks](https://github.com/tor-links2024/darkweblinks) - A verified list of darknet markets and services with links for educational reference. verified onion links updated 2024
-
-*   [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) - 2024!!Onion Links V3!!(Forum\&Chat\&Markets)TR-EN
-
-*   [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
-
-*   [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
-
-*   [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
-
-*   [BrandgrandRealMe/awesome-AI](https://github.com/BrandgrandRealMe/awesome-AI) - An awesome list of Cool AI tools and toys!
-
-*   [anu0012/awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - An awesome list of events and fellowship opportunities for Computer Science students
-
-*   [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
-
-*   [bluscreenofjeff/Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - Wiki to collect Red Team infrastructure hardening resources
-
-*   [yeahhub/Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
-
-*   [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
-
-*   [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
-
-*   [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
-
-*   [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
-
-*   [olilarkin/awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of my favourite music DSP and audio programming resources
-
-*   [sambokai/ShortURL-Services-List](https://github.com/sambokai/ShortURL-Services-List) - A list of 600+ URL shorteners (i.e goo.gl, bit.ly)
-
-*   [emacs-tw/emacs-101-beginner-survival-guide](https://github.com/emacs-tw/emacs-101-beginner-survival-guide) - Emacs 101 新手求生指南 - 一本讓你學 Emacs 不再學得靠北靠母的美好的新手求生指南
-
-*   [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
-
-*   [leticiadasilva/por-onde-comecar](https://github.com/leticiadasilva/por-onde-comecar) - União de materiais totalmente gratuitos para ajudar quem desejar entrar em alguma área, aprender uma nova tecnologia ou aprimorar suas skills.
-
-*   [elie222/learn-from-open-source](https://github.com/elie222/learn-from-open-source) - A list of open source projects to learn from
-
-*   [blockthreat/blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) - A curated list of blockchain security Capture the Flag (CTF) competitions
-
-*   [DarrenPan/DarrenPan](https://github.com/DarrenPan/DarrenPan) -
-
-*   [wenyuange/fo](https://github.com/wenyuange/fo) - 佛藏
-
-*   [wenyuange/ru](https://github.com/wenyuange/ru) - 儒藏
-
-*   [wenyuange/medicine](https://github.com/wenyuange/medicine) - 医藏
-
-*   [wenyuange/zi](https://github.com/wenyuange/zi) - 子藏
-
-*   [wenyuange/yi](https://github.com/wenyuange/yi) - 易藏
-
-*   [wenyuange/history](https://github.com/wenyuange/history) - 史藏
-
-*   [wenyuange/art](https://github.com/wenyuange/art) - 艺藏
-
-*   [wenyuange/poem](https://github.com/wenyuange/poem) - 诗藏
-
-*   [wenyuange/dao](https://github.com/wenyuange/dao) - 道藏
-
-*   [wenyuange/ji](https://github.com/wenyuange/ji) - 集藏
-
-*   [alexwang1116/Kindle](https://github.com/alexwang1116/Kindle) - Kindle e-book
-
-*   [alexston/talebook-library-master](https://github.com/alexston/talebook-library-master) -
-
-*   [ImKKingshuk/Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM) - Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer community. Elevate your Android experience beyond the ordinary! 🌐🚀 #CustomROMs #AndroidDev #OpenSource #XiaomiEU #HyperOS #OriginOS
-
-*   [toolswatch/blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
-
-*   [weihaox/awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering) - Resources of Neural Rendering
-
-*   [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
-
-*   [aliesbelik/load-testing-toolkit](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
-
-*   [nextdns/dns-bypass-methods](https://github.com/nextdns/dns-bypass-methods) -
-
-*   [tkowpt/metadata](https://github.com/tkowpt/metadata) - This repository contains the data behind our Security, Privacy and Parental Control features.
-
-*   [nextdns/metadata](https://github.com/nextdns/metadata) - This repository contains the data behind our Security, Privacy and Parental Control features.
-
-*   [nextdns/ddns-domains](https://github.com/nextdns/ddns-domains) -
-
-*   [nextdns/blocklists](https://github.com/nextdns/blocklists) -
-
-*   [BusKill/awesome-buskill-triggers](https://github.com/BusKill/awesome-buskill-triggers) - Antiforensic actions to secure your device if it's physically stolen from you
-
-*   [BasixKOR/awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) - Awesome list of ActivityPub based projects
-
-*   [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
-
-*   [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
-
-*   [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
-
-*   [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
-
-*   [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
-
-*   [bisq-network/proposals](https://github.com/bisq-network/proposals) - @bisq-network improvement proposals
-
-*   [Pik-sec/Phoenix](https://github.com/Pik-sec/Phoenix) - 目录扫描神器,注意说明
-
-*   [Pik-sec/tools](https://github.com/Pik-sec/tools) - 脚本小子天堂~
-
-*   [Pik-sec/Payer](https://github.com/Pik-sec/Payer) - 子域名爆破神器
-
-*   [joaocarvalhoopen/How\_to\_learn\_modern\_electronics](https://github.com/joaocarvalhoopen/How_to_learn_modern_electronics) - A guide to the adventurer
-
-*   [joaocarvalhoopen/Most\_common\_components\_in\_electronics](https://github.com/joaocarvalhoopen/Most_common_components_in_electronics) - A guide to the electronics adventurer!
-
-*   [joaocarvalhoopen/How\_to\_learn\_modern\_Embedded\_Systems](https://github.com/joaocarvalhoopen/How_to_learn_modern_Embedded_Systems) - A guide to the adventurer
-
-*   [joaocarvalhoopen/Guides\_Linux-Programming-Electronics-Aeronautics](https://github.com/joaocarvalhoopen/Guides_Linux-Programming-Electronics-Aeronautics) - All my little guides in one place. Linux, Programming, Embedded, Electronics, Aeronautics and Guitar.
-
-*   [ephtracy/voxel-model](https://github.com/ephtracy/voxel-model) -
-
-*   [tensorush/Awesome-Languages-Programming](https://github.com/tensorush/Awesome-Languages-Programming) - 😎 💬 Collection of the most awesome learning resources on modern programming languages in the form of videos, courses and blog posts.
-
-*   [ustayready/CredMaster](https://github.com/ustayready/CredMaster) - Refactored & improved CredKing password spraying tool, uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling
-
-*   [tanc7/hacking-books](https://github.com/tanc7/hacking-books) -
-
-*   [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.
-
-*   [PKU-YuanGroup/repaint123](https://github.com/PKU-YuanGroup/repaint123) - Official implementation of Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting
-
-*   [nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
-
-*   [ajaymnk/open-electronics](https://github.com/ajaymnk/open-electronics) - 📚 💻 Great Resources for Electronics Enthusiasts
-
-*   [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
-
-*   [opencax/opencax.github.io](https://github.com/opencax/opencax.github.io) - Website for OpenCAx
-
-*   [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
-
-*   [Brad331/DynamiQ](https://github.com/Brad331/DynamiQ) -
-
-*   [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
-
-*   [jankais3r/Synology-Safe-Access-domain-list](https://github.com/jankais3r/Synology-Safe-Access-domain-list) - Per-category domain lists extracted from category\_database.db shipped in Synology's Safe Access package.
-
-*   [Sinfonietta/hostfiles](https://github.com/Sinfonietta/hostfiles) - A collection of category-specific host files
-
-*   [moose84/list](https://github.com/moose84/list) - listOfPiHole
-
-*   [pq6p41fgt6k/potential-octo-parakeet](https://github.com/pq6p41fgt6k/potential-octo-parakeet) -
-
-*   [alexsannikov/adguardhome-filters](https://github.com/alexsannikov/adguardhome-filters) - AdGuard Home filter lists converted from hosts files
-
-*   [CyanideBrother/anti-pr0n](https://github.com/CyanideBrother/anti-pr0n) -
-
-*   [brijrajparmar27/host-sources](https://github.com/brijrajparmar27/host-sources) - host records for DNS based content blocking
-
-*   [edmond-nader/MyPiHoleLists](https://github.com/edmond-nader/MyPiHoleLists) -
-
-*   [justdomains/blocklists](https://github.com/justdomains/blocklists) - Domain-ONLY Filter Lists (for use with DNS / Domain blocking tools)
-
-*   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
-
-*   [austinheap/sophos-xg-block-lists](https://github.com/austinheap/sophos-xg-block-lists) - Extending & consolidating hosts files from a variety of sources, specifically for Sophos XG.
-
-*   [mhhakim/pihole-blocklist](https://github.com/mhhakim/pihole-blocklist) - Pi-Hole blocklist.
-
-*   [go2engineering/pihole-blocklists](https://github.com/go2engineering/pihole-blocklists) - A custom list of blocked sites to be applied to pihole, to be used in addition to standard block lists
-
-*   [nizekun/adguardhome-blocklist](https://github.com/nizekun/adguardhome-blocklist) -
-
-*   [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
-
-*   [wutong16/HyperDreamer](https://github.com/wutong16/HyperDreamer) - (Siggraph Asia 2023) Official code of "HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image"
-
-*   [magic-research/magic-edit](https://github.com/magic-research/magic-edit) - MagicEdit: High-Fidelity Temporally Coherent Video Editing
-
-*   [monosans/proxy-list](https://github.com/monosans/proxy-list) - Lists of HTTP, SOCKS4, SOCKS5 proxies with geolocation info. Updated every 30 minutes.
-
-*   [roosterkid/openproxylist](https://github.com/roosterkid/openproxylist) - List of Free HTTPS, SOCKS4, SOCKS5 Proxy (Daily Updates!)
-
-*   [mmpx12/proxy-list](https://github.com/mmpx12/proxy-list) - Free proxies (few vpn and tor exit nodes) from various sources update hourly.
-
-*   [ErcinDedeoglu/proxies](https://github.com/ErcinDedeoglu/proxies) - 🔍💻🔒🌀🔄🌟🚀📂📈 Need a daily updated proxy list? Look no further! Our PROXY list offers the freshest and most reliable proxy servers available. Say goodbye to outdated and unreliable lists and hello to a seamless, secure browsing experience. Get started with our PROXY list today!
-
-*   [ALIILAPRO/Proxy](https://github.com/ALIILAPRO/Proxy) - Get new and fast proxy list every hour.
-
-*   [prxchk/proxy-list](https://github.com/prxchk/proxy-list) - 🚀 High anonymous free proxy list. CONTINUOUSLY UPDATING!!!
-
-*   [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) -   proxy list that updates every 10 minutes
-
-*   [casals-ar/proxy-list](https://github.com/casals-ar/proxy-list) - 🚀 Free HTTP / HTTPS / SOCKS4 / SOCKS5 proxy list. UPDATED EVERY 5 MINUTES.
-
-*   [goastian/midori-desktop](https://github.com/goastian/midori-desktop) - Official repository code Midori Browser
-
-*   [Klaus-Thaler/hosts-for-Androids](https://github.com/Klaus-Thaler/hosts-for-Androids) - The /system/etc/hosts can also block addresses. By redirecting the names to localhost. This slows down the connection. But Trackercontrol over VPN is much slower.
-
-*   [Arrin-KN1E/SDR-Band-Plans](https://github.com/Arrin-KN1E/SDR-Band-Plans) - Detailed band plans for SDR Software
-
-*   [nrkno/Sofie-TV-automation](https://github.com/nrkno/Sofie-TV-automation) - The Sofie TV Studio Automation System, used in live TV news production by the Norwegian public service broadcaster NRK since September 2018
-
-*   [lunardao/dao](https://github.com/lunardao/dao) - LunarDAO Architecture
-
-*   [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
-
-*   [suttacentral/sc-data](https://github.com/suttacentral/sc-data) - Content for SuttaCentral, including texts both legacy and bilara, parallels, structure, and other metadata.
-
-*   [sjr7/KillADHosts](https://github.com/sjr7/KillADHosts) - 屏蔽常见广告的Hosts数据
-
-*   [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
-
-*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
-
-*   [DustinWin/clash\_singbox-tools](https://github.com/DustinWin/clash_singbox-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、sing-box 内核、Clash dashboard 面板和 AdGuardHome 最新版
-
-*   [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
-
-*   [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
-
-*   [theepiccode/Awesome-CyberSec-Resources](https://github.com/theepiccode/Awesome-CyberSec-Resources) - An awesome collection of curated Cyber Security resources(Books, Tutorials, Blogs, Podcasts, ...)
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-*   [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
-
-*   [obfuscation/documentation](https://github.com/obfuscation/documentation) -
-
-*   [SiaFoundation/docs](https://github.com/SiaFoundation/docs) - The Sia docs
-
-*   [mbaniadam/MPLS-VPN-on-IS-IS](https://github.com/mbaniadam/MPLS-VPN-on-IS-IS) - MPLS VPN Implementation with IS-IS Routing Protocol
-
-*   [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
-
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-
-*   [ircv3/ircv3-ideas](https://github.com/ircv3/ircv3-ideas) -
-
-*   [17mon/china\_ip\_list](https://github.com/17mon/china_ip_list) -
-
-*   [meanos/next.js-proxy-1](https://github.com/meanos/next.js-proxy-1) -  Next.js Proxy: Unlocking Serverless Mirroring on Vercel, Netlify, or GitHub Pages with Advanced Configurations - Enhanced with Advanced Features: .env Base Configuration, Dynamic Search and Replace, Article Spinner, and Beyond 🚀
-
-*   [meanos/stonexy](https://github.com/meanos/stonexy) - Stonexy combines the power of Next.js, Keystone.js, Node.js, Proxy-middleware, and GraphQL in one powerful SAAS-based CMS Proxy, flaunting both a stunning and user-friendly UI. Proxy, reverse-proxy, mirror, protect, or reflect, its all easy with Stonexy. Unleash limitless possibilities, pioneer future next-gen today, and always stay Stonexy!
-
-*   [mikalv/awesome-i2p](https://github.com/mikalv/awesome-i2p) - A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
-
-*   [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
-
-*   [GNU-Linux-libre/Awesome-VPN-Network](https://github.com/GNU-Linux-libre/Awesome-VPN-Network) - The best vpn service 2022 Lifetime free anonymous Awesome dVPN foss Network decentralized Ethereum Blockchain DHT-VPN Peer-to-peer open-source
-
-*   [GNU-Linux-libre/Awesome-Browser-Search-Engine](https://github.com/GNU-Linux-libre/Awesome-Browser-Search-Engine) - Awesome Browser Search engine streaming live git Privacy Alternative Alternatives 搜索引擎大全 浏览器大全
-
-*   [GNU-Linux-libre/Catalogue](https://github.com/GNU-Linux-libre/Catalogue) - Catalogues by category
-
-*   [webRTCv1/Best-of-webRTC](https://github.com/webRTCv1/Best-of-webRTC) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Best of WebRTC: Elevate with Top Projects!
-
-*   [bltavares/p2p-links](https://github.com/bltavares/p2p-links) - A set of links for projects that I keep track of on the peer-to-peer space.
-
-*   [vorburger/awesome-decentralized-internet-web3-blockchain-p2p-security-world-cloud](https://github.com/vorburger/awesome-decentralized-internet-web3-blockchain-p2p-security-world-cloud) - Directory of awesome projects related to the future buzzword compliant decentralized internet Web3 Blockchain P2P secure world cloud!
-
-*   [LibreCybernetics/awesome-radical-decentralization](https://github.com/LibreCybernetics/awesome-radical-decentralization) - Awesome projects for radical decentralization.
-
-*   [mafintosh/awesome-p2p](https://github.com/mafintosh/awesome-p2p) - List of great p2p resources
-
-*   [hackergrrl/p2p-handbook](https://github.com/hackergrrl/p2p-handbook) - :horse: Let's learn how to peer-to-peer!
-
-*   [kgryte/awesome-peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources.
-
-*   [moarpepes/awesome-mesh](https://github.com/moarpepes/awesome-mesh) - This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.
-
-*   [Pantyhose-X/README.md](https://github.com/Pantyhose-X/README.md) - 🌱 programming language and decentralised network
-
-*   [Pantyhose-X/asus-Realtek-Audio](https://github.com/Pantyhose-X/asus-Realtek-Audio) - \[DRIVERS] Realtek Audio asus
-
-*   [Pantyhose-X/vpn](https://github.com/Pantyhose-X/vpn) - Domain generation algorithm+Fast flux+DNS Tunneling+Tor+C2 server 最新翻墙方法,永远不被封
-
-*   [Pantyhose-X/Logical](https://github.com/Pantyhose-X/Logical) - Artificial intelligence Constructed Logical Languages
-
-*   [cdnbye/dashjs-p2p-engine](https://github.com/cdnbye/dashjs-p2p-engine) - A dash.js plugin to offload bandwidth from expensive traditional CDNs，while also maximizing a user’s viewing experience.
-
-*   [funilrys/pornhosts](https://github.com/funilrys/pornhosts) - For time being, this is a temporary fork, for adding a few optimizations and get the lists back up to-date.
-
-*   [Bit451/Bit451](https://github.com/Bit451/Bit451) - decentralized / distributed anonymous p2p media network
-
-*   [Thiasap/SomeIPs](https://github.com/Thiasap/SomeIPs) - 记录一些阿里、腾讯等网络公司的ip段
-
-*   [nextdns/native-tracking-domains](https://github.com/nextdns/native-tracking-domains) -
-
-*   [bremich/Blocklists](https://github.com/bremich/Blocklists) - Annoyances blocklists for Pi-hole/AdGuard Home/uMatrix and Adblock Plus/AdGuard/uBlock
-
-*   [chromium/chromium-ads-detection](https://github.com/chromium/chromium-ads-detection) -
-
-*   [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
-
-*   [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd blocklist
-
-*   [nextdns/piracy-blocklists](https://github.com/nextdns/piracy-blocklists) -
-
-*   [proxylist-to/proxy-list](https://github.com/proxylist-to/proxy-list) - Automatically updated list of free proxies
-
-*   [aubrel/materia-medica](https://github.com/aubrel/materia-medica) - Autonomous mutual self-education about the wonderful world of medicinal plant technologies.
-
-*   [fabacab/awesome-malware](https://github.com/fabacab/awesome-malware) - :computer::warning: A curated collection of awesome malware, botnets, and other post-exploitation tools.
-
-*   [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
-
-*   [SwapneelM/awesome-particle-physics-for-non-physicists](https://github.com/SwapneelM/awesome-particle-physics-for-non-physicists) - A curated list of introductory resources to Particle Physics (Quantum Field Theory, QED, QCD, Standard Model, Colliders) for people without a formal background in Physics
-
-*   [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) - 📜Zig Learning Guide & Project Lists
-
-*   [VipassanaTech/tipitaka-xml](https://github.com/VipassanaTech/tipitaka-xml) - tipitaka.org public xml files
-
-*   [namebasehq/awesome-handshake](https://github.com/namebasehq/awesome-handshake) - A collection of awesome things regarding the Handshake ecosystem.
-
-*   [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
-
-*   [zeerx7/reverse-ip](https://github.com/zeerx7/reverse-ip) - Discover Domains Associated with a Reverse IP Lookup
-
-*   [zevtyardt/proxy-list](https://github.com/zevtyardt/proxy-list) - 🔓 daily updated proxy list
-
-*   [bdvajstudio/javdb](https://github.com/bdvajstudio/javdb) - javdb official app
-
-*   [btcven/locha](https://github.com/btcven/locha) - Communicate with others and broadcast Bitcoin transactions off-grid without internet access or even power grid.
-
-*   [filteryab/ir-blocked-domain](https://github.com/filteryab/ir-blocked-domain) - List of blocked domains in Iran
-
-*   [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet
-
-*   [hzxie/city-dreamer](https://github.com/hzxie/city-dreamer) - The official implementation of "CityDreamer: Compositional Generative Model of Unbounded 3D Cities". (arXiv 2309.00610)
-
-*   [devbisme/kicad-3rd-party-tools](https://github.com/devbisme/kicad-3rd-party-tools) - Software tools/utilities made by others to augment the KiCad PCB EDA suite.
-
-*   [n0kovo/awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking) - A curated list of awesome tools, research, papers and other projects related to password cracking and password security.
-
-*   [scriptzteam/Tor-Bridges-Collector](https://github.com/scriptzteam/Tor-Bridges-Collector) - Collecting Tor Bridges.
-
-*   [strato-emu/compat-list](https://github.com/strato-emu/compat-list) - A repository for collection of compatibility data for Nintendo Switch titles with Strato
-
-*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-
-*   [u3c3/BT-btt](https://github.com/u3c3/BT-btt) - 磁力網站U3C3介紹以及域名更新
-
-*   [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List \* Updated every 5 minutes \*
-
-*   [gwang-kim/PODIA-3D](https://github.com/gwang-kim/PODIA-3D) - \[ICCV 2023] Official implementation of "PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion"
-
-*   [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-
-*   [officialputuid/KangProxy](https://github.com/officialputuid/KangProxy) - Free proxy-list with auto checker (Check branches)
-
-*   [shime/creative-commons-media](https://github.com/shime/creative-commons-media) - A curated list of resources that provide media licensed under Creative Commons licenses.
-
-*   [hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) - Chess!
-
-*   [gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
-
-*   [faroit/awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) -  Curated list of python software and packages related to scientific research in audio
-
-*   [ebraminio/awesome-qsharp](https://github.com/ebraminio/awesome-qsharp) - A curated list of Q# code and resources.
-
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-*   [digitalpalidictionary/digitalpalidictionary](https://github.com/digitalpalidictionary/digitalpalidictionary) - Download the latest version of DPD for GoldenDict
-
-*   [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
-
-*   [gugu-hw/rarbg-db-dumps](https://github.com/gugu-hw/rarbg-db-dumps) - My personal RARBG database dumps - R.I.P. rbg and thank you for your service
-
-*   [Has-Needs-Ni-Aini/home](https://github.com/Has-Needs-Ni-Aini/home) -
-
-*   [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge) - Bringing intranet on the internet with Zero-Config Mesh VPNs.
-
-*   [kadore520/tenonvpn-join](https://github.com/kadore520/tenonvpn-join) - linux node server join in the tenon decentralized network and suply vpn server and route services
-
-*   [hui477/tenonvpn-windows](https://github.com/hui477/tenonvpn-windows) - tenon vpn for windows
-
-*   [proxy4parsing/proxy-list](https://github.com/proxy4parsing/proxy-list) - free proxies from public sites & telegram.
-
-*   [vfdecl/zy-player-kankan-resource](https://github.com/vfdecl/zy-player-kankan-resource) - zyplayer，看看APP，视频资源站
-
-*   [Correia-jpv/fucking-awesome-sysadmin](https://github.com/Correia-jpv/fucking-awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources. With up-to-date repository stars⭐ and forks🍴
-
-*   [Jirehlov/cfranking](https://github.com/Jirehlov/cfranking) - Cloudflare Domain Ranking history
-
-*   [hezhijie0327/GFWList2AGH](https://github.com/hezhijie0327/GFWList2AGH) - Generate diversion list for AdGuard Home and other softwares
-
-*   [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
-
-*   [2004content/rarbg](https://github.com/2004content/rarbg) - Backup of magnets from RARBG
-
-*   [saisuiu/Lionkings-Http-Proxys-Proxies](https://github.com/saisuiu/Lionkings-Http-Proxys-Proxies) - A large number of free HTTP proxies updated every 10 minutes.Keep http/s proxies fresh at all times.
-
-*   [icoz69/StyleAvatar3D](https://github.com/icoz69/StyleAvatar3D) - Official repo for StyleAvatar3D
-
-*   [yuttadhammo/ask-pali-keyboard](https://github.com/yuttadhammo/ask-pali-keyboard) - Any Soft Keyboard - Pali Language Pack
-
-*   [siongui/dictionary.online-dhamma.net](https://github.com/siongui/dictionary.online-dhamma.net) - serve pali dictionary website
-
-*   [siongui/7rsk9vjkm4p8z5xrdtqc](https://github.com/siongui/7rsk9vjkm4p8z5xrdtqc) - Pāli chanting resources and dhammatalk books
-
-*   [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
-
-*   [vpnry/patimokkha\_recitation](https://github.com/vpnry/patimokkha_recitation) - Bhikkhu pātimokkha pāḷi recitation audio and ebooks
-
-*   [vpnry/paauk](https://github.com/vpnry/paauk) - Pa-Auk Meditation Manual Course Book & Others
-
-*   [amd/UIF](https://github.com/amd/UIF) -
-
-*   [sajjadium/ctf-archives](https://github.com/sajjadium/ctf-archives) -  CTF Archives: Collection of CTF Challenges.
-
-*   [alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts\&videos)
-
-*   [alphaSeclab/sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 21K security related open source tools, sorted by star count. Both in markdown and json format.
-
-*   [alphaSeclab/awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
-
-*   [moshest/p2p-index](https://github.com/moshest/p2p-index) - 👯‍♂️ A collection of peer-to-peer decentralized projects.
-
-*   [PublicWebDB/PlayFunWeb](https://github.com/PublicWebDB/PlayFunWeb) - 玩趣网
-
-*   [n0kovo/n0kovo\_subdomains](https://github.com/n0kovo/n0kovo_subdomains) - An extremely effective subdomain enumeration wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
-
-*   [poretsky/SmartVoice-translations](https://github.com/poretsky/SmartVoice-translations) - SmartVoice app translatable resource
-
-*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-
-*   [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
-
-*   [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
-
-*   [realizelol/torblocklist](https://github.com/realizelol/torblocklist) - pulling actual exit + or addresses via torproject rest api
-
-*   [Enkidu-6/tor-relay-lists](https://github.com/Enkidu-6/tor-relay-lists) - Automatically updated Tor relay lists
-
-*   [Zaeem20/FREE\_PROXIES\_LIST](https://github.com/Zaeem20/FREE_PROXIES_LIST) - FREE PROXY LIST (Gets Updated Every 10 Minutes). included HTTP(S) Proxy.
-
-*   [web3privacy/web3privacy](https://github.com/web3privacy/web3privacy) - Web3Privacy Now is a research project aimed at building a culture of privacy industry in web3: the most extensive database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases database & many more. Feel free to collaborate.
-
-*   [hiddify/awesome-freedom](https://github.com/hiddify/awesome-freedom) - In this repository we have collected all awesome tools for iranian people
-
-*   [DarrenPan/Awesome-CVPR2023-Low-Level-Vision](https://github.com/DarrenPan/Awesome-CVPR2023-Low-Level-Vision) - A Collection of Papers and Codes in CVPR2023/2022 about low level vision
-
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-
-*   [mikesprague/udacity-nanodegrees](https://github.com/mikesprague/udacity-nanodegrees) - :mortar\_board: List of Udacity Nanodegree programs with links to the free courses in their curricula
-
-*   [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
-
-*   [v8blink/Chromium-based-XSS-Taint-Tracking](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking) - Cyclops 是一款具有 XSS 检测功能的浏览器
-
-*   [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
-
-*   [LuozhuZhang/awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) - A curated list of awesome zkEVM resources, libraries, tools and more
-
-*   [six2dez/pentest-book](https://github.com/six2dez/pentest-book) -
-
-*   [hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
-
-*   [mandatoryprogrammer/NorthKoreaDNSLeak](https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak) - Snapshot of North Korea's DNS data taken from zone transfers.
-
-*   [mandatoryprogrammer/RussiaDNSLeak](https://github.com/mandatoryprogrammer/RussiaDNSLeak) - Summary and archives of leaked Russian TLD DNS data
-
-*   [PlatypusSec/Platypus](https://github.com/PlatypusSec/Platypus) - Platypus Smart VPN for Safe passage through filtering
-
-*   [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - curated list of open-source anti-censorship tools
-
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
-*   [x0uid/SpotifyAdBlock](https://github.com/x0uid/SpotifyAdBlock) - Protect your privacy by blocking all annoying Spotify ads & analytics in Linux, OSX and Windows with hosts file.
-
-*   [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
-
-*   [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-
-*   [uBlockOrigin/uBlock-issues](https://github.com/uBlockOrigin/uBlock-issues) - This is the community-maintained issue tracker for uBlock Origin
-
-*   [darknet11/onionlink](https://github.com/darknet11/onionlink) - URL LInk
-
-*   [unity3d-jp/AnimeToolbox](https://github.com/unity3d-jp/AnimeToolbox) -
-
-*   [Safe3/fahi](https://github.com/Safe3/fahi) - 一款社区驱动的免费、高速、稳定、安全的内网穿透、P2P传输、零信任网络ZTNA、堡垒机、异地组网SD-WAN，打破传统网络边界的Mesh网格网络安全产品。
-
-*   [chenjia404/emule\_helper](https://github.com/chenjia404/emule_helper) - 一个一键使用新手免设置安装emule包，基于emule0.50a-Xtreme8.1-upnppackzh配置
-
-*   [TheTorProject/gettorbrowser](https://github.com/TheTorProject/gettorbrowser) -
-
-*   [Btdigg-Org/dhtcrawler2](https://github.com/Btdigg-Org/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent by a keyword
-
-*   [BlinkDL/Hua](https://github.com/BlinkDL/Hua) - Hua is an AI image editor with Stable Diffusion (and more).
-
-*   [torrust/torrust-index-archive](https://github.com/torrust/torrust-index-archive) - Moved: https://github.com/torrust/torrust-index
-
-*   [2439905184/CreationFreeTools](https://github.com/2439905184/CreationFreeTools) - 创意多媒体创作的开源工具列表
-
-*   [edu-minetest/minetest](https://github.com/edu-minetest/minetest) - Minetest Education Edition
-
-*   [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
-
-*   [EAimTY/tuic](https://github.com/EAimTY/tuic) -
-
-*   [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
-
-*   [joaocarvalhoopen/How\_to\_learn\_modern\_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
-
-*   [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
-
-*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
-
-*   [dragonfruitnetwork/onionfruit](https://github.com/dragonfruitnetwork/onionfruit) - OnionFruit™ Connect - Tor access client with country selection, bridge configuration, pluggable transports and experimental DNS support
-
-*   [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
-
-*   [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
-
-*   [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
-
-*   [RimoChan/internet-dataset](https://github.com/RimoChan/internet-dataset) - 【数据集】好耶，是互联网数据集！
-
-*   [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
-
-*   [imperviousinc/badass-ens](https://github.com/imperviousinc/badass-ens) - Badass ENS
-
-*   [screetsec/Wordlist-Dracos](https://github.com/screetsec/Wordlist-Dracos) -  Collection My Wordlist
-
-*   [2439905184/great-men](https://github.com/2439905184/great-men) - 值得学习的伟人列表
-
-*   [funnychip796/bilibili\_appimage](https://github.com/funnychip796/bilibili_appimage) - bilibili官方客户端 使用appimage再次打包
-
-*   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
-
-*   [soruly/awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
-
-*   [SecOps-Institute/Tor-IP-Addresses](https://github.com/SecOps-Institute/Tor-IP-Addresses) - Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
-
-*   [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
-
-*   [macchrome/winchrome](https://github.com/macchrome/winchrome) - Chromium for 64-bit Windows - All Codecs: MS Visual Studio 2017
-
-*   [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) - 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
-
-*   [VeleSila/yhosts](https://github.com/VeleSila/yhosts) - 接手Vokins的项目无责任更新。AD hosts爱好群，群号:201973909
-
-*   [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
-
-*   [badmojr/stars](https://github.com/badmojr/stars) - A curated list of my GitHub stars!
-
-*   [spiri-leo/blocklist-collection](https://github.com/spiri-leo/blocklist-collection) - The blocklist collection for block ads and tracking and more.
-
-*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-
-*   [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
-
-*   [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
-
-*   [pantsufan/BlockAds](https://github.com/pantsufan/BlockAds) - Magisk module to block ads on android
-
-*   [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) - Magisk module to block ads on android
-
-*   [liamengland1/mischosts](https://github.com/liamengland1/mischosts) - hosts for pihole
-
-*   [yu-steven/openit](https://github.com/yu-steven/openit) - 致力于打造免费无感的翻墙环境
-
-*   [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
-
-*   [2439905184/free\_domain\_list](https://github.com/2439905184/free_domain_list) - 免费域名服务商列表
-
-*   [tiuxo/hosts](https://github.com/tiuxo/hosts) - Categorized hosts files for DNS based content blocking
-
-*   [ShadowWhisperer/IPs](https://github.com/ShadowWhisperer/IPs) - IP block lists for: Malware, Bots, Hackers, Sniffers, etc..
-
-*   [ShadowWhisperer/BlockLists](https://github.com/ShadowWhisperer/BlockLists) - DNS Block Lists
-
-*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-
-*   [kevindeasis/awesome-fullstack](https://github.com/kevindeasis/awesome-fullstack) - ¯\_(ツ)\_/¯ Learn to code: curated list to learn full stack. Includes learning materials and other resources~
-
-*   [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
-
-*   [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists) - Curated lists on various topics
-
-*   [Mhy278/Recommended-Software](https://github.com/Mhy278/Recommended-Software) - 常用软件推荐
-
-*   [conanhujinming/tips\_for\_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享
-
-*   [revoltchat/revolt](https://github.com/revoltchat/revolt) - Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions
-
-*   [huihoo/wiki](https://github.com/huihoo/wiki) - 开放百科资源索引
-
-*   [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies
-
-*   [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
-
-*   [axic/mango](https://github.com/axic/mango) - Mango: Git, completely decentralised.
-
-*   [programthink/sites](https://github.com/programthink/sites) - 【编程随想】收藏的各色网站
-
-*   [programthink/opensource](https://github.com/programthink/opensource) - 【编程随想】收藏的开源项目清单
-
-*   [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
-
-*   [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
-
-*   [Ayms/alternative-internet](https://github.com/Ayms/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
-
-*   [mhatta/awesome-secure-instant-messaging](https://github.com/mhatta/awesome-secure-instant-messaging) - A list of awesome secure instant messaging related projects, articles, papers, etc.
-
-*   [2439905184/Galgame-Engine-Collect](https://github.com/2439905184/Galgame-Engine-Collect) - 关于视觉小说的一切，争取打造全网最全的资料库
-
-*   [cryptostorm/cstorm\_deepDNS](https://github.com/cryptostorm/cstorm_deepDNS) - cryptostorm's DeepDNS, a decentralized, crypto-hardened, DNS framework
-
-*   [Psiphon-Inc/psiphon](https://github.com/Psiphon-Inc/psiphon) - Meta-repo with info about and links to Psiphon resources
-
-*   [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-
-*   [jeremy-jr-benthum/onion-browser-button](https://github.com/jeremy-jr-benthum/onion-browser-button) - Requisite files to run onion browser button add-on
-
-*   [tenondvpn/win10](https://github.com/tenondvpn/win10) - tenonvpn for windows
-
-*   [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
-
-*   [skynet-guide/docs](https://github.com/skynet-guide/docs) - Community maintained knowledge base for Skynet
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [pangafu/LeelaMasterWeight](https://github.com/pangafu/LeelaMasterWeight) - Leela Master weight is training from leela zero self-play sgf and human sgf file
-
-*   [wonsiks/BadukMegapack](https://github.com/wonsiks/BadukMegapack) - Installer for various AI Baduk softwares
-
-*   [Gedsh/Purple-I2P-Android-build-script](https://github.com/Gedsh/Purple-I2P-Android-build-script) - Script for building Purple-I2P for Android from source using Gitlab CI / CD
-
-*   [Gedsh/Tor-Android-build-script](https://github.com/Gedsh/Tor-Android-build-script) - Script for building Tor for Android from source using Gitlab CI / CD
-
-*   [awesome-vpn/awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) - VPN/proxy WIKI .Find the best VPN/proxy 免费的VPN 代理  账号 翻墙 科学上网 梯子 机场
-
-*   [greatfire/wiki](https://github.com/greatfire/wiki) -
-
-*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
-
-*   [universalbyte/superhostsfile](https://github.com/universalbyte/superhostsfile) - Protect your computer / rooted-smartphone !
-
-*   [leereilly/games](https://github.com/leereilly/games) - :video\_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
-
-*   [sentinel-official/android-client-lite](https://github.com/sentinel-official/android-client-lite) - This is the official repository of the Sentinel Android client lite
-
-*   [sentinel-official/networks](https://github.com/sentinel-official/networks) - The official Sentinel blockchain networks
-
-*   [angristan/awesome-stars](https://github.com/angristan/awesome-stars) - A curated list of my GitHub stars!
-
-*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
-
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
-
-*   [bebasid/bebasdns](https://github.com/bebasid/bebasdns) - bebasdns merupakan server DNS publik netral dan berselancar secara aman dan tidak terbatas.
-
-*   [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video\_game: :pencil: A list of Game Development resources to make magic happen.
-
-*   [garychowcmu/daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
-
-*   [gtsCollect/dandin-novel](https://github.com/gtsCollect/dandin-novel) - 但丁的小说
-
-*   [yuuwill/1024app-android](https://github.com/yuuwill/1024app-android) - 草榴官方客户端，小草客户端，Android
-
-*   [yuuwill/1024app-ios](https://github.com/yuuwill/1024app-ios) - 草榴官方客户端，小草客户端，iOS
-
-*   [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
-
-*   [RimoChan/rime-unvcode](https://github.com/RimoChan/rime-unvcode) - 幼⼥输⼊法！
-
-*   [cryptostorm/cryptostorm\_client\_configuration\_files](https://github.com/cryptostorm/cryptostorm_client_configuration_files) - cryptostorm client configs
-
-*   [android/ndk](https://github.com/android/ndk) - The Android Native Development Kit
-
-*   [cdnbye/hlsjs-p2p-engine](https://github.com/cdnbye/hlsjs-p2p-engine) - Let your viewers become your unlimitedly scalable CDN.
-
-*   [CubedCommunity/CubedTextures](https://github.com/CubedCommunity/CubedTextures) - Public github for Cubed Textures development.
-
-*   [daviddoesminetest/mt\_equippable\_accessories](https://github.com/daviddoesminetest/mt_equippable_accessories) - adds equippable accessories to minetests, that you can wear for looks and stat bonuses
-
-*   [kiwibrowser/android](https://github.com/kiwibrowser/android) - This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
-
-*   [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
-
-*   [mourner/projects](https://github.com/mourner/projects) - A list of awesome open source projects Volodymyr Agafonkin is involved in.
-
-*   [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray) - 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
 
 ## Shell
 
@@ -5658,8 +5928,6 @@
 
 *   [EvilInsultGenerator/android-app](https://github.com/EvilInsultGenerator/android-app) - Evil Insult Generator Android App
 
-*   [8VIM/8VIM](https://github.com/8VIM/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
-
 ## C++
 
 *   [google-deepmind/mujoco\_mpc](https://github.com/google-deepmind/mujoco_mpc) - Real-time behaviour synthesis with MuJoCo, using Predictive Control
@@ -5725,8 +5993,6 @@
 *   [OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs) - Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 
 *   [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
-
-*   [synfig/synfig](https://github.com/synfig/synfig) - This is the Official source code repository of the Synfig project
 
 *   [synfig/synfig](https://github.com/synfig/synfig) - This is the Official source code repository of the Synfig project
 
@@ -6314,164 +6580,6 @@
 
 *   [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - waifu2xのCaffe版
 
-*   [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
-
-## Makefile
-
-*   [PartialVolume/shredos.x86\_64](https://github.com/PartialVolume/shredos.x86_64) - Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe
-
-*   [nadenislamarre/shredos](https://github.com/nadenislamarre/shredos) - shredos, the os that tears your os
-
-*   [xyproto/sdl2-examples](https://github.com/xyproto/sdl2-examples) - SDL2 examples, for 25+ different programming languages
-
-*   [linuxboot/heads](https://github.com/linuxboot/heads) - A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops and servers.
-
-*   [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL) - A fuzzer for full VM kernel/driver targets
-
-*   [IRTF-PEARG/rfc-censorship-tech](https://github.com/IRTF-PEARG/rfc-censorship-tech) - Internet Draft for survey of technical mechanisms for censorship
-
-*   [majestrate/fediverse](https://github.com/majestrate/fediverse) - Set up your own fediverse server
-
-*   [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
-
-*   [seedboxes/pibox](https://github.com/seedboxes/pibox) - docker container with rtorrent client, rutorrent ui, cakebox streaming, password protected, over ssl, with persistent data
-
-## Jupyter Notebook
-
-*   [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple
-
-*   [CodeDruidX/GPTQCustomLora](https://github.com/CodeDruidX/GPTQCustomLora) - GPTQCustomLoRA: Efficient Finetuning of Quantized LLMs with GPTQ on your custom datasets
-
-*   [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney
-
-*   [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
-
-*   [datasciengine/KufurNet](https://github.com/datasciengine/KufurNet) - Küfür, hakaret, sövgü, saldırgan cümleleri tespit edebilmek için oldukça hafif ve kural tabanlı bir repodur.
-
-*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
-
-*   [ChenghaoMou/text-dedup](https://github.com/ChenghaoMou/text-dedup) - All-in-one text de-duplication
-
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-
-*   [JoaoLages/diffusers-interpret](https://github.com/JoaoLages/diffusers-interpret) - Diffusers-Interpret 🤗🧨🕵️‍♀️: Model explainability for 🤗 Diffusers. Get explanations for your generated images.
-
-*   [vicgalle/stable-diffusion-aesthetic-gradients](https://github.com/vicgalle/stable-diffusion-aesthetic-gradients) - Personalization for Stable Diffusion via Aesthetic Gradients 🎨
-
-*   [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement, etc.
-
-*   [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
-
-*   [AhmedYousriSobhi/aCupOfTea](https://github.com/AhmedYousriSobhi/aCupOfTea) - Let's settle down, rest our minds, spill the tea of our experience in multiple ai fields \[Data Science, Machine Learning, Deep Learning], including many other aspects starting from prorgramming and clean code till design patterns & businness interference.  Enjoy the drink, and if you find something interesting here, offer us a cup of tea.
-
-*   [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
-
-*   [google-research/google-research](https://github.com/google-research/google-research) - Google Research
-
-*   [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with articles, videos, and code
-
-*   [juvian/Manga-Text-Segmentation](https://github.com/juvian/Manga-Text-Segmentation) - Segmentation of text in manga images
-
-*   [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-
-*   [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-
-*   [klaudia-nazarko/nlg-text-generation](https://github.com/klaudia-nazarko/nlg-text-generation) - This repository contains Natural Language Generation (NLG) models aimed on generating text of fairy tales (Markov Chain, LSTM neural network, GPT-2 Transformers).
-
-*   [dockiem/Deep-Learning-Generative-Models-for-Text](https://github.com/dockiem/Deep-Learning-Generative-Models-for-Text) - The following books from Project Gutenberg http://www.gutenberg. org/ebooks/author/355 in text format: i. The Problems of Philosophy ii. The Analysis of Mind iii. Mysticism and Logic and Other Essays iv. Our Knowledge of the External World as a Field for Scientific Method in Philosophy.
-
-*   [anusha66/TextGen-Deep-Learning](https://github.com/anusha66/TextGen-Deep-Learning) - Generation of Text from Structured Data using Generative Models
-
-*   [aryashah2k/Quantum-Computing-Collection-Of-Resources](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources) - A Well Maintained Repository On Quantum Computing Resources \[Code+Theory] Updated Regularly During My Time At IBM, Qubit x Qubit And The Coding School's Introduction To Quantum Computing Course '21
-
-*   [PAIR-code/facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
-
-*   [openUC2/UC2-GIT](https://github.com/openUC2/UC2-GIT) - Respository for Open-Science modular microscope system.
-
-*   [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
-
-*   [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech\_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
-
-*   [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a module that extends Python with the ability to design electronic circuits.
-
-*   [helium/HIP](https://github.com/helium/HIP) - Helium Improvement Proposals
-
-*   [RicardoRibeiroRodrigues/MusicLyricsGenerator](https://github.com/RicardoRibeiroRodrigues/MusicLyricsGenerator) - AI for generating music lyrics
-
-*   [IntelLabs/IntelNeuromorphicDNSChallenge](https://github.com/IntelLabs/IntelNeuromorphicDNSChallenge) - Intel Neuromorphic DNS Challenge
-
-*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
-
-*   [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
-
-*   [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
-
-*   [microsoft/QuantumKatas](https://github.com/microsoft/QuantumKatas) - Tutorials and programming exercises for learning Q# and quantum computing
-
-*   [pauldpickell/gis2minetest](https://github.com/pauldpickell/gis2minetest) - A python notebook for converting classified LiDAR las/laz files and Open Street Maps data into Minetest worlds
-
-*   [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
-
-*   [kwea123/nerf\_pl](https://github.com/kwea123/nerf_pl) - NeRF (Neural Radiance Fields) and NeRF in the Wild using pytorch-lightning
-
-*   [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
-
-*   [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
-
-*   [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
-
-*   [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more.
-
-*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
-
-*   [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
-
-*   [Emekaborisama/textgen](https://github.com/Emekaborisama/textgen) - Almost state of art text generation library
-
-## Ruby
-
-*   [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
-
-*   [oleander/Torrents](https://github.com/oleander/Torrents) - Search and download torrents from your favourite bittorrent tracker using Ruby 1.9
-
-*   [szorfein/spior](https://github.com/szorfein/spior) - (Spider|Tor) A tool to make TOR your default gateway.
-
-*   [JasonBarnabe/greasyfork](https://github.com/JasonBarnabe/greasyfork) - An online repository of user scripts.
-
-*   [im-in-space/mastodon](https://github.com/im-in-space/mastodon) - A glitchy but lovable and "in space" microblogging server
-
-*   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-
-*   [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
-
-*   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-
-*   [Arachni/arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
-
-*   [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
-
-*   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-
-*   [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
-
-*   [ianrenton/NaNoGenMo](https://github.com/ianrenton/NaNoGenMo) - National Novel Generation Month. A script to automatically generate a 50,000-word "novel" during November, as an alternative to writing it.
-
-*   [johnpray/sciencegamecenter](https://github.com/johnpray/sciencegamecenter) - A web app for listing and reviewing learning games
-
-*   [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
-
-*   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
-
-*   [bcoles/ssrf\_proxy](https://github.com/bcoles/ssrf_proxy) - SSRF Proxy facilitates tunneling HTTP communications through servers vulnerable to Server-Side Request Forgery.
-
-*   [pannous/english-script](https://github.com/pannous/english-script) - 🖊 Ｅｎｇｌｉｓｈ  as a programming language
-
-*   [ctdk/chef\_lang](https://github.com/ctdk/chef_lang) - A Chef recipe for the Chef programming language.
-
-*   [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
-
-*   [mariusbutuc/sicp-videos](https://github.com/mariusbutuc/sicp-videos) - Get the Structure and Interpretation of Computer Programs videos from 1985.
-
 ## C\#
 
 *   [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp) - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
@@ -6620,10 +6728,6 @@
 
 *   [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft) - Minecraft for hipsters
 
-*   [rebexnet/RebexTinySftpServer](https://github.com/rebexnet/RebexTinySftpServer) - A minimalist SFTP server for testing purposes.
-
-*   [Idered/snatch](https://github.com/Idered/snatch) - 📋 Beautiful clipboard manager for Windows
-
 ## Elixir
 
 *   [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
@@ -6685,92 +6789,6 @@
 *   [xsf/xeps](https://github.com/xsf/xeps) - Hosts the markup for all XMPP Protocol Extensions.
 
 *   [siongui/tipitaka-romn](https://github.com/siongui/tipitaka-romn) - https://www.tipitaka.org/romn/
-
-## PHP
-
-*   [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
-
-*   [ernestwisniewski/kbin](https://github.com/ernestwisniewski/kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse.
-
-*   [phpbb/phpbb](https://github.com/phpbb/phpbb) -  phpBB Development: phpBB is a popular open-source bulletin board written in PHP. This repository also contains the history of version 2.
-
-*   [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
-
-*   [adamfisk/LittleProxy](https://github.com/adamfisk/LittleProxy) - High performance HTTP proxy originally written by your friends at Lantern and now maintained by a stellar group of volunteer open source programmers.
-
-*   [torrentpier/torrentpier](https://github.com/torrentpier/torrentpier) - 🐂 TorrentPier. Main project repository
-
-*   [LaraCrafts/laravel-url-shortener](https://github.com/LaraCrafts/laravel-url-shortener) - Powerful URL shortening tools in Laravel
-
-*   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-
-*   [Minds/minds](https://github.com/Minds/minds) - mirror of https://gitlab.com/minds/minds
-
-*   [MbinOrg/mbin](https://github.com/MbinOrg/mbin) - Mbin: a federated content aggregator, voting, discussion and microblogging platform (By the community, for the community)
-
-*   [teststudent311/LotusXSS](https://github.com/teststudent311/LotusXSS) - Lotus XSS
-
-*   [ssl/ezXSS](https://github.com/ssl/ezXSS) - ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.
-
-*   [vakhov/fresh-proxy-list](https://github.com/vakhov/fresh-proxy-list) - Get Fresh Proxy
-
-*   [bisq-network/wiki](https://github.com/bisq-network/wiki) - @bisq-network documentation at https://bisq.wiki
-
-*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-
-*   [vichan-devel/vichan](https://github.com/vichan-devel/vichan) - Vichan is the most popular and widely used imageboard software in the world. It is a free, light-weight, fast, highly configurable and user-friendly imageboard software package.
-
-*   [foocorp/gnu-social](https://github.com/foocorp/gnu-social) - GNU social is social communication software for both public and private communications.
-
-*   [foocorp/gnu-fm](https://github.com/foocorp/gnu-fm) - GNU FM is a music community platform
-
-*   [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial\_tramway: A modern, powerful, and robust URL shortener
-
-*   [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
-
-*   [backdrop/backdrop](https://github.com/backdrop/backdrop) - Backdrop core code repository.
-
-*   [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
-
-*   [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
-
-*   [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler) - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.
-
-*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
-
-*   [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-
-*   [principia-game/principia-web](https://github.com/principia-game/principia-web) - The source code powering the new Principia community site, including forum and wiki.
-
-*   [Automattic/wordpress-activitypub](https://github.com/Automattic/wordpress-activitypub) - ActivityPub for WordPress
-
-*   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
-
-*   [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
-
-*   [SnaKKo/Fossdroid-Core](https://github.com/SnaKKo/Fossdroid-Core) - Fossdroid Core is a web frontend of F-Droid: an alternative software repository comprising only free, open source software for Android. This repo is the open source version of fossdroid.com.
-
-*   [sbrl/Pepperminty-Wiki](https://github.com/sbrl/Pepperminty-Wiki) - A wiki in a box
-
-*   [necro-nemesis/LabyrinthAP](https://github.com/necro-nemesis/LabyrinthAP) - Gain access to Lokinet and the internet connecting via an SBC based access point.
-
-*   [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
-
-*   [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
-
-*   [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
-
-*   [flxn/tor-relay-configurator](https://github.com/flxn/tor-relay-configurator) - The tor-relay.co configurator
-
-*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-
-*   [pfsense/pfsense](https://github.com/pfsense/pfsense) - Main repository for pfSense
-
-*   [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) - Tatoeba is a platform which purpose is to create a collaborative and open dataset of sentences and their translations.
-
-*   [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-
-*   [koalabearguo/reverse-proxy-php](https://github.com/koalabearguo/reverse-proxy-php) - 在GAE php空间或者在国外apache php空间搭建反向代理
 
 ## Starlark
 
@@ -7317,24 +7335,6 @@
 ## MATLAB
 
 *   [mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) - This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions.
-
-## SCSS
-
-*   [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
-
-*   [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet) - The repository for https://arewegameyet.rs
-
-*   [brainfucksec/brainfucksec.github.io](https://github.com/brainfucksec/brainfucksec.github.io) - Cyber Security | Privacy
-
-*   [siongui/ajahn-jayasaaro](https://github.com/siongui/ajahn-jayasaaro) - Ajahn Jayasāro
-
-*   [siongui/master-wangxing](https://github.com/siongui/master-wangxing) - 萬行法師
-
-*   [siongui/pali-chanting](https://github.com/siongui/pali-chanting) - Pāli Chanting (巴利唸誦, บาลีสวดมนต์)
-
-*   [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
-
-*   [ZorrillosDev/watchit-app](https://github.com/ZorrillosDev/watchit-app) - Open movies everywhere
 
 ## Assembly
 
