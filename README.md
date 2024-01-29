@@ -1084,7 +1084,7 @@
 
 *   [zer-far/spurt](https://github.com/zer-far/spurt) - HTTP stress testing tool that can overload web servers.
 
-*   [Zi0P4tch0/RadioGoGo](https://github.com/Zi0P4tch0/RadioGoGo) - 📻 Go-powered CLI to surf global radio waves via a sleek TUI. Tune in & let's Go 🚀!
+*   [matteo-pacini/RadioGoGo](https://github.com/matteo-pacini/RadioGoGo) - 📻 Go-powered CLI to surf global radio waves via a sleek TUI. Tune in & let's Go 🚀!
 
 *   [daqnext/meson-terminal](https://github.com/daqnext/meson-terminal) - 🐢 meson network terminal
 
