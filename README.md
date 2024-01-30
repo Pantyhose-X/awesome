@@ -104,6 +104,10 @@
 
 ## miscellaneous
 
+*   [SevenworksDev/proxy-list](https://github.com/SevenworksDev/proxy-list) - 🚀 \[UPDATES EVERY 15 MINUTES] The best collection of HTTP(s), SOCKS4, SOCKS5 on GitHub!
+
+*   [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
+
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 *   [cipher387/awesome-ip-search-engines](https://github.com/cipher387/awesome-ip-search-engines) - This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).
@@ -4900,8 +4904,6 @@
 
 *   [joelpurra/talkie](https://github.com/joelpurra/talkie) - Text-to-speech browser extension button. Select text on any web page, and have the computer read it out loud for you by simply clicking the Talkie button.
 
-*   [ResetPower/Epherome](https://github.com/ResetPower/Epherome) - Powerful Minecraft Launcher
-
 ## Dart
 
 *   [TheRedSpy15/blazedcloud](https://github.com/TheRedSpy15/blazedcloud) - Mobile client for minimalistic cloud hosting provider, Blazed Cloud
@@ -5377,8 +5379,6 @@
 *   [Captain-Chaos/WorldPainter](https://github.com/Captain-Chaos/WorldPainter) - WorldPainter is an interactive graphical map generator for the indie game Minecraft.
 
 *   [KunoSayo/FunctionInMC](https://github.com/KunoSayo/FunctionInMC) - just a boring plugin to show function inc mc
-
-*   [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 
 ## Shell
 
