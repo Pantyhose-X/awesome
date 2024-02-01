@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Zig](#zig)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
@@ -42,7 +43,6 @@
 *   [Blade](#blade)
 *   [Lua](#lua)
 *   [Vala](#vala)
-*   [Zig](#zig)
 *   [Swift](#swift)
 *   [Pascal](#pascal)
 *   [MATLAB](#matlab)
@@ -101,6 +101,52 @@
 *   [HolyC](#holyc)
 *   [CoffeeScript](#coffeescript)
 *   [Objective-C++](#objective-c-1)
+
+## Zig
+
+*   [karlseguin/smtp\_client.zig](https://github.com/karlseguin/smtp_client.zig) - SMTP client for Zig
+
+*   [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) - A websocket implementation for zig
+
+*   [karlseguin/http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server for zig
+
+*   [karlseguin/metrics.zig](https://github.com/karlseguin/metrics.zig) - Prometheus metrics for library and application developers
+
+*   [karlseguin/pg.zig](https://github.com/karlseguin/pg.zig) - Native PostgreSQL driver / client for Zig
+
+*   [AlxHnr/3d-zig-game](https://github.com/AlxHnr/3d-zig-game) - Engine demo written from scratch, handling large numbers of enemies
+
+*   [itotallyrock/Corundum](https://github.com/itotallyrock/Corundum) - Zig chess game engine
+
+*   [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
+
+*   [TinyVG/sdk](https://github.com/TinyVG/sdk) - TinyVG software development kit
+
+*   [spudde123/zig-sc2](https://github.com/spudde123/zig-sc2) - Make scripted bots for Starcraft 2 using the Zig programming language
+
+*   [MasterQ32/ZigAndroidTemplate](https://github.com/MasterQ32/ZigAndroidTemplate) - This repository contains a example on how to create a minimal Android app in Zig.
+
+*   [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
+
+*   [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
+
+*   [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
+
+*   [vsergeev/zigradio](https://github.com/vsergeev/zigradio) - A lightweight software-defined radio framework built with Zig
+
+*   [keep-starknet-strange/ziggy-starkdust](https://github.com/keep-starknet-strange/ziggy-starkdust) - ⚡ Cairo VM in Zig ⚡
+
+*   [CascadeOS/CascadeOS](https://github.com/CascadeOS/CascadeOS) - General purpose operating system targeting standard desktops and laptops.
+
+*   [OAguinagalde/tinyrenderer](https://github.com/OAguinagalde/tinyrenderer) - A software renderer exploration written in zig
+
+*   [zenith391/didot](https://github.com/zenith391/didot) - Zig 3D game engine.
+
+*   [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
+
+*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+*   [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## Python
 
@@ -1314,8 +1360,6 @@
 
 *   [nvaccess/nvda](https://github.com/nvaccess/nvda) - NVDA, the free and open source Screen Reader for Microsoft Windows
 
-*   [gaelysam/geo-mapgen](https://github.com/gaelysam/geo-mapgen) - Minetest mod and Python script to generate a Minetest world from a GeoTIFF image
-
 ## miscellaneous
 
 *   [themiralay/Proxy-List-World](https://github.com/themiralay/Proxy-List-World) - ICE Proxy list produces new proxies by collectively scanning the entire open source list in the world. Proxies are updated every 2 - 3 minutes. New Proxy sources will be added day by day. The list is always open source.
@@ -2179,8 +2223,6 @@
 *   [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
 
 *   [mourner/projects](https://github.com/mourner/projects) - A list of awesome open source projects Volodymyr Agafonkin is involved in.
-
-*   [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray) - 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
 
 ## Shell
 
@@ -4902,8 +4944,6 @@
 
 *   [TheCherry/RiseCraftLauncher](https://github.com/TheCherry/RiseCraftLauncher) - ☀ Custom launcher for modded minecraft written in Electron and Node.js
 
-*   [lospec/pixel-editor](https://github.com/lospec/pixel-editor) - An online canvas based Pixel Art creation tool for Lospec.com
-
 ## TypeScript
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
@@ -6730,8 +6770,6 @@
 
 *   [Nsiso/NsisoLauncher](https://github.com/Nsiso/NsisoLauncher) - A New Minecraft Launcher from Nsiso
 
-*   [ModuleArt/quick-screen-recorder](https://github.com/ModuleArt/quick-screen-recorder) - Lightweight desktop screen recorder for Windows.
-
 ## Elixir
 
 *   [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
@@ -7260,8 +7298,6 @@
 
 *   [cuberite/Core](https://github.com/cuberite/Core) - Plugin for Cuberite that implements default commands and some additional functionality
 
-*   [minetest-mods/commoditymarket](https://github.com/minetest-mods/commoditymarket) - Adds one or more global commodity markets to Minetest
-
 ## Vala
 
 *   [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK+/Vala
@@ -7271,42 +7307,6 @@
 *   [tkashkin/GameHub](https://github.com/tkashkin/GameHub) - All your games in one place
 
 *   [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
-
-## Zig
-
-*   [AlxHnr/3d-zig-game](https://github.com/AlxHnr/3d-zig-game) - Engine demo written from scratch, handling large numbers of enemies
-
-*   [itotallyrock/Corundum](https://github.com/itotallyrock/Corundum) - Zig chess game engine
-
-*   [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
-
-*   [TinyVG/sdk](https://github.com/TinyVG/sdk) - TinyVG software development kit
-
-*   [spudde123/zig-sc2](https://github.com/spudde123/zig-sc2) - Make scripted bots for Starcraft 2 using the Zig programming language
-
-*   [MasterQ32/ZigAndroidTemplate](https://github.com/MasterQ32/ZigAndroidTemplate) - This repository contains a example on how to create a minimal Android app in Zig.
-
-*   [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
-
-*   [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
-
-*   [zigtools/zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
-
-*   [vsergeev/zigradio](https://github.com/vsergeev/zigradio) - A lightweight software-defined radio framework built with Zig
-
-*   [keep-starknet-strange/ziggy-starkdust](https://github.com/keep-starknet-strange/ziggy-starkdust) - ⚡ Cairo VM in Zig ⚡
-
-*   [CascadeOS/CascadeOS](https://github.com/CascadeOS/CascadeOS) - General purpose operating system targeting standard desktops and laptops.
-
-*   [OAguinagalde/tinyrenderer](https://github.com/OAguinagalde/tinyrenderer) - A software renderer exploration written in zig
-
-*   [zenith391/didot](https://github.com/zenith391/didot) - Zig 3D game engine.
-
-*   [hexops/mach](https://github.com/hexops/mach) - zig game engine & graphics toolkit
-
-*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-*   [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## Swift
 
