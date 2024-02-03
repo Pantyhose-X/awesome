@@ -2976,7 +2976,7 @@
 
 *   [dsmatilla/just-tit-revel](https://github.com/dsmatilla/just-tit-revel) - Serverless adult video search engine https://just-tit.com (v2)
 
-*   [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) - Amnezia-WG VPN protocol
+*   [amnezia-vpn/amneziawg-go](https://github.com/amnezia-vpn/amneziawg-go) - AmneziaWG VPN protocol
 
 *   [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 
