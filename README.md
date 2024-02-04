@@ -872,11 +872,11 @@
 
 *   [davidonzo/Threat-Intel-Domain-WL](https://github.com/davidonzo/Threat-Intel-Domain-WL) - Domain white list applied to https://github.com/davidonzo/Threat-Intel
 
-*   [crut0i/free-proxies-and-useragents](https://github.com/crut0i/free-proxies-and-useragents) - Proxies & useragents parser
+*   [un1cum/free-proxies-and-useragents](https://github.com/un1cum/free-proxies-and-useragents) - Proxies & useragents parser
 
 *   [Genone22/OneMail](https://github.com/Genone22/OneMail) - Mail Sender
 
-*   [crut0i/Beast\_Bomber](https://github.com/crut0i/Beast_Bomber) - The best open source bomber
+*   [un1cum/Beast\_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber
 
 *   [Blockstream/satellite](https://github.com/Blockstream/satellite) - Blockstream Satellite
 
@@ -4394,7 +4394,7 @@
 
 *   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 
-*   [crut0i/CleanerPRO](https://github.com/crut0i/CleanerPRO) - Simple Windows cleanup utility
+*   [un1cum/CleanerPRO](https://github.com/un1cum/CleanerPRO) - Simple Windows cleanup utility
 
 *   [msasanmh/SecureDNSClient](https://github.com/msasanmh/SecureDNSClient) - A GUI for DNSLookup, DNSProxy, DNSCrypt and GoodbyeDPI.
 
