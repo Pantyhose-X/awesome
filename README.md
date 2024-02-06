@@ -104,6 +104,8 @@
 
 ## Zig
 
+*   [Game4all/unnamed-voxel-tracer](https://github.com/Game4all/unnamed-voxel-tracer) - Voxel raytracer prototype written in Zig using OpenGL
+
 *   [regenerativep/zigmcp](https://github.com/regenerativep/zigmcp) - A Minecraft protocol implementation in Zig
 
 *   [lupyuen/pinephone-nuttx](https://github.com/lupyuen/pinephone-nuttx) - Apache NuttX RTOS for PinePhone
@@ -7187,8 +7189,6 @@
 *   [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 
 *   [FQrabbit/VPN-skip-China-route-Window](https://github.com/FQrabbit/VPN-skip-China-route-Window) - 普通全局VPN国内外分流小脚本For Win
-
-*   [Hibbiki/chromium-win64](https://github.com/Hibbiki/chromium-win64) - Chromium builds for Windows x64
 
 ## Blade
 
