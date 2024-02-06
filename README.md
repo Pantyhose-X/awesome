@@ -464,7 +464,7 @@
 
 *   [TomMcKenna1/proxy-bandit](https://github.com/TomMcKenna1/proxy-bandit) - Fast and easy to use rotating proxy provider, gathering proxies from a variety of sources.
 
-*   [lenarsaitov/cianparser](https://github.com/lenarsaitov/cianparser) - Parser general information on the cian.ru website / Сбор данных с сайта объявлений Циан
+*   [lenarsaitov/cianparser](https://github.com/lenarsaitov/cianparser) - Сбор данных с сайта объявлений Циан / The parser of general information from the site cian.ru
 
 *   [gingteam/proxy-scraper](https://github.com/gingteam/proxy-scraper) - Automatic tool to get proxies in Vietnam
 
