@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Common Lisp](#common-lisp)
 *   [Python](#python)
 *   [Zig](#zig)
 *   [TypeScript](#typescript)
@@ -30,7 +31,6 @@
 *   [Elixir](#elixir)
 *   [TeX](#tex)
 *   [Svelte](#svelte)
-*   [Common Lisp](#common-lisp)
 *   [XSLT](#xslt)
 *   [Starlark](#starlark)
 *   [Julia](#julia)
@@ -101,6 +101,14 @@
 *   [HolyC](#holyc)
 *   [CoffeeScript](#coffeescript)
 *   [Objective-C++](#objective-c-1)
+
+## Common Lisp
+
+*   [norvig/paip-lisp](https://github.com/norvig/paip-lisp) - Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
+
+*   [vindarel/cl-torrents-web](https://github.com/vindarel/cl-torrents-web) - self-contained, dynamic web app to search for torrents on popular trackers.
+
+*   [squeak-smalltalk/squeak-app](https://github.com/squeak-smalltalk/squeak-app) - Squeak/Smalltalk release bundles
 
 ## Python
 
@@ -2632,7 +2640,7 @@
 
 *   [GNU-Linux-libre/Catalogue](https://github.com/GNU-Linux-libre/Catalogue) - Catalogues by category
 
-*   [webRTCv1/Best-of-webRTC](https://github.com/webRTCv1/Best-of-webRTC) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Best of WebRTC: Elevate with Top Projects!
+*   [webRTCv1/Best-of-webRTC](https://github.com/webRTCv1/Best-of-webRTC) - Best of WebRTC: Elevate with Top Projects! ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
 
 *   [bltavares/p2p-links](https://github.com/bltavares/p2p-links) - A set of links for projects that I keep track of on the peer-to-peer space.
 
@@ -5802,8 +5810,6 @@
 
 *   [MCreator/MCreator](https://github.com/MCreator/MCreator) - MCreator is software used to make Minecraft Java Edition mods, Bedrock Edition Add-Ons, and data packs using visual graphical programming or integrated IDE. It is used worldwide by Minecraft players, aspiring mod developers, for education, online classes, and STEM workshops.
 
-*   [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
-
 ## Shell
 
 *   [rdavydov/proxy-list](https://github.com/rdavydov/proxy-list) - proxy list that updates every 30 minutes
@@ -7037,12 +7043,6 @@
 *   [radicle-dev/radicle-upstream](https://github.com/radicle-dev/radicle-upstream) - Desktop client for Radicle.
 
 *   [livingtongues/living-dictionaries](https://github.com/livingtongues/living-dictionaries) - Speeding the availability of language resources for endangered languages. Tools such as this have the power to shift how we think about endangered languages. Rather than perceiving them as being antiquated, difficult to learn and on the brink of vanishing, we see them as modern, easily accessible for learning online in text and audio formats.
-
-## Common Lisp
-
-*   [vindarel/cl-torrents-web](https://github.com/vindarel/cl-torrents-web) - self-contained, dynamic web app to search for torrents on popular trackers.
-
-*   [squeak-smalltalk/squeak-app](https://github.com/squeak-smalltalk/squeak-app) - Squeak/Smalltalk release bundles
 
 ## XSLT
 
