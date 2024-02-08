@@ -3450,7 +3450,7 @@
 
 *   [ALIILAPRO/Proxy](https://github.com/ALIILAPRO/Proxy) - Get new and fast proxy list every hour.
 
-*   [prxchk/proxy-list](https://github.com/prxchk/proxy-list) - 🚀 High anonymous free proxy list. CONTINUOUSLY UPDATING!!!
+*   [prxchk/proxy-list](https://github.com/prxchk/proxy-list) - 🚀  Get access to a constantly updated list of highly anonymous public HTTP, SOCKS4, and SOCKS5 proxies, ensuring the utmost relevance and accuracy, refreshed EVERY 10 MINUTES!!!
 
 *   [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) -   proxy list that updates every 10 minutes
 
@@ -5396,7 +5396,7 @@
 
 *   [proller/minetest](https://github.com/proller/minetest) - Minetest-c55, an open source infinite-world block sandbox game with survival and crafting. \[also https://github.com/celeron55/minetest\_game]
 
-*   [Call-for-Code/ClusterDuck-Protocol](https://github.com/Call-for-Code/ClusterDuck-Protocol) - Firmware for an ad-hoc mesh network of Internet-of-Things devices based on LoRa (Long Range radio) that can be deployed quickly and at low cost.
+*   [ClusterDuck-Protocol/ClusterDuck-Protocol](https://github.com/ClusterDuck-Protocol/ClusterDuck-Protocol) - Firmware for an ad-hoc mesh network of Internet-of-Things devices based on LoRa (Long Range radio) that can be deployed quickly and at low cost.
 
 *   [arvidn/libtorrent-webui](https://github.com/arvidn/libtorrent-webui) - a WebUI implementation for libtorrent based clients
 
