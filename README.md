@@ -6859,7 +6859,7 @@
 
 *   [szorfein/spior](https://github.com/szorfein/spior) - (Spider|Tor) A tool to make TOR your default gateway.
 
-*   [JasonBarnabe/greasyfork](https://github.com/JasonBarnabe/greasyfork) - An online repository of user scripts.
+*   [greasyfork-org/greasyfork](https://github.com/greasyfork-org/greasyfork) - An online repository of user scripts.
 
 *   [im-in-space/mastodon](https://github.com/im-in-space/mastodon) - A glitchy but lovable and "in space" microblogging server
 
