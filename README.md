@@ -2143,8 +2143,6 @@
 
 *   [dragonfruitnetwork/onionfruit](https://github.com/dragonfruitnetwork/onionfruit) - OnionFruit™ Connect - Tor access client with country selection, bridge configuration, pluggable transports and experimental DNS support
 
-*   [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
-
 *   [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 
 *   [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
@@ -2589,7 +2587,7 @@
 
 *   [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App) - Windscribe 2.0 desktop client for Windows, Mac and Linux
 
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 
 *   [dennisjenkins75/minetest-map-analyzer](https://github.com/dennisjenkins75/minetest-map-analyzer) - C++ library and tool for extracting data from minetest maps.
 
@@ -5056,6 +5054,8 @@
 *   [dm3-org/dm3](https://github.com/dm3-org/dm3) - The dm3 protocol | New standard of web3 messaging | Decentralized ENS-based registry | Secure end-to-end encryption | Easy dApp integration
 
 *   [sixem/ivfi-php](https://github.com/sixem/ivfi-php) - IVFi is a directory indexer that aims to make it easy to browse and explore web-accessible directories.
+
+*   [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 
 *   [Telios-org/email-client-desktop](https://github.com/Telios-org/email-client-desktop) - The Telios email client for desktops
 
