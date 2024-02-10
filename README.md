@@ -2729,6 +2729,8 @@
 
 *   [ClusterDuck-Protocol/ClusterDuck-Protocol](https://github.com/ClusterDuck-Protocol/ClusterDuck-Protocol) - Firmware for an ad-hoc mesh network of Internet-of-Things devices based on LoRa (Long Range radio) that can be deployed quickly and at low cost.
 
+*   [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
+
 *   [arvidn/libtorrent-webui](https://github.com/arvidn/libtorrent-webui) - a WebUI implementation for libtorrent based clients
 
 *   [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
@@ -6410,8 +6412,6 @@
 *   [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
 
 *   [mooltipass/moolticute](https://github.com/mooltipass/moolticute) - Mooltipass crossplatform daemon/tools
-
-*   [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
 
 *   [dgoulet/torsocks](https://github.com/dgoulet/torsocks) - Library to torify application - NOTE: upstream has been moved to https://gitweb.torproject.org/torsocks.git
 
