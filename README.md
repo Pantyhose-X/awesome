@@ -7151,6 +7151,8 @@
 
 *   [Scrut1ny/Malwarebytes-Premium-Bypass](https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass) - Confuse Malwarebytes
 
+*   [Scrut1ny/VM-Undetected](https://github.com/Scrut1ny/VM-Undetected) - Bypass VM detection methods used by software.
+
 *   [Scrut1ny/Windows-MAC-Address-Spoofer](https://github.com/Scrut1ny/Windows-MAC-Address-Spoofer) - #1 Fully automated batchfile MAC address spoofer!
 
 *   [the-xentropy/xencrypt](https://github.com/the-xentropy/xencrypt) - A PowerShell script anti-virus evasion tool
@@ -7174,8 +7176,6 @@
 *   [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STIG/SRG requirements for optimal performance and security.
 
 ## Batchfile
-
-*   [Scrut1ny/VM-Undetected](https://github.com/Scrut1ny/VM-Undetected) - Bypass VM detection methods used by software.
 
 *   [Scrut1ny/Windows-Debloating-Script](https://github.com/Scrut1ny/Windows-Debloating-Script) - Ultimate Windows tweaking guide for best performance, privacy, & security!
 
