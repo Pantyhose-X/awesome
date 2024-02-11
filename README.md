@@ -105,7 +105,7 @@
 
 ## Dart
 
-*   [VaibhavCodeClub/learn](https://github.com/VaibhavCodeClub/learn) -
+*   [VaibhavCodeClub/learn](https://github.com/VaibhavCodeClub/learn) - Learning app for kids
 
 *   [TheRedSpy15/blazedcloud](https://github.com/TheRedSpy15/blazedcloud) - Mobile client for minimalistic cloud hosting provider, Blazed Cloud
 
