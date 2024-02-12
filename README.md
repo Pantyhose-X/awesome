@@ -105,7 +105,7 @@
 
 ## JavaScript
 
-*   [ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator) - Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, CHAT, EMAIL, WEB, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, READER, JAPANESE, ENGLISH
+*   [ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator) - Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH
 
 *   [thetarnav/odin-wasm](https://github.com/thetarnav/odin-wasm) - Odin + WASM = 💙
 
@@ -5417,7 +5417,7 @@
 
 *   [rmellis/HelpUKR-master](https://github.com/rmellis/HelpUKR-master) - This website is a collection of content that can be used to help Ukraine in the Cyber War from your browser, it also contains WebApps, News from many sources and lots of ways to donate directly to Ukraine from verified charity’s and lots more. We even have some pages on here we recovered from Google Web Cache’s after being destroyed by Russian attacks.
 
-*   [rmellis/Russian-propaganda-browser-flood-tool](https://github.com/rmellis/Russian-propaganda-browser-flood-tool) - This repo contains a set of standalone ".htm" pages which will allow you to help Ukraine by flooding Russian propaganda sites. -in website link below, replace day717 with the current day (if different)             Oh.. And you know.. For educational purposes only ;)
+*   [rmellis/Russian-propaganda-browser-flood-tool](https://github.com/rmellis/Russian-propaganda-browser-flood-tool) - This repo contains a set of standalone ".htm" pages which will allow you to help Ukraine by flooding Russian propaganda sites. -in website link below, replace day719 with the current day (if different)             Oh.. And you know.. For educational purposes only ;)
 
 *   [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
 
