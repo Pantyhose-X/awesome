@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [SCSS](#scss)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -26,7 +27,6 @@
 *   [Zig](#zig)
 *   [C](#c-2)
 *   [PHP](#php)
-*   [SCSS](#scss)
 *   [Makefile](#makefile)
 *   [Ruby](#ruby)
 *   [Scilab](#scilab)
@@ -102,6 +102,28 @@
 *   [HolyC](#holyc)
 *   [CoffeeScript](#coffeescript)
 *   [Objective-C++](#objective-c-1)
+
+## SCSS
+
+*   [RevoltBots/List](https://github.com/RevoltBots/List) -
+
+*   [worlduniting/bookpub](https://github.com/worlduniting/bookpub) - BookPub is an advanced book publishing framework for creating manuscripts in Markdown, HTML, CSS, Javascript, and publishing them into any format (PDF, ePub, MOBI, HTML, Print).
+
+*   [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
+
+*   [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet) - The repository for https://arewegameyet.rs
+
+*   [brainfucksec/brainfucksec.github.io](https://github.com/brainfucksec/brainfucksec.github.io) - Cyber Security | Privacy
+
+*   [siongui/ajahn-jayasaaro](https://github.com/siongui/ajahn-jayasaaro) - Ajahn Jayasāro
+
+*   [siongui/master-wangxing](https://github.com/siongui/master-wangxing) - 萬行法師
+
+*   [siongui/pali-chanting](https://github.com/siongui/pali-chanting) - Pāli Chanting (巴利唸誦, บาลีสวดมนต์)
+
+*   [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
+
+*   [ZorrillosDev/watchit-app](https://github.com/ZorrillosDev/watchit-app) - Open movies everywhere
 
 ## JavaScript
 
@@ -1870,8 +1892,6 @@
 *   [nvaccess/nvda](https://github.com/nvaccess/nvda) - NVDA, the free and open source Screen Reader for Microsoft Windows
 
 *   [gaelysam/geo-mapgen](https://github.com/gaelysam/geo-mapgen) - Minetest mod and Python script to generate a Minetest world from a GeoTIFF image
-
-*   [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol) - Fully featured and community-driven hacking environment
 
 ## TypeScript
 
@@ -6906,26 +6926,6 @@
 *   [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) - Tatoeba is a platform which purpose is to create a collaborative and open dataset of sentences and their translations.
 
 *   [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-
-## SCSS
-
-*   [worlduniting/bookpub](https://github.com/worlduniting/bookpub) - BookPub is an advanced book publishing framework for creating manuscripts in Markdown, HTML, CSS, Javascript, and publishing them into any format (PDF, ePub, MOBI, HTML, Print).
-
-*   [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
-
-*   [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet) - The repository for https://arewegameyet.rs
-
-*   [brainfucksec/brainfucksec.github.io](https://github.com/brainfucksec/brainfucksec.github.io) - Cyber Security | Privacy
-
-*   [siongui/ajahn-jayasaaro](https://github.com/siongui/ajahn-jayasaaro) - Ajahn Jayasāro
-
-*   [siongui/master-wangxing](https://github.com/siongui/master-wangxing) - 萬行法師
-
-*   [siongui/pali-chanting](https://github.com/siongui/pali-chanting) - Pāli Chanting (巴利唸誦, บาลีสวดมนต์)
-
-*   [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
-
-*   [ZorrillosDev/watchit-app](https://github.com/ZorrillosDev/watchit-app) - Open movies everywhere
 
 ## Makefile
 
