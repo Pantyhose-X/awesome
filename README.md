@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [OCaml](#ocaml)
 *   [SCSS](#scss)
 *   [JavaScript](#javascript)
 *   [Python](#python)
@@ -69,7 +70,6 @@
 *   [Nunjucks](#nunjucks)
 *   [YARA](#yara)
 *   [Markdown](#markdown)
-*   [OCaml](#ocaml)
 *   [Haxe](#haxe)
 *   [Text](#text)
 *   [DIGITAL Command Language](#digital-command-language)
@@ -102,6 +102,14 @@
 *   [HolyC](#holyc)
 *   [CoffeeScript](#coffeescript)
 *   [Objective-C++](#objective-c-1)
+
+## OCaml
+
+*   [mirage/mirage](https://github.com/mirage/mirage) - MirageOS is a library operating system that constructs unikernels
+
+*   [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
+
+*   [marcoonroad/hieroglyphs](https://github.com/marcoonroad/hieroglyphs) - Quantum-resistant, purely Hash-based, Stateful, One-Time Digital Signatures for OCaml. :shield: :camel: :lock: :key: \[Work In Progress]
 
 ## SCSS
 
@@ -5821,8 +5829,6 @@
 
 *   [Captain-Chaos/WorldPainter](https://github.com/Captain-Chaos/WorldPainter) - WorldPainter is an interactive graphical map generator for the indie game Minecraft.
 
-*   [KunoSayo/FunctionInMC](https://github.com/KunoSayo/FunctionInMC) - just a boring plugin to show function inc mc
-
 ## HTML
 
 *   [bittorrent/bittorrent.org](https://github.com/bittorrent/bittorrent.org) -
@@ -7700,12 +7706,6 @@
 *   [tiekoetter/uptime](https://github.com/tiekoetter/uptime) - 📈 Uptime monitor and status powered by @upptime | Tiekoetter.NET Status
 
 *   [tiekoettercom/searx-instances-uptime](https://github.com/tiekoettercom/searx-instances-uptime) - 📈 Uptime monitor and status page for SearXNG and SearX instances
-
-## OCaml
-
-*   [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
-
-*   [marcoonroad/hieroglyphs](https://github.com/marcoonroad/hieroglyphs) - Quantum-resistant, purely Hash-based, Stateful, One-Time Digital Signatures for OCaml. :shield: :camel: :lock: :key: \[Work In Progress]
 
 ## Haxe
 
