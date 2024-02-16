@@ -1571,7 +1571,7 @@
 
 *   [synesthesiam/opentts](https://github.com/synesthesiam/opentts) - Open Text to Speech Server
 
-*   [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
+*   [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a framework for generative AI
 
 *   [tonquer/picacg-qt](https://github.com/tonquer/picacg-qt) - 哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)
 
