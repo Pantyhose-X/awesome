@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
+*   [SCSS](#scss)
 *   [Kotlin](#kotlin)
 *   [Reason](#reason)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [OCaml](#ocaml)
-*   [SCSS](#scss)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [C#](#c)
@@ -103,6 +103,30 @@
 *   [HolyC](#holyc)
 *   [CoffeeScript](#coffeescript)
 *   [Objective-C++](#objective-c-1)
+
+## SCSS
+
+*   [bascht/omemo-top](https://github.com/bascht/omemo-top) - Tracking the Progress of OMEMO Integration in various clients
+
+*   [RevoltBots/List](https://github.com/RevoltBots/List) -
+
+*   [worlduniting/bookpub](https://github.com/worlduniting/bookpub) - BookPub is an advanced book publishing framework for creating manuscripts in Markdown, HTML, CSS, Javascript, and publishing them into any format (PDF, ePub, MOBI, HTML, Print).
+
+*   [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
+
+*   [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet) - The repository for https://arewegameyet.rs
+
+*   [brainfucksec/brainfucksec.github.io](https://github.com/brainfucksec/brainfucksec.github.io) - Cyber Security | Privacy
+
+*   [siongui/ajahn-jayasaaro](https://github.com/siongui/ajahn-jayasaaro) - Ajahn Jayasāro
+
+*   [siongui/master-wangxing](https://github.com/siongui/master-wangxing) - 萬行法師
+
+*   [siongui/pali-chanting](https://github.com/siongui/pali-chanting) - Pāli Chanting (巴利唸誦, บาลีสวดมนต์)
+
+*   [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
+
+*   [ZorrillosDev/watchit-app](https://github.com/ZorrillosDev/watchit-app) - Open movies everywhere
 
 ## Kotlin
 
@@ -1555,28 +1579,6 @@
 *   [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 
 *   [marcoonroad/hieroglyphs](https://github.com/marcoonroad/hieroglyphs) - Quantum-resistant, purely Hash-based, Stateful, One-Time Digital Signatures for OCaml. :shield: :camel: :lock: :key: \[Work In Progress]
-
-## SCSS
-
-*   [RevoltBots/List](https://github.com/RevoltBots/List) -
-
-*   [worlduniting/bookpub](https://github.com/worlduniting/bookpub) - BookPub is an advanced book publishing framework for creating manuscripts in Markdown, HTML, CSS, Javascript, and publishing them into any format (PDF, ePub, MOBI, HTML, Print).
-
-*   [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
-
-*   [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet) - The repository for https://arewegameyet.rs
-
-*   [brainfucksec/brainfucksec.github.io](https://github.com/brainfucksec/brainfucksec.github.io) - Cyber Security | Privacy
-
-*   [siongui/ajahn-jayasaaro](https://github.com/siongui/ajahn-jayasaaro) - Ajahn Jayasāro
-
-*   [siongui/master-wangxing](https://github.com/siongui/master-wangxing) - 萬行法師
-
-*   [siongui/pali-chanting](https://github.com/siongui/pali-chanting) - Pāli Chanting (巴利唸誦, บาลีสวดมนต์)
-
-*   [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
-
-*   [ZorrillosDev/watchit-app](https://github.com/ZorrillosDev/watchit-app) - Open movies everywhere
 
 ## JavaScript
 
@@ -4106,7 +4108,7 @@
 
 *   [Capati/wgpu-odin](https://github.com/Capati/wgpu-odin) - Bindings to WGPU Native in the Odin programming language
 
-*   [btatarov/lakshmi](https://github.com/btatarov/lakshmi) - Lakshmi is an OpenGL 2D game engine with Lua scripting. Written in Odin. WIP.
+*   [btatarov/lakshmi](https://github.com/btatarov/lakshmi) - Lakshmi is a minimalistic OpenGL 2D game engine with Lua scripting. Written in Odin.
 
 *   [Bazzagibbs/callisto](https://github.com/Bazzagibbs/callisto) - Game engine written in Odin
 
@@ -6178,7 +6180,7 @@
 
 *   [rmellis/HelpUKR-master](https://github.com/rmellis/HelpUKR-master) - This website is a collection of content that can be used to help Ukraine in the Cyber War from your browser, it also contains WebApps, News from many sources and lots of ways to donate directly to Ukraine from verified charity’s and lots more. We even have some pages on here we recovered from Google Web Cache’s after being destroyed by Russian attacks.
 
-*   [rmellis/Russian-propaganda-browser-flood-tool](https://github.com/rmellis/Russian-propaganda-browser-flood-tool) - This repo contains a set of standalone ".htm" pages which will allow you to help Ukraine by flooding Russian propaganda sites. -in website link below, replace day721 with the current day (if different)             Oh.. And you know.. For educational purposes only ;)
+*   [rmellis/Russian-propaganda-browser-flood-tool](https://github.com/rmellis/Russian-propaganda-browser-flood-tool) - This repo contains a set of standalone ".htm" pages which will allow you to help Ukraine by flooding Russian propaganda sites. -in website link below, replace day724 with the current day (if different)             Oh.. And you know.. For educational purposes only ;)
 
 *   [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
 
@@ -7521,8 +7523,6 @@
 *   [minetest-mapserver/mapserver\_mod](https://github.com/minetest-mapserver/mapserver_mod) - Complementary mod for the minetest mapserver
 
 *   [MysticTempest/Simple-Texture-Pack-Test-Map](https://github.com/MysticTempest/Simple-Texture-Pack-Test-Map) - Simple Texture-Pack Test Map for Minetest Game
-
-*   [cuberite/Core](https://github.com/cuberite/Core) - Plugin for Cuberite that implements default commands and some additional functionality
 
 ## Swift
 
