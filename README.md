@@ -6424,7 +6424,7 @@
 
 *   [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 
-*   [hufrea/byedpi](https://github.com/hufrea/byedpi) - Обход DPI в linux
+*   [hufrea/byedpi](https://github.com/hufrea/byedpi) - Обход DPI в Linux и Windows
 
 *   [gdnsd/gdnsd](https://github.com/gdnsd/gdnsd) - Authoritative DNS Server
 
