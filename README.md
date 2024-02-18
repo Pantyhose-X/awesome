@@ -4504,7 +4504,7 @@
 
 *   [ALIILAPRO/Proxy](https://github.com/ALIILAPRO/Proxy) - Get new and fast proxy list every hour.
 
-*   [prxchk/proxy-list](https://github.com/prxchk/proxy-list) - 🚀  Get access to a constantly updated list of highly anonymous public HTTP, SOCKS4, and SOCKS5 proxies, ensuring the utmost relevance and accuracy, refreshed EVERY 10 MINUTES!!!
+*   [prxchk/proxy-list](https://github.com/prxchk/proxy-list) - 🚀 Gain access to an always up-to-date compilation of highly anonymous public HTTP, SOCKS4, and SOCKS5 proxies, guaranteeing utmost relevance and accuracy, refreshed EVERY 10 MINUTES!!!
 
 *   [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) -   proxy list that updates every 10 minutes
 
