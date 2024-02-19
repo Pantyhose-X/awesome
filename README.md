@@ -7174,7 +7174,7 @@
 
 *   [Scrut1ny/Malwarebytes-Premium-Bypass](https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass) - Confuse Malwarebytes
 
-*   [Scrut1ny/VM-Undetected](https://github.com/Scrut1ny/VM-Undetected) - Bypass VM detection methods used by software.
+*   [Scrut1ny/Hypervisor-Phantom](https://github.com/Scrut1ny/Hypervisor-Phantom) - A type 1 & 2 hypervisor setup guide for evading detection from Proctors and Anti-Cheats.
 
 *   [Scrut1ny/Windows-MAC-Address-Spoofer](https://github.com/Scrut1ny/Windows-MAC-Address-Spoofer) - #1 Fully automated batchfile MAC address spoofer!
 
