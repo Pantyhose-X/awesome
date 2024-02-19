@@ -106,6 +106,8 @@
 
 ## Java
 
+*   [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
+
 *   [AlfaazPlus/QuranApp](https://github.com/AlfaazPlus/QuranApp) - An ad-free and privacy-focused app for exploring the Holy Qur’an.
 
 *   [lloydtorres/stately](https://github.com/lloydtorres/stately) - A NationStates app for Android.
@@ -3857,8 +3859,6 @@
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 
 *   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
-
-*   [Suprcode/mir2](https://github.com/Suprcode/mir2) - Legend of Mir 2 - Official Public Crystal Source
 
 ## Vala
 
