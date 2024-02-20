@@ -188,7 +188,7 @@
 
 *   [pfsense/pfsense](https://github.com/pfsense/pfsense) - Main repository for pfSense
 
-*   [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) - Tatoeba is a platform which purpose is to create a collaborative and open dataset of sentences and their translations.
+*   [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) - Tatoeba is a platform whose purpose is to create a collaborative and open dataset of sentences and their translations.
 
 *   [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
