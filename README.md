@@ -1154,8 +1154,6 @@
 
 *   [Jigsaw-Code/Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
 
-*   [egorolegovichyakovlev/DroidRec](https://github.com/egorolegovichyakovlev/DroidRec) - An open-source screen recorder app for Android
-
 *   [fxys/CCVisualizer](https://github.com/fxys/CCVisualizer) - An application that provides a graphic visualization of the Collatz conjecture.
 
 *   [mrvivacious/PorNo-\_Porn\_Blocker](https://github.com/mrvivacious/PorNo-_Porn_Blocker) - Porn blocker that redirects users from porn to positive, fulfilling websites
@@ -2900,6 +2898,8 @@
 
 *   [Antynea/grub-btrfs](https://github.com/Antynea/grub-btrfs) - Include btrfs snapshots at boot options. (Grub menu)
 
+*   [minetest-tools/mcresconvert](https://github.com/minetest-tools/mcresconvert) - Convert Minecraft Resource and Texture Packs to Minetest Texture Packs
+
 ## OCaml
 
 *   [mirage/mirage](https://github.com/mirage/mirage) - MirageOS is a library operating system that constructs unikernels
@@ -4004,7 +4004,7 @@
 
 *   [AcademySoftwareFoundation/OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) - Open Source API and interchange format for editorial timeline information.
 
-*   [dongyuwei/PIME](https://github.com/dongyuwei/PIME) - 基于PIME移植原 Mac 系统上 哈利路亚英文输入法 到 Windows 平台
+*   [dongyuwei/Hallelujah-Windows](https://github.com/dongyuwei/Hallelujah-Windows) - 基于PIME移植原 Mac 系统上 哈利路亚英文输入法 到 Windows 平台
 
 *   [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 
@@ -4668,6 +4668,8 @@
 
 *   [Minefix/MineFix-MC2MTConvertScript](https://github.com/Minefix/MineFix-MC2MTConvertScript) - A script for MineFix to convert Minecraft assets to Minetest suitable ones.
 
+*   [minetest-tools/mcimport](https://github.com/minetest-tools/mcimport) -
+
 ## C\#
 
 *   [wiresock/WireSockUI](https://github.com/wiresock/WireSockUI) - GUI to use Wiresock VPN Client in application mode
@@ -5103,8 +5105,6 @@
 *   [geph-official/sosistab](https://github.com/geph-official/sosistab) - An obfuscated datagram transport for horrible networks
 
 *   [compute-toys/wgpu-compute-toy](https://github.com/compute-toys/wgpu-compute-toy) - Cross-platform compute shader engine
-
-*   [egorolegovichyakovlev/TorBridgesUpdater](https://github.com/egorolegovichyakovlev/TorBridgesUpdater) - An utility to fetch new Tor bridges on daily basis
 
 *   [refraction-networking/conjure](https://github.com/refraction-networking/conjure) - Conjure Refraction Networking station code
 
