@@ -2396,7 +2396,7 @@
 
 *   [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama Chat application.
 
 *   [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client ⚡. For mobile, desktop & server.
 
@@ -4266,7 +4266,7 @@
 
 *   [jrmdev/mitm\_relay](https://github.com/jrmdev/mitm_relay) - Hackish way to intercept and modify non-HTTP protocols through Burp & others.
 
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 
 *   [Zaeem20/HACKERX5](https://github.com/Zaeem20/HACKERX5) - The most Powerful SMS & CALL BOMBER (TBomb Updated Script)
 
@@ -5424,7 +5424,7 @@
 
 ## C++
 
-*   [AmelieHeinrich/UntitledHorrorGame](https://github.com/AmelieHeinrich/UntitledHorrorGame) - Untitled horror game I'm making using the Odin programming language.
+*   [AmelieHeinrich/UntitledHorrorGame](https://github.com/AmelieHeinrich/UntitledHorrorGame) - Untitled horror game I'm making using the C++ programming language.
 
 *   [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 
@@ -6352,7 +6352,7 @@
 
 *   [keymanapp/keyboards](https://github.com/keymanapp/keyboards) - Open Source Keyman keyboards
 
-*   [roskomsvoboda/censortracker](https://github.com/roskomsvoboda/censortracker) - Censor Tracker is a censorship circumvention extension for Google Chrome and Mozilla Firefox.
+*   [censortracker/censortracker](https://github.com/censortracker/censortracker) - Censor Tracker is a censorship circumvention extension for Google Chrome and Mozilla Firefox.
 
 *   [universsky/universsky.github.io](https://github.com/universsky/universsky.github.io) - 之剑博客
 
