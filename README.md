@@ -594,7 +594,7 @@
 
 *   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 
-*   [DustinWin/clash\_singbox-tools](https://github.com/DustinWin/clash_singbox-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、sing-box 内核、Clash dashboard 面板和 AdGuardHome 最新版
+*   [DustinWin/clash\_singbox-tools](https://github.com/DustinWin/clash_singbox-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、sing-box 内核、sing-box PuerNya 版内核、Clash dashboard 面板和 AdGuardHome 最新版
 
 *   [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
 
