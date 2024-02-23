@@ -1476,7 +1476,7 @@
 
 *   [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 
 *   [xssnick/Tonutils-Proxy](https://github.com/xssnick/Tonutils-Proxy) - TON Web3 Gateway
 
