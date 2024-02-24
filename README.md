@@ -3534,6 +3534,8 @@
 
 *   [EleutherAI/the-pile](https://github.com/EleutherAI/the-pile) -
 
+*   [ChenghaoMou/text-dedup](https://github.com/ChenghaoMou/text-dedup) - All-in-one text de-duplication
+
 *   [EleutherAI/cookbook](https://github.com/EleutherAI/cookbook) - Deep learning for dummies. All the practical details and useful utilities that go into working with real models.
 
 *   [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
@@ -6113,8 +6115,6 @@
 *   [datasciengine/KufurNet](https://github.com/datasciengine/KufurNet) - Küfür, hakaret, sövgü, saldırgan cümleleri tespit edebilmek için oldukça hafif ve kural tabanlı bir repodur.
 
 *   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
-
-*   [ChenghaoMou/text-dedup](https://github.com/ChenghaoMou/text-dedup) - All-in-one text de-duplication
 
 *   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 
