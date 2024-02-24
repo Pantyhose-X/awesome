@@ -7760,7 +7760,7 @@
 
 *   [danoctavian/bit-smuggler](https://github.com/danoctavian/bit-smuggler) - tunnel traffic through a genuine bittorrent connection
 
-*   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+*   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 
 *   [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 
