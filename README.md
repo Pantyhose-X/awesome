@@ -2642,7 +2642,7 @@
 
 *   [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 
-*   [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - Docker native tunneling to localhost. Expose local docker containers to the public Internet.
+*   [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet with a docker compose interface.
 
 *   [rdavydov/proxy-list](https://github.com/rdavydov/proxy-list) - proxy list that updates every 30 minutes
 
@@ -3754,7 +3754,7 @@
 
 *   [mwmbl/mwmbl](https://github.com/mwmbl/mwmbl) - An open source, non-profit search engine implemented in python
 
-*   [neodb-social/neodb](https://github.com/neodb-social/neodb) - 🧩 Mark the things you love.       NeoDB is a self-hosted server tracking what you read/watch/listen/play, and a global distributed community federating via ActivityPub.
+*   [neodb-social/neodb](https://github.com/neodb-social/neodb) - 🧩 Mark the things you love.       NeoDB is a self-hosted server tracking what you read/watch/listen/play, powering a global distributed community federating via ActivityPub.
 
 *   [D4Vinci/Dr0p1t-Framework](https://github.com/D4Vinci/Dr0p1t-Framework) - A framework that create an advanced stealthy dropper that bypass most AVs and have a lot of tricks
 
