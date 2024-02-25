@@ -82,6 +82,7 @@
 *   [Fortran](#fortran)
 *   [Haskell](#haskell)
 *   [Visual Basic .NET](#visual-basic-net)
+*   [Astro](#astro)
 *   [Adblock Filter List](#adblock-filter-list)
 *   [Earthly](#earthly)
 *   [GDScript](#gdscript)
@@ -851,8 +852,6 @@
 *   [x0uid/SpotifyAdBlock](https://github.com/x0uid/SpotifyAdBlock) - Protect your privacy by blocking all annoying Spotify ads & analytics in Linux, OSX and Windows with hosts file.
 
 *   [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
-
-*   [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 *   [uBlockOrigin/uBlock-issues](https://github.com/uBlockOrigin/uBlock-issues) - This is the community-maintained issue tracker for uBlock Origin
 
@@ -7769,6 +7768,10 @@
 ## Visual Basic .NET
 
 *   [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
+
+## Astro
+
+*   [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## Adblock Filter List
 
