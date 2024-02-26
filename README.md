@@ -347,8 +347,6 @@
 
 *   [Scrut1ny/EZ-Linux](https://github.com/Scrut1ny/EZ-Linux) - References for convenience when using linux.
 
-*   [Scrut1ny/Armament](https://github.com/Scrut1ny/Armament) -
-
 *   [Scrut1ny/Scrutiny-Intelligence](https://github.com/Scrut1ny/Scrutiny-Intelligence) - This contains many important documents that expose the truth about programs, websites, etc.
 
 *   [Scrut1ny/V3\_ONION\_LINKS](https://github.com/Scrut1ny/V3_ONION_LINKS) - Actual good v3 onion links
@@ -2654,6 +2652,8 @@
 *   [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 
 *   [kevinlynx/dhtcrawler2](https://github.com/kevinlynx/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent by a keyword
+
+*   [Scrut1ny/Armament](https://github.com/Scrut1ny/Armament) -
 
 *   [szorfein/paranoid-ninja](https://github.com/szorfein/paranoid-ninja) - Script to apply a Transparent proxy through Tor with nftables or iptables and can optionally forge a random MAC, localtime, ip, hostname.
 
