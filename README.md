@@ -3891,7 +3891,7 @@
 
 *   [leapcode/bitmask\_client](https://github.com/leapcode/bitmask_client) - This repo is deprecated. Check https://0xacab.org/leap/bitmask-dev
 
-*   [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
+*   [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - \[CVPR 2024] MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
 
 *   [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
 
