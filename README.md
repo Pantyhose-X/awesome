@@ -3873,7 +3873,7 @@
 
 *   [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites
 
-*   [wenfengshi/ddos-dos-tools](https://github.com/wenfengshi/ddos-dos-tools) - some sort of ddos-tools
+*   [codeshold/ddos-dos-tools](https://github.com/codeshold/ddos-dos-tools) - some sort of ddos-tools
 
 *   [KoljaB/LocalAIVoiceChat](https://github.com/KoljaB/LocalAIVoiceChat) - Local AI talk with a custom voice based on Zephyr 7B model. Uses RealtimeSTT with faster\_whisper for transcription and RealtimeTTS with Coqui XTTS for synthesis.
 
