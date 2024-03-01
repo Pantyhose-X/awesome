@@ -385,8 +385,6 @@
 
 *   [PartialVolume/nwipe](https://github.com/PartialVolume/nwipe) - nwipe secure disk eraser
 
-*   [jbruchon/zerohere](https://github.com/jbruchon/zerohere) - An absurdly simple tool to zero-fill all available space on a filesystem (e.g. work around no TRIM support or sanitize free space)
-
 *   [blechschmidt/freebind](https://github.com/blechschmidt/freebind) - IPv6 address rate limiting evasion tool (that also supports IPv4)
 
 *   [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
@@ -3846,6 +3844,8 @@
 *   [warren-bank/Android-Locale-Changer](https://github.com/warren-bank/Android-Locale-Changer) - Android app to change the default system-wide locale.
 
 *   [warren-bank/Android-WebMonkey](https://github.com/warren-bank/Android-WebMonkey) - No-frills light-weight Android web browser with support for Greasemonkey userscripts.
+
+*   [minetest-mapserver/minetest-tile-server](https://github.com/minetest-mapserver/minetest-tile-server) - Minetest near-realtime map-tile server
 
 ## SCSS
 
