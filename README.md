@@ -4787,7 +4787,7 @@
 
 *   [ustayready/fireprox](https://github.com/ustayready/fireprox) - AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
 
-*   [xhuangcv/humannorm](https://github.com/xhuangcv/humannorm) - The official implementation of HumanNorm
+*   [xhuangcv/humannorm](https://github.com/xhuangcv/humannorm) - CVPR 2024: The official implementation of HumanNorm
 
 *   [mjalt96/Manyloris](https://github.com/mjalt96/Manyloris) - Run Slowloris against multiple targets.
 
