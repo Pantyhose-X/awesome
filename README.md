@@ -5850,7 +5850,7 @@
 
 *   [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 
-*   [charlotte-os/CharlotteCore](https://github.com/charlotte-os/CharlotteCore) - The Kernel of CharlotteOS
+*   [charlotte-os/charlotte-core](https://github.com/charlotte-os/charlotte-core) - The Kernel of CharlotteOS
 
 *   [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 
