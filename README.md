@@ -775,6 +775,8 @@
 
 *   [bigfug/Fugio](https://github.com/bigfug/Fugio) - An open visual programming system designed for fast development and long-term preservation of digital art and creative exploration
 
+*   [MtnViewJohn/context-free](https://github.com/MtnViewJohn/context-free) - Context Free is a program that generates images from written instructions called a grammar. The program follows the instructions in a few seconds to create images that can contain millions of shapes.
+
 ## TypeScript
 
 *   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -4457,6 +4459,8 @@
 
 *   [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) - automated censorship evasion for the client-side and server-side
 
+*   [Minefix/MineFix-MC2MTConvertScript](https://github.com/Minefix/MineFix-MC2MTConvertScript) - A script for MineFix to convert Minecraft assets to Minetest suitable ones.
+
 ## Shell
 
 *   [lavabit/robox](https://github.com/lavabit/robox) - The tools needed to robotically create/configure/provision a large number of operating systems, for a variety of hypervisors, using packer.
@@ -6555,6 +6559,8 @@
 
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 
+*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
+
 ## Vala
 
 *   [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) - Budgie Desktop is a familiar, modern desktop environment.
@@ -7291,8 +7297,6 @@
 
 *   [mt-mods/plantlife\_modpack](https://github.com/mt-mods/plantlife_modpack) -
 
-*   [runsy/petz](https://github.com/runsy/petz) - A Minetest Mod
-
 *   [Skandarella/animalworld](https://github.com/Skandarella/animalworld) - A Wildlife Mod for Minetest Game for Mobs Redo by TenPlus1
 
 *   [minetest-mods/crops](https://github.com/minetest-mods/crops) - Various farm vegetables for Minetest.
@@ -7461,11 +7465,7 @@
 
 *   [liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet) - Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award).
 
-*   [runsy/juanchi](https://github.com/runsy/juanchi) - A Minetest Game
-
 *   [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) - Rime / Easy English 英文输入法
-
-*   [runsy/eraz](https://github.com/runsy/eraz) - Merchants for Minetest
 
 *   [MultiCraft/cleaner](https://github.com/MultiCraft/cleaner) - 🧹 \[MOD] Lightweight remove unknown items and entities from inventory and world
 
@@ -7492,8 +7492,6 @@
 *   [APercy/helicopter](https://github.com/APercy/helicopter) - Mod that adds helicopter to the Minetest
 
 *   [sirrobzeroone/falling\_tree\_capitator](https://github.com/sirrobzeroone/falling_tree_capitator) -
-
-*   [runsy/cool\_trees](https://github.com/runsy/cool_trees) - Cool Trees Mod For Minetest
 
 *   [random-geek/meshport](https://github.com/random-geek/meshport) - Easily export areas in Minetest to meshes for 3D rendering.
 
@@ -7522,6 +7520,8 @@
 *   [matortheeternal/fractal-miner](https://github.com/matortheeternal/fractal-miner) - A set of mods for Minetest for generating fractal worlds.
 
 *   [groverburger/g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
+
+*   [Minefix/MineFix](https://github.com/Minefix/MineFix) - Recreating Minecraft in Minetest, as close as possible
 
 ## Swift
 
