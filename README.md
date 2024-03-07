@@ -2441,7 +2441,7 @@
 
 *   [Secure-File-Manager/Secure-File-Manager](https://github.com/Secure-File-Manager/Secure-File-Manager) - Secure File Manager is open source file manager for keeping your files in safe.
 
-*   [syt0r/Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo) - Android application for practicing writing Japanese characters
+*   [syt0r/Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo) - Multiplatform application to practice writing Japanese
 
 *   [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
 
