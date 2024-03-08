@@ -1323,8 +1323,6 @@
 
 *   [tapexyz/tape](https://github.com/tapexyz/tape) - Talk, Amplify, Post, Explore. Decentralized social media platform.
 
-*   [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
-
 *   [abriginets/umbress](https://github.com/abriginets/umbress) - Blazing fast ExpressJS anti-DDoS middleware ⚡
 
 *   [GeorgeSG/sub.rehab](https://github.com/GeorgeSG/sub.rehab) - A list of subreddit alternatives
@@ -7570,6 +7568,8 @@
 *   [poretsky/poretsky.github.io](https://github.com/poretsky/poretsky.github.io) -
 
 ## Solidity
+
+*   [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
 
 *   [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hacked incidents using Foundry.
 
