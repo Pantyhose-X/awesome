@@ -1081,8 +1081,6 @@
 
 *   [rand3289/OutNet](https://github.com/rand3289/OutNet) - OutNet is a Distributed Services Framework.  It provides peer discovery and UPnP router port forwarding.  OutNet - you are the internet!
 
-*   [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
-
 *   [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 
 *   [imperviousinc/beacon](https://github.com/imperviousinc/beacon) - Beacon browser for desktop
@@ -6466,6 +6464,8 @@
 *   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
 
 *   [googleforgames/quilkin](https://github.com/googleforgames/quilkin) - Quilkin is a non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and more.
+
+*   [veloren/Airshipper](https://github.com/veloren/Airshipper) - The official Veloren launcher! This repository is a mirror. Please submit all PRs and issues on our GitLab page: https://gitlab.com/veloren/airshipper
 
 ## PHP
 
