@@ -1445,7 +1445,7 @@
 
 *   [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 *   [DimensionDev/Maskbook](https://github.com/DimensionDev/Maskbook) - The portal to the new, open Internet. (\[I:b])
 
