@@ -711,6 +711,8 @@
 
 *   [SatDump/SatDump](https://github.com/SatDump/SatDump) - A generic satellite data processing software.
 
+*   [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
+
 *   [josevcm/nfc-laboratory](https://github.com/josevcm/nfc-laboratory) -  NFC signal and protocol analyzer using SDR receiver
 
 *   [jaskie/StudioTVPlayer](https://github.com/jaskie/StudioTVPlayer) - TV studio player with SDI, NDI and MPEG TS outputs
@@ -2043,8 +2045,6 @@
 
 *   [VipassanaTech/tipitaka-xml](https://github.com/VipassanaTech/tipitaka-xml) - tipitaka.org public xml files
 
-*   [skofkyo/AutoPager](https://github.com/skofkyo/AutoPager) -
-
 *   [namebasehq/awesome-handshake](https://github.com/namebasehq/awesome-handshake) - A collection of awesome things regarding the Handshake ecosystem.
 
 *   [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
@@ -3062,6 +3062,8 @@
 *   [petronny/gfwlist2pac](https://github.com/petronny/gfwlist2pac) - Automatically convert gfwlist to pac everyday
 
 *   [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
+
+*   [skofkyo/AutoPager](https://github.com/skofkyo/AutoPager) -
 
 *   [purpleblueslime/nyanpantsu](https://github.com/purpleblueslime/nyanpantsu) - nyanpantsu: read eromanga(s) online for free! 💦
 
@@ -4700,8 +4702,6 @@
 *   [PurpleI2P/i2pd-openwrt](https://github.com/PurpleI2P/i2pd-openwrt) - Package sources for OpenWRT SDK build system
 
 *   [deathbybandaid/Universite-Toulouse-Hosts](https://github.com/deathbybandaid/Universite-Toulouse-Hosts) -
-
-*   [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 
 *   [txthinking/google-hosts](https://github.com/txthinking/google-hosts) - Google hosts generator
 
