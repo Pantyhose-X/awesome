@@ -433,7 +433,7 @@
 
 *   [kirmanak/Mealient](https://github.com/kirmanak/Mealient) - An Android client for a self-hosted recipe manager Mealie.
 
-*   [AntonioNoack/RemsEngine](https://github.com/AntonioNoack/RemsEngine) - OpenSource Kotlin/OpenGL/ECS based game engine
+*   [AntonioNoack/RemsEngine](https://github.com/AntonioNoack/RemsEngine) - OpenSource game engine for Kotlin
 
 *   [AntonioNoack/RemsStudio](https://github.com/AntonioNoack/RemsStudio) - Open Source Graphical Video Editor for 2D and 3D, built with Kotlin & OpenGL
 
