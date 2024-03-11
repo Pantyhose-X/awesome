@@ -1665,7 +1665,7 @@
 
 *   [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 
-*   [miastein2024/entrepreneur-toolkit](https://github.com/miastein2024/entrepreneur-toolkit) - 👾 𝗰𝘂𝗿𝗮𝘁𝗲𝗱 𝗹𝗶𝘀𝘁 𝗼𝗳 𝗲𝗻𝘁𝗿𝗲𝗽𝗿𝗲𝗻𝗲𝘂𝗿𝗶𝘀𝗺 𝗿𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀
+*   [go-outside-labs/entrepreneur-toolkit](https://github.com/go-outside-labs/entrepreneur-toolkit) - 👾 𝗰𝘂𝗿𝗮𝘁𝗲𝗱 𝗹𝗶𝘀𝘁 𝗼𝗳 𝗲𝗻𝘁𝗿𝗲𝗽𝗿𝗲𝗻𝗲𝘂𝗿𝗶𝘀𝗺 𝗿𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀
 
 *   [prahladyeri/listoffreelancingvideos](https://github.com/prahladyeri/listoffreelancingvideos) - Curated List of Videos about Freelancing
 
