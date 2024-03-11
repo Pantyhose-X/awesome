@@ -3361,7 +3361,7 @@
 
 *   [mellow-io/mellow](https://github.com/mellow-io/mellow) - Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 
-*   [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+*   [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
 
 *   [warren-bank/crx-2Embed](https://github.com/warren-bank/crx-2Embed) - website userscript: rewrite pages on the "2embed.ru" website
 
