@@ -3533,7 +3533,7 @@
 
 *   [acl-org/acl-anthology](https://github.com/acl-org/acl-anthology) - Data and software for building the ACL Anthology.
 
-*   [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+*   [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 
 *   [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 
