@@ -4743,6 +4743,8 @@
 
 *   [fabacab/remail.sh](https://github.com/fabacab/remail.sh) - :e-mail::twisted\_rightwards\_arrows: A simple Cypherpunk message preprocessor that makes it easy to chain Type I anonymous remailers together.
 
+*   [xbarin02/collatz](https://github.com/xbarin02/collatz) - Convergence verification of the Collatz problem
+
 *   [frkn-dev/FRKN](https://github.com/frkn-dev/FRKN) - FuckRKN1: freedom of speech and information
 
 *   [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
@@ -5046,8 +5048,6 @@
 *   [rapier1/hpn-ssh](https://github.com/rapier1/hpn-ssh) - HPN-SSH based on OpenSSH
 
 *   [zig-gamedev/zig-gamedev](https://github.com/zig-gamedev/zig-gamedev) - Main monorepo for @zig-gamedev libs and example applications
-
-*   [xbarin02/collatz](https://github.com/xbarin02/collatz) - Convergence verification of the Collatz problem
 
 *   [bmx-routing/bmx7](https://github.com/bmx-routing/bmx7) - BMX7 / SEMTOR Securely Entrusted Mesh Routing Protocol
 
