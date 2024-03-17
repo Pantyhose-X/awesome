@@ -4837,7 +4837,7 @@
 
 *   [dappnode/DAppNode](https://github.com/dappnode/DAppNode) - General repository of the project dappnode
 
-*   [Import-External-Sources/hosts-sources](https://github.com/Import-External-Sources/hosts-sources) - Script to keep lists of external hosts sources up to date in a raw domain.tld format for easier manipulating date from external sources to search through for known records
+*   [external-sources/hosts-sources](https://github.com/external-sources/hosts-sources) - Script to keep lists of external hosts sources up to date in a raw domain.tld format for easier manipulating date from external sources to search through for known records
 
 *   [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 
