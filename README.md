@@ -107,6 +107,8 @@
 
 ## Java
 
+*   [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+
 *   [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 
 *   [RohitKushvaha01/Xed-Editor](https://github.com/RohitKushvaha01/Xed-Editor) - Advanced Text Editor for android
@@ -7518,8 +7520,6 @@
 *   [mbruchert/mod-poketest](https://github.com/mbruchert/mod-poketest) - pokemon mod for minetest
 
 *   [matortheeternal/fractal-miner](https://github.com/matortheeternal/fractal-miner) - A set of mods for Minetest for generating fractal worlds.
-
-*   [groverburger/g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
 
 ## Swift
 
