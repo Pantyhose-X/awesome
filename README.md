@@ -1683,8 +1683,6 @@
 
 *   [uncensored-hidden-wiki/uncensored-hidden-wiki](https://github.com/uncensored-hidden-wiki/uncensored-hidden-wiki) - the hiddenwiki
 
-*   [tarpetra/welcome-to-darknet](https://github.com/tarpetra/welcome-to-darknet) - A verified list of darknet markets and services with links for educational reference.
-
 *   [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 
 *   [ifeii/talebook-library](https://github.com/ifeii/talebook-library) - the calibre library of talebook.org
@@ -3646,6 +3644,8 @@
 *   [lennylxx/ipv6-hosts](https://github.com/lennylxx/ipv6-hosts) - Fork of https://code.google.com/archive/p/ipv6-hosts/, focusing on automation
 
 *   [TebbaaX/Katana](https://github.com/TebbaaX/Katana) - Python Tool that gives you the ability to run Advanced Google Queries (Known as Google Dorks - Google Dorking)
+
+*   [tarpetra/welcome-to-darknet](https://github.com/tarpetra/welcome-to-darknet) - A verified list of darknet markets and services with links for educational reference.
 
 *   [maqp/tfc](https://github.com/maqp/tfc) - Tinfoil Chat - Onion-routed, endpoint secure messaging system
 
