@@ -54,7 +54,6 @@
 *   [Emacs Lisp](#emacs-lisp)
 *   [Solidity](#solidity)
 *   [Nix](#nix)
-*   [Vue](#vue)
 *   [AutoHotkey](#autohotkey)
 *   [Lex](#lex)
 *   [Groovy](#groovy)
@@ -65,6 +64,7 @@
 *   [Prolog](#prolog)
 *   [Dockerfile](#dockerfile)
 *   [Common Workflow Language](#common-workflow-language)
+*   [Vue](#vue)
 *   [Arduino](#arduino)
 *   [Wikitext](#wikitext)
 *   [YAML](#yaml)
@@ -2578,6 +2578,8 @@
 *   [Faleidel/moontreeproject](https://github.com/Faleidel/moontreeproject) - the moon Tree Project is an open source link aggregator
 
 *   [plebbit/seedit](https://github.com/plebbit/seedit) -  A GUI for plebbit similar to old.reddit
+
+*   [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 
 *   [mempool/mempool](https://github.com/mempool/mempool) - Explore the full Bitcoin ecosystem with mempool.space, or self-host your own instance with one-click installation on popular Raspberry Pi fullnode distros including Umbrel, Raspiblitz, Start9, and more!
 
@@ -7581,40 +7583,6 @@
 
 *   [matthewbauer/nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 
-## Vue
-
-*   [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
-
-*   [nioc/xmpp-web](https://github.com/nioc/xmpp-web) - Lightweight web chat client for XMPP server
-
-*   [torrust/torrust-index-gui](https://github.com/torrust/torrust-index-gui) - This repository serves as the frontend for the Torrust Index project.
-
-*   [anotherduckling/Wotaku](https://github.com/anotherduckling/Wotaku) - A great wiki for all the otaku contents!
-
-*   [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-
-*   [Goldfish-Social/Goldfish](https://github.com/Goldfish-Social/Goldfish) - Goldfish Social - Free open source alternative for Vine / TikTok (alpha). ActivityPub will come later!
-
-*   [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
-
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
-*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-
-*   [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
-
-*   [NethServer/nethserver-blacklist](https://github.com/NethServer/nethserver-blacklist) - Blacklist for NethServer
-
-*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-
-*   [fffonion/xeHentai-webui](https://github.com/fffonion/xeHentai-webui) - The web interface for xeHentai https://github.com/fffonion/xeHentai
-
-*   [ipfs-search/dweb-search-frontend](https://github.com/ipfs-search/dweb-search-frontend) - Frontend for ipfs-search.com
-
-*   [YunYouJun/sese-engine-ui](https://github.com/YunYouJun/sese-engine-ui) - 🔍 Sese engine ui. 色色搜索引擎 UI
-
-*   [Nertivia/legacy-nertivia-client](https://github.com/Nertivia/legacy-nertivia-client) - Nertivia is a chat client
-
 ## AutoHotkey
 
 *   [Uberi/Autocomplete](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type! Write faster and more efficiently.
@@ -7674,6 +7642,38 @@
 ## Common Workflow Language
 
 *   [common-workflow-language/user\_guide](https://github.com/common-workflow-language/user_guide) - The CWL v1.0 - v1.2 user guide
+
+## Vue
+
+*   [nioc/xmpp-web](https://github.com/nioc/xmpp-web) - Lightweight web chat client for XMPP server
+
+*   [torrust/torrust-index-gui](https://github.com/torrust/torrust-index-gui) - This repository serves as the frontend for the Torrust Index project.
+
+*   [anotherduckling/Wotaku](https://github.com/anotherduckling/Wotaku) - A great wiki for all the otaku contents!
+
+*   [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+
+*   [Goldfish-Social/Goldfish](https://github.com/Goldfish-Social/Goldfish) - Goldfish Social - Free open source alternative for Vine / TikTok (alpha). ActivityPub will come later!
+
+*   [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+
+*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+
+*   [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
+
+*   [NethServer/nethserver-blacklist](https://github.com/NethServer/nethserver-blacklist) - Blacklist for NethServer
+
+*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+
+*   [fffonion/xeHentai-webui](https://github.com/fffonion/xeHentai-webui) - The web interface for xeHentai https://github.com/fffonion/xeHentai
+
+*   [ipfs-search/dweb-search-frontend](https://github.com/ipfs-search/dweb-search-frontend) - Frontend for ipfs-search.com
+
+*   [YunYouJun/sese-engine-ui](https://github.com/YunYouJun/sese-engine-ui) - 🔍 Sese engine ui. 色色搜索引擎 UI
+
+*   [Nertivia/legacy-nertivia-client](https://github.com/Nertivia/legacy-nertivia-client) - Nertivia is a chat client
 
 ## Arduino
 
