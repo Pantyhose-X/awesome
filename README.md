@@ -5819,7 +5819,7 @@
 
 *   [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 
-*   [XIU2/SNIProxy](https://github.com/XIU2/SNIProxy) - 🧷 自用的简单 SNI Proxy（支持全平台、全系统、前置代理、配置简单等~
+*   [XIU2/SNIProxy](https://github.com/XIU2/SNIProxy) - 🧷 自用的简单 SNIProxy（常用于网站负载均衡、基于域名(SNI)的端口转发等
 
 *   [boramalper/magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
 
