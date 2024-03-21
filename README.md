@@ -591,6 +591,8 @@
 
 *   [universsky/universsky.github.io](https://github.com/universsky/universsky.github.io) - 之剑博客
 
+*   [duckduckgo/privacy-test-pages](https://github.com/duckduckgo/privacy-test-pages) - 🛡 Collection of pages for testing various privacy and security features of browsers and browser extensions.
+
 *   [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 
 *   [warren-bank/crx-webcast-reloaded](https://github.com/warren-bank/crx-webcast-reloaded) - Cast web videos to Google Chromecast from any Chromium-based desktop browser.
@@ -3985,7 +3987,7 @@
 
 *   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
 
 *   [tapexyz/tape](https://github.com/tapexyz/tape) - Talk, Amplify, Post, Explore. Decentralized social media platform.
 
@@ -4748,8 +4750,6 @@
 *   [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 
 *   [xiandanin/LardMonkeyScripts](https://github.com/xiandanin/LardMonkeyScripts) - 一些油猴脚本，用来解决平时的一些琐事
-
-*   [duckduckgo/privacy-test-pages](https://github.com/duckduckgo/privacy-test-pages) - 🛡 Collection of pages for testing various privacy and security features of browsers and browser extensions.
 
 *   [yue/wey](https://github.com/yue/wey) - Fast open source Slack desktop app
 
@@ -6927,7 +6927,7 @@
 
 *   [CascadeOS/CascadeOS](https://github.com/CascadeOS/CascadeOS) - General purpose operating system targeting standard desktops and laptops.
 
-*   [OAguinagalde/tinyrenderer](https://github.com/OAguinagalde/tinyrenderer) - A software renderer exploration written in zig
+*   [OAguinagalde/tinyrenderer\_](https://github.com/OAguinagalde/tinyrenderer_) - A software renderer exploration written in zig
 
 *   [zenith391/didot](https://github.com/zenith391/didot) - Zig 3D game engine.
 
