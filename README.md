@@ -599,6 +599,8 @@
 
 *   [sglfree/freesky](https://github.com/sglfree/freesky) - 自由门最新7.99版 无界21.32正式版 自由门VPN 自由门 自由门使用教程 无界 无界浏览 无界VPN 翻墙软件 翻墙软件下载 翻墙软件教程 Mac翻墙软件 --自由天空
 
+*   [godly/minetest-skin-converter](https://github.com/godly/minetest-skin-converter) -
+
 ## miscellaneous
 
 *   [shadawck/awesome-darknet](https://github.com/shadawck/awesome-darknet) - Networks and Tools that are used to access and navigate on "darknets"
@@ -5382,8 +5384,6 @@
 *   [missdeer/getnovel](https://github.com/missdeer/getnovel) -
 
 *   [proninyaroslav/nesoid](https://github.com/proninyaroslav/nesoid) - Nintendo NES emulator for Android. Fork of the original project: https://sourceforge.net/projects/nesoid
-
-*   [Mesa3D/mesa](https://github.com/Mesa3D/mesa) - Mesa 3D graphics library (read-only mirror of https://gitlab.freedesktop.org/mesa/mesa/)
 
 *   [seclab-ucr/INTANG](https://github.com/seclab-ucr/INTANG) -
 
