@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [GLSL](#glsl)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
@@ -24,7 +25,6 @@
 *   [OCaml](#ocaml)
 *   [C#](#c-2)
 *   [Vala](#vala)
-*   [GLSL](#glsl)
 *   [Ren'Py](#renpy)
 *   [Common Lisp](#common-lisp)
 *   [Zig](#zig)
@@ -104,6 +104,12 @@
 *   [HolyC](#holyc)
 *   [CoffeeScript](#coffeescript)
 *   [Objective-C++](#objective-c-1)
+
+## GLSL
+
+*   [GabeRundlett/gvox\_engine](https://github.com/GabeRundlett/gvox_engine) -
+
+*   [GefullteTaubenbrust2/Minetest-Shaderpack](https://github.com/GefullteTaubenbrust2/Minetest-Shaderpack) -
 
 ## Python
 
@@ -6857,10 +6863,6 @@
 
 *   [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 
-## GLSL
-
-*   [GefullteTaubenbrust2/Minetest-Shaderpack](https://github.com/GefullteTaubenbrust2/Minetest-Shaderpack) -
-
 ## Ren'Py
 
 *   [fleetingheart/ksre](https://github.com/fleetingheart/ksre) - Mirror of the KSRE repo. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please visit repo's website
@@ -7520,8 +7522,6 @@
 *   [x2048/shadows](https://github.com/x2048/shadows) - Add sunlight shadows to your Minetest game
 
 *   [IIIullaIII/CANNABIS\_MOD](https://github.com/IIIullaIII/CANNABIS_MOD) - THE HEMP MOD
-
-*   [prestidigitator/minetest-mod-prestibags](https://github.com/prestidigitator/minetest-mod-prestibags) - Prestibags are simple bags that act like chests you can pick up.
 
 ## Swift
 
