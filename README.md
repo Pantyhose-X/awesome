@@ -56,6 +56,7 @@
 *   [Nix](#nix)
 *   [AutoHotkey](#autohotkey)
 *   [Lex](#lex)
+*   [Fluent](#fluent)
 *   [Groovy](#groovy)
 *   [Objective-C](#objective-c)
 *   [Jinja](#jinja)
@@ -6235,8 +6236,6 @@
 
 *   [mel-project/melnode](https://github.com/mel-project/melnode) - Reference implementation of Mel
 
-*   [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with telemetry disabling
-
 *   [checkpoint-restore/rust-criu](https://github.com/checkpoint-restore/rust-criu) - Rust Bindings for CRIU
 
 *   [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
@@ -7592,6 +7591,10 @@
 ## Lex
 
 *   [hgneng/ekho](https://github.com/hgneng/ekho) - Chinese text-to-speech engine
+
+## Fluent
+
+*   [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with telemetry disabling
 
 ## Groovy
 
