@@ -1954,7 +1954,7 @@
 
 *   [zapret-info/z-i](https://github.com/zapret-info/z-i) - Register of Internet Addresses filtered in Russian Federation
 
-*   [elliottophellia/yakumo](https://github.com/elliottophellia/yakumo) - FREE CHECKED PROXY LIST UPDATED EVERY 10 MINUTES - HTTP(S), SOCKS4, SOCKS5 (WITH GLOBAL/COUNTRY SPECIFIC RESULT)
+*   [elliottophellia/yakumo](https://github.com/elliottophellia/yakumo) - FREE CHECKED PROXY LIST UPDATED EVERY 10 MINUTES - HTTP(S), SOCKS4, SOCKS5 (WITH MIX/GLOBAL/COUNTRY SPECIFIC RESULT)
 
 *   [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
 
