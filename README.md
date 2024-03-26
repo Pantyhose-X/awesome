@@ -4632,7 +4632,7 @@
 
 *   [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 
-*   [localip/better-discord-plugins](https://github.com/localip/better-discord-plugins) - A collection of my BetterDiscord plugins.
+*   [marioparaschiv/better-discord-plugins](https://github.com/marioparaschiv/better-discord-plugins) - A collection of my BetterDiscord plugins.
 
 *   [zhovner/zaborona\_help](https://github.com/zhovner/zaborona_help) - Бесплатный сервис для обхода блокировок сайтов в Украине — https://zaborona.help
 
