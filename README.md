@@ -3280,7 +3280,7 @@
 
 *   [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 
-*   [AmelieHeinrich/UntitledHorrorGame](https://github.com/AmelieHeinrich/UntitledHorrorGame) - Untitled horror game I'm making using the C++ programming language.
+*   [AmelieHeinrich/UntitledHorrorGame](https://github.com/AmelieHeinrich/UntitledHorrorGame) - C++ D3D11 sandbox
 
 *   [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 
