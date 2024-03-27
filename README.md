@@ -1478,6 +1478,8 @@
 
 *   [webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio) - A list of open source VST/audio plugin projects. Please contribute more links or open source your own plugins.
 
+*   [anotherduckling/Wotaku](https://github.com/anotherduckling/Wotaku) - A great wiki for all the otaku contents!
+
 *   [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 
 *   [AKASHAorg/akasha-core](https://github.com/AKASHAorg/akasha-core) - Monorepo for the AKASHA core framework
@@ -2560,7 +2562,7 @@
 
 *   [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 
-*   [urani-labs/solana-dev-onboarding-rs](https://github.com/urani-labs/solana-dev-onboarding-rs) - 👩🏽‍💻 Our development resources, aiming to onboarding Uranians to Solana development. From geeks to geeks.
+*   [urani-labs/solana-dev-onboarding-rs](https://github.com/urani-labs/solana-dev-onboarding-rs) - 👩🏽‍💻 Our development resources, aiming to onboarding engineers to Solana development. From geeks to geeks.
 
 *   [prahladyeri/listoffreelancingvideos](https://github.com/prahladyeri/listoffreelancingvideos) - Curated List of Videos about Freelancing
 
@@ -7651,8 +7653,6 @@
 *   [nioc/xmpp-web](https://github.com/nioc/xmpp-web) - Lightweight web chat client for XMPP server
 
 *   [torrust/torrust-index-gui](https://github.com/torrust/torrust-index-gui) - This repository serves as the frontend for the Torrust Index project.
-
-*   [anotherduckling/Wotaku](https://github.com/anotherduckling/Wotaku) - A great wiki for all the otaku contents!
 
 *   [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 
