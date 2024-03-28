@@ -1680,6 +1680,8 @@
 
 *   [uma-pi1/OPIEC](https://github.com/uma-pi1/OPIEC) - Reading the data from OPIEC - an Open Information Extraction corpus
 
+*   [doubleangels/NextDNSManager](https://github.com/doubleangels/NextDNSManager) - Manage your NextDNS settings easily with this Android app!
+
 *   [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
 
 *   [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti-censorship functionality
@@ -2562,7 +2564,7 @@
 
 *   [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 
-*   [urani-labs/solana-dev-onboarding-rs](https://github.com/urani-labs/solana-dev-onboarding-rs) - 👩🏽‍💻 Our development resources aim to onboard engineers to Solana development. From geeks to geeks.
+*   [urani-labs/solana-dev-onboarding-rs](https://github.com/urani-labs/solana-dev-onboarding-rs) - 👩🏽‍💻 Our development resources, aiming to onboard engineers to Solana development. From geeks to geeks.
 
 *   [prahladyeri/listoffreelancingvideos](https://github.com/prahladyeri/listoffreelancingvideos) - Curated List of Videos about Freelancing
 
@@ -7173,8 +7175,6 @@
 *   [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
 
 ## CSS
-
-*   [doubleangels/NextDNSManager](https://github.com/doubleangels/NextDNSManager) - Manage your NextDNS settings easily with this Android app!
 
 *   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
 
