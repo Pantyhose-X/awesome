@@ -2566,7 +2566,7 @@
 
 *   [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 
-*   [urani-labs/solana-dev-onboarding-rs](https://github.com/urani-labs/solana-dev-onboarding-rs) - 👩🏽‍💻 Our development resources, aiming to onboard engineers to Solana development. From geeks to geeks.
+*   [urani-labs/solana-dev-onboarding-rs](https://github.com/urani-labs/solana-dev-onboarding-rs) - 🟣 Our development resources, aiming to onboard engineers to Solana development. From geeks to geeks.
 
 *   [prahladyeri/listoffreelancingvideos](https://github.com/prahladyeri/listoffreelancingvideos) - Curated List of Videos about Freelancing
 
@@ -2979,8 +2979,6 @@
 *   [gwang-kim/PODIA-3D](https://github.com/gwang-kim/PODIA-3D) - \[ICCV 2023] Official implementation of "PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion"
 
 *   [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-
-*   [officialputuid/KangProxy](https://github.com/officialputuid/KangProxy) - Free proxy-list with auto checker (Check branches)
 
 *   [shime/creative-commons-media](https://github.com/shime/creative-commons-media) - A curated list of resources that provide media licensed under Creative Commons licenses.
 
@@ -4891,6 +4889,8 @@
 *   [AntiZapret/antizapret](https://github.com/AntiZapret/antizapret) - Список IP-адресов гос-органов для блокировки их на своих серверах в качестве отместки за #говносписок // List of Russian Government's related IP-addresses.
 
 *   [bigeagle/gohop](https://github.com/bigeagle/gohop) - A VPN implemention in golang, with crypto and obfuscation in nature.
+
+*   [officialputuid/KangProxy](https://github.com/officialputuid/KangProxy) - Free proxy-list with auto checker (Check branches)
 
 *   [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 
