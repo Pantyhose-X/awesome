@@ -2582,7 +2582,7 @@
 
 *   [aloussase/alexandria-app](https://github.com/aloussase/alexandria-app) - :book: Search for books and download and convert them to different formats
 
-*   [Suwayomi/Tachidesk-JUI](https://github.com/Suwayomi/Tachidesk-JUI) - A Tachidesk Client built in Compose Multiplatform
+*   [Suwayomi/Suwayomi-JUI](https://github.com/Suwayomi/Suwayomi-JUI) - A Suwayomi-Server client built in Compose Multiplatform
 
 *   [39aldo39/Flym-DecSync](https://github.com/39aldo39/Flym-DecSync) - Android application to sync RSS without a server using DecSync
 
@@ -7086,7 +7086,7 @@
 
 *   [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 
-*   [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
+*   [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
 
 *   [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 
