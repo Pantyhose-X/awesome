@@ -2580,7 +2580,7 @@
 
 *   [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) - An app for manga and anime
 
-*   [aloussase/alexandria-app](https://github.com/aloussase/alexandria-app) - :book: Search for books and download and convert them to different formats
+*   [aloussase/AlexandriaApp](https://github.com/aloussase/AlexandriaApp) - :book: Search for books and download and convert them to different formats
 
 *   [Suwayomi/Suwayomi-JUI](https://github.com/Suwayomi/Suwayomi-JUI) - A Suwayomi-Server client built in Compose Multiplatform
 
