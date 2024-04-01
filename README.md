@@ -2568,7 +2568,7 @@
 
 *   [JunioJsv/minimum](https://github.com/JunioJsv/minimum) - Minimum, android app launcher.
 
-*   [XilinJia/Podcini](https://github.com/XilinJia/Podcini) - Open source podcast player for Android with androidx.media3
+*   [XilinJia/Podcini](https://github.com/XilinJia/Podcini) - Open source podcast player for Android in Kotlin with androidx.media3
 
 *   [Yet-Zio/yetCalc](https://github.com/Yet-Zio/yetCalc) - Yet another calculator designed and developed for Android
 
