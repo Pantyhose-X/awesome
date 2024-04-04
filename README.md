@@ -3110,7 +3110,7 @@
 
 *   [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 
-*   [urani-labs/solana-dev-onboarding-rs](https://github.com/urani-labs/solana-dev-onboarding-rs) - 🟣 Our development resources, aiming to onboard engineers to Solana development. From geeks to geeks.
+*   [urani-labs/solana-dev-onboarding-rs](https://github.com/urani-labs/solana-dev-onboarding-rs) - 🟣 Our development resources, aiming to onboard engineers to Solana development.
 
 *   [prahladyeri/listoffreelancingvideos](https://github.com/prahladyeri/listoffreelancingvideos) - Curated List of Videos about Freelancing
 
