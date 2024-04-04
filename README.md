@@ -57,6 +57,7 @@
 *   [AutoHotkey](#autohotkey)
 *   [Lex](#lex)
 *   [Fluent](#fluent)
+*   [AGS Script](#ags-script)
 *   [Groovy](#groovy)
 *   [Objective-C](#objective-c)
 *   [Jinja](#jinja)
@@ -4216,8 +4217,6 @@
 
 *   [IfcOpenShell/IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) - Open source IFC library and geometry engine
 
-*   [BRL-CAD/brlcad](https://github.com/BRL-CAD/brlcad) - BRL-CAD is a powerful cross-platform open source combinatorial solid modeling system
-
 *   [tahoma2d/tahoma2d](https://github.com/tahoma2d/tahoma2d) - 2D and Stop Motion Animation Software
 
 *   [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
@@ -7597,6 +7596,10 @@
 ## Fluent
 
 *   [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with telemetry disabling
+
+## AGS Script
+
+*   [BRL-CAD/brlcad](https://github.com/BRL-CAD/brlcad) - BRL-CAD is a powerful cross-platform open source combinatorial solid modeling system
 
 ## Groovy
 
