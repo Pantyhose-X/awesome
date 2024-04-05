@@ -108,6 +108,8 @@
 
 ## JavaScript
 
+*   [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns) - Cloudflare DDNS (Dynamic DNS) support for UniFi OS
+
 *   [Darkrai9x/vbook-extensions](https://github.com/Darkrai9x/vbook-extensions) -
 
 *   [LightRider5/lnvpn](https://github.com/LightRider5/lnvpn) - Simple VPN with Lightning
@@ -647,6 +649,14 @@
 *   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 *   [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+
+*   [TheCherry/RiseCraftLauncher](https://github.com/TheCherry/RiseCraftLauncher) - ☀ Custom launcher for modded minecraft written in Electron and Node.js
+
+*   [lospec/pixel-editor](https://github.com/lospec/pixel-editor) - An online canvas based Pixel Art creation tool for Lospec.com
+
+*   [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
+
+*   [little-game-and-simple-software/EasyAvg.js](https://github.com/little-game-and-simple-software/EasyAvg.js) - EasyAvg.js简易视觉小说游戏框架.js ，使用免费，技术支持服务付费，当然欢迎大家贡献代码
 
 ## Python
 
@@ -1894,6 +1904,26 @@
 
 *   [gramps-project/gramps](https://github.com/gramps-project/gramps) - Source code for Gramps Genealogical program
 
+*   [Kkevsterrr/geneva](https://github.com/Kkevsterrr/geneva) - automated censorship evasion for the client-side and server-side
+
+*   [Minefix/MineFix-MC2MTConvertScript](https://github.com/Minefix/MineFix-MC2MTConvertScript) - A script for MineFix to convert Minecraft assets to Minetest suitable ones.
+
+*   [minetest-tools/mcimport](https://github.com/minetest-tools/mcimport) -
+
+*   [nvaccess/nvda](https://github.com/nvaccess/nvda) - NVDA, the free and open source Screen Reader for Microsoft Windows
+
+*   [gaelysam/geo-mapgen](https://github.com/gaelysam/geo-mapgen) - Minetest mod and Python script to generate a Minetest world from a GeoTIFF image
+
+*   [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol) - Fully featured and community-driven hacking environment
+
+*   [DavidRotert/mc2mineclone](https://github.com/DavidRotert/mc2mineclone) -
+
+*   [SeaHOH/ban-peers](https://github.com/SeaHOH/ban-peers) - Checking & banning BitTorrent leech peers via Web API, remove ads, working for μTorrent. 通过网页 API 检查并屏蔽 BitTorrent 吸血对端, 移除广告, 工作于 μTorrent。
+
+*   [arpruss/raspberryjammod-minetest](https://github.com/arpruss/raspberryjammod-minetest) - Raspberry Jam Mod for Minetest
+
+*   [arpruss/raspberryjammod](https://github.com/arpruss/raspberryjammod) - Raspberry Jam Mod - a Mod Forge Minecraft mod implementing most of Raspberry Juice/Pi API
+
 ## TypeScript
 
 *   [Alovoa/alovoa-expo](https://github.com/Alovoa/alovoa-expo) - Alovoa frontend for Web, Android and iOS - Made with expo
@@ -2189,6 +2219,10 @@
 *   [genalhuang/genal-chat](https://github.com/genalhuang/genal-chat) - 🚀阿童木聊天室 nestjs+vue全栈聊天室 前后端分离 typescript一把梭
 
 *   [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
+
+*   [joelpurra/talkie](https://github.com/joelpurra/talkie) - Text-to-speech browser extension button. Select text on any web page, and have the computer read it out loud for you by simply clicking the Talkie button.
+
+*   [ResetPower/Epherome](https://github.com/ResetPower/Epherome) - Powerful Minecraft Launcher
 
 ## Java
 
@@ -2566,6 +2600,38 @@
 
 *   [Simsilica/SimArboreal-Editor](https://github.com/Simsilica/SimArboreal-Editor) - Editor using the SimArboreal library to generate exportable tree models.
 
+*   [SmartPack/PackageManager](https://github.com/SmartPack/PackageManager) - Source code of Package Manager, an Application to Manage your Apps.
+
+*   [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
+
+*   [warren-bank/Android-Locale-Changer](https://github.com/warren-bank/Android-Locale-Changer) - Android app to change the default system-wide locale.
+
+*   [warren-bank/Android-WebMonkey](https://github.com/warren-bank/Android-WebMonkey) - No-frills light-weight Android web browser with support for Greasemonkey userscripts.
+
+*   [minetest-mapserver/minetest-tile-server](https://github.com/minetest-mapserver/minetest-tile-server) - Minetest near-realtime map-tile server
+
+*   [Captain-Chaos/WorldPainter](https://github.com/Captain-Chaos/WorldPainter) - WorldPainter is an interactive graphical map generator for the indie game Minecraft.
+
+*   [KunoSayo/FunctionInMC](https://github.com/KunoSayo/FunctionInMC) - just a boring plugin to show function inc mc
+
+*   [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
+
+*   [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
+
+*   [rkkr/simple-keyboard](https://github.com/rkkr/simple-keyboard) -
+
+*   [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
+
+*   [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
+
+*   [chlorineAya/Boat\_H2O2](https://github.com/chlorineAya/Boat_H2O2) - 基于Boat App作为核心制作的Minecraft启动器。Boat\_H2O2 Material-You版(Ver.3)。
+
+*   [MCreator/MCreator](https://github.com/MCreator/MCreator) - MCreator is software used to make Minecraft Java Edition mods, Bedrock Edition Add-Ons, and data packs using visual graphical programming or integrated IDE. It is used worldwide by Minecraft players, aspiring mod developers, for education, online classes, and STEM workshops.
+
+*   [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
+
+*   [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
+
 ## Kotlin
 
 *   [JunioJsv/minimum](https://github.com/JunioJsv/minimum) - Minimum, android app launcher.
@@ -2884,6 +2950,14 @@
 
 *   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 
+*   [osfans/trime](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
+
+*   [EvilInsultGenerator/android-app](https://github.com/EvilInsultGenerator/android-app) - Evil Insult Generator Android App
+
+*   [8VIM/8VIM](https://github.com/8VIM/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
+
+*   [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
+
 ## Jupyter Notebook
 
 *   [google-deepmind/funsearch](https://github.com/google-deepmind/funsearch) -
@@ -2977,6 +3051,8 @@
 *   [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more.
 
 *   [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
+
+*   [Emekaborisama/textgen](https://github.com/Emekaborisama/textgen) - Almost state of art text generation library
 
 ## GLSL
 
@@ -3846,6 +3922,22 @@
 
 *   [CubedCommunity/CubedTextures](https://github.com/CubedCommunity/CubedTextures) - Public github for Cubed Textures development.
 
+*   [daviddoesminetest/mt\_equippable\_accessories](https://github.com/daviddoesminetest/mt_equippable_accessories) - adds equippable accessories to minetests, that you can wear for looks and stat bonuses
+
+*   [kiwibrowser/android](https://github.com/kiwibrowser/android) - This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
+
+*   [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
+
+*   [mourner/projects](https://github.com/mourner/projects) - A list of awesome open source projects Volodymyr Agafonkin is involved in.
+
+*   [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray) - 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
+
+*   [ugvf2009/Miles](https://github.com/ugvf2009/Miles) - 二爷翻墙，专注免费翻墙30年，但没有掌握核心科技，一切已经开始！^\_^
+
+*   [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
+
+*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
+
 ## HTML
 
 *   [shadawck/awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic) - Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.
@@ -4025,6 +4117,10 @@
 *   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 
 *   [sglfree/freesky](https://github.com/sglfree/freesky) - 自由门最新7.99版 无界21.32正式版 自由门VPN 自由门 自由门使用教程 无界 无界浏览 无界VPN 翻墙软件 翻墙软件下载 翻墙软件教程 Mac翻墙软件 --自由天空
+
+*   [godly/minetest-skin-converter](https://github.com/godly/minetest-skin-converter) -
+
+*   [2439905184/minetest\_dev\_wiki\_zh\_cn\_mirrow](https://github.com/2439905184/minetest_dev_wiki_zh_cn_mirrow) - a mirrow web site!
 
 ## Dart
 
@@ -4778,6 +4874,26 @@
 
 *   [RegrowthStudios/SoACode-Public](https://github.com/RegrowthStudios/SoACode-Public) - Public repository for all the game code for Seed of Andromeda.
 
+*   [0xLiso/minetest-shadowmap](https://github.com/0xLiso/minetest-shadowmap) - Minetest is an open source voxel game engine with easy modding and game creation
+
+*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+
+*   [bigfug/Fugio](https://github.com/bigfug/Fugio) - An open visual programming system designed for fast development and long-term preservation of digital art and creative exploration
+
+*   [MtnViewJohn/context-free](https://github.com/MtnViewJohn/context-free) - Context Free is a program that generates images from written instructions called a grammar. The program follows the instructions in a few seconds to create images that can contain millions of shapes.
+
+*   [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - waifu2xのCaffe版
+
+*   [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
+
+*   [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
+
+*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
+
+*   [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
+
+*   [soui3-demo/sinstar3](https://github.com/soui3-demo/sinstar3) -
+
 ## Shell
 
 *   [lavabit/robox](https://github.com/lavabit/robox) - The tools needed to robotically create/configure/provision a large number of operating systems, for a variety of hypervisors, using packer.
@@ -5043,6 +5159,8 @@
 *   [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
 
 *   [Antynea/grub-btrfs](https://github.com/Antynea/grub-btrfs) - Include btrfs snapshots at boot options. (Grub menu)
+
+*   [minetest-tools/mcresconvert](https://github.com/minetest-tools/mcresconvert) - Convert Minecraft Resource and Texture Packs to Minetest Texture Packs
 
 ## C
 
@@ -5501,6 +5619,10 @@
 *   [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
 
 *   [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) - free and open source voxel art tools - editor, thumbnailer and format converter
+
+*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+
+*   [azekillDIABLO/omicron](https://github.com/azekillDIABLO/omicron) - A 3D voxel game... Procedurally generated!
 
 ## Go
 
@@ -6094,6 +6216,14 @@
 
 *   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 
+*   [BuckarooBanzay/mtworldview](https://github.com/BuckarooBanzay/mtworldview) -
+
+*   [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
+
+*   [minetest-mapserver/mapserver](https://github.com/minetest-mapserver/mapserver) - Minetest realtime mapserver, written in go
+
+*   [minetest-tools/mtmediasrv](https://github.com/minetest-tools/mtmediasrv) - Minetest Media Server done correctly.
+
 ## Rust
 
 *   [equalitie/ouisync](https://github.com/equalitie/ouisync) - An in-development peer-to-peer file synchronization app.
@@ -6598,6 +6728,8 @@
 
 *   [googleforgames/quilkin](https://github.com/googleforgames/quilkin) - Quilkin is a non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and more.
 
+*   [veloren/Airshipper](https://github.com/veloren/Airshipper) - The official Veloren launcher! This repository is a mirror. Please submit all PRs and issues on our GitLab page: https://gitlab.com/veloren/airshipper
+
 ## PHP
 
 *   [Ahwxorg/LibreY](https://github.com/Ahwxorg/LibreY) - Framework and JS free privacy respecting meta search engine
@@ -6685,6 +6817,10 @@
 *   [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) - Tatoeba is a platform whose purpose is to create a collaborative and open dataset of sentences and their translations.
 
 *   [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+
+*   [koalabearguo/reverse-proxy-php](https://github.com/koalabearguo/reverse-proxy-php) - 在GAE php空间或者在国外apache php空间搭建反向代理
+
+*   [yitd/Any-Proxy](https://github.com/yitd/Any-Proxy) - Any-Proxy可以用PHP帮助你完美匿名反向代理浏览任何网站
 
 ## SCSS
 
@@ -6865,6 +7001,20 @@
 *   [hitchao/Jvedio](https://github.com/hitchao/Jvedio) - Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件
 
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
+
+*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
+
+*   [Suprcode/Crystal](https://github.com/Suprcode/Crystal) - Legend of Mir 2 - Official Public Crystal Source
+
+*   [Nsiso/NsisoLauncher](https://github.com/Nsiso/NsisoLauncher) - A New Minecraft Launcher from Nsiso
+
+*   [ModuleArt/quick-screen-recorder](https://github.com/ModuleArt/quick-screen-recorder) - Lightweight desktop screen recorder for Windows.
+
+*   [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft) - Minecraft for hipsters
+
+*   [rebexnet/RebexTinySftpServer](https://github.com/rebexnet/RebexTinySftpServer) - A minimalist SFTP server for testing purposes.
+
+*   [Idered/snatch](https://github.com/Idered/snatch) - 📋 Beautiful clipboard manager for Windows
 
 ## Vala
 
@@ -7206,6 +7356,12 @@
 
 *   [readmlll/dht-website](https://github.com/readmlll/dht-website) - 一个简易的dht磁力搜索站
 
+*   [EvilInsultGenerator/website](https://github.com/EvilInsultGenerator/website) - Evil Insult Generator Website
+
+*   [XIU2/PeerflixServerZH](https://github.com/XIU2/PeerflixServerZH) - 🚀 Peerflix Server(BT) 汉化、美化
+
+*   [gautamkrishnar/github-pages-gallery](https://github.com/gautamkrishnar/github-pages-gallery) - A zero dollar solution to host your photo/video gallery online using Github pages and GitHub Actions. No coding necessary.
+
 ## Erlang
 
 *   [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
@@ -7265,6 +7421,8 @@
 *   [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 
 *   [FQrabbit/VPN-skip-China-route-Window](https://github.com/FQrabbit/VPN-skip-China-route-Window) - 普通全局VPN国内外分流小脚本For Win
+
+*   [Hibbiki/chromium-win64](https://github.com/Hibbiki/chromium-win64) - Chromium builds for Windows x64
 
 ## Blade
 
@@ -7523,6 +7681,48 @@
 *   [APercy/helicopter](https://github.com/APercy/helicopter) - Mod that adds helicopter to the Minetest
 
 *   [sirrobzeroone/falling\_tree\_capitator](https://github.com/sirrobzeroone/falling_tree_capitator) -
+
+*   [random-geek/meshport](https://github.com/random-geek/meshport) - Easily export areas in Minetest to meshes for 3D rendering.
+
+*   [random-geek/auroras](https://github.com/random-geek/auroras) - Minetest mod adding auroras (northern/southern lights) at night in cold places.
+
+*   [x2048/terraform](https://github.com/x2048/terraform) - Landscape editor for Minetest, similar to WorldEdit.
+
+*   [x2048/cinematic](https://github.com/x2048/cinematic) - Add cinematic camera motion to Minetest
+
+*   [x2048/shadows](https://github.com/x2048/shadows) - Add sunlight shadows to your Minetest game
+
+*   [IIIullaIII/CANNABIS\_MOD](https://github.com/IIIullaIII/CANNABIS_MOD) - THE HEMP MOD
+
+*   [prestidigitator/minetest-mod-prestibags](https://github.com/prestidigitator/minetest-mod-prestibags) - Prestibags are simple bags that act like chests you can pick up.
+
+*   [AiTechEye/was](https://github.com/AiTechEye/was) -
+
+*   [ExeVirus/autobox](https://github.com/ExeVirus/autobox) - Minetest Utility Mod For autobox mesh loading
+
+*   [pirey0/minetest\_presentations](https://github.com/pirey0/minetest_presentations) - A mod for minetest that allows displaying images downloadable at runtime
+
+*   [IIIullaIII/jukebox](https://github.com/IIIullaIII/jukebox) - jukebox
+
+*   [mbruchert/mod-poketest](https://github.com/mbruchert/mod-poketest) - pokemon mod for minetest
+
+*   [matortheeternal/fractal-miner](https://github.com/matortheeternal/fractal-miner) - A set of mods for Minetest for generating fractal worlds.
+
+*   [groverburger/g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
+
+*   [Minefix/MineFix](https://github.com/Minefix/MineFix) - Recreating Minecraft in Minetest, as close as possible
+
+*   [SmallJoker/simple\_protection](https://github.com/SmallJoker/simple_protection) - Minetest fixed-grid quadratic area protection mod with graphical area "minimap"
+
+*   [minetest-mapserver/mapserver\_mod](https://github.com/minetest-mapserver/mapserver_mod) - Complementary mod for the minetest mapserver
+
+*   [MysticTempest/Simple-Texture-Pack-Test-Map](https://github.com/MysticTempest/Simple-Texture-Pack-Test-Map) - Simple Texture-Pack Test Map for Minetest Game
+
+*   [cuberite/Core](https://github.com/cuberite/Core) - Plugin for Cuberite that implements default commands and some additional functionality
+
+*   [minetest-mods/commoditymarket](https://github.com/minetest-mods/commoditymarket) - Adds one or more global commodity markets to Minetest
+
+*   [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
 ## Swift
 
