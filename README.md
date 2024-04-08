@@ -480,8 +480,6 @@
 
 *   [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 
-*   [wutong16/HyperDreamer](https://github.com/wutong16/HyperDreamer) - (Siggraph Asia 2023) Official code of "HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image"
-
 *   [magic-research/magic-edit](https://github.com/magic-research/magic-edit) - MagicEdit: High-Fidelity Temporally Coherent Video Editing
 
 *   [monosans/proxy-list](https://github.com/monosans/proxy-list) - Lists of HTTP, SOCKS4, SOCKS5 proxies with geolocation info. Updated every 30 minutes.
@@ -2643,6 +2641,8 @@
 *   [emiliodallatorre/adult-hosts-list](https://github.com/emiliodallatorre/adult-hosts-list) - A list of adult websites to eventually block on a DNS.
 
 *   [maldevel/intelspy](https://github.com/maldevel/intelspy) - Perform automated network reconnaissance scans
+
+*   [wutong16/HyperDreamer](https://github.com/wutong16/HyperDreamer) - (Siggraph Asia 2023) Official code of "HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image"
 
 *   [leapcode/bitmask\_client](https://github.com/leapcode/bitmask_client) - This repo is deprecated. Check https://0xacab.org/leap/bitmask-dev
 
