@@ -2180,7 +2180,7 @@
 
 *   [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 
-*   [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
+*   [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper, face enhancer and lip syncer
 
 *   [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
 
