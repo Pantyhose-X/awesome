@@ -2180,7 +2180,7 @@
 
 *   [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 
-*   [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper, face enhancer and lip syncer
+*   [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 
 *   [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
 
@@ -3056,7 +3056,7 @@
 
 *   [LimerBoy/Impulse](https://github.com/LimerBoy/Impulse) - :bomb: Impulse Denial-of-service ToolKit
 
-*   [LockGit/Hacking](https://github.com/LockGit/Hacking) - hacker, ready for more of our story ! 🚀
+*   [LockGit/Hacking](https://github.com/LockGit/Hacking) - Hacker, ready for more of our story ! 🚀
 
 *   [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 
