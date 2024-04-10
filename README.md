@@ -2834,7 +2834,7 @@
 
 *   [hzxie/CityDreamer](https://github.com/hzxie/CityDreamer) - The official implementation of "CityDreamer: Compositional Generative Model of Unbounded 3D Cities". (Xie et al., CVPR 2024)
 
-*   [crockwell/Cap3D](https://github.com/crockwell/Cap3D) - Official Repository for the NeurIPS 2023 Paper "Scalable 3D Captioning with Pretrained Models"
+*   [crockwell/Cap3D](https://github.com/crockwell/Cap3D) - \[NeurIPS 2023] Scalable 3D Captioning with Pretrained Models
 
 *   [Datez-Kun/reverse-enginnering](https://github.com/Datez-Kun/reverse-enginnering) - open source repository
 
