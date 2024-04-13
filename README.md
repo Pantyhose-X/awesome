@@ -1366,7 +1366,7 @@
 
 *   [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) -  :books: Find your next book to read!
 
-*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application with a built-in LLM!
+*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI application, tool suite, and API for RAG & Agents for Docker & Desktop.
 
 *   [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 
@@ -2042,7 +2042,7 @@
 
 *   [pixelomer/AnyFS](https://github.com/pixelomer/AnyFS) - Turn anything into a filesystem
 
-*   [privacy-scaling-explorations/maci](https://github.com/privacy-scaling-explorations/maci) - Minimal anti collusion infrastructure
+*   [privacy-scaling-explorations/maci](https://github.com/privacy-scaling-explorations/maci) - Minimal Anti-Collusion Infrastructure (MACI)
 
 *   [ddiu8081/novel-gpt](https://github.com/ddiu8081/novel-gpt) - Novel completion & image generation tool based on OpenAI API.
 
