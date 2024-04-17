@@ -4307,7 +4307,7 @@
 
 *   [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54205, 3.3.5 = 3.3.5a.12340, wotlk\_classic = 3.4.3.53622, cata classic = 4.4.0.54027)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54205, 3.3.5 = 3.3.5a.12340, wotlk\_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
 
 *   [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
 
@@ -6909,7 +6909,7 @@
 
 *   [un1cum/CleanerPRO](https://github.com/un1cum/CleanerPRO) - Simple Windows cleanup utility
 
-*   [msasanmh/SecureDNSClient](https://github.com/msasanmh/SecureDNSClient) - A GUI for DNSLookup, DNSProxy, DNSCrypt and GoodbyeDPI.
+*   [msasanmh/SecureDNSClient](https://github.com/msasanmh/SecureDNSClient) - A DNS Client Supporting DNSCrypt, DoH, DoT, UDP And TCP.
 
 *   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 
