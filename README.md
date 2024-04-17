@@ -7239,7 +7239,7 @@
 
 *   [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 
-*   [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
+*   [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth, identity sync, and NAT traversal.
 
 *   [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 
