@@ -2601,7 +2601,7 @@
 
 *   [kyegomez/zeta](https://github.com/kyegomez/zeta) - Build high-performance AI models with modular building blocks
 
-*   [kyegomez/swarms](https://github.com/kyegomez/swarms) - Build, Deploy, and Scale Reliable Swarms of Autonomous Agents for Workflow Automation. Join our Community: https://discord.gg/DbjBMJTSWD
+*   [kyegomez/swarms](https://github.com/kyegomez/swarms) - Orchestrate Swarms of Agents From Any Framework Like OpenAI, Langchain, and Etc for Real World Workflow Automation. Join our Community: https://discord.gg/DbjBMJTSWD
 
 *   [Tsprnay/Proxy-lists](https://github.com/Tsprnay/Proxy-lists) -
 
