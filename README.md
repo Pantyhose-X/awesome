@@ -5841,7 +5841,7 @@
 
 *   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
-*   [ao-space/gt](https://github.com/ao-space/gt) - Fast WebSocket(s)/HTTP(s)/TCP relay proxy with WebRTC P2P supports.
+*   [ao-space/gt](https://github.com/ao-space/gt) - Fast WebSocket(s)/HTTP(s)/TCP relay proxy for making tunnels to localhost.
 
 *   [kanocz/lcvpn](https://github.com/kanocz/lcvpn) - Decentralized VPN in golang
 
