@@ -3647,7 +3647,7 @@
 
 *   [nfstream/nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
 
-*   [liuqk3/PUT](https://github.com/liuqk3/PUT) - Paper 'Reduce Information Loss in Transformers for Pluralistic Image Inpainting' in CVPR2022
+*   [liuqk3/PUT](https://github.com/liuqk3/PUT) - Paper 'Transformer based Pluralistic Image Completion with Reduced Information Loss' in TPAMI 2024 and 'Reduce Information Loss in Transformers for Pluralistic Image Inpainting' in CVPR2022
 
 *   [chrippa/livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
 
