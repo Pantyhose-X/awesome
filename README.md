@@ -3083,7 +3083,7 @@
 
 *   [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 
-*   [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Voice data <= 10 mins can also be used to train a good VC model!
+*   [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data <= 10 mins!
 
 *   [labeveryday/ping\_script](https://github.com/labeveryday/ping_script) - Simple script to ping a list on devices on windows
 
