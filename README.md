@@ -1039,7 +1039,7 @@
 
 *   [openaudible/openaudible](https://github.com/openaudible/openaudible) - Audiobook Manager for Audible Users
 
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 
 *   [bisq-network/bisq2](https://github.com/bisq-network/bisq2) -
 
