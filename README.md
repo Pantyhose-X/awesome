@@ -24,11 +24,11 @@
 *   [OCaml](#ocaml)
 *   [C#](#c-2)
 *   [Vala](#vala)
+*   [Odin](#odin)
 *   [GLSL](#glsl)
 *   [Ren'Py](#renpy)
 *   [Common Lisp](#common-lisp)
 *   [Zig](#zig)
-*   [Odin](#odin)
 *   [Makefile](#makefile)
 *   [Ruby](#ruby)
 *   [Scilab](#scilab)
@@ -1738,8 +1738,6 @@
 *   [cspi-git/ZeroRevolt](https://github.com/cspi-git/ZeroRevolt) - A collection of Revolt hacks, exploits & tools that is completely made using NodeJS.
 
 *   [ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator) - Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH
-
-*   [thetarnav/odin-wasm](https://github.com/thetarnav/odin-wasm) - Odin + WASM = 💙
 
 *   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 
@@ -7027,6 +7025,38 @@
 
 *   [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 
+## Odin
+
+*   [thetarnav/odin-wasm](https://github.com/thetarnav/odin-wasm) - Odin + WASM = 💙
+
+*   [Capati/wgpu-odin](https://github.com/Capati/wgpu-odin) - Bindings to WGPU Native in the Odin programming language
+
+*   [btatarov/lakshmi](https://github.com/btatarov/lakshmi) - Lakshmi is a minimalistic OpenGL 2D game engine with Lua scripting. Written in Odin.
+
+*   [Bazzagibbs/callisto](https://github.com/Bazzagibbs/callisto) - Game engine written in Odin
+
+*   [mothfuzz/odings](https://github.com/mothfuzz/odings) - Odin Game System
+
+*   [joaocarvalhoopen/Fractal-Buddhabrot-in-Odin](https://github.com/joaocarvalhoopen/Fractal-Buddhabrot-in-Odin) - This is a port of the Fractal Buddhabrot to the Odin programming language.
+
+*   [brunodeangelis/learnopengl](https://github.com/brunodeangelis/learnopengl) - LearnOpenGL in Odin
+
+*   [jakubtomsu/odin\_fractal](https://github.com/jakubtomsu/odin_fractal) - tiny fractal renderer in Odin
+
+*   [viyic/msc](https://github.com/viyic/msc) - My music player made in Odin
+
+*   [kcvinker/Winforms](https://github.com/kcvinker/Winforms) - A simple GUI library for Odin programming language.
+
+*   [DanielGavin/ols](https://github.com/DanielGavin/ols) - Language server for Odin
+
+*   [JoshuaManton/workbench](https://github.com/JoshuaManton/workbench) - workbench is a framework/library for building games in Odin.
+
+*   [jakubtomsu/dungeon-of-quake](https://github.com/jakubtomsu/dungeon-of-quake) - Retro FPS game inspired by Quake, using Odin and Raylib \[ALPHA]
+
+*   [oskarnp/odin-tracy](https://github.com/oskarnp/odin-tracy) - Tracy profiler bindings/wrapper for the Odin programming language
+
+*   [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
+
 ## GLSL
 
 *   [GefullteTaubenbrust2/Minetest-Shaderpack](https://github.com/GefullteTaubenbrust2/Minetest-Shaderpack) -
@@ -7108,36 +7138,6 @@
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 *   [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-
-## Odin
-
-*   [Capati/wgpu-odin](https://github.com/Capati/wgpu-odin) - Bindings to WGPU Native in the Odin programming language
-
-*   [btatarov/lakshmi](https://github.com/btatarov/lakshmi) - Lakshmi is a minimalistic OpenGL 2D game engine with Lua scripting. Written in Odin.
-
-*   [Bazzagibbs/callisto](https://github.com/Bazzagibbs/callisto) - Game engine written in Odin
-
-*   [mothfuzz/odings](https://github.com/mothfuzz/odings) - Odin Game System
-
-*   [joaocarvalhoopen/Fractal-Buddhabrot-in-Odin](https://github.com/joaocarvalhoopen/Fractal-Buddhabrot-in-Odin) - This is a port of the Fractal Buddhabrot to the Odin programming language.
-
-*   [brunodeangelis/learnopengl](https://github.com/brunodeangelis/learnopengl) - LearnOpenGL in Odin
-
-*   [jakubtomsu/odin\_fractal](https://github.com/jakubtomsu/odin_fractal) - tiny fractal renderer in Odin
-
-*   [viyic/msc](https://github.com/viyic/msc) - My music player made in Odin
-
-*   [kcvinker/Winforms](https://github.com/kcvinker/Winforms) - A simple GUI library for Odin programming language.
-
-*   [DanielGavin/ols](https://github.com/DanielGavin/ols) - Language server for Odin
-
-*   [JoshuaManton/workbench](https://github.com/JoshuaManton/workbench) - workbench is a framework/library for building games in Odin.
-
-*   [jakubtomsu/dungeon-of-quake](https://github.com/jakubtomsu/dungeon-of-quake) - Retro FPS game inspired by Quake, using Odin and Raylib \[ALPHA]
-
-*   [oskarnp/odin-tracy](https://github.com/oskarnp/odin-tracy) - Tracy profiler bindings/wrapper for the Odin programming language
-
-*   [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 
 ## Makefile
 
