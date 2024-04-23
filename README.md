@@ -987,6 +987,8 @@
 
 *   [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
 
+*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
+
 ## Java
 
 *   [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
@@ -2414,8 +2416,6 @@
 *   [AKASHAorg/akasha-core](https://github.com/AKASHAorg/akasha-core) - Monorepo for the AKASHA core framework
 
 *   [tisfeng/modify-file-hash](https://github.com/tisfeng/modify-file-hash) - Batch modify the md5 hash of media files, which can be simply used for uploading online disk to prevent censorship. 一个 Raycast 扩展，支持批量修改媒体文件的哈希值，加密压缩文件，可用于上传网盘防审查。
-
-*   [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 
 *   [omkarcloud/botasaurus-starter](https://github.com/omkarcloud/botasaurus-starter) - 🚀 OFFICIAL STARTER TEMPLATE FOR BOTASAURUS SCRAPING FRAMEWORK 🤖
 
