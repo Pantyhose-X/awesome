@@ -1425,7 +1425,7 @@
 
 *   [solkin/appteka-android](https://github.com/solkin/appteka-android) - 💊 Appteka is an alternative store for Android
 
-*   [woheller69/whoBIRD](https://github.com/woheller69/whoBIRD) - Android version of BirdNET-lite. Bird sound recognition for more than 6,000 species worldwide.
+*   [woheller69/whoBIRD](https://github.com/woheller69/whoBIRD) - Identify bird sounds in real time with this Android version of BirdNET. Bird sound recognition for more than 6,000 species worldwide.
 
 *   [SaeedDev94/Xray](https://github.com/SaeedDev94/Xray) - Xray GUI Client For Android
 
