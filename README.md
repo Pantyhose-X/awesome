@@ -3873,8 +3873,6 @@
 
 *   [google-deepmind/mujoco\_mpc](https://github.com/google-deepmind/mujoco_mpc) - Real-time behaviour synthesis with MuJoCo, using Predictive Control
 
-*   [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
-
 *   [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
 
 *   [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
@@ -4335,7 +4333,7 @@
 
 *   [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - Note: development continues in stuntrally3. 3D racing game based on VDrift and OGRE with own Track Editor. The main repository with Stunt Rally 2.x sources and data.
 
-*   [MultiCraft/MultiCraft](https://github.com/MultiCraft/MultiCraft) - 🌍 MultiCraft Engine 2.0 | Open Source
+*   [MultiCraft/MultiCraft](https://github.com/MultiCraft/MultiCraft) - 🌍 MultiCraft Engine | Open Source
 
 *   [rand3289/OutNet](https://github.com/rand3289/OutNet) - OutNet is a Distributed Services Framework.  It provides peer discovery and UPnP router port forwarding.  OutNet - you are the internet!
 
@@ -4528,6 +4526,8 @@
 *   [runwayml/stable-diffusion](https://github.com/runwayml/stable-diffusion) - Latent Text-to-Image Diffusion
 
 *   [AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation
+
+*   [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 *   [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple
 
@@ -6711,7 +6711,7 @@
 
 *   [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 
-*   [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.
+*   [use-ink/ink](https://github.com/use-ink/ink) - Parity's ink! to write smart contracts.
 
 *   [shadow/shadow](https://github.com/shadow/shadow) - Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.
 
@@ -7093,7 +7093,7 @@
 
 *   [MasterQ32/zig-qoi](https://github.com/MasterQ32/zig-qoi) - Quite OK Image format encoder/decoder written in Zig
 
-*   [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) - Voxel game with extensive modding API and procedural generated content.
+*   [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) - Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
 
 *   [karlseguin/smtp\_client.zig](https://github.com/karlseguin/smtp_client.zig) - SMTP client for Zig
 
