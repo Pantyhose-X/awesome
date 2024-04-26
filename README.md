@@ -237,7 +237,7 @@
 
 *   [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 
-*   [urani-labs/solana-dev-onboarding-rs](https://github.com/urani-labs/solana-dev-onboarding-rs) - 🟣 Our development resources aiming to help onboard newcomer agent operators to Solana development.
+*   [urani-labs/solana-dev-onboarding-rs](https://github.com/urani-labs/solana-dev-onboarding-rs) - 🟣 Our on-going development resources, aiming to onboard engineers to Solana development.
 
 *   [prahladyeri/listoffreelancingvideos](https://github.com/prahladyeri/listoffreelancingvideos) - Curated List of Videos about Freelancing
 
@@ -1557,7 +1557,7 @@
 
 *   [Secure-File-Manager/Secure-File-Manager](https://github.com/Secure-File-Manager/Secure-File-Manager) - Secure File Manager is open source file manager for keeping your files in safe.
 
-*   [syt0r/Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo) - Multiplatform application to practice writing Japanese
+*   [syt0r/Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo) - Multiplatform application to memorize Japanese
 
 *   [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
 
